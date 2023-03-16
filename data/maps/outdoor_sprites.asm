@@ -8,6 +8,8 @@ OutdoorSprites:
 	dw BattleTowerGroupSprites
 	dw NewBarkGroupSprites
 	dw IndigoGroupSprites
+	dw DungeonsGroupSprites
+	dw PiccupGroupSprites
 	assert_table_length NUM_MAP_GROUPS
 
 CableClubGroupSprites:
@@ -60,6 +62,7 @@ BattleTowerGroupSprites:
 	db SPRITE_POKE_BALL
 	db SPRITE_POKEDEX
 
+PiccupGroupSprites:
 NewBarkGroupSprites:
 	db SPRITE_SUICUNE
 	db SPRITE_SILVER_TROPHY
@@ -109,3 +112,28 @@ IndigoGroupSprites:
 	db SPRITE_SUPER_NERD
 	db SPRITE_POKE_BALL
 	db SPRITE_POKEDEX
+
+DungeonsGroupSprites:
+	db SPRITE_SUICUNE
+	db SPRITE_SILVER_TROPHY
+	db SPRITE_FAMICOM
+	db SPRITE_POKEDEX
+	db SPRITE_WILL
+	db SPRITE_KAREN
+	db SPRITE_NURSE
+	db SPRITE_OLD_LINK_RECEPTIONIST
+	db SPRITE_GAMEBOY_KID
+	db SPRITE_BIG_ONIX
+	db SPRITE_SUDOWOODO
+	db SPRITE_BIG_SNORLAX
+	db SPRITE_LASS
+	db SPRITE_POKEFAN_F
+	db SPRITE_TEACHER
+	db SPRITE_YOUNGSTER
+	db SPRITE_GROWLITHE
+	db SPRITE_POKEFAN_M
+	db SPRITE_ROCKER
+	db SPRITE_FISHER
+	db SPRITE_SCIENTIST
+	db SPRITE_POKE_BALL
+	db SPRITE_BOULDER

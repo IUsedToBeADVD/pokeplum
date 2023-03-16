@@ -20,6 +20,10 @@ SECTION "Map Scripts 3", ROMX
 INCLUDE "maps/NewBarkTown.asm"
 INCLUDE "maps/PlayersHouse1F.asm"
 INCLUDE "maps/PlayersHouse2F.asm"
+INCLUDE "maps/PiccupTown.asm"
+INCLUDE "maps/PiccupPass.asm"
+INCLUDE "maps/PiccupPit.asm"
+INCLUDE "maps/Route50.asm"
 
 
 SECTION "Map Scripts 4", ROMX

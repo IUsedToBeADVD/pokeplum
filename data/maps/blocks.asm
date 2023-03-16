@@ -37,6 +37,18 @@ PlayersHouse1F_Blocks:
 PlayersHouse2F_Blocks:
 	INCBIN "maps/PlayersHouse2F.blk"
 
+PiccupTown_Blocks:
+	INCBIN "maps/PiccupTown.blk"
+
+PiccupPass_Blocks:
+	INCBIN "maps/PiccupPass.blk"
+
+PiccupPit_Blocks:
+	INCBIN "maps/PiccupPit.blk"
+
+Route50_Blocks:
+	INCBIN "maps/Route50.blk"
+
 
 SECTION "Map Blocks 3", ROMX
 

@@ -120,3 +120,14 @@ ENDM
 	map_attributes KarensRoom, KARENS_ROOM, $00, 0
 	map_attributes LancesRoom, LANCES_ROOM, $00, 0
 	map_attributes HallOfFame, HALL_OF_FAME, $00, 0
+	map_attributes PiccupPit, PICCUP_PIT, $09, 0
+	
+	map_attributes PiccupTown, PICCUP_TOWN, $71, SOUTH
+	connection south, PiccupPass, PICCUP_PASS, 0
+	
+	map_attributes PiccupPass, PICCUP_PASS, $71, NORTH | WEST
+	connection north, PiccupTown, PICCUP_TOWN, 0
+	connection west, Route50, ROUTE_50, 0
+	
+	map_attributes Route50, ROUTE_50, $71, EAST
+	connection east, PiccupPass, PICCUP_PASS, 0

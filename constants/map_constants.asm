@@ -65,5 +65,15 @@ ENDM
 	map_const LANCES_ROOM,                                  5, 12 ;  6
 	map_const HALL_OF_FAME,                                 5,  7 ;  7
 	endgroup
+	
+	newgroup DUNGEONS											  ;  5
+	map_const PICCUP_PIT,								    8,  9 ;  1
+	endgroup
+	
+	newgroup PICCUP												  ;  6
+	map_const PICCUP_TOWN,								   10,  9 ;  1
+	map_const PICCUP_PASS,								   10,  9 ;  2
+	map_const ROUTE_50,									   20,  9 ;  3
+	endgroup
 
-DEF NUM_MAP_GROUPS EQU const_value ; 4
+DEF NUM_MAP_GROUPS EQU const_value ; 6

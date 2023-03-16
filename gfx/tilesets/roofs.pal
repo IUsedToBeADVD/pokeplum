@@ -2,18 +2,26 @@
 	RGB 21,21,21, 11,11,11 ; morn/day
 	RGB 21,21,21, 11,11,11 ; nite
 
-; group 20 (Cable Club)
+; group 1 (Cable Club)
 	RGB 21,21,21, 11,11,11 ; morn/day
 	RGB 21,21,21, 11,11,11 ; nite
 
-; group 22 (Battle Tower)
+; group 2 (Battle Tower)
 	RGB 15,10,31, 07,05,15 ; morn/day
 	RGB 06,05,17, 02,02,08 ; nite
 
-; group 24 (New Bark)
+; group 3 (New Bark)
 	RGB 20,31,14, 11,23,05 ; morn/day
 	RGB 09,13,08, 06,09,04 ; nite
 
-; group 16 (Pokémon League)
+; group 4 (Pokémon League)
 	RGB 21,21,21, 13,13,13 ; morn/day
 	RGB 11,11,19, 07,07,12 ; nite
+
+; group 5 (Dungeons)
+	RGB 21,21,21, 13,13,13 ; morn/day
+	RGB 11,11,19, 07,07,12 ; nite
+
+; group 6 (Piccup)
+	RGB 10,20,02, 04,31,01 ; morn/day
+	RGB 05,10,01, 02,15,01 ; nite
