@@ -24,6 +24,9 @@ INCLUDE "maps/PiccupTown.asm"
 INCLUDE "maps/PiccupPass.asm"
 INCLUDE "maps/PiccupPit.asm"
 INCLUDE "maps/Route50.asm"
+INCLUDE "maps/StumpsLab.asm"
+INCLUDE "maps/StonebreezeVillage.asm"
+INCLUDE "maps/StonebreezePoint.asm"
 
 
 SECTION "Map Scripts 4", ROMX

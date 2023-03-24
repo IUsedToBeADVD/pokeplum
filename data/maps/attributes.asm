@@ -121,6 +121,7 @@ ENDM
 	map_attributes LancesRoom, LANCES_ROOM, $00, 0
 	map_attributes HallOfFame, HALL_OF_FAME, $00, 0
 	map_attributes PiccupPit, PICCUP_PIT, $09, 0
+	map_attributes StumpsLab, STUMPS_LAB, $00, 0
 	
 	map_attributes PiccupTown, PICCUP_TOWN, $71, SOUTH
 	connection south, PiccupPass, PICCUP_PASS, 0
@@ -129,5 +130,13 @@ ENDM
 	connection north, PiccupTown, PICCUP_TOWN, 0
 	connection west, Route50, ROUTE_50, 0
 	
-	map_attributes Route50, ROUTE_50, $71, EAST
+	map_attributes Route50, ROUTE_50, $71, WEST | EAST
+	connection west, StonebreezeVillage, STONEBREEZE_VILLAGE, -3
 	connection east, PiccupPass, PICCUP_PASS, 0
+	
+	map_attributes StonebreezeVillage, STONEBREEZE_VILLAGE, $05, SOUTH | EAST
+	connection south, StonebreezePoint, STONEBREEZE_POINT, 0
+	connection east, Route50, ROUTE_50, 3
+	
+	map_attributes StonebreezePoint, STONEBREEZE_POINT, $35, NORTH
+	connection north, StonebreezeVillage, STONEBREEZE_VILLAGE, 0

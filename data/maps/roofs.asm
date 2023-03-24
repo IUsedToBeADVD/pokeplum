@@ -18,6 +18,7 @@ MapGroupRoofs:
 	db -1             ;  4
 	db -1			  ;  5
 	db ROOF_AZALEA    ;  6 (Piccup)
+	db ROOF_AZALEA    ;  7 (Stonebreeze)
 	assert_table_length NUM_MAP_GROUPS + 1
 
 Roofs:

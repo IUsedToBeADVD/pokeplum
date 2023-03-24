@@ -49,6 +49,15 @@ PiccupPit_Blocks:
 Route50_Blocks:
 	INCBIN "maps/Route50.blk"
 
+StumpsLab_Blocks:
+	INCBIN "maps/StumpsLab.blk"
+
+StonebreezeVillage_Blocks:
+	INCBIN "maps/StonebreezeVillage.blk"
+
+StonebreezePoint_Blocks:
+	INCBIN "maps/StonebreezePoint.blk"
+
 
 SECTION "Map Blocks 3", ROMX
 

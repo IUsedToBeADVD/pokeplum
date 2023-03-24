@@ -10,6 +10,7 @@ OutdoorSprites:
 	dw IndigoGroupSprites
 	dw DungeonsGroupSprites
 	dw PiccupGroupSprites
+	dw StonebreezeGroupSprites
 	assert_table_length NUM_MAP_GROUPS
 
 CableClubGroupSprites:
@@ -63,6 +64,7 @@ BattleTowerGroupSprites:
 	db SPRITE_POKEDEX
 
 PiccupGroupSprites:
+StonebreezeGroupSprites:
 NewBarkGroupSprites:
 	db SPRITE_SUICUNE
 	db SPRITE_SILVER_TROPHY
