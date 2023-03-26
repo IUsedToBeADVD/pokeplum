@@ -29,3 +29,7 @@
 ; group 7 (Stonebreeze)
 	RGB 10,20,02, 04,31,01 ; morn/day
 	RGB 05,10,01, 02,15,01 ; nite
+
+; group 8 (Wishook)
+	RGB 10,20,02, 04,31,01 ; morn/day
+	RGB 05,10,01, 02,15,01 ; nite

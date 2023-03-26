@@ -122,6 +122,9 @@ ENDM
 	map_attributes HallOfFame, HALL_OF_FAME, $00, 0
 	map_attributes PiccupPit, PICCUP_PIT, $09, 0
 	map_attributes StumpsLab, STUMPS_LAB, $00, 0
+	map_attributes StonebreezePokecenter1F, STONEBREEZE_POKECENTER_1F, $00, 0
+	map_attributes StonestepTunnel1F, STONESTEP_TUNNEL_1F, $09, 0
+	map_attributes StonestepTunnelB1F, STONESTEP_TUNNEL_B1F, $09, 0
 	
 	map_attributes PiccupTown, PICCUP_TOWN, $71, SOUTH
 	connection south, PiccupPass, PICCUP_PASS, 0
@@ -140,3 +143,9 @@ ENDM
 	
 	map_attributes StonebreezePoint, STONEBREEZE_POINT, $35, NORTH
 	connection north, StonebreezeVillage, STONEBREEZE_VILLAGE, 0
+
+	map_attributes Route51, ROUTE_51, $05, NORTH
+	connection north, WishookCity, WISHOOK_CITY, -8
+	
+	map_attributes WishookCity, WISHOOK_CITY, $05, SOUTH
+	connection south, Route51, ROUTE_51, 8

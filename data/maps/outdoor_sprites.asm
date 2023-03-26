@@ -11,6 +11,7 @@ OutdoorSprites:
 	dw DungeonsGroupSprites
 	dw PiccupGroupSprites
 	dw StonebreezeGroupSprites
+	dw WishookGroupSprites
 	assert_table_length NUM_MAP_GROUPS
 
 CableClubGroupSprites:
@@ -65,6 +66,7 @@ BattleTowerGroupSprites:
 
 PiccupGroupSprites:
 StonebreezeGroupSprites:
+WishookGroupSprites:
 NewBarkGroupSprites:
 	db SPRITE_SUICUNE
 	db SPRITE_SILVER_TROPHY

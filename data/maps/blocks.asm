@@ -1,5 +1,8 @@
 SECTION "Map Blocks 1", ROMX
 
+StonebreezePokecenter1F_Blocks:
+	INCBIN "maps/Pokecenter1F.blk"
+
 Pokecenter2F_Blocks:
 	INCBIN "maps/Pokecenter2F.blk"
 
@@ -58,6 +61,17 @@ StonebreezeVillage_Blocks:
 StonebreezePoint_Blocks:
 	INCBIN "maps/StonebreezePoint.blk"
 
+StonestepTunnel1F_Blocks:
+	INCBIN "maps/StonestepTunnel1F.blk"
+
+StonestepTunnelB1F_Blocks:
+	INCBIN "maps/StonestepTunnelB1F.blk"
+
+Route51_Blocks:
+	INCBIN "maps/Route51.blk"
+
+WishookCity_Blocks:
+	INCBIN "maps/WishookCity.blk"
 
 SECTION "Map Blocks 3", ROMX
 

@@ -68,6 +68,8 @@ ENDM
 	
 	newgroup DUNGEONS											  ;  5
 	map_const PICCUP_PIT,								    8,  9 ;  1
+	map_const STONESTEP_TUNNEL_1F,						   10, 18 ;  2
+	map_const STONESTEP_TUNNEL_B1F,						    7,  8 ;  3
 	endgroup
 	
 	newgroup PICCUP												  ;  6
@@ -80,6 +82,12 @@ ENDM
 	newgroup STONEBREEZE										  ;  7
 	map_const STONEBREEZE_VILLAGE,						   10,  9 ;  1
 	map_const STONEBREEZE_POINT,						   10, 18 ;  2
+	map_const STONEBREEZE_POKECENTER_1F,				    5,  4 ;  3
 	endgroup
 
-DEF NUM_MAP_GROUPS EQU const_value ; 6
+	newgroup WISHOOK										      ;  8
+	map_const ROUTE_51,						   			   10, 18 ;  1
+	map_const WISHOOK_CITY,						   		   20, 18 ;  2
+	endgroup
+
+DEF NUM_MAP_GROUPS EQU const_value ; 8

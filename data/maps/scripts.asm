@@ -27,6 +27,11 @@ INCLUDE "maps/Route50.asm"
 INCLUDE "maps/StumpsLab.asm"
 INCLUDE "maps/StonebreezeVillage.asm"
 INCLUDE "maps/StonebreezePoint.asm"
+INCLUDE "maps/StonebreezePokecenter1F.asm"
+INCLUDE "maps/StonestepTunnel1F.asm"
+INCLUDE "maps/StonestepTunnelB1F.asm"
+INCLUDE "maps/Route51.asm"
+INCLUDE "maps/WishookCity.asm"
 
 
 SECTION "Map Scripts 4", ROMX

@@ -57,5 +57,33 @@ JohtoGrassWildMons:
 	db 3, MANKEY
 	db 3, MANKEY
 	end_grass_wildmons
+	
+	def_grass_wildmons STONESTEP_TUNNEL_1F
+	db 3 percent, 3 percent, 3 percent ; encounter rates: morn/day/nite
+	; morn
+	db 4, RATTATA
+	db 4, ZUBAT
+	db 4, GEODUDE
+	db 4, SANDSHREW
+	db 5, RATTATA
+	db 3, EKANS
+	db 3, EKANS
+	; day
+	db 4, RATTATA
+	db 4, ZUBAT
+	db 4, GEODUDE
+	db 4, SANDSHREW
+	db 5, RATTATA
+	db 3, EKANS
+	db 3, EKANS
+	; nite
+	db 4, RATTATA
+	db 4, ZUBAT
+	db 4, GEODUDE
+	db 4, SANDSHREW
+	db 5, RATTATA
+	db 3, EKANS
+	db 3, EKANS
+	end_grass_wildmons
 
 	db -1 ; end
