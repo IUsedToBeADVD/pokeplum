@@ -1,16 +1,14 @@
 	object_const_def
 
-StonestepTunnelB1F_MapScripts:
+Route52_MapScripts:
 	def_scene_scripts
 
 	def_callbacks
 
-StonestepTunnelB1F_MapEvents:
+Route52_MapEvents:
 	db 0, 0 ; filler
 
 	def_warp_events
-	warp_event   9,  11, STONESTEP_TUNNEL_1F, 2
-	warp_event   3,   3, ROUTE_51, 4
 
 	def_coord_events
 

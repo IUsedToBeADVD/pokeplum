@@ -10,7 +10,9 @@ StonebreezeVillage_MapEvents:
 
 	def_warp_events
 	warp_event  13,  11, STONEBREEZE_POKECENTER_1F, 1
-	warp_event  14,   5, STONESTEP_TUNNEL_1F, 1
+	warp_event  7,   5, STONEBREEZE_NORTH_GATE, 1
+	warp_event  6,   14, STONEBREEZE_WEST_GATE, 1
+	warp_event  6,   15, STONEBREEZE_WEST_GATE, 2
 
 	def_coord_events
 

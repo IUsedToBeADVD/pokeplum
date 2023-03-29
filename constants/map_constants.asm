@@ -83,11 +83,14 @@ ENDM
 	map_const STONEBREEZE_VILLAGE,						   10,  9 ;  1
 	map_const STONEBREEZE_POINT,						   10, 18 ;  2
 	map_const STONEBREEZE_POKECENTER_1F,				    5,  4 ;  3
+	map_const STONEBREEZE_NORTH_GATE,				    	5,  4 ;  4
+	map_const STONEBREEZE_WEST_GATE,				    	5,  4 ;  5
 	endgroup
 
 	newgroup WISHOOK										      ;  8
-	map_const ROUTE_51,						   			   10, 18 ;  1
+	map_const ROUTE_51,						   			   10, 27 ;  1
 	map_const WISHOOK_CITY,						   		   20, 18 ;  2
+	map_const ROUTE_52,						   			   20, 18 ;  3
 	endgroup
 
 DEF NUM_MAP_GROUPS EQU const_value ; 8

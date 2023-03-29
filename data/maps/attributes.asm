@@ -125,6 +125,8 @@ ENDM
 	map_attributes StonebreezePokecenter1F, STONEBREEZE_POKECENTER_1F, $00, 0
 	map_attributes StonestepTunnel1F, STONESTEP_TUNNEL_1F, $09, 0
 	map_attributes StonestepTunnelB1F, STONESTEP_TUNNEL_B1F, $09, 0
+	map_attributes StonebreezeNorthGate, STONEBREEZE_NORTH_GATE, $00, 0
+	map_attributes StonebreezeWestGate, STONEBREEZE_WEST_GATE, $00, 0
 	
 	map_attributes PiccupTown, PICCUP_TOWN, $71, SOUTH
 	connection south, PiccupPass, PICCUP_PASS, 0
@@ -147,5 +149,9 @@ ENDM
 	map_attributes Route51, ROUTE_51, $05, NORTH
 	connection north, WishookCity, WISHOOK_CITY, -8
 	
-	map_attributes WishookCity, WISHOOK_CITY, $05, SOUTH
+	map_attributes WishookCity, WISHOOK_CITY, $05, SOUTH | WEST
 	connection south, Route51, ROUTE_51, 8
+	connection west, Route52, ROUTE_52, -6
+	
+	map_attributes Route52, ROUTE_52, $05, EAST
+	connection east, WishookCity, WISHOOK_CITY, 6

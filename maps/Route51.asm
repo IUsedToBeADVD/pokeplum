@@ -9,6 +9,9 @@ Route51_MapEvents:
 	db 0, 0 ; filler
 
 	def_warp_events
+	warp_event  1, 49, STONEBREEZE_NORTH_GATE, 3
+	warp_event  2, 49, STONEBREEZE_NORTH_GATE, 4
+	warp_event  14, 41, STONESTEP_TUNNEL_1F, 1
 	warp_event  8, 27, STONESTEP_TUNNEL_B1F, 2
 
 	def_coord_events

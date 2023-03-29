@@ -6,6 +6,12 @@ StonebreezePokecenter1F_Blocks:
 Pokecenter2F_Blocks:
 	INCBIN "maps/Pokecenter2F.blk"
 
+StonebreezeNorthGate_Blocks:
+	INCBIN "maps/NorthSouthGate.blk"
+
+StonebreezeWestGate_Blocks:
+	INCBIN "maps/EastWestGate.blk"
+
 TradeCenter_Blocks:
 TimeCapsule_Blocks:
 	INCBIN "maps/TradeCenter.blk"
@@ -72,6 +78,9 @@ Route51_Blocks:
 
 WishookCity_Blocks:
 	INCBIN "maps/WishookCity.blk"
+
+Route52_Blocks:
+	INCBIN "maps/Route52.blk"
 
 SECTION "Map Blocks 3", ROMX
 
