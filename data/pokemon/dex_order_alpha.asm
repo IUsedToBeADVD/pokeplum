@@ -124,6 +124,7 @@ AlphabeticalPokedexOrder:
 	db MAGMAR
 	db MAGNEMITE
 	db MAGNETON
+	db MAMOSWINE
 	db MANKEY
 	db MANTINE
 	db MAREEP
