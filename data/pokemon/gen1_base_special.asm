@@ -17,7 +17,7 @@ KantoMonSpecials:
 	db  20 ; WEEDLE
 	db  25 ; KAKUNA
 	db  45 ; BEEDRILL
-	db  35 ; PIDGEY
+	db  35 ; ROOKIDEE
 	db  50 ; PIDGEOTTO
 	db  70 ; PIDGEOT
 	db  25 ; RATTATA

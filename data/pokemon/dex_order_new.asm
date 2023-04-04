@@ -11,7 +11,7 @@ NewPokedexOrder:
 	db TOTODILE
 	db CROCONAW
 	db FERALIGATR
-	db PIDGEY
+	db ROOKIDEE
 	db PIDGEOTTO
 	db PIDGEOT
 	db SPEAROW

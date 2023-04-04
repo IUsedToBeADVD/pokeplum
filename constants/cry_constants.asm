@@ -16,7 +16,7 @@
 	const CRY_DIGLETT
 	const CRY_SEEL
 	const CRY_DROWZEE
-	const CRY_PIDGEY
+	const CRY_ROOKIDEE
 	const CRY_BULBASAUR
 	const CRY_SPEAROW
 	const CRY_RHYDON

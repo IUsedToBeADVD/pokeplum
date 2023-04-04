@@ -15,7 +15,7 @@ Cries:
 	dba Cry_Diglett
 	dba Cry_Seel
 	dba Cry_Drowzee
-	dba Cry_Pidgey
+	dba Cry_Rookidee
 	dba Cry_Bulbasaur
 	dba Cry_Spearow
 	dba Cry_Rhydon

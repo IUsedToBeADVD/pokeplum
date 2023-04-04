@@ -21,7 +21,7 @@ PokemonCries::
 	mon_cry CRY_WEEDLE,      238,  129 ; WEEDLE
 	mon_cry CRY_BLASTOISE,   255,  129 ; KAKUNA
 	mon_cry CRY_BLASTOISE,    96,  256 ; BEEDRILL
-	mon_cry CRY_PIDGEY,      223,  132 ; PIDGEY
+	mon_cry CRY_ROOKIDEE,    255,  100 ; ROOKIDEE
 	mon_cry CRY_PIDGEOTTO,    40,  320 ; PIDGEOTTO
 	mon_cry CRY_PIDGEOTTO,    17,  383 ; PIDGEOT
 	mon_cry CRY_RATTATA,       0,  256 ; RATTATA
@@ -44,8 +44,8 @@ PokemonCries::
 	mon_cry CRY_CLEFAIRY,    170,  160 ; CLEFABLE
 	mon_cry CRY_VULPIX,       79,  144 ; VULPIX
 	mon_cry CRY_VULPIX,      136,  224 ; NINETALES
-	mon_cry CRY_PIDGEY,      255,  181 ; JIGGLYPUFF
-	mon_cry CRY_PIDGEY,      104,  224 ; WIGGLYTUFF
+	mon_cry CRY_ROOKIDEE,      255,  181 ; JIGGLYPUFF
+	mon_cry CRY_ROOKIDEE,      104,  224 ; WIGGLYTUFF
 	mon_cry CRY_SQUIRTLE,    224,  256 ; ZUBAT
 	mon_cry CRY_SQUIRTLE,    250,  256 ; GOLBAT
 	mon_cry CRY_ODDISH,      221,  129 ; ODDISH
@@ -65,9 +65,9 @@ PokemonCries::
 	mon_cry CRY_NIDOQUEEN,   175,  192 ; PRIMEAPE
 	mon_cry CRY_GROWLITHE,    32,  192 ; GROWLITHE
 	mon_cry CRY_WEEDLE,        0,  256 ; ARCANINE
-	mon_cry CRY_PIDGEY,      255,  383 ; POLIWAG
-	mon_cry CRY_PIDGEY,      119,  224 ; POLIWHIRL
-	mon_cry CRY_PIDGEY,        0,  383 ; POLIWRATH
+	mon_cry CRY_ROOKIDEE,      255,  383 ; POLIWAG
+	mon_cry CRY_ROOKIDEE,      119,  224 ; POLIWHIRL
+	mon_cry CRY_ROOKIDEE,        0,  383 ; POLIWRATH
 	mon_cry CRY_METAPOD,     192,  129 ; ABRA
 	mon_cry CRY_METAPOD,     168,  320 ; KADABRA
 	mon_cry CRY_METAPOD,     152,  383 ; ALAKAZAM
@@ -137,7 +137,7 @@ PokemonCries::
 	mon_cry CRY_EKANS,       128,  128 ; MAGIKARP
 	mon_cry CRY_EKANS,         0,  256 ; GYARADOS
 	mon_cry CRY_LAPRAS,        0,  256 ; LAPRAS
-	mon_cry CRY_PIDGEY,      255,  383 ; DITTO
+	mon_cry CRY_ROOKIDEE,      255,  383 ; DITTO
 	mon_cry CRY_VENONAT,     136,  224 ; EEVEE
 	mon_cry CRY_VENONAT,     170,  383 ; VAPOREON
 	mon_cry CRY_VENONAT,      61,  256 ; JOLTEON

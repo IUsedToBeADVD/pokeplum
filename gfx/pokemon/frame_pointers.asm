@@ -15,7 +15,7 @@ FramesPointers:
 	dw WeedleFrames
 	dw KakunaFrames
 	dw BeedrillFrames
-	dw PidgeyFrames
+	dw RookideeFrames
 	dw PidgeottoFrames
 	dw PidgeotFrames
 	dw RattataFrames

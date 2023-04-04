@@ -33,8 +33,8 @@ PokemonPicPointers::
 	dba KakunaBackpic
 	dba BeedrillFrontpic
 	dba BeedrillBackpic
-	dba PidgeyFrontpic
-	dba PidgeyBackpic
+	dba RookideeFrontpic
+	dba RookideeBackpic
 	dba PidgeottoFrontpic
 	dba PidgeottoBackpic
 	dba PidgeotFrontpic
