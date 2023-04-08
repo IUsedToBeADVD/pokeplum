@@ -49,9 +49,6 @@ PlayersHouse2F_Blocks:
 PiccupTown_Blocks:
 	INCBIN "maps/PiccupTown.blk"
 
-PiccupPass_Blocks:
-	INCBIN "maps/PiccupPass.blk"
-
 PiccupPit_Blocks:
 	INCBIN "maps/PiccupPit.blk"
 

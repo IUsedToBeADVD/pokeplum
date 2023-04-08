@@ -42,10 +42,10 @@ JohtoGrassWildMons:
 	db 3, MANKEY
 	; day
 	db 2, ROOKIDEE
-	db 2, ROOKIDEE
+	db 2, MAMOSWINE
 	db 3, ROOKIDEE
-	db 3, ROOKIDEE
-	db 2, ROOKIDEE
+	db 3, RATTATA
+	db 2, RATTATA
 	db 3, MANKEY
 	db 3, MANKEY
 	; nite

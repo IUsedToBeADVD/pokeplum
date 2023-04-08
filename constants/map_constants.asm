@@ -73,10 +73,9 @@ ENDM
 	endgroup
 	
 	newgroup PICCUP												  ;  6
-	map_const PICCUP_TOWN,								   10,  9 ;  1
-	map_const PICCUP_PASS,								   10,  9 ;  2
-	map_const ROUTE_50,									   20,  9 ;  3
-	map_const STUMPS_LAB,								    8,  6 ;  4
+	map_const PICCUP_TOWN,								   10, 18 ;  1
+	map_const ROUTE_50,									   20,  9 ;  2
+	map_const STUMPS_LAB,								    8,  6 ;  3
 	endgroup
 
 	newgroup STONEBREEZE										  ;  7

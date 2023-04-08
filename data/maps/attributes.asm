@@ -128,20 +128,16 @@ ENDM
 	map_attributes StonebreezeNorthGate, STONEBREEZE_NORTH_GATE, $00, 0
 	map_attributes StonebreezeWestGate, STONEBREEZE_WEST_GATE, $00, 0
 	
-	map_attributes PiccupTown, PICCUP_TOWN, $71, SOUTH
-	connection south, PiccupPass, PICCUP_PASS, 0
+	map_attributes PiccupTown, PICCUP_TOWN, $05, WEST
+	connection west, Route50, ROUTE_50, -2
 	
-	map_attributes PiccupPass, PICCUP_PASS, $71, NORTH | WEST
-	connection north, PiccupTown, PICCUP_TOWN, 0
-	connection west, Route50, ROUTE_50, 0
-	
-	map_attributes Route50, ROUTE_50, $71, WEST | EAST
-	connection west, StonebreezeVillage, STONEBREEZE_VILLAGE, -3
-	connection east, PiccupPass, PICCUP_PASS, 0
+	map_attributes Route50, ROUTE_50, $05, WEST | EAST
+	connection west, StonebreezeVillage, STONEBREEZE_VILLAGE, 6
+	connection east, PiccupTown, PICCUP_TOWN, 2
 	
 	map_attributes StonebreezeVillage, STONEBREEZE_VILLAGE, $05, SOUTH | EAST
 	connection south, StonebreezePoint, STONEBREEZE_POINT, 0
-	connection east, Route50, ROUTE_50, 3
+	connection east, Route50, ROUTE_50, -6
 	
 	map_attributes StonebreezePoint, STONEBREEZE_POINT, $35, NORTH
 	connection north, StonebreezeVillage, STONEBREEZE_VILLAGE, 0

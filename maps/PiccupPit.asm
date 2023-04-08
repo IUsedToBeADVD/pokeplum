@@ -9,7 +9,7 @@ PiccupPit_MapEvents:
 	db 0, 0 ; filler
 
 	def_warp_events
-	warp_event  7,  15, PICCUP_PASS, 1
+	warp_event  7,  15, PICCUP_TOWN, 2
 
 	def_coord_events
 
