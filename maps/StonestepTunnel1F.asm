@@ -9,7 +9,7 @@ StonestepTunnel1F_MapEvents:
 	db 0, 0 ; filler
 
 	def_warp_events
-	warp_event   3,  33, STONEBREEZE_VILLAGE, 2
+	warp_event   3,  33, ROUTE_51, 3
 	warp_event   3,   9, STONESTEP_TUNNEL_B1F, 1
 
 	def_coord_events

@@ -125,8 +125,7 @@ ENDM
 	map_attributes StonebreezePokecenter1F, STONEBREEZE_POKECENTER_1F, $00, 0
 	map_attributes StonestepTunnel1F, STONESTEP_TUNNEL_1F, $09, 0
 	map_attributes StonestepTunnelB1F, STONESTEP_TUNNEL_B1F, $09, 0
-	map_attributes StonebreezeNorthGate, STONEBREEZE_NORTH_GATE, $00, 0
-	map_attributes StonebreezeWestGate, STONEBREEZE_WEST_GATE, $00, 0
+	map_attributes StonebreezeNorthWestGate, STONEBREEZE_NORTH_WEST_GATE, $00, 0
 	
 	map_attributes PiccupTown, PICCUP_TOWN, $05, WEST
 	connection west, Route50, ROUTE_50, -2

@@ -6,12 +6,6 @@ StonebreezePokecenter1F_Blocks:
 Pokecenter2F_Blocks:
 	INCBIN "maps/Pokecenter2F.blk"
 
-StonebreezeNorthGate_Blocks:
-	INCBIN "maps/NorthSouthGate.blk"
-
-StonebreezeWestGate_Blocks:
-	INCBIN "maps/EastWestGate.blk"
-
 TradeCenter_Blocks:
 TimeCapsule_Blocks:
 	INCBIN "maps/TradeCenter.blk"
@@ -63,6 +57,9 @@ StonebreezeVillage_Blocks:
 
 StonebreezePoint_Blocks:
 	INCBIN "maps/StonebreezePoint.blk"
+
+StonebreezeNorthWestGate_Blocks:
+	INCBIN "maps/StonebreezeNorthWestGate.blk"
 
 StonestepTunnel1F_Blocks:
 	INCBIN "maps/StonestepTunnel1F.blk"
