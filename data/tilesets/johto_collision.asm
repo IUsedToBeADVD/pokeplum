@@ -126,27 +126,28 @@
 	tilecoll WALL, WALL, WALL, WALL ; 7d
 	tilecoll WALL, WALL, WALL, WALL ; 7e
 	tilecoll WALL, WALL, WALL, WALL ; 7f
-	tilecoll WATER, WATER, WATER, WATER ; 80
-	tilecoll WATER, WATER, WATER, WATER ; 81
-	tilecoll FLOOR, FLOOR, WARP_CARPET_DOWN, WARP_CARPET_DOWN ; 82
-	tilecoll WALL, WALL, WALL, WALL ; 83
-	tilecoll WALL, WALL, FLOOR, FLOOR ; 84
+	tilecoll FLOOR, FLOOR, FLOOR, FLOOR ; 80
+	tilecoll FLOOR, WALL, WALL, WALL ; 81
+	tilecoll WALL, FLOOR, WALL, WALL ; 82
+	tilecoll FLOOR, FLOOR, WALL, WALL ; 83
+	tilecoll WALL, WALL, WALL, FLOOR ; 84
 	tilecoll WALL, WALL, FLOOR, FLOOR ; 85
-	tilecoll WALL, FLOOR, FLOOR, FLOOR ; 86
-	tilecoll FLOOR, FLOOR, FLOOR, FLOOR ; 87
-	tilecoll WALL, FLOOR, WALL, WALL ; 88
-	tilecoll FLOOR, WALL, WALL, WALL ; 89
-	tilecoll FLOOR, FLOOR, WALL, WALL ; 8a
-	tilecoll FLOOR, FLOOR, WALL, WALL ; 8b
-	tilecoll UP_WALL, FLOOR, FLOOR, FLOOR ; 8c
-	tilecoll FLOOR, UP_WALL, FLOOR, FLOOR ; 8d
-	tilecoll FLOOR, FLOOR, WALL, FLOOR ; 8e
-	tilecoll FLOOR, FLOOR, WALL, WALL ; 8f
+	tilecoll WALL, WALL, FLOOR, WALL ; 86
+	tilecoll FLOOR, FLOOR, WALL, WALL ; 87
+	tilecoll WALL, FLOOR, WALL, FLOOR ; 88
+	tilecoll FLOOR, FLOOR, WALL, FLOOR ; 89
+	tilecoll FLOOR, WALL, FLOOR, WALL ; 8a
+	tilecoll WALL, WALL, FLOOR, FLOOR ; 8b
+	tilecoll WALL, FLOOR, WALL, WALL ; 8c
+	tilecoll FLOOR, FLOOR, WALL, WALL ; 8d
+	tilecoll FLOOR, WALL, WALL, WALL ; 8e
+	tilecoll WALL, WALL, WALL, WALL ; 8f
 	tilecoll FLOOR, WALL, FLOOR, FLOOR ; 90
 	tilecoll WALL, FLOOR, FLOOR, FLOOR ; 91
-	tilecoll WALL, WALL, WALL, FLOOR ; 92
-	tilecoll WALL, WALL, FLOOR, WALL ; 93
-	tilecoll WALL, FLOOR, WALL, WALL ; 94
-	tilecoll FLOOR, WALL, WALL, WALL ; 95
-	tilecoll WALL, FLOOR, WALL, FLOOR ; 96
-	tilecoll FLOOR, WALL, FLOOR, WALL ; 97
+	tilecoll FLOOR, FLOOR, FLOOR, WALL ; 92
+	tilecoll FLOOR, FLOOR, FLOOR, FLOOR ; 93
+	tilecoll WALL, COUNTER, FLOOR, FLOOR ; 94
+	tilecoll COUNTER, WALL, FLOOR, FLOOR ; 95
+	tilecoll WATER, WATER, WATER, WATER ; 96
+	tilecoll WATER, WATER, WATER, WATER ; 97
+	tilecoll FLOOR, FLOOR, FLOOR, WALL ; 98
