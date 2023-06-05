@@ -1,10 +1,16 @@
 SECTION "Map Blocks 1", ROMX
 
-StonebreezePokecenter1F_Blocks:
+SintiriPokecenter1F_Blocks:
 	INCBIN "maps/Pokecenter1F.blk"
 
 Pokecenter2F_Blocks:
 	INCBIN "maps/Pokecenter2F.blk"
+
+Route50Gate_Blocks:
+	INCBIN "maps/EastWestGate.blk"
+
+Route52Gate_Blocks:
+	INCBIN "maps/NorthSouthGate.blk"
 
 TradeCenter_Blocks:
 TimeCapsule_Blocks:
@@ -40,11 +46,8 @@ PlayersHouse1F_Blocks:
 PlayersHouse2F_Blocks:
 	INCBIN "maps/PlayersHouse2F.blk"
 
-PiccupTown_Blocks:
-	INCBIN "maps/PiccupTown.blk"
-
-PiccupPit_Blocks:
-	INCBIN "maps/PiccupPit.blk"
+StelursaTown_Blocks:
+	INCBIN "maps/StelursaTown.blk"
 
 Route50_Blocks:
 	INCBIN "maps/Route50.blk"
@@ -52,14 +55,11 @@ Route50_Blocks:
 StumpsLab_Blocks:
 	INCBIN "maps/StumpsLab.blk"
 
-StonebreezeVillage_Blocks:
-	INCBIN "maps/StonebreezeVillage.blk"
+SintiriTown_Blocks:
+	INCBIN "maps/SintiriTown.blk"
 
-StonebreezePoint_Blocks:
-	INCBIN "maps/StonebreezePoint.blk"
-
-StonebreezeNorthWestGate_Blocks:
-	INCBIN "maps/StonebreezeNorthWestGate.blk"
+SintiriLake_Blocks:
+	INCBIN "maps/SintiriLake.blk"
 
 StonestepTunnel1F_Blocks:
 	INCBIN "maps/StonestepTunnel1F.blk"
@@ -70,10 +70,13 @@ StonestepTunnelB1F_Blocks:
 Route51_Blocks:
 	INCBIN "maps/Route51.blk"
 
+Route52_Blocks:
+	INCBIN "maps/Route52.blk"
+
 WishookCity_Blocks:
 	INCBIN "maps/WishookCity.blk"
 
-Route52_Blocks:
+Route53_Blocks:
 	INCBIN "maps/Route52.blk"
 
 SECTION "Map Blocks 3", ROMX

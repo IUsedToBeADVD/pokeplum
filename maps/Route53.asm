@@ -1,11 +1,11 @@
 	object_const_def
 
-StonebreezePoint_MapScripts:
+Route53_MapScripts:
 	def_scene_scripts
 
 	def_callbacks
 
-StonebreezePoint_MapEvents:
+Route53_MapEvents:
 	db 0, 0 ; filler
 
 	def_warp_events

@@ -67,28 +67,29 @@ ENDM
 	endgroup
 	
 	newgroup DUNGEONS											  ;  5
-	map_const PICCUP_PIT,								    8,  9 ;  1
-	map_const STONESTEP_TUNNEL_1F,						   10, 18 ;  2
-	map_const STONESTEP_TUNNEL_B1F,						    7,  8 ;  3
+	map_const STONESTEP_TUNNEL_1F,						   10, 18 ;  1
+	map_const STONESTEP_TUNNEL_B1F,						    7,  8 ;  2
 	endgroup
 	
-	newgroup PICCUP												  ;  6
-	map_const PICCUP_TOWN,								   10, 18 ;  1
-	map_const ROUTE_50,									   20,  9 ;  2
+	newgroup STELURSA											  ;  6
+	map_const STELURSA_TOWN,							   20, 18 ;  1
+	map_const ROUTE_50,									   30, 18 ;  2
 	map_const STUMPS_LAB,								    8,  6 ;  3
+	map_const ROUTE_50_GATE,								5,  4 ;  4
 	endgroup
 
-	newgroup STONEBREEZE										  ;  7
-	map_const STONEBREEZE_VILLAGE,						   10,  9 ;  1
-	map_const STONEBREEZE_POINT,						   10, 18 ;  2
-	map_const STONEBREEZE_POKECENTER_1F,				    5,  4 ;  3
-	map_const STONEBREEZE_NORTH_WEST_GATE,				   10,  7 ;  4
+	newgroup SINTIRI										  	  ;  7
+	map_const SINTIRI_TOWN,						   		   20,  9 ;  1
+	map_const SINTIRI_LAKE,						   		   20, 18 ;  2
+	map_const SINTIRI_POKECENTER_1F,				        5,  4 ;  3
+	map_const ROUTE_51,				   					   10, 27 ;  4
+	map_const ROUTE_52,				   					   20, 18 ;  5
+	map_const ROUTE_52_GATE,							    5,  4 ;  6
 	endgroup
 
 	newgroup WISHOOK										      ;  8
-	map_const ROUTE_51,						   			   10, 36 ;  1
-	map_const WISHOOK_CITY,						   		   20, 18 ;  2
-	map_const ROUTE_52,						   			   20, 18 ;  3
+	map_const WISHOOK_CITY,						   		   20, 18 ;  1
+	map_const ROUTE_53,						   			   20, 18 ;  2
 	endgroup
 
 DEF NUM_MAP_GROUPS EQU const_value ; 8

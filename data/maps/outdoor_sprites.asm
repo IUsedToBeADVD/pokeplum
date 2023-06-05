@@ -9,8 +9,8 @@ OutdoorSprites:
 	dw NewBarkGroupSprites
 	dw IndigoGroupSprites
 	dw DungeonsGroupSprites
-	dw PiccupGroupSprites
-	dw StonebreezeGroupSprites
+	dw StelursaGroupSprites
+	dw SintiriGroupSprites
 	dw WishookGroupSprites
 	assert_table_length NUM_MAP_GROUPS
 
@@ -64,8 +64,8 @@ BattleTowerGroupSprites:
 	db SPRITE_POKE_BALL
 	db SPRITE_POKEDEX
 
-PiccupGroupSprites:
-StonebreezeGroupSprites:
+StelursaGroupSprites:
+SintiriGroupSprites:
 WishookGroupSprites:
 NewBarkGroupSprites:
 	db SPRITE_SUICUNE

@@ -120,33 +120,37 @@ ENDM
 	map_attributes KarensRoom, KARENS_ROOM, $00, 0
 	map_attributes LancesRoom, LANCES_ROOM, $00, 0
 	map_attributes HallOfFame, HALL_OF_FAME, $00, 0
-	map_attributes PiccupPit, PICCUP_PIT, $09, 0
 	map_attributes StumpsLab, STUMPS_LAB, $00, 0
-	map_attributes StonebreezePokecenter1F, STONEBREEZE_POKECENTER_1F, $00, 0
+	map_attributes SintiriPokecenter1F, SINTIRI_POKECENTER_1F, $00, 0
 	map_attributes StonestepTunnel1F, STONESTEP_TUNNEL_1F, $09, 0
 	map_attributes StonestepTunnelB1F, STONESTEP_TUNNEL_B1F, $09, 0
-	map_attributes StonebreezeNorthWestGate, STONEBREEZE_NORTH_WEST_GATE, $00, 0
+	map_attributes Route50Gate, ROUTE_50_GATE, $00, 0
+	map_attributes Route52Gate, ROUTE_52_GATE, $00, 0
 	
-	map_attributes PiccupTown, PICCUP_TOWN, $05, WEST
-	connection west, Route50, ROUTE_50, -2
+	map_attributes StelursaTown, STELURSA_TOWN, $05, WEST
+	connection west, Route50, ROUTE_50, 10
 	
-	map_attributes Route50, ROUTE_50, $05, WEST | EAST
-	connection west, StonebreezeVillage, STONEBREEZE_VILLAGE, 6
-	connection east, PiccupTown, PICCUP_TOWN, 2
+	map_attributes Route50, ROUTE_50, $05, EAST
+	connection east, StelursaTown, STELURSA_TOWN, -10
 	
-	map_attributes StonebreezeVillage, STONEBREEZE_VILLAGE, $05, SOUTH | EAST
-	connection south, StonebreezePoint, STONEBREEZE_POINT, 0
-	connection east, Route50, ROUTE_50, -6
+	map_attributes SintiriTown, SINTIRI_TOWN, $05, NORTH | SOUTH
+	connection north, Route51, ROUTE_51, -1
+	connection south, SintiriLake, SINTIRI_LAKE, 1
 	
-	map_attributes StonebreezePoint, STONEBREEZE_POINT, $35, NORTH
-	connection north, StonebreezeVillage, STONEBREEZE_VILLAGE, 0
+	map_attributes SintiriLake, SINTIRI_LAKE, $71, NORTH
+	connection north, SintiriTown, SINTIRI_TOWN, -1
 
-	map_attributes Route51, ROUTE_51, $05, NORTH
-	connection north, WishookCity, WISHOOK_CITY, -8
+	map_attributes Route51, ROUTE_51, $05, SOUTH | EAST
+	connection south, SintiriTown, SINTIRI_TOWN, 1
+	connection east, Route52, ROUTE_52, -11
 	
-	map_attributes WishookCity, WISHOOK_CITY, $05, SOUTH | WEST
-	connection south, Route51, ROUTE_51, 8
-	connection west, Route52, ROUTE_52, -6
+	map_attributes Route52, ROUTE_52, $05, WEST
+	connection west, Route51, ROUTE_51, 11
 	
-	map_attributes Route52, ROUTE_52, $05, EAST
-	connection east, WishookCity, WISHOOK_CITY, 6
+	map_attributes WishookCity, WISHOOK_CITY, $05, WEST
+	connection west, Route53, ROUTE_53, -6
+	
+	map_attributes Route53, ROUTE_53, $05, EAST
+	connection east, WishookCity, WISHOOK_CITY, -6
+	
+	

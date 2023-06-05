@@ -106,8 +106,8 @@ Landmarks:
 	landmark 140, 116, FastShipName
 	assert_table_length NUM_LANDMARKS
 
-NewBarkTownName:     db "PICCUP¯TOWN@"
-CherrygroveCityName: db "STONEBREEZE¯CITY@"
+NewBarkTownName:     db "STELURSA¯TOWN@"
+CherrygroveCityName: db "SINTIRI¯TOWN@"
 VioletCityName:      db "WISHOOK CITY@"
 AzaleaTownName:      db "AZALEA TOWN@"
 GoldenrodCityName:   db "GOLDENROD¯CITY@"
@@ -184,7 +184,7 @@ Route29Name:         db "ROUTE 50@"
 Route30Name:         db "ROUTE 30@"
 Route31Name:         db "ROUTE 51@"
 Route32Name:         db "ROUTE 52@"
-Route33Name:         db "ROUTE 33@"
+Route33Name:         db "ROUTE 53@"
 Route34Name:         db "ROUTE 34@"
 Route35Name:         db "ROUTE 35@"
 Route36Name:         db "ROUTE 36@"

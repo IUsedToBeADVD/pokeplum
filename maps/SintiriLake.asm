@@ -1,15 +1,14 @@
 	object_const_def
 
-PiccupPit_MapScripts:
+SintiriLake_MapScripts:
 	def_scene_scripts
 
 	def_callbacks
 
-PiccupPit_MapEvents:
+SintiriLake_MapEvents:
 	db 0, 0 ; filler
 
 	def_warp_events
-	warp_event  7,  15, PICCUP_TOWN, 2
 
 	def_coord_events
 
