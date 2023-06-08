@@ -1,16 +1,16 @@
 	object_const_def
 
-WishookCity_MapScripts:
+PetalfallPark_MapScripts:
 	def_scene_scripts
 
 	def_callbacks
 
-WishookCity_MapEvents:
+PetalfallPark_MapEvents:
 	db 0, 0 ; filler
 
 	def_warp_events
-	warp_event 29,  29, ROUTE_52_GATE, 3
-	warp_event 30,  29, ROUTE_52_GATE, 4
+	warp_event 16, 32, STELURSA_TOWN, 3
+	warp_event 16, 33, STELURSA_TOWN, 4
 
 	def_coord_events
 

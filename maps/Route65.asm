@@ -1,16 +1,16 @@
 	object_const_def
 
-WishookCity_MapScripts:
+Route65_MapScripts:
 	def_scene_scripts
 
 	def_callbacks
 
-WishookCity_MapEvents:
+Route65_MapEvents:
 	db 0, 0 ; filler
 
 	def_warp_events
-	warp_event 29,  29, ROUTE_52_GATE, 3
-	warp_event 30,  29, ROUTE_52_GATE, 4
+	warp_event 6,  28, STELURSA_TOWN, 5
+	warp_event 6,  29, STELURSA_TOWN, 6
 
 	def_coord_events
 

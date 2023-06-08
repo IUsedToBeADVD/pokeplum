@@ -34,7 +34,7 @@
 	const WEEDLE     ; 0d
 	const KAKUNA     ; 0e
 	const BEEDRILL   ; 0f
-	const ROOKIDEE     ; 10
+	const ROOKIDEE   ; 10
 	const PIDGEOTTO  ; 11
 	const PIDGEOT    ; 12
 	const RATTATA    ; 13

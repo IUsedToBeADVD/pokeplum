@@ -16,7 +16,6 @@ Tilesets::
 	tileset Tileset0
 	tileset TilesetJohto
 	tileset TilesetJohtoModern
-	tileset TilesetKanto
 	tileset TilesetBattleTowerOutside
 	tileset TilesetHouse
 	tileset TilesetPlayersHouse
@@ -49,5 +48,5 @@ Tilesets::
 	tileset TilesetHoOhWordRoom
 	tileset TilesetKabutoWordRoom
 	tileset TilesetOmanyteWordRoom
-	tileset TilesetAerodactylWordRoom
+	tileset TilesetWishook
 	assert_table_length NUM_TILESETS + 1

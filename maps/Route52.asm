@@ -9,7 +9,7 @@ Route52_MapEvents:
 	db 0, 0 ; filler
 
 	def_warp_events
-	warp_event 33,  5, ROUTE_52_GATE, 1
+	warp_event 31,  5, ROUTE_52_GATE, 1
 
 	def_coord_events
 

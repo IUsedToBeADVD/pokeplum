@@ -61,6 +61,12 @@ SintiriTown_Blocks:
 SintiriLake_Blocks:
 	INCBIN "maps/SintiriLake.blk"
 
+PetalfallPark_Blocks:
+	INCBIN "maps/PetalfallPark.blk"
+
+Route65_Blocks:
+	INCBIN "maps/Route65.blk"
+
 StonestepTunnel1F_Blocks:
 	INCBIN "maps/StonestepTunnel1F.blk"
 
@@ -77,7 +83,7 @@ WishookCity_Blocks:
 	INCBIN "maps/WishookCity.blk"
 
 Route53_Blocks:
-	INCBIN "maps/Route52.blk"
+	INCBIN "maps/Route53.blk"
 
 SECTION "Map Blocks 3", ROMX
 

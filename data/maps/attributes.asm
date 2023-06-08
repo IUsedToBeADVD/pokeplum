@@ -121,6 +121,8 @@ ENDM
 	map_attributes LancesRoom, LANCES_ROOM, $00, 0
 	map_attributes HallOfFame, HALL_OF_FAME, $00, 0
 	map_attributes StumpsLab, STUMPS_LAB, $00, 0
+	map_attributes PetalfallPark, PETALFALL_PARK, $92, 0
+	map_attributes Route65, ROUTE_65, $35, 0
 	map_attributes SintiriPokecenter1F, SINTIRI_POKECENTER_1F, $00, 0
 	map_attributes StonestepTunnel1F, STONESTEP_TUNNEL_1F, $09, 0
 	map_attributes StonestepTunnelB1F, STONESTEP_TUNNEL_B1F, $09, 0
@@ -147,10 +149,10 @@ ENDM
 	map_attributes Route52, ROUTE_52, $05, WEST
 	connection west, Route51, ROUTE_51, 11
 	
-	map_attributes WishookCity, WISHOOK_CITY, $05, WEST
-	connection west, Route53, ROUTE_53, -6
+	map_attributes WishookCity, WISHOOK_CITY, $03, WEST
+	connection west, Route53, ROUTE_53, 0
 	
-	map_attributes Route53, ROUTE_53, $05, EAST
-	connection east, WishookCity, WISHOOK_CITY, -6
+	map_attributes Route53, ROUTE_53, $03, EAST
+	connection east, WishookCity, WISHOOK_CITY, 0
 	
 	

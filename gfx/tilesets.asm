@@ -6,15 +6,6 @@ ENDM
 
 SECTION "Tileset Data 1", ROMX
 
-TilesetKantoGFX::
-INCBIN "gfx/tilesets/kanto.2bpp.lz"
-
-TilesetKantoMeta::
-INCBIN "data/tilesets/kanto_metatiles.bin"
-
-TilesetKantoColl::
-INCLUDE "data/tilesets/kanto_collision.asm"
-
 Tileset0GFX::
 TilesetJohtoGFX::
 INCBIN "gfx/tilesets/johto.2bpp.lz"
@@ -26,6 +17,12 @@ INCBIN "data/tilesets/johto_metatiles.bin"
 Tileset0Coll::
 TilesetJohtoColl::
 INCLUDE "data/tilesets/johto_collision.asm"
+
+TilesetWishookGFX::
+INCBIN "gfx/tilesets/wishook.2bpp.lz"
+
+TilesetWishookColl::
+INCLUDE "data/tilesets/wishook_collision.asm"
 
 
 SECTION "Tileset Data 2", ROMX
@@ -170,12 +167,6 @@ INCLUDE "data/tilesets/underground_collision.asm"
 TilesetDarkCaveGFX::
 INCBIN "gfx/tilesets/dark_cave.2bpp.lz"
 
-UnusedTilesetJohtoMeta:: ; unreferenced
-INCBIN "data/tilesets/unused_johto_metatiles.bin"
-
-UnusedTilesetJohtoColl:: ; unreferenced
-INCLUDE "data/tilesets/unused_johto_collision.asm"
-
 
 SECTION "Tileset Data 5", ROMX
 
@@ -265,7 +256,6 @@ TilesetBetaWordRoomColl::
 TilesetHoOhWordRoomColl::
 TilesetKabutoWordRoomColl::
 TilesetOmanyteWordRoomColl::
-TilesetAerodactylWordRoomColl::
 INCLUDE "data/tilesets/beta_word_room_collision.asm"
 
 
@@ -276,7 +266,6 @@ TilesetBetaWordRoomGFX::
 TilesetHoOhWordRoomGFX::
 TilesetKabutoWordRoomGFX::
 TilesetOmanyteWordRoomGFX::
-TilesetAerodactylWordRoomGFX::
 INCBIN "gfx/tilesets/ruins_of_alph.2bpp.lz"
 
 TilesetRuinsOfAlphMeta::
@@ -284,6 +273,9 @@ INCBIN "data/tilesets/ruins_of_alph_metatiles.bin"
 
 TilesetRuinsOfAlphColl::
 INCLUDE "data/tilesets/ruins_of_alph_collision.asm"
+
+TilesetWishookMeta::
+INCBIN "data/tilesets/wishook_metatiles.bin"
 
 
 SECTION "Tileset Data 8", ROMX
@@ -296,9 +288,6 @@ INCBIN "data/tilesets/kabuto_word_room_metatiles.bin"
 
 TilesetOmanyteWordRoomMeta::
 INCBIN "data/tilesets/omanyte_word_room_metatiles.bin"
-
-TilesetAerodactylWordRoomMeta::
-INCBIN "data/tilesets/aerodactyl_word_room_metatiles.bin"
 
 TilesetPokeComCenterGFX::
 INCBIN "gfx/tilesets/pokecom_center.2bpp.lz"

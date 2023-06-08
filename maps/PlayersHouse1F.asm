@@ -83,12 +83,12 @@ MeetMomScript:
 	writetext GetStarterText
 	promptbutton
 	waitsfx
-	getmonname STRING_BUFFER_3, MAMOSWINE
+	getmonname STRING_BUFFER_3, PIKACHU
 	writetext ReceivedStarterText
 	playsound SFX_CAUGHT_MON
 	waitsfx
 	promptbutton
-	givepoke MAMOSWINE, 7, BERRY
+	givepoke PIKACHU, 7, BERRY
 	closetext
 	checkevent EVENT_TEMPORARY_UNTIL_MAP_RELOAD_1
 	iftrue .FromRight
