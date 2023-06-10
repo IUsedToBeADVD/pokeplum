@@ -85,6 +85,9 @@ WishookCity_Blocks:
 Route53_Blocks:
 	INCBIN "maps/Route53.blk"
 
+StumpsLabRoof_Blocks:
+	INCBIN "maps/StumpsLabRoof.blk"
+
 SECTION "Map Blocks 3", ROMX
 
 IndigoPlateauPokecenter1F_Blocks:

@@ -9,8 +9,7 @@ Route51_MapEvents:
 	db 0, 0 ; filler
 
 	def_warp_events
-	warp_event  14, 25, STONESTEP_TUNNEL_1F, 1
-	warp_event  8, 11, STONESTEP_TUNNEL_B1F, 2
+	warp_event  4, 5, STONESTEP_TUNNEL_1F, 1
 
 	def_coord_events
 

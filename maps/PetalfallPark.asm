@@ -9,8 +9,8 @@ PetalfallPark_MapEvents:
 	db 0, 0 ; filler
 
 	def_warp_events
-	warp_event 16, 32, STELURSA_TOWN, 3
-	warp_event 16, 33, STELURSA_TOWN, 4
+	warp_event 18, 29, STELURSA_TOWN, 3
+	warp_event 19, 29, STELURSA_TOWN, 4
 
 	def_coord_events
 

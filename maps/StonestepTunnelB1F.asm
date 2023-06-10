@@ -10,7 +10,7 @@ StonestepTunnelB1F_MapEvents:
 
 	def_warp_events
 	warp_event   9,  11, STONESTEP_TUNNEL_1F, 2
-	warp_event   3,   3, ROUTE_51, 2
+	warp_event   3,   3, ROUTE_52, 2
 
 	def_coord_events
 

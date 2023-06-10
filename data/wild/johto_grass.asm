@@ -42,7 +42,7 @@ JohtoGrassWildMons:
 	db 3, MANKEY
 	; day
 	db 2, ROOKIDEE
-	db 2, MAMOSWINE
+	db 2, BELLSPROUT
 	db 3, ROOKIDEE
 	db 3, RATTATA
 	db 2, RATTATA
@@ -52,7 +52,7 @@ JohtoGrassWildMons:
 	db 2, ROOKIDEE
 	db 2, ROOKIDEE
 	db 3, ZUBAT
-	db 3, MAMOSWINE
+	db 3, ODDISH
 	db 2, ZUBAT
 	db 3, MANKEY
 	db 3, MANKEY

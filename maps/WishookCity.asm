@@ -9,8 +9,8 @@ WishookCity_MapEvents:
 	db 0, 0 ; filler
 
 	def_warp_events
-	warp_event 29,  29, ROUTE_52_GATE, 3
-	warp_event 30,  29, ROUTE_52_GATE, 4
+	warp_event 29,  31, ROUTE_52_GATE, 3
+	warp_event 30,  31, ROUTE_52_GATE, 4
 
 	def_coord_events
 

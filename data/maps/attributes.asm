@@ -128,6 +128,8 @@ ENDM
 	map_attributes StonestepTunnelB1F, STONESTEP_TUNNEL_B1F, $09, 0
 	map_attributes Route50Gate, ROUTE_50_GATE, $00, 0
 	map_attributes Route52Gate, ROUTE_52_GATE, $00, 0
+	map_attributes Route52, ROUTE_52, $05, 0
+	map_attributes StumpsLabRoof, STUMPS_LAB_ROOF, $24, 0
 	
 	map_attributes StelursaTown, STELURSA_TOWN, $05, WEST
 	connection west, Route50, ROUTE_50, 10
@@ -142,17 +144,13 @@ ENDM
 	map_attributes SintiriLake, SINTIRI_LAKE, $71, NORTH
 	connection north, SintiriTown, SINTIRI_TOWN, -1
 
-	map_attributes Route51, ROUTE_51, $05, SOUTH | EAST
+	map_attributes Route51, ROUTE_51, $05, SOUTH
 	connection south, SintiriTown, SINTIRI_TOWN, 1
-	connection east, Route52, ROUTE_52, -11
 	
-	map_attributes Route52, ROUTE_52, $05, WEST
-	connection west, Route51, ROUTE_51, 11
-	
-	map_attributes WishookCity, WISHOOK_CITY, $03, WEST
-	connection west, Route53, ROUTE_53, 0
+	map_attributes WishookCity, WISHOOK_CITY, $35, WEST
+	connection west, Route53, ROUTE_53, -24
 	
 	map_attributes Route53, ROUTE_53, $03, EAST
-	connection east, WishookCity, WISHOOK_CITY, 0
+	connection east, WishookCity, WISHOOK_CITY, 24
 	
 	

@@ -36,6 +36,7 @@ INCLUDE "maps/Route52.asm"
 INCLUDE "maps/Route52Gate.asm"
 INCLUDE "maps/WishookCity.asm"
 INCLUDE "maps/Route53.asm"
+INCLUDE "maps/StumpsLabRoof.asm"
 
 
 SECTION "Map Scripts 4", ROMX

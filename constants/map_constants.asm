@@ -78,6 +78,7 @@ ENDM
 	map_const ROUTE_50_GATE,								5,  4 ;  4
 	map_const PETALFALL_PARK,							   20, 18 ;  5
 	map_const ROUTE_65,							   		   40, 18 ;  6
+	map_const STUMPS_LAB_ROOF,							    5,  7 ;  7
 	endgroup
 
 	newgroup SINTIRI										  	  ;  7
@@ -91,7 +92,7 @@ ENDM
 
 	newgroup WISHOOK										      ;  8
 	map_const WISHOOK_CITY,						   		   30, 18 ;  1
-	map_const ROUTE_53,						   			   20, 18 ;  2
+	map_const ROUTE_53,						   			   10, 36 ;  2
 	endgroup
 
 DEF NUM_MAP_GROUPS EQU const_value ; 8

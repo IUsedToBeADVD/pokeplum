@@ -10,6 +10,7 @@ Route52_MapEvents:
 
 	def_warp_events
 	warp_event 31,  5, ROUTE_52_GATE, 1
+	warp_event 8,  17, STONESTEP_TUNNEL_B1F, 2
 
 	def_coord_events
 
