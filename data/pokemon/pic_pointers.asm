@@ -305,24 +305,24 @@ PokemonPicPointers::
 	dba MewtwoBackpic
 	dba MewFrontpic
 	dba MewBackpic
-	dba ChikoritaFrontpic
-	dba ChikoritaBackpic
-	dba BayleefFrontpic
-	dba BayleefBackpic
-	dba MeganiumFrontpic
-	dba MeganiumBackpic
-	dba CyndaquilFrontpic
-	dba CyndaquilBackpic
-	dba QuilavaFrontpic
-	dba QuilavaBackpic
-	dba TyphlosionFrontpic
-	dba TyphlosionBackpic
-	dba TotodileFrontpic
-	dba TotodileBackpic
-	dba CroconawFrontpic
-	dba CroconawBackpic
-	dba FeraligatrFrontpic
-	dba FeraligatrBackpic
+	dba TreeckoFrontpic
+	dba TreeckoBackpic
+	dba GrovyleFrontpic
+	dba GrovyleBackpic
+	dba SceptileFrontpic
+	dba SceptileBackpic
+	dba TorchicFrontpic
+	dba TorchicBackpic
+	dba CombuskenFrontpic
+	dba CombuskenBackpic
+	dba BlazikenFrontpic
+	dba BlazikenBackpic
+	dba MudkipFrontpic
+	dba MudkipBackpic
+	dba MarshtompFrontpic
+	dba MarshtompBackpic
+	dba SwampertFrontpic
+	dba SwampertBackpic
 	dba SentretFrontpic
 	dba SentretBackpic
 	dba FurretFrontpic

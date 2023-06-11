@@ -171,15 +171,15 @@
 	const MEWTWO     ; 96
 	const MEW        ; 97
 DEF JOHTO_POKEMON EQU const_value
-	const CHIKORITA  ; 98
-	const BAYLEEF    ; 99
-	const MEGANIUM   ; 9a
-	const CYNDAQUIL  ; 9b
-	const QUILAVA    ; 9c
-	const TYPHLOSION ; 9d
-	const TOTODILE   ; 9e
-	const CROCONAW   ; 9f
-	const FERALIGATR ; a0
+	const TREECKO    ; 98
+	const GROVYLE    ; 99
+	const SCEPTILE   ; 9a
+	const TORCHIC  	 ; 9b
+	const COMBUSKEN  ; 9c
+	const BLAZIKEN 	 ; 9d
+	const MUDKIP     ; 9e
+	const MARSHTOMP  ; 9f
+	const SWAMPERT 	 ; a0
 	const SENTRET    ; a1
 	const FURRET     ; a2
 	const HOOTHOOT   ; a3

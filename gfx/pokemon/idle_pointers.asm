@@ -151,15 +151,15 @@ AnimationIdlePointers:
 	dw DragoniteAnimationIdle
 	dw MewtwoAnimationIdle
 	dw MewAnimationIdle
-	dw ChikoritaAnimationIdle
-	dw BayleefAnimationIdle
-	dw MeganiumAnimationIdle
-	dw CyndaquilAnimationIdle
-	dw QuilavaAnimationIdle
-	dw TyphlosionAnimationIdle
-	dw TotodileAnimationIdle
-	dw CroconawAnimationIdle
-	dw FeraligatrAnimationIdle
+	dw TreeckoAnimationIdle
+	dw GrovyleAnimationIdle
+	dw SceptileAnimationIdle
+	dw TorchicAnimationIdle
+	dw CombuskenAnimationIdle
+	dw BlazikenAnimationIdle
+	dw MudkipAnimationIdle
+	dw MarshtompAnimationIdle
+	dw SwampertAnimationIdle
 	dw SentretAnimationIdle
 	dw FurretAnimationIdle
 	dw HoothootAnimationIdle

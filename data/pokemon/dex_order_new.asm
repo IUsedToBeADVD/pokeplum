@@ -2,15 +2,15 @@
 
 NewPokedexOrder:
 	table_width 1, NewPokedexOrder
-	db CHIKORITA
-	db BAYLEEF
-	db MEGANIUM
-	db CYNDAQUIL
-	db QUILAVA
-	db TYPHLOSION
-	db TOTODILE
-	db CROCONAW
-	db FERALIGATR
+	db TREECKO
+	db GROVYLE
+	db SCEPTILE
+	db TORCHIC
+	db COMBUSKEN
+	db BLAZIKEN
+	db MUDKIP
+	db MARSHTOMP
+	db SWAMPERT
 	db ROOKIDEE
 	db PIDGEOTTO
 	db PIDGEOT

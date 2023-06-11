@@ -80,15 +80,6 @@ MeetMomScript:
 .FinishPhone:
 	writetext InstructionsNextText
 	waitbutton
-	writetext GetStarterText
-	promptbutton
-	waitsfx
-	getmonname STRING_BUFFER_3, PIKACHU
-	writetext ReceivedStarterText
-	playsound SFX_CAUGHT_MON
-	waitsfx
-	promptbutton
-	givepoke PIKACHU, 7, BERRY
 	closetext
 	checkevent EVENT_TEMPORARY_UNTIL_MAP_RELOAD_1
 	iftrue .FromRight
@@ -302,19 +293,6 @@ InstructionsNextText:
 
 	para "Gee, isn't that"
 	line "convenient?"
-	done
-
-GetStarterText:
-	text "One more thing!"
-	line "Here's your first"
-	cont "#MON!"
-	done
-
-ReceivedStarterText:
-	text "<PLAYER> received"
-	line "@"
-	text_ram wStringBuffer3
-	text "!"
 	done
 
 HurryUpElmIsWaitingText:

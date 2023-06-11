@@ -191,15 +191,15 @@ Pokered_MonIndices:
 	db WEEPINBELL
 	db VICTREEBEL
 	assert_table_length 190 ; gen 1 mon indexes
-	db CHIKORITA
-	db BAYLEEF
-	db MEGANIUM
-	db CYNDAQUIL
-	db QUILAVA
-	db TYPHLOSION
-	db TOTODILE
-	db CROCONAW
-	db FERALIGATR
+	db TREECKO
+	db GROVYLE
+	db SCEPTILE
+	db TORCHIC
+	db COMBUSKEN
+	db BLAZIKEN
+	db MUDKIP
+	db MARSHTOMP
+	db SWAMPERT
 	db SENTRET
 	db FURRET
 	db HOOTHOOT

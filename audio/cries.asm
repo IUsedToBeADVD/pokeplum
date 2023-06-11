@@ -48,17 +48,17 @@ Cry_Mareep:
 	channel 5, Cry_Mareep_Ch5
 	channel 6, Cry_Mareep_Ch6
 
-Cry_Cyndaquil:
+Cry_Torchic:
 	channel_count 3
-	channel 5, Cry_Cyndaquil_Ch5
-	channel 6, Cry_Cyndaquil_Ch6
-	channel 8, Cry_Cyndaquil_Ch8
+	channel 5, Cry_Torchic_Ch5
+	channel 6, Cry_Torchic_Ch6
+	channel 8, Cry_Torchic_Ch8
 
-Cry_Chikorita:
+Cry_Treecko:
 	channel_count 3
-	channel 5, Cry_Chikorita_Ch5
-	channel 6, Cry_Chikorita_Ch6
-	channel 8, Cry_Chikorita_Ch8
+	channel 5, Cry_Treecko_Ch5
+	channel 6, Cry_Treecko_Ch6
+	channel 8, Cry_Treecko_Ch8
 
 Cry_Gligar:
 	channel_count 2
@@ -94,11 +94,11 @@ Cry_Donphan:
 	channel 6, Cry_Donphan_Ch6
 	channel 8, Cry_Donphan_Ch8
 
-Cry_Typhlosion:
+Cry_Blaziken:
 	channel_count 3
-	channel 5, Cry_Typhlosion_Ch5
-	channel 6, Cry_Typhlosion_Ch6
-	channel 8, Cry_Typhlosion_Ch8
+	channel 5, Cry_Blaziken_Ch5
+	channel 6, Cry_Blaziken_Ch6
+	channel 8, Cry_Blaziken_Ch8
 
 Cry_Natu:
 	channel_count 3
@@ -124,11 +124,11 @@ Cry_Ampharos:
 	channel 6, Cry_Ampharos_Ch6
 	channel 8, Cry_Ampharos_Ch8
 
-Cry_Totodile:
+Cry_Mudkip:
 	channel_count 3
-	channel 5, Cry_Totodile_Ch5
-	channel 6, Cry_Totodile_Ch6
-	channel 8, Cry_Totodile_Ch8
+	channel 5, Cry_Mudkip_Ch5
+	channel 6, Cry_Mudkip_Ch6
+	channel 8, Cry_Mudkip_Ch8
 
 Cry_Cleffa:
 	channel_count 3
@@ -483,9 +483,9 @@ Cry_Mareep_Ch6:
 	square_note 6, 15, 1, 1886
 	sound_ret
 
-Cry_Cyndaquil_Ch5:
+Cry_Torchic_Ch5:
 	pitch_offset 32
-Cry_Cyndaquil_Ch6:
+Cry_Torchic_Ch6:
 	duty_cycle 2
 	square_note 8, 2, -7, 263
 .loop1:
@@ -499,14 +499,14 @@ Cry_Cyndaquil_Ch6:
 	sound_ret
 
 Cry_Gligar_Ch8:
-Cry_Cyndaquil_Ch8:
+Cry_Torchic_Ch8:
 	noise_note 8, 3, -7, 82
 	noise_note 32, 9, 3, 79
 	sound_ret
 
-Cry_Chikorita_Ch5:
+Cry_Treecko_Ch5:
 	pitch_offset 32
-Cry_Chikorita_Ch6:
+Cry_Treecko_Ch6:
 	duty_cycle_pattern 0, 2, 0, 1
 	square_note 2, 12, 8, 1601
 	square_note 2, 4, 8, 1601
@@ -515,7 +515,7 @@ Cry_Chikorita_Ch6:
 	square_note 4, 15, 1, 1931
 	sound_ret
 
-Cry_Chikorita_Ch8:
+Cry_Treecko_Ch8:
 	noise_note 4, 9, 1, 16
 	noise_note 8, 9, 4, 3
 	sound_ret
@@ -627,7 +627,7 @@ Cry_Donphan_Ch8:
 	sound_ret
 
 Cry_Teddiursa_Ch5:
-Cry_Typhlosion_Ch5:
+Cry_Blaziken_Ch5:
 	duty_cycle_pattern 0, 1, 0, 2
 .loop1:
 	square_note 3, 12, 1, 1937
@@ -650,7 +650,7 @@ Cry_Typhlosion_Ch5:
 	sound_ret
 
 Cry_Teddiursa_Ch6:
-Cry_Typhlosion_Ch6:
+Cry_Blaziken_Ch6:
 	duty_cycle_pattern 1, 3, 2, 0
 	square_note 8, 9, -1, 1856
 	square_note 8, 7, -1, 1862
@@ -661,7 +661,7 @@ Cry_Typhlosion_Ch6:
 	square_note 24, 14, 2, 1923
 	sound_ret
 
-Cry_Typhlosion_Ch8:
+Cry_Blaziken_Ch8:
 	noise_note 16, 10, 6, 22
 	noise_note 24, 9, 8, 61
 	noise_note 32, 9, 8, 92
@@ -760,7 +760,7 @@ Cry_Ampharos_Ch8:
 	noise_note 24, 13, 2, 91
 	sound_ret
 
-Cry_Totodile_Ch5:
+Cry_Mudkip_Ch5:
 	duty_cycle_pattern 0, 3, 0, 2
 	square_note 8, 15, 8, 816
 	square_note 8, 15, 8, 832
@@ -769,7 +769,7 @@ Cry_Totodile_Ch5:
 	square_note 32, 11, 2, 1972
 	sound_ret
 
-Cry_Totodile_Ch6:
+Cry_Mudkip_Ch6:
 	duty_cycle_pattern 0, 1, 0, 2
 	square_note 8, 14, 8, 800
 	square_note 8, 14, 8, 808
@@ -778,7 +778,7 @@ Cry_Totodile_Ch6:
 	square_note 32, 7, 2, 1924
 	sound_ret
 
-Cry_Totodile_Ch8:
+Cry_Mudkip_Ch8:
 	noise_note 2, 11, -6, 73
 	noise_note 5, 11, -6, 58
 	noise_note 2, 11, -6, 41

@@ -152,15 +152,15 @@ PokedexDataPointerTable:
 	dw DragonitePokedexEntry
 	dw MewtwoPokedexEntry
 	dw MewPokedexEntry
-	dw ChikoritaPokedexEntry
-	dw BayleefPokedexEntry
-	dw MeganiumPokedexEntry
-	dw CyndaquilPokedexEntry
-	dw QuilavaPokedexEntry
-	dw TyphlosionPokedexEntry
-	dw TotodilePokedexEntry
-	dw CroconawPokedexEntry
-	dw FeraligatrPokedexEntry
+	dw TreeckoPokedexEntry
+	dw GrovylePokedexEntry
+	dw SceptilePokedexEntry
+	dw TorchicPokedexEntry
+	dw CombuskenPokedexEntry
+	dw BlazikenPokedexEntry
+	dw MudkipPokedexEntry
+	dw MarshtompPokedexEntry
+	dw SwampertPokedexEntry
 	dw SentretPokedexEntry
 	dw FurretPokedexEntry
 	dw HoothootPokedexEntry

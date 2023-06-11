@@ -151,15 +151,15 @@ FramesPointers:
 	dw DragoniteFrames
 	dw MewtwoFrames
 	dw MewFrames
-	dw ChikoritaFrames
-	dw BayleefFrames
-	dw MeganiumFrames
-	dw CyndaquilFrames
-	dw QuilavaFrames
-	dw TyphlosionFrames
-	dw TotodileFrames
-	dw CroconawFrames
-	dw FeraligatrFrames
+	dw TreeckoFrames
+	dw GrovyleFrames
+	dw SceptileFrames
+	dw TorchicFrames
+	dw CombuskenFrames
+	dw BlazikenFrames
+	dw MudkipFrames
+	dw MarshtompFrames
+	dw SwampertFrames
 	dw SentretFrames
 	dw FurretFrames
 	dw HoothootFrames

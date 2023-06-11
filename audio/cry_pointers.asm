@@ -49,9 +49,9 @@ Cries:
 	dba Cry_Hoothoot
 	dba Cry_Sentret
 	dba Cry_Slowking
-	dba Cry_Cyndaquil
-	dba Cry_Chikorita
-	dba Cry_Totodile
+	dba Cry_Torchic
+	dba Cry_Treecko
+	dba Cry_Mudkip
 	dba Cry_Gligar
 	dba Cry_Cleffa
 	dba Cry_Slugma
@@ -59,7 +59,7 @@ Cries:
 	dba Cry_Entei
 	dba Cry_Wooper
 	dba Cry_Mantine
-	dba Cry_Typhlosion
+	dba Cry_Blaziken
 	dba Cry_Natu
 	dba Cry_Teddiursa
 	dba Cry_Sunflora
