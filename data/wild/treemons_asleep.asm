@@ -10,7 +10,7 @@ AsleepTreeMonsNite:
 	db SPEAROW
 	db EKANS
 	db EXEGGCUTE
-	db LEDYBA
+	db MUNNA
 	db AIPOM
 	db -1 ; end
 

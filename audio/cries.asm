@@ -76,11 +76,11 @@ Cry_Slugma:
 	channel 5, Cry_Slugma_Ch5
 	channel 8, Cry_Slugma_Ch8
 
-Cry_Ledyba:
+Cry_Munna:
 	channel_count 3
-	channel 5, Cry_Ledyba_Ch5
-	channel 6, Cry_Ledyba_Ch6
-	channel 8, Cry_Ledyba_Ch8
+	channel 5, Cry_Munna_Ch5
+	channel 6, Cry_Munna_Ch6
+	channel 8, Cry_Munna_Ch8
 
 Cry_Wooper:
 	channel_count 3
@@ -106,11 +106,11 @@ Cry_Natu:
 	channel 6, Cry_Natu_Ch6
 	channel 8, Cry_Natu_Ch8
 
-Cry_Teddiursa:
+Cry_Cottonee:
 	channel_count 3
-	channel 5, Cry_Teddiursa_Ch5
-	channel 6, Cry_Teddiursa_Ch6
-	channel 8, Cry_Teddiursa_Ch8
+	channel 5, Cry_Cottonee_Ch5
+	channel 6, Cry_Cottonee_Ch6
+	channel 8, Cry_Cottonee_Ch8
 
 Cry_Sunflora:
 	channel_count 3
@@ -563,12 +563,12 @@ Cry_Slugma_Ch8:
 	noise_note 8, 10, 1, 92
 	sound_ret
 
-Cry_Ledyba_Ch5:
+Cry_Munna_Ch5:
 	pitch_offset 2
 	duty_cycle 2
-	sound_jump Cry_Ledyba_Ch6.body
+	sound_jump Cry_Munna_Ch6.body
 
-Cry_Ledyba_Ch6:
+Cry_Munna_Ch6:
 	duty_cycle_pattern 0, 0, 0, 1
 .body:
 	square_note 3, 15, 8, 1937
@@ -579,7 +579,7 @@ Cry_Ledyba_Ch6:
 	square_note 4, 14, 1, 1873
 	sound_ret
 
-Cry_Ledyba_Ch8:
+Cry_Munna_Ch8:
 	noise_note 3, 5, -1, 33
 	noise_note 3, 8, 1, 0
 	noise_note 2, 2, 0, 0
@@ -626,7 +626,7 @@ Cry_Donphan_Ch8:
 	noise_note 16, 9, 2, 108
 	sound_ret
 
-Cry_Teddiursa_Ch5:
+Cry_Cottonee_Ch5:
 Cry_Blaziken_Ch5:
 	duty_cycle_pattern 0, 1, 0, 2
 .loop1:
@@ -649,7 +649,7 @@ Cry_Blaziken_Ch5:
 	sound_loop 4, .loop5
 	sound_ret
 
-Cry_Teddiursa_Ch6:
+Cry_Cottonee_Ch6:
 Cry_Blaziken_Ch6:
 	duty_cycle_pattern 1, 3, 2, 0
 	square_note 8, 9, -1, 1856
@@ -705,7 +705,7 @@ Cry_Sunflora_Ch8:
 	noise_note 4, 8, 7, 4
 	sound_ret
 
-Cry_Teddiursa_Ch8:
+Cry_Cottonee_Ch8:
 	noise_note 8, 10, 6, 58
 	noise_note 8, 10, 1, 90
 	sound_ret

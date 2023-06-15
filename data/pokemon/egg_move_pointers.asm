@@ -164,7 +164,7 @@ EggMovePointers::
 	dw NoEggMoves
 	dw HoothootEggMoves
 	dw NoEggMoves
-	dw LedybaEggMoves
+	dw MunnaEggMoves
 	dw NoEggMoves
 	dw CombeeEggMoves
 	dw NoEggMoves
@@ -208,14 +208,14 @@ EggMovePointers::
 	dw DunsparceEggMoves
 	dw GligarEggMoves
 	dw NoEggMoves
-	dw SnubbullEggMoves
+	dw WoolooEggMoves
 	dw NoEggMoves
 	dw QwilfishEggMoves
 	dw NoEggMoves
 	dw ShuckleEggMoves
 	dw HeracrossEggMoves
 	dw SneaselEggMoves
-	dw TeddiursaEggMoves
+	dw CottoneeEggMoves
 	dw NoEggMoves
 	dw SlugmaEggMoves
 	dw NoEggMoves

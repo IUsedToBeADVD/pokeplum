@@ -164,8 +164,8 @@ FramesPointers:
 	dw LopunnyFrames
 	dw HoothootFrames
 	dw NoctowlFrames
-	dw LedybaFrames
-	dw LedianFrames
+	dw MunnaFrames
+	dw MusharnaFrames
 	dw CombeeFrames
 	dw VespiquenFrames
 	dw CrobatFrames
@@ -208,15 +208,15 @@ FramesPointers:
 	dw DunsparceFrames
 	dw GligarFrames
 	dw SteelixFrames
-	dw SnubbullFrames
-	dw GranbullFrames
+	dw WoolooFrames
+	dw DubwoolFrames
 	dw QwilfishFrames
 	dw ScizorFrames
 	dw ShuckleFrames
 	dw HeracrossFrames
 	dw SneaselFrames
-	dw TeddiursaFrames
-	dw UrsaringFrames
+	dw CottoneeFrames
+	dw WhimsicottFrames
 	dw SlugmaFrames
 	dw MagcargoFrames
 	dw SwinubFrames

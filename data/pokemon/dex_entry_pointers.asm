@@ -165,8 +165,8 @@ PokedexDataPointerTable:
 	dw LopunnyPokedexEntry
 	dw HoothootPokedexEntry
 	dw NoctowlPokedexEntry
-	dw LedybaPokedexEntry
-	dw LedianPokedexEntry
+	dw MunnaPokedexEntry
+	dw MusharnaPokedexEntry
 	dw CombeePokedexEntry
 	dw VespiquenPokedexEntry
 	dw CrobatPokedexEntry
@@ -209,15 +209,15 @@ PokedexDataPointerTable:
 	dw DunsparcePokedexEntry
 	dw GligarPokedexEntry
 	dw SteelixPokedexEntry
-	dw SnubbullPokedexEntry
-	dw GranbullPokedexEntry
+	dw WoolooPokedexEntry
+	dw DubwoolPokedexEntry
 	dw QwilfishPokedexEntry
 	dw ScizorPokedexEntry
 	dw ShucklePokedexEntry
 	dw HeracrossPokedexEntry
 	dw SneaselPokedexEntry
-	dw TeddiursaPokedexEntry
-	dw UrsaringPokedexEntry
+	dw CottoneePokedexEntry
+	dw WhimsicottPokedexEntry
 	dw SlugmaPokedexEntry
 	dw MagcargoPokedexEntry
 	dw SwinubPokedexEntry

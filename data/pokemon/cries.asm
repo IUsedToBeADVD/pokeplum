@@ -170,8 +170,8 @@ PokemonCries::
 	mon_cry CRY_BUNEARY,     107,  258 ; LOPUNNY
 	mon_cry CRY_HOOTHOOT,    145,  216 ; HOOTHOOT
 	mon_cry CRY_HOOTHOOT,      0,  416 ; NOCTOWL
-	mon_cry CRY_LEDYBA,        0,  222 ; LEDYBA
-	mon_cry CRY_LEDYBA,     -150,  312 ; LEDIAN
+	mon_cry CRY_MUNNA,        0,  222 ; MUNNA
+	mon_cry CRY_MUNNA,     -150,  312 ; MUSHARNA
 	mon_cry CRY_COMBEE,     17,  512 ; COMBEE
 	mon_cry CRY_COMBEE,   -174,  482 ; VESPIQUEN
 	mon_cry CRY_SQUIRTLE,    -16,  320 ; CROBAT
@@ -214,15 +214,15 @@ PokemonCries::
 	mon_cry CRY_DUNSPARCE,   452,  256 ; DUNSPARCE
 	mon_cry CRY_GLIGAR,     -258,  256 ; GLIGAR
 	mon_cry CRY_BLAZIKEN,  239,  247 ; STEELIX
-	mon_cry CRY_DUNSPARCE,   274,  232 ; SNUBBULL
-	mon_cry CRY_DUNSPARCE,     0,  384 ; GRANBULL
+	mon_cry CRY_DUNSPARCE,   274,  232 ; WOOLOO
+	mon_cry CRY_DUNSPARCE,     0,  384 ; DUBWOOL
 	mon_cry CRY_SLOWKING,    352,  224 ; QWILFISH
 	mon_cry CRY_AMPHAROS,      0,  352 ; SCIZOR
 	mon_cry CRY_DUNSPARCE,   656,  168 ; SHUCKLE
 	mon_cry CRY_AMPHAROS,     53,  224 ; HERACROSS
 	mon_cry CRY_WOOPER,       83,  175 ; SNEASEL
-	mon_cry CRY_TEDDIURSA,  1954,  110 ; TEDDIURSA
-	mon_cry CRY_TEDDIURSA,  1600,  216 ; URSARING
+	mon_cry CRY_COTTONEE,  1954,  110 ; COTTONEE
+	mon_cry CRY_COTTONEE,  1600,  216 ; WHIMSICOTT
 	mon_cry CRY_SLUGMA,     -472,  320 ; SLUGMA
 	mon_cry CRY_MAGCARGO,   -525,  448 ; MAGCARGO
 	mon_cry CRY_TORCHIC,   510,  320 ; SWINUB
@@ -230,7 +230,7 @@ PokemonCries::
 	mon_cry CRY_MAGCARGO,    161,  232 ; CORSOLA
 	mon_cry CRY_SUNFLORA,     13,  256 ; REMORAID
 	mon_cry CRY_MUDKIP,      0,  384 ; OCTILLERY
-	mon_cry CRY_TEDDIURSA,     2,  106 ; DELIBIRD
+	mon_cry CRY_COTTONEE,     2,  106 ; DELIBIRD
 	mon_cry CRY_MANTINE,    -190,  240 ; MANTINE
 	mon_cry CRY_AMPHAROS,   2217,  384 ; SKARMORY
 	mon_cry CRY_TORCHIC,    57,  320 ; HOUNDOUR
@@ -245,7 +245,7 @@ PokemonCries::
 	mon_cry CRY_SLUGMA,        0,  256 ; HITMONTOP
 	mon_cry CRY_MARILL,      104,  256 ; SMOOCHUM
 	mon_cry CRY_SUNFLORA,   -728,  180 ; ELEKID
-	mon_cry CRY_TEDDIURSA,   374,   58 ; MAGBY
+	mon_cry CRY_COTTONEE,   374,   58 ; MAGBY
 	mon_cry CRY_GLIGAR,     -461,  416 ; MILTANK
 	mon_cry CRY_SLOWKING,    659,  320 ; BLISSEY
 	mon_cry CRY_RAIKOU,      558,  288 ; RAIKOU

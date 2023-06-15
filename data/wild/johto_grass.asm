@@ -41,13 +41,13 @@ JohtoGrassWildMons:
 	db 3, MANKEY
 	db 3, MANKEY
 	; day
-	db 2, ROOKIDEE
-	db 2, COMBEE
-	db 3, BUNEARY
-	db 3, BUNEARY
-	db 2, RATTATA
-	db 3, MANKEY
-	db 3, MANKEY
+	db 2, LOTAD
+	db 2, MUNNA
+	db 3, WOOLOO
+	db 3, COTTONEE
+	db 2, DUBWOOL
+	db 3, MUNNA
+	db 3, COTTONEE
 	; nite
 	db 2, ROOKIDEE
 	db 2, ROOKIDEE

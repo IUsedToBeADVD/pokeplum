@@ -76,7 +76,7 @@ AlphabeticalPokedexOrder:
 	db GOLDEEN
 	db GOLDUCK
 	db GOLEM
-	db GRANBULL
+	db DUBWOOL
 	db GRAVELER
 	db GRIMER
 	db GROWLITHE
@@ -111,8 +111,8 @@ AlphabeticalPokedexOrder:
 	db LANTURN
 	db LAPRAS
 	db LARVITAR
-	db LEDIAN
-	db LEDYBA
+	db MUSHARNA
+	db MUNNA
 	db LICKITUNG
 	db LUGIA
 	db MACHAMP
@@ -208,7 +208,7 @@ AlphabeticalPokedexOrder:
 	db SMOOCHUM
 	db SNEASEL
 	db SNORLAX
-	db SNUBBULL
+	db WOOLOO
 	db SPEAROW
 	db COMBEE
 	db SQUIRTLE
@@ -223,7 +223,7 @@ AlphabeticalPokedexOrder:
 	db SWINUB
 	db TANGELA
 	db TAUROS
-	db TEDDIURSA
+	db COTTONEE
 	db TENTACOOL
 	db TENTACRUEL
 	db TOGEPI
@@ -234,7 +234,7 @@ AlphabeticalPokedexOrder:
 	db TYROGUE
 	db UMBREON
 	db UNOWN
-	db URSARING
+	db WHIMSICOTT
 	db VAPOREON
 	db VENOMOTH
 	db VENONAT

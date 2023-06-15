@@ -184,8 +184,8 @@ DEF JOHTO_POKEMON EQU const_value
 	const LOPUNNY    ; a2
 	const HOOTHOOT   ; a3
 	const NOCTOWL    ; a4
-	const LEDYBA     ; a5
-	const LEDIAN     ; a6
+	const MUNNA     ; a5
+	const MUSHARNA     ; a6
 	const COMBEE   	 ; a7
 	const VESPIQUEN  ; a8
 	const CROBAT     ; a9
@@ -228,15 +228,15 @@ DEF JOHTO_POKEMON EQU const_value
 	const DUNSPARCE  ; ce
 	const GLIGAR     ; cf
 	const STEELIX    ; d0
-	const SNUBBULL   ; d1
-	const GRANBULL   ; d2
+	const WOOLOO   ; d1
+	const DUBWOOL   ; d2
 	const QWILFISH   ; d3
 	const SCIZOR     ; d4
 	const SHUCKLE    ; d5
 	const HERACROSS  ; d6
 	const SNEASEL    ; d7
-	const TEDDIURSA  ; d8
-	const URSARING   ; d9
+	const COTTONEE  ; d8
+	const WHIMSICOTT   ; d9
 	const SLUGMA     ; da
 	const MAGCARGO   ; db
 	const SWINUB     ; dc

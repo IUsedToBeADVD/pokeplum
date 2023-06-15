@@ -164,8 +164,8 @@ AnimationPointers:
 	dw LopunnyAnimation
 	dw HoothootAnimation
 	dw NoctowlAnimation
-	dw LedybaAnimation
-	dw LedianAnimation
+	dw MunnaAnimation
+	dw MusharnaAnimation
 	dw CombeeAnimation
 	dw VespiquenAnimation
 	dw CrobatAnimation
@@ -208,15 +208,15 @@ AnimationPointers:
 	dw DunsparceAnimation
 	dw GligarAnimation
 	dw SteelixAnimation
-	dw SnubbullAnimation
-	dw GranbullAnimation
+	dw WoolooAnimation
+	dw DubwoolAnimation
 	dw QwilfishAnimation
 	dw ScizorAnimation
 	dw ShuckleAnimation
 	dw HeracrossAnimation
 	dw SneaselAnimation
-	dw TeddiursaAnimation
-	dw UrsaringAnimation
+	dw CottoneeAnimation
+	dw WhimsicottAnimation
 	dw SlugmaAnimation
 	dw MagcargoAnimation
 	dw SwinubAnimation

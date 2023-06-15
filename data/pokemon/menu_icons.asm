@@ -166,8 +166,8 @@ MonMenuIcons:
 	db ICON_FOX         ; LOPUNNY
 	db ICON_BIRD        ; HOOTHOOT
 	db ICON_BIRD        ; NOCTOWL
-	db ICON_BUG         ; LEDYBA
-	db ICON_BUG         ; LEDIAN
+	db ICON_BUG         ; MUNNA
+	db ICON_BUG         ; MUSHARNA
 	db ICON_BUG         ; COMBEE
 	db ICON_BUG         ; VESPIQUEN
 	db ICON_BAT         ; CROBAT
@@ -210,15 +210,15 @@ MonMenuIcons:
 	db ICON_SERPENT     ; DUNSPARCE
 	db ICON_BUG         ; GLIGAR
 	db ICON_SERPENT     ; STEELIX
-	db ICON_MONSTER     ; SNUBBULL
-	db ICON_MONSTER     ; GRANBULL
+	db ICON_MONSTER     ; WOOLOO
+	db ICON_MONSTER     ; DUBWOOL
 	db ICON_FISH        ; QWILFISH
 	db ICON_BUG         ; SCIZOR
 	db ICON_BUG         ; SHUCKLE
 	db ICON_BUG         ; HERACROSS
 	db ICON_FOX         ; SNEASEL
-	db ICON_MONSTER     ; TEDDIURSA
-	db ICON_MONSTER     ; URSARING
+	db ICON_MONSTER     ; COTTONEE
+	db ICON_MONSTER     ; WHIMSICOTT
 	db ICON_BLOB        ; SLUGMA
 	db ICON_BLOB        ; MAGCARGO
 	db ICON_EQUINE      ; SWINUB

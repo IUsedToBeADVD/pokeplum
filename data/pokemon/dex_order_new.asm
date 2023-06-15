@@ -31,8 +31,8 @@ NewPokedexOrder:
 	db WEEDLE
 	db KAKUNA
 	db BEEDRILL
-	db LEDYBA
-	db LEDIAN
+	db MUNNA
+	db MUSHARNA
 	db COMBEE
 	db VESPIQUEN
 	db GEODUDE
@@ -124,8 +124,8 @@ NewPokedexOrder:
 	db VOLTORB
 	db ELECTRODE
 	db AIPOM
-	db SNUBBULL
-	db GRANBULL
+	db WOOLOO
+	db DUBWOOL
 	db VULPIX
 	db NINETALES
 	db GROWLITHE
@@ -194,8 +194,8 @@ NewPokedexOrder:
 	db DELIBIRD
 	db SWINUB
 	db PILOSWINE
-	db TEDDIURSA
-	db URSARING
+	db COTTONEE
+	db WHIMSICOTT
 	db PHANPY
 	db DONPHAN
 	db MANTINE

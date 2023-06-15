@@ -2264,34 +2264,26 @@ NoctowlEvosAttacks:
 	db 57, DREAM_EATER
 	db 0 ; no more level-up moves
 
-LedybaEvosAttacks:
-	db EVOLVE_LEVEL, 18, LEDIAN
+MunnaEvosAttacks:
+	db EVOLVE_ITEM, MOON_STONE, MUSHARNA
 	db 0 ; no more evolutions
-	db 1, TACKLE
-	db 8, SUPERSONIC
-	db 15, COMET_PUNCH
-	db 22, LIGHT_SCREEN
-	db 22, REFLECT
-	db 22, SAFEGUARD
-	db 29, BATON_PASS
-	db 36, SWIFT
-	db 43, AGILITY
-	db 50, DOUBLE_EDGE
+	db 1, DEFENSE_CURL
+	db 1, PSYWAVE
+	db 9, HYPNOSIS
+	db 15, PSYBEAM
+	db 21, MOONLIGHT
+	db 29, NIGHTMARE
+	db 35, FUTURE_SIGHT
+	db 41, PSYCHIC_M
+	db 45, DREAM_EATER
 	db 0 ; no more level-up moves
 
-LedianEvosAttacks:
+MusharnaEvosAttacks:
 	db 0 ; no more evolutions
-	db 1, TACKLE
-	db 1, SUPERSONIC
-	db 8, SUPERSONIC
-	db 15, COMET_PUNCH
-	db 24, LIGHT_SCREEN
-	db 24, REFLECT
-	db 24, SAFEGUARD
-	db 33, BATON_PASS
-	db 42, SWIFT
-	db 51, AGILITY
-	db 60, DOUBLE_EDGE
+	db 1, PSYBEAM
+	db 1, HYPNOSIS
+	db 1, DEFENSE_CURL
+	db 1, FORESIGHT
 	db 0 ; no more level-up moves
 
 CombeeEvosAttacks:
@@ -2813,31 +2805,31 @@ SteelixEvosAttacks:
 	db 49, CRUNCH
 	db 0 ; no more level-up moves
 
-SnubbullEvosAttacks:
-	db EVOLVE_LEVEL, 23, GRANBULL
+WoolooEvosAttacks:
+	db EVOLVE_LEVEL, 24, DUBWOOL
 	db 0 ; no more evolutions
 	db 1, TACKLE
-	db 1, SCARY_FACE
-	db 4, TAIL_WHIP
-	db 8, CHARM
-	db 13, BITE
-	db 19, LICK
-	db 26, ROAR
-	db 34, RAGE
-	db 43, TAKE_DOWN
+	db 1, GROWL
+	db 4, DEFENSE_CURL
+	db 8, MIRROR_MOVE
+	db 13, DOUBLE_KICK
+	db 19, HEADBUTT
+	db 25, TAKE_DOWN
+	db 29, REVERSAL
+	db 36, DOUBLE_EDGE
 	db 0 ; no more level-up moves
 
-GranbullEvosAttacks:
+DubwoolEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, TACKLE
-	db 1, SCARY_FACE
-	db 4, TAIL_WHIP
-	db 8, CHARM
-	db 13, BITE
-	db 19, LICK
-	db 28, ROAR
-	db 38, RAGE
-	db 51, TAKE_DOWN
+	db 1, GROWL
+	db 4, DEFENSE_CURL
+	db 8, MIRROR_MOVE
+	db 13, DOUBLE_KICK
+	db 19, HEADBUTT
+	db 27, TAKE_DOWN
+	db 33, REVERSAL
+	db 41, DOUBLE_EDGE
 	db 0 ; no more level-up moves
 
 QwilfishEvosAttacks:
@@ -2905,33 +2897,31 @@ SneaselEvosAttacks:
 	db 65, METAL_CLAW
 	db 0 ; no more level-up moves
 
-TeddiursaEvosAttacks:
-	db EVOLVE_LEVEL, 30, URSARING
+CottoneeEvosAttacks:
+	db EVOLVE_ITEM, SUN_STONE, WHIMSICOTT
 	db 0 ; no more evolutions
-	db 1, SCRATCH
-	db 1, LEER
-	db 8, LICK
-	db 15, FURY_SWIPES
-	db 22, FAINT_ATTACK
-	db 29, REST
-	db 36, SLASH
-	db 43, SNORE
-	db 50, THRASH
+	db 1, ABSORB
+	db 4, GROWTH
+	db 8, LEECH_SEED
+	db 10, STUN_SPORE
+	db 13, MEGA_DRAIN
+	db 17, COTTON_SPORE
+	db 19, RAZOR_LEAF
+	db 22, POISONPOWDER
+	db 26, GIGA_DRAIN
+	db 28, CHARM
+	db 35, SUNNY_DAY
+	db 41, SOLARBEAM
 	db 0 ; no more level-up moves
 
-UrsaringEvosAttacks:
+WhimsicottEvosAttacks:
 	db 0 ; no more evolutions
-	db 1, SCRATCH
-	db 1, LEER
-	db 1, LICK
-	db 1, FURY_SWIPES
-	db 8, LICK
-	db 15, FURY_SWIPES
-	db 22, FAINT_ATTACK
-	db 29, REST
-	db 39, SLASH
-	db 49, SNORE
-	db 59, THRASH
+	db 1, MEGA_DRAIN
+	db 1, LEECH_SEED
+	db 1, GROWTH
+	db 1, COTTON_SPORE
+	db 10, GUST
+	db 46, SKY_ATTACK
 	db 0 ; no more level-up moves
 
 SlugmaEvosAttacks:

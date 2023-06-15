@@ -484,7 +484,7 @@ HoothootEggMoves:
 	db SKY_ATTACK
 	db -1 ; end
 
-LedybaEggMoves:
+MunnaEggMoves:
 	db PSYBEAM
 	db BIDE
 	db LIGHT_SCREEN
@@ -644,7 +644,7 @@ GligarEggMoves:
 	db COUNTER
 	db -1 ; end
 
-SnubbullEggMoves:
+WoolooEggMoves:
 	db METRONOME
 	db FAINT_ATTACK
 	db REFLECT
@@ -680,7 +680,7 @@ SneaselEggMoves:
 	db BITE
 	db -1 ; end
 
-TeddiursaEggMoves:
+CottoneeEggMoves:
 	db CRUNCH
 	db TAKE_DOWN
 	db SEISMIC_TOSS

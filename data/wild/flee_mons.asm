@@ -13,7 +13,7 @@ SometimesFleeMons:
 	db TOGETIC
 	db UMBREON
 	db UNOWN
-	db SNUBBULL
+	db WOOLOO
 	db HERACROSS
 	db -1
 
@@ -25,7 +25,7 @@ OftenFleeMons:
 	db QUAGSIRE
 	db DELIBIRD
 	db PHANPY
-	db TEDDIURSA
+	db COTTONEE
 	db -1
 
 AlwaysFleeMons:

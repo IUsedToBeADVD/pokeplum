@@ -164,8 +164,8 @@ BitmasksPointers:
 	dw LopunnyBitmasks
 	dw HoothootBitmasks
 	dw NoctowlBitmasks
-	dw LedybaBitmasks
-	dw LedianBitmasks
+	dw MunnaBitmasks
+	dw MusharnaBitmasks
 	dw CombeeBitmasks
 	dw VespiquenBitmasks
 	dw CrobatBitmasks
@@ -208,15 +208,15 @@ BitmasksPointers:
 	dw DunsparceBitmasks
 	dw GligarBitmasks
 	dw SteelixBitmasks
-	dw SnubbullBitmasks
-	dw GranbullBitmasks
+	dw WoolooBitmasks
+	dw DubwoolBitmasks
 	dw QwilfishBitmasks
 	dw ScizorBitmasks
 	dw ShuckleBitmasks
 	dw HeracrossBitmasks
 	dw SneaselBitmasks
-	dw TeddiursaBitmasks
-	dw UrsaringBitmasks
+	dw CottoneeBitmasks
+	dw WhimsicottBitmasks
 	dw SlugmaBitmasks
 	dw MagcargoBitmasks
 	dw SwinubBitmasks

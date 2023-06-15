@@ -57,7 +57,7 @@ TreeMonSet_Route:
 ; common
 	db 50, HOOTHOOT,   10
 	db 15, COMBEE,   10
-	db 15, LEDYBA,     10
+	db 15, MUNNA,     10
 	db 10, EXEGGCUTE,  10
 	db  5, EXEGGCUTE,  10
 	db  5, EXEGGCUTE,  10

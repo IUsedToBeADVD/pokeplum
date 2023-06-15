@@ -166,8 +166,8 @@ EvosAttacksPointers::
 	dw LopunnyEvosAttacks
 	dw HoothootEvosAttacks
 	dw NoctowlEvosAttacks
-	dw LedybaEvosAttacks
-	dw LedianEvosAttacks
+	dw MunnaEvosAttacks
+	dw MusharnaEvosAttacks
 	dw CombeeEvosAttacks
 	dw VespiquenEvosAttacks
 	dw CrobatEvosAttacks
@@ -210,15 +210,15 @@ EvosAttacksPointers::
 	dw DunsparceEvosAttacks
 	dw GligarEvosAttacks
 	dw SteelixEvosAttacks
-	dw SnubbullEvosAttacks
-	dw GranbullEvosAttacks
+	dw WoolooEvosAttacks
+	dw DubwoolEvosAttacks
 	dw QwilfishEvosAttacks
 	dw ScizorEvosAttacks
 	dw ShuckleEvosAttacks
 	dw HeracrossEvosAttacks
 	dw SneaselEvosAttacks
-	dw TeddiursaEvosAttacks
-	dw UrsaringEvosAttacks
+	dw CottoneeEvosAttacks
+	dw WhimsicottEvosAttacks
 	dw SlugmaEvosAttacks
 	dw MagcargoEvosAttacks
 	dw SwinubEvosAttacks

@@ -331,10 +331,10 @@ PokemonPicPointers::
 	dba HoothootBackpic
 	dba NoctowlFrontpic
 	dba NoctowlBackpic
-	dba LedybaFrontpic
-	dba LedybaBackpic
-	dba LedianFrontpic
-	dba LedianBackpic
+	dba MunnaFrontpic
+	dba MunnaBackpic
+	dba MusharnaFrontpic
+	dba MusharnaBackpic
 	dba CombeeFrontpic
 	dba CombeeBackpic
 	dba VespiquenFrontpic
@@ -422,10 +422,10 @@ PokemonPicPointers::
 	dba GligarBackpic
 	dba SteelixFrontpic
 	dba SteelixBackpic
-	dba SnubbullFrontpic
-	dba SnubbullBackpic
-	dba GranbullFrontpic
-	dba GranbullBackpic
+	dba WoolooFrontpic
+	dba WoolooBackpic
+	dba DubwoolFrontpic
+	dba DubwoolBackpic
 	dba QwilfishFrontpic
 	dba QwilfishBackpic
 	dba ScizorFrontpic
@@ -436,10 +436,10 @@ PokemonPicPointers::
 	dba HeracrossBackpic
 	dba SneaselFrontpic
 	dba SneaselBackpic
-	dba TeddiursaFrontpic
-	dba TeddiursaBackpic
-	dba UrsaringFrontpic
-	dba UrsaringBackpic
+	dba CottoneeFrontpic
+	dba CottoneeBackpic
+	dba WhimsicottFrontpic
+	dba WhimsicottBackpic
 	dba SlugmaFrontpic
 	dba SlugmaBackpic
 	dba MagcargoFrontpic

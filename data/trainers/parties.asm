@@ -480,7 +480,7 @@ SchoolboyGroup:
 
 	; SCHOOLBOY (11)
 	db "NATE@", TRAINERTYPE_NORMAL
-	db 32, LEDIAN
+	db 32, MUSHARNA
 	db 32, EXEGGUTOR
 	db -1 ; end
 
@@ -689,7 +689,7 @@ BirdKeeperGroup:
 LassGroup:
 	; LASS (1)
 	db "CARRIE@", TRAINERTYPE_MOVES
-	db 18, SNUBBULL,   SCARY_FACE, CHARM, BITE, LICK
+	db 18, WOOLOO,   SCARY_FACE, CHARM, BITE, LICK
 	db -1 ; end
 
 	; LASS (2)
@@ -754,7 +754,7 @@ LassGroup:
 	; LASS (11)
 	db "ELLEN@", TRAINERTYPE_NORMAL
 	db 30, WIGGLYTUFF
-	db 34, GRANBULL
+	db 34, DUBWOOL
 	db -1 ; end
 
 	; LASS (12)
@@ -1609,7 +1609,7 @@ BugCatcherGroup:
 
 	; BUG_CATCHER (19)
 	db "WAYNE@", TRAINERTYPE_NORMAL
-	db  8, LEDYBA
+	db  8, MUNNA
 	db 10, PARAS
 	db -1 ; end
 
@@ -3251,7 +3251,7 @@ PokefanMGroup:
 
 	; POKEFANM (7)
 	db "BRANDON@", TRAINERTYPE_ITEM
-	db 13, SNUBBULL,   BERRY
+	db 13, WOOLOO,   BERRY
 	db -1 ; end
 
 	; POKEFANM (8)
@@ -3290,7 +3290,7 @@ PokefanMGroup:
 
 	; POKEFANM (14)
 	db "ALLAN@", TRAINERTYPE_ITEM
-	db 35, TEDDIURSA,  BERRY
+	db 35, COTTONEE,  BERRY
 	db -1 ; end
 
 KimonoGirlGroup:
@@ -3330,7 +3330,7 @@ TwinsGroup:
 	; TWINS (1)
 	db "AMY & MAY@", TRAINERTYPE_NORMAL
 	db 10, COMBEE
-	db 10, LEDYBA
+	db 10, MUNNA
 	db -1 ; end
 
 	; TWINS (2)
@@ -3347,7 +3347,7 @@ TwinsGroup:
 
 	; TWINS (4)
 	db "AMY & MAY@", TRAINERTYPE_NORMAL
-	db 10, LEDYBA
+	db 10, MUNNA
 	db 10, COMBEE
 	db -1 ; end
 
@@ -3365,14 +3365,14 @@ TwinsGroup:
 
 	; TWINS (7)
 	db "MEG & PEG@", TRAINERTYPE_NORMAL
-	db 31, TEDDIURSA
+	db 31, COTTONEE
 	db 31, PHANPY
 	db -1 ; end
 
 	; TWINS (8)
 	db "MEG & PEG@", TRAINERTYPE_NORMAL
 	db 31, PHANPY
-	db 31, TEDDIURSA
+	db 31, COTTONEE
 	db -1 ; end
 
 	; TWINS (9)
@@ -3390,7 +3390,7 @@ TwinsGroup:
 PokefanFGroup:
 	; POKEFANF (1)
 	db "BEVERLY@", TRAINERTYPE_ITEM
-	db 14, SNUBBULL,   BERRY
+	db 14, WOOLOO,   BERRY
 	db -1 ; end
 
 	; POKEFANF (2)
@@ -3400,12 +3400,12 @@ PokefanFGroup:
 
 	; POKEFANF (3)
 	db "BEVERLY@", TRAINERTYPE_ITEM
-	db 18, SNUBBULL,   BERRY
+	db 18, WOOLOO,   BERRY
 	db -1 ; end
 
 	; POKEFANF (4)
 	db "BEVERLY@", TRAINERTYPE_ITEM
-	db 30, GRANBULL,   BERRY
+	db 30, DUBWOOL,   BERRY
 	db -1 ; end
 
 	; POKEFANF (5)

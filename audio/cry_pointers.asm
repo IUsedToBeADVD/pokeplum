@@ -55,13 +55,13 @@ Cries:
 	dba Cry_Gligar
 	dba Cry_Lombre
 	dba Cry_Slugma
-	dba Cry_Ledyba
+	dba Cry_Munna
 	dba Cry_Entei
 	dba Cry_Wooper
 	dba Cry_Mantine
 	dba Cry_Blaziken
 	dba Cry_Natu
-	dba Cry_Teddiursa
+	dba Cry_Cottonee
 	dba Cry_Sunflora
 	dba Cry_Ampharos
 	dba Cry_Magcargo
