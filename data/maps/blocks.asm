@@ -88,6 +88,9 @@ Route53_Blocks:
 StumpsLabRoof_Blocks:
 	INCBIN "maps/StumpsLabRoof.blk"
 
+StarterRoom_Blocks:
+	INCBIN "maps/StarterRoom.blk"
+
 SECTION "Map Blocks 3", ROMX
 
 IndigoPlateauPokecenter1F_Blocks:

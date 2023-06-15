@@ -160,20 +160,20 @@ AnimationPointers:
 	dw MudkipAnimation
 	dw MarshtompAnimation
 	dw SwampertAnimation
-	dw SentretAnimation
-	dw FurretAnimation
+	dw BunearyAnimation
+	dw LopunnyAnimation
 	dw HoothootAnimation
 	dw NoctowlAnimation
 	dw LedybaAnimation
 	dw LedianAnimation
-	dw SpinarakAnimation
-	dw AriadosAnimation
+	dw CombeeAnimation
+	dw VespiquenAnimation
 	dw CrobatAnimation
 	dw ChinchouAnimation
 	dw LanturnAnimation
-	dw PichuAnimation
-	dw CleffaAnimation
-	dw IgglybuffAnimation
+	dw LotadAnimation
+	dw LombreAnimation
+	dw LudicoloAnimation
 	dw TogepiAnimation
 	dw TogeticAnimation
 	dw NatuAnimation

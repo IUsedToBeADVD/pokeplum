@@ -79,6 +79,7 @@ ENDM
 	map_const PETALFALL_PARK,							   20, 18 ;  5
 	map_const ROUTE_65,							   		   40, 18 ;  6
 	map_const STUMPS_LAB_ROOF,							    5,  7 ;  7
+	map_const STARTER_ROOM,									4,  4 ;  8
 	endgroup
 
 	newgroup SINTIRI										  	  ;  7

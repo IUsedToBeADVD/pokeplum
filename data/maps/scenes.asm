@@ -24,5 +24,9 @@ MapScenes::
 	scene_var KARENS_ROOM,                  wKarensRoomSceneID
 	scene_var LANCES_ROOM,                  wLancesRoomSceneID
 	scene_var HALL_OF_FAME,                 wHallOfFameSceneID
+	
+	scene_var STELURSA_TOWN, 				wStelursaTownSceneID
+	scene_var STUMPS_LAB,					wStumpsLabSceneID
+	scene_var STUMPS_LAB_ROOF,				wStumpsLabRoofSceneID
 
 	db -1 ; end

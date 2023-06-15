@@ -253,7 +253,7 @@ Function170cc6:
 	push af
 	ld a, BANK(wDecompressScratch)
 	ldh [rSVBK], a
-	ld hl, PichuAnimatedMobileGFX
+	ld hl, LotadAnimatedMobileGFX
 	ld de, wDecompressScratch
 	call Decompress
 	ld a, 1
@@ -278,22 +278,22 @@ Function170cc6:
 Function170d02:
 	ld a, $1
 	ldh [rVBK], a
-	ld de, PichuBorderMobileGFX
+	ld de, LotadBorderMobileGFX
 	ld hl, vTiles0 tile $c1
-	lb bc, BANK(PichuBorderMobileGFX), 24
+	lb bc, BANK(LotadBorderMobileGFX), 24
 	call Get2bpp
 	xor a
 	ldh [rVBK], a
 	ret
 
-PichuAnimatedMobileGFX:
-INCBIN "gfx/mobile/pichu_animated.2bpp.lz"
+LotadAnimatedMobileGFX:
+INCBIN "gfx/mobile/lotad_animated.2bpp.lz"
 
 ElectroBallMobileGFX:
 INCBIN "gfx/mobile/electro_ball.2bpp.lz"
 
-PichuBorderMobileGFX:
-INCBIN "gfx/mobile/pichu_border.2bpp"
+LotadBorderMobileGFX:
+INCBIN "gfx/mobile/lotad_border.2bpp"
 
 Function1719c8:
 	ldh a, [hInMenu]

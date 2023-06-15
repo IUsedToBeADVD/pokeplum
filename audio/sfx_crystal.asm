@@ -70,11 +70,11 @@ Sfx_IntroSuicune1_Ch8:
 	noise_note 2, 9, 1, 35
 	sound_ret
 
-Sfx_IntroPichu:
+Sfx_IntroLotad:
 	channel_count 1
-	channel 5, Sfx_IntroPichu_Ch5
+	channel 5, Sfx_IntroLotad_Ch5
 
-Sfx_IntroPichu_Ch5:
+Sfx_IntroLotad_Ch5:
 	duty_cycle 3
 	pitch_sweep 4, -5
 	square_note 1, 8, 8, 1904

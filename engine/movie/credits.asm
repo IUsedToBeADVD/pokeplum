@@ -566,10 +566,10 @@ Credits_LoadBorderGFX:
 	ret
 
 .Frames:
-	dw CreditsPichuGFX
-	dw CreditsPichuGFX     + 16 tiles
-	dw CreditsPichuGFX     + 32 tiles
-	dw CreditsPichuGFX     + 48 tiles
+	dw CreditsLotadGFX
+	dw CreditsLotadGFX     + 16 tiles
+	dw CreditsLotadGFX     + 32 tiles
+	dw CreditsLotadGFX     + 48 tiles
 
 	dw CreditsSmoochumGFX
 	dw CreditsSmoochumGFX  + 16 tiles
@@ -581,10 +581,10 @@ Credits_LoadBorderGFX:
 	dw CreditsDittoGFX     + 32 tiles
 	dw CreditsDittoGFX     + 48 tiles
 
-	dw CreditsIgglybuffGFX
-	dw CreditsIgglybuffGFX + 16 tiles
-	dw CreditsIgglybuffGFX + 32 tiles
-	dw CreditsIgglybuffGFX + 48 tiles
+	dw CreditsLudicoloGFX
+	dw CreditsLudicoloGFX + 16 tiles
+	dw CreditsLudicoloGFX + 32 tiles
+	dw CreditsLudicoloGFX + 48 tiles
 
 Credits_TheEnd:
 	ld a, $40
@@ -603,10 +603,10 @@ Credits_TheEnd:
 CreditsBorderGFX:    INCBIN "gfx/credits/border.2bpp"
 
 CreditsMonsGFX: ; used only for BANK(CreditsMonsGFX)
-CreditsPichuGFX:     INCBIN "gfx/credits/pichu.2bpp"
+CreditsLotadGFX:     INCBIN "gfx/credits/lotad.2bpp"
 CreditsSmoochumGFX:  INCBIN "gfx/credits/smoochum.2bpp"
 CreditsDittoGFX:     INCBIN "gfx/credits/ditto.2bpp"
-CreditsIgglybuffGFX: INCBIN "gfx/credits/igglybuff.2bpp"
+CreditsLudicoloGFX: INCBIN "gfx/credits/ludicolo.2bpp"
 
 INCLUDE "data/credits_script.asm"
 INCLUDE "data/credits_strings.asm"

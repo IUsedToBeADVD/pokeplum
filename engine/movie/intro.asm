@@ -342,7 +342,7 @@ IntroScene7:
 	debgcoord 0, 0
 	call Intro_DecompressRequest2bpp_64Tiles
 
-	ld hl, IntroPichuWooperGFX
+	ld hl, IntroLotadWooperGFX
 	ld de, vTiles0 tile $00
 	call Intro_DecompressRequest2bpp_128Tiles
 
@@ -466,7 +466,7 @@ IntroScene9:
 	ret
 
 IntroScene10:
-; Wooper and Pichu enter.
+; Wooper and Lotad enter.
 	call Intro_RustleGrass
 	ld hl, wIntroSceneFrameCounter
 	ld a, [hl]
@@ -476,14 +476,14 @@ IntroScene10:
 	cp $20
 	jr z, .wooper
 	cp $40
-	jr z, .pichu
+	jr z, .lotad
 	ret
 
-.pichu
+.lotad
 	depixel 21, 16, 1, 0
-	ld a, SPRITE_ANIM_INDEX_INTRO_PICHU
+	ld a, SPRITE_ANIM_INDEX_INTRO_LOTAD
 	call InitSpriteAnimStruct
-	ld de, SFX_INTRO_PICHU
+	ld de, SFX_INTRO_LOTAD
 	call PlaySFX
 	ret
 
@@ -491,7 +491,7 @@ IntroScene10:
 	depixel 22, 6
 	ld a, SPRITE_ANIM_INDEX_INTRO_WOOPER
 	call InitSpriteAnimStruct
-	ld de, SFX_INTRO_PICHU
+	ld de, SFX_INTRO_LOTAD
 	call PlaySFX
 	ret
 .done
@@ -1677,8 +1677,8 @@ Intro_PerspectiveScrollBG:
 IntroSuicuneRunGFX:
 INCBIN "gfx/intro/suicune_run.2bpp.lz"
 
-IntroPichuWooperGFX:
-INCBIN "gfx/intro/pichu_wooper.2bpp.lz"
+IntroLotadWooperGFX:
+INCBIN "gfx/intro/lotad_wooper.2bpp.lz"
 
 IntroBackgroundGFX:
 INCBIN "gfx/intro/background.2bpp.lz"

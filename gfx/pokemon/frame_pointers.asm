@@ -160,20 +160,20 @@ FramesPointers:
 	dw MudkipFrames
 	dw MarshtompFrames
 	dw SwampertFrames
-	dw SentretFrames
-	dw FurretFrames
+	dw BunearyFrames
+	dw LopunnyFrames
 	dw HoothootFrames
 	dw NoctowlFrames
 	dw LedybaFrames
 	dw LedianFrames
-	dw SpinarakFrames
-	dw AriadosFrames
+	dw CombeeFrames
+	dw VespiquenFrames
 	dw CrobatFrames
 	dw ChinchouFrames
 	dw LanturnFrames
-	dw PichuFrames
-	dw CleffaFrames
-	dw IgglybuffFrames
+	dw LotadFrames
+	dw LombreFrames
+	dw LudicoloFrames
 	dw TogepiFrames
 	dw TogeticFrames
 	dw NatuFrames

@@ -162,20 +162,20 @@ EvosAttacksPointers::
 	dw MudkipEvosAttacks
 	dw MarshtompEvosAttacks
 	dw SwampertEvosAttacks
-	dw SentretEvosAttacks
-	dw FurretEvosAttacks
+	dw BunearyEvosAttacks
+	dw LopunnyEvosAttacks
 	dw HoothootEvosAttacks
 	dw NoctowlEvosAttacks
 	dw LedybaEvosAttacks
 	dw LedianEvosAttacks
-	dw SpinarakEvosAttacks
-	dw AriadosEvosAttacks
+	dw CombeeEvosAttacks
+	dw VespiquenEvosAttacks
 	dw CrobatEvosAttacks
 	dw ChinchouEvosAttacks
 	dw LanturnEvosAttacks
-	dw PichuEvosAttacks
-	dw CleffaEvosAttacks
-	dw IgglybuffEvosAttacks
+	dw LotadEvosAttacks
+	dw LombreEvosAttacks
+	dw LudicoloEvosAttacks
 	dw TogepiEvosAttacks
 	dw TogeticEvosAttacks
 	dw NatuEvosAttacks

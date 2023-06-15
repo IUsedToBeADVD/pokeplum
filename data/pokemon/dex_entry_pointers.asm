@@ -161,20 +161,20 @@ PokedexDataPointerTable:
 	dw MudkipPokedexEntry
 	dw MarshtompPokedexEntry
 	dw SwampertPokedexEntry
-	dw SentretPokedexEntry
-	dw FurretPokedexEntry
+	dw BunearyPokedexEntry
+	dw LopunnyPokedexEntry
 	dw HoothootPokedexEntry
 	dw NoctowlPokedexEntry
 	dw LedybaPokedexEntry
 	dw LedianPokedexEntry
-	dw SpinarakPokedexEntry
-	dw AriadosPokedexEntry
+	dw CombeePokedexEntry
+	dw VespiquenPokedexEntry
 	dw CrobatPokedexEntry
 	dw ChinchouPokedexEntry
 	dw LanturnPokedexEntry
-	dw PichuPokedexEntry
-	dw CleffaPokedexEntry
-	dw IgglybuffPokedexEntry
+	dw LotadPokedexEntry
+	dw LombrePokedexEntry
+	dw LudicoloPokedexEntry
 	dw TogepiPokedexEntry
 	dw TogeticPokedexEntry
 	dw NatuPokedexEntry

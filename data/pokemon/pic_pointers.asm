@@ -323,10 +323,10 @@ PokemonPicPointers::
 	dba MarshtompBackpic
 	dba SwampertFrontpic
 	dba SwampertBackpic
-	dba SentretFrontpic
-	dba SentretBackpic
-	dba FurretFrontpic
-	dba FurretBackpic
+	dba BunearyFrontpic
+	dba BunearyBackpic
+	dba LopunnyFrontpic
+	dba LopunnyBackpic
 	dba HoothootFrontpic
 	dba HoothootBackpic
 	dba NoctowlFrontpic
@@ -335,22 +335,22 @@ PokemonPicPointers::
 	dba LedybaBackpic
 	dba LedianFrontpic
 	dba LedianBackpic
-	dba SpinarakFrontpic
-	dba SpinarakBackpic
-	dba AriadosFrontpic
-	dba AriadosBackpic
+	dba CombeeFrontpic
+	dba CombeeBackpic
+	dba VespiquenFrontpic
+	dba VespiquenBackpic
 	dba CrobatFrontpic
 	dba CrobatBackpic
 	dba ChinchouFrontpic
 	dba ChinchouBackpic
 	dba LanturnFrontpic
 	dba LanturnBackpic
-	dba PichuFrontpic
-	dba PichuBackpic
-	dba CleffaFrontpic
-	dba CleffaBackpic
-	dba IgglybuffFrontpic
-	dba IgglybuffBackpic
+	dba LotadFrontpic
+	dba LotadBackpic
+	dba LombreFrontpic
+	dba LombreBackpic
+	dba LudicoloFrontpic
+	dba LudicoloBackpic
 	dba TogepiFrontpic
 	dba TogepiBackpic
 	dba TogeticFrontpic

@@ -16,7 +16,7 @@ CreditsScript:
 	db CREDITS_WAIT, 1
 
 ; Update the banner.
-	db CREDITS_SCENE, 0 ; Pichu
+	db CREDITS_SCENE, 0 ; Lotad
 
 	db             DIRECTOR, 1
 	db       SATOSHI_TAJIRI, 2
@@ -188,7 +188,7 @@ CreditsScript:
 	db CREDITS_WAIT, 1
 
 ; Update the banner.
-	db CREDITS_SCENE, 3 ; Igglybuff
+	db CREDITS_SCENE, 3 ; Ludicolo
 
 	db     US_VERSION_STAFF, 2
 

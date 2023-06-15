@@ -160,20 +160,20 @@ BitmasksPointers:
 	dw MudkipBitmasks
 	dw MarshtompBitmasks
 	dw SwampertBitmasks
-	dw SentretBitmasks
-	dw FurretBitmasks
+	dw BunearyBitmasks
+	dw LopunnyBitmasks
 	dw HoothootBitmasks
 	dw NoctowlBitmasks
 	dw LedybaBitmasks
 	dw LedianBitmasks
-	dw SpinarakBitmasks
-	dw AriadosBitmasks
+	dw CombeeBitmasks
+	dw VespiquenBitmasks
 	dw CrobatBitmasks
 	dw ChinchouBitmasks
 	dw LanturnBitmasks
-	dw PichuBitmasks
-	dw CleffaBitmasks
-	dw IgglybuffBitmasks
+	dw LotadBitmasks
+	dw LombreBitmasks
+	dw LudicoloBitmasks
 	dw TogepiBitmasks
 	dw TogeticBitmasks
 	dw NatuBitmasks

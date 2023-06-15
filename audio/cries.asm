@@ -14,11 +14,11 @@ Cry_Togetic:
 	channel 5, Cry_Togetic_Ch5
 	channel 6, Cry_Togetic_Ch6
 
-Cry_Spinarak:
+Cry_Combee:
 	channel_count 3
-	channel 5, Cry_Spinarak_Ch5
-	channel 6, Cry_Spinarak_Ch6
-	channel 8, Cry_Spinarak_Ch8
+	channel 5, Cry_Combee_Ch5
+	channel 6, Cry_Combee_Ch6
+	channel 8, Cry_Combee_Ch8
 
 Cry_Raikou:
 	channel_count 3
@@ -32,10 +32,10 @@ Cry_Hoothoot:
 	channel 6, Cry_Hoothoot_Ch6
 	channel 8, Cry_Hoothoot_Ch8
 
-Cry_Sentret:
+Cry_Buneary:
 	channel_count 2
-	channel 5, Cry_Sentret_Ch5
-	channel 6, Cry_Sentret_Ch6
+	channel 5, Cry_Buneary_Ch5
+	channel 6, Cry_Buneary_Ch6
 
 Cry_Slowking:
 	channel_count 3
@@ -130,17 +130,17 @@ Cry_Mudkip:
 	channel 6, Cry_Mudkip_Ch6
 	channel 8, Cry_Mudkip_Ch8
 
-Cry_Cleffa:
+Cry_Lombre:
 	channel_count 3
-	channel 5, Cry_Cleffa_Ch5
-	channel 6, Cry_Cleffa_Ch6
-	channel 8, Cry_Cleffa_Ch8
+	channel 5, Cry_Lombre_Ch5
+	channel 6, Cry_Lombre_Ch6
+	channel 8, Cry_Lombre_Ch8
 
-Cry_Pichu:
+Cry_Lotad:
 	channel_count 3
-	channel 5, Cry_Pichu_Ch5
-	channel 6, Cry_Pichu_Ch6
-	channel 8, Cry_Pichu_Ch8
+	channel 5, Cry_Lotad_Ch5
+	channel 6, Cry_Lotad_Ch6
+	channel 8, Cry_Lotad_Ch8
 
 Cry_Aipom:
 	channel_count 3
@@ -284,7 +284,7 @@ Cry_Slowking_Ch8:
 	noise_note 16, 11, 2, 111
 	sound_ret
 
-Cry_Pichu_Ch5:
+Cry_Lotad_Ch5:
 	duty_cycle 0
 	pitch_sweep 15, 7
 	square_note 2, 15, 8, 1933
@@ -298,7 +298,7 @@ Cry_Pichu_Ch5:
 	pitch_sweep 8, 8
 	sound_ret
 
-Cry_Pichu_Ch6:
+Cry_Lotad_Ch6:
 	duty_cycle_pattern 0, 1, 0, 0
 	square_note 2, 12, 8, 1901
 	square_note 2, 12, 8, 1905
@@ -307,7 +307,7 @@ Cry_Pichu_Ch6:
 	square_note 2, 12, 8, 1944
 	sound_ret
 
-Cry_Pichu_Ch8:
+Cry_Lotad_Ch8:
 	noise_note 2, 11, 8, 1
 	noise_note 2, 11, 8, 25
 	noise_note 2, 12, 8, 24
@@ -364,7 +364,7 @@ Cry_Togetic_Ch6:
 	square_note 8, 15, 2, 1986
 	sound_ret
 
-Cry_Spinarak_Ch5:
+Cry_Combee_Ch5:
 	duty_cycle 1
 	square_note 3, 2, -4, 1988
 	square_note 1, 0, 0, 1
@@ -372,7 +372,7 @@ Cry_Spinarak_Ch5:
 	square_note 6, 11, 4, 1979
 	sound_ret
 
-Cry_Spinarak_Ch6:
+Cry_Combee_Ch6:
 	duty_cycle_pattern 0, 2, 2, 2
 	square_note 3, 2, -4, 1991
 	square_note 1, 0, 0, 0
@@ -380,7 +380,7 @@ Cry_Spinarak_Ch6:
 	square_note 6, 11, 4, 1981
 	sound_ret
 
-Cry_Spinarak_Ch8:
+Cry_Combee_Ch8:
 	noise_note 3, 9, 2, 16
 	noise_note 1, 3, -1, 0
 	noise_note 5, 6, -1, 16
@@ -452,19 +452,19 @@ Cry_Hoothoot_Ch8:
 	noise_note 16, 10, 7, 110
 	sound_ret
 
-Cry_Sentret_Ch5:
+Cry_Buneary_Ch5:
 	pitch_offset 32
 	duty_cycle 0
-	sound_jump Cry_Sentret_Ch6.body
+	sound_jump Cry_Buneary_Ch6.body
 
-Cry_Sentret_Ch6:
+Cry_Buneary_Ch6:
 	duty_cycle_pattern 0, 1, 2, 3
 .body:
 	square_note 8, 3, -1, 1837
 	square_note 8, 15, 1, 1824
 	sound_ret
 
-Cry_Sentret_Ch8: ; unreferenced
+Cry_Buneary_Ch8: ; unreferenced
 	noise_note 8, 3, -3, 0
 	noise_note 8, 9, 2, 0
 	sound_ret
@@ -785,7 +785,7 @@ Cry_Mudkip_Ch8:
 	noise_note 40, 13, 3, 110
 	sound_ret
 
-Cry_Cleffa_Ch5:
+Cry_Lombre_Ch5:
 	duty_cycle_pattern 0, 3, 2, 1
 	pitch_sweep 15, -7
 	square_note 2, 15, 8, 1824
@@ -800,7 +800,7 @@ Cry_Cleffa_Ch5:
 	pitch_sweep 8, 8
 	sound_ret
 
-Cry_Cleffa_Ch6:
+Cry_Lombre_Ch6:
 	duty_cycle_pattern 0, 2, 0, 2
 	square_note 6, 11, 2, 1822
 	square_note 5, 9, 2, 1913
@@ -808,7 +808,7 @@ Cry_Cleffa_Ch6:
 	square_note 8, 10, 1, 1845
 	sound_ret
 
-Cry_Cleffa_Ch8:
+Cry_Lombre_Ch8:
 	noise_note 2, 6, 4, 127
 	noise_note 2, 8, 4, 125
 	noise_note 2, 10, 4, 111

@@ -44,7 +44,7 @@ DoAnimFrame:
 	dw AnimSeq_MobileTradeSentPulse
 	dw AnimSeq_MobileTradeOTPulse
 	dw AnimSeq_IntroSuicune
-	dw AnimSeq_IntroPichuWooper
+	dw AnimSeq_IntroLotadWooper
 	dw AnimSeq_Celebi
 	dw AnimSeq_IntroUnown
 	dw AnimSeq_IntroUnownF
@@ -775,7 +775,7 @@ AnimSeq_IntroSuicune:
 	call _ReinitSpriteAnimFrame
 	ret
 
-AnimSeq_IntroPichuWooper:
+AnimSeq_IntroLotadWooper:
 	ld hl, SPRITEANIMSTRUCT_VAR1
 	add hl, bc
 	ld a, [hl]

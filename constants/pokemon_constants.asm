@@ -180,20 +180,20 @@ DEF JOHTO_POKEMON EQU const_value
 	const MUDKIP     ; 9e
 	const MARSHTOMP  ; 9f
 	const SWAMPERT 	 ; a0
-	const SENTRET    ; a1
-	const FURRET     ; a2
+	const BUNEARY    ; a1
+	const LOPUNNY    ; a2
 	const HOOTHOOT   ; a3
 	const NOCTOWL    ; a4
 	const LEDYBA     ; a5
 	const LEDIAN     ; a6
-	const SPINARAK   ; a7
-	const ARIADOS    ; a8
+	const COMBEE   	 ; a7
+	const VESPIQUEN  ; a8
 	const CROBAT     ; a9
 	const CHINCHOU   ; aa
 	const LANTURN    ; ab
-	const PICHU      ; ac
-	const CLEFFA     ; ad
-	const IGGLYBUFF  ; ae
+	const LOTAD      ; ac
+	const LOMBRE     ; ad
+	const LUDICOLO  ; ae
 	const TOGEPI     ; af
 	const TOGETIC    ; b0
 	const NATU       ; b1

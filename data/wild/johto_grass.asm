@@ -6,17 +6,17 @@ JohtoGrassWildMons:
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
 	; morn
 	db 2, ROOKIDEE
-	db 2, SENTRET
+	db 2, BUNEARY
 	db 3, ROOKIDEE
-	db 3, SENTRET
+	db 3, BUNEARY
 	db 2, RATTATA
 	db 3, HOPPIP
 	db 3, HOPPIP
 	; day
 	db 2, ROOKIDEE
-	db 2, SENTRET
+	db 2, BUNEARY
 	db 3, ROOKIDEE
-	db 3, SENTRET
+	db 3, BUNEARY
 	db 2, RATTATA
 	db 3, HOPPIP
 	db 3, HOPPIP
@@ -42,9 +42,9 @@ JohtoGrassWildMons:
 	db 3, MANKEY
 	; day
 	db 2, ROOKIDEE
-	db 2, BELLSPROUT
-	db 3, ROOKIDEE
-	db 3, RATTATA
+	db 2, COMBEE
+	db 3, BUNEARY
+	db 3, BUNEARY
 	db 2, RATTATA
 	db 3, MANKEY
 	db 3, MANKEY

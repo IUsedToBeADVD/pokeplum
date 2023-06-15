@@ -160,20 +160,20 @@ AnimationIdlePointers:
 	dw MudkipAnimationIdle
 	dw MarshtompAnimationIdle
 	dw SwampertAnimationIdle
-	dw SentretAnimationIdle
-	dw FurretAnimationIdle
+	dw BunearyAnimationIdle
+	dw LopunnyAnimationIdle
 	dw HoothootAnimationIdle
 	dw NoctowlAnimationIdle
 	dw LedybaAnimationIdle
 	dw LedianAnimationIdle
-	dw SpinarakAnimationIdle
-	dw AriadosAnimationIdle
+	dw CombeeAnimationIdle
+	dw VespiquenAnimationIdle
 	dw CrobatAnimationIdle
 	dw ChinchouAnimationIdle
 	dw LanturnAnimationIdle
-	dw PichuAnimationIdle
-	dw CleffaAnimationIdle
-	dw IgglybuffAnimationIdle
+	dw LotadAnimationIdle
+	dw LombreAnimationIdle
+	dw LudicoloAnimationIdle
 	dw TogepiAnimationIdle
 	dw TogeticAnimationIdle
 	dw NatuAnimationIdle

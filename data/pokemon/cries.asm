@@ -166,20 +166,20 @@ PokemonCries::
 	mon_cry CRY_MUDKIP,   1132,  232 ; MUDKIP
 	mon_cry CRY_MUDKIP,   1088,  272 ; MARSHTOMP
 	mon_cry CRY_MUDKIP,   1020,  384 ; SWAMPERT
-	mon_cry CRY_SENTRET,     138,  184 ; SENTRET
-	mon_cry CRY_SENTRET,     107,  258 ; FURRET
+	mon_cry CRY_BUNEARY,     138,  184 ; BUNEARY
+	mon_cry CRY_BUNEARY,     107,  258 ; LOPUNNY
 	mon_cry CRY_HOOTHOOT,    145,  216 ; HOOTHOOT
 	mon_cry CRY_HOOTHOOT,      0,  416 ; NOCTOWL
 	mon_cry CRY_LEDYBA,        0,  222 ; LEDYBA
 	mon_cry CRY_LEDYBA,     -150,  312 ; LEDIAN
-	mon_cry CRY_SPINARAK,     17,  512 ; SPINARAK
-	mon_cry CRY_SPINARAK,   -174,  482 ; ARIADOS
+	mon_cry CRY_COMBEE,     17,  512 ; COMBEE
+	mon_cry CRY_COMBEE,   -174,  482 ; VESPIQUEN
 	mon_cry CRY_SQUIRTLE,    -16,  320 ; CROBAT
 	mon_cry CRY_TORCHIC,   969,  320 ; CHINCHOU
 	mon_cry CRY_TORCHIC,   720,  272 ; LANTURN
-	mon_cry CRY_PICHU,         0,  320 ; PICHU
-	mon_cry CRY_CLEFFA,       97,  145 ; CLEFFA
-	mon_cry CRY_TREECKO,   232,  232 ; IGGLYBUFF
+	mon_cry CRY_LOTAD,         0,  320 ; LOTAD
+	mon_cry CRY_LOMBRE,       97,  145 ; LOMBRE
+	mon_cry CRY_TREECKO,   232,  232 ; LUDICOLO
 	mon_cry CRY_TOGEPI,       16,  256 ; TOGEPI
 	mon_cry CRY_TOGETIC,      59,   56 ; TOGETIC
 	mon_cry CRY_NATU,       -103,  256 ; NATU
@@ -187,14 +187,14 @@ PokemonCries::
 	mon_cry CRY_MAREEP,       34,  216 ; MAREEP
 	mon_cry CRY_MAREEP,       -7,  384 ; FLAAFFY
 	mon_cry CRY_AMPHAROS,   -124,  232 ; AMPHAROS
-	mon_cry CRY_CLEFFA,      132,  336 ; BELLOSSOM
+	mon_cry CRY_LOMBRE,      132,  336 ; BELLOSSOM
 	mon_cry CRY_MARILL,      283,  288 ; MARILL
 	mon_cry CRY_MARILL,      182,  384 ; AZUMARILL
-	mon_cry CRY_CLEFFA,     3904,  384 ; SUDOWOODO
-	mon_cry CRY_CLEFFA,     -675,  456 ; POLITOED
-	mon_cry CRY_CLEFFA,       59,  200 ; HOPPIP
-	mon_cry CRY_CLEFFA,       39,  312 ; SKIPLOOM
-	mon_cry CRY_CLEFFA,        0,  384 ; JUMPLUFF
+	mon_cry CRY_LOMBRE,     3904,  384 ; SUDOWOODO
+	mon_cry CRY_LOMBRE,     -675,  456 ; POLITOED
+	mon_cry CRY_LOMBRE,       59,  200 ; HOPPIP
+	mon_cry CRY_LOMBRE,       39,  312 ; SKIPLOOM
+	mon_cry CRY_LOMBRE,        0,  384 ; JUMPLUFF
 	mon_cry CRY_AIPOM,       -81,  232 ; AIPOM
 	mon_cry CRY_MARILL,      299,  184 ; SUNKERN
 	mon_cry CRY_SUNFLORA,    -32,  384 ; SUNFLORA
@@ -236,11 +236,11 @@ PokemonCries::
 	mon_cry CRY_TORCHIC,    57,  320 ; HOUNDOUR
 	mon_cry CRY_MUDKIP,   -266,  256 ; HOUNDOOM
 	mon_cry CRY_SLUGMA,      763,  256 ; KINGDRA
-	mon_cry CRY_SENTRET,      72,  560 ; PHANPY
+	mon_cry CRY_BUNEARY,      72,  560 ; PHANPY
 	mon_cry CRY_DONPHAN,       0,  416 ; DONPHAN
 	mon_cry CRY_GIRAFARIG,   115,  576 ; PORYGON2
 	mon_cry CRY_AIPOM,      -352,  384 ; STANTLER
-	mon_cry CRY_PICHU,      -538,  496 ; SMEARGLE
+	mon_cry CRY_LOTAD,      -538,  496 ; SMEARGLE
 	mon_cry CRY_AIPOM,        44,  264 ; TYROGUE
 	mon_cry CRY_SLUGMA,        0,  256 ; HITMONTOP
 	mon_cry CRY_MARILL,      104,  256 ; SMOOCHUM
@@ -252,7 +252,7 @@ PokemonCries::
 	mon_cry CRY_ENTEI,         0,  416 ; ENTEI
 	mon_cry CRY_MAGCARGO,      0,  384 ; SUICUNE
 	mon_cry CRY_RAIKOU,       95,  208 ; LARVITAR
-	mon_cry CRY_SPINARAK,   -475,  336 ; PUPITAR
+	mon_cry CRY_COMBEE,   -475,  336 ; PUPITAR
 	mon_cry CRY_RAIKOU,     -256,  384 ; TYRANITAR
 	mon_cry CRY_BLAZIKEN,    0,  256 ; LUGIA
 	mon_cry CRY_AIPOM,         0,  384 ; HO_OH

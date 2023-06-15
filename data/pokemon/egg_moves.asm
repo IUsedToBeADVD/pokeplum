@@ -467,7 +467,7 @@ MudkipEggMoves:
 	db ROCK_SLIDE
 	db -1 ; end
 
-SentretEggMoves:
+BunearyEggMoves:
 	db DOUBLE_EDGE
 	db PURSUIT
 	db SLASH
@@ -490,7 +490,7 @@ LedybaEggMoves:
 	db LIGHT_SCREEN
 	db -1 ; end
 
-SpinarakEggMoves:
+CombeeEggMoves:
 	db PSYBEAM
 	db DISABLE
 	db SONICBOOM
@@ -504,7 +504,7 @@ ChinchouEggMoves:
 	db SCREECH
 	db -1 ; end
 
-PichuEggMoves:
+LotadEggMoves:
 	db REVERSAL
 	db BIDE
 	db PRESENT
@@ -512,7 +512,7 @@ PichuEggMoves:
 	db DOUBLESLAP
 	db -1 ; end
 
-CleffaEggMoves:
+LombreEggMoves:
 	db PRESENT
 	db METRONOME
 	db AMNESIA
@@ -521,7 +521,7 @@ CleffaEggMoves:
 	db MIMIC
 	db -1 ; end
 
-IgglybuffEggMoves:
+LudicoloEggMoves:
 	db PERISH_SONG
 	db PRESENT
 	db FAINT_ATTACK

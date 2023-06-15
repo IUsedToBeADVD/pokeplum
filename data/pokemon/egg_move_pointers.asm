@@ -160,20 +160,20 @@ EggMovePointers::
 	dw MudkipEggMoves
 	dw NoEggMoves
 	dw NoEggMoves
-	dw SentretEggMoves
+	dw BunearyEggMoves
 	dw NoEggMoves
 	dw HoothootEggMoves
 	dw NoEggMoves
 	dw LedybaEggMoves
 	dw NoEggMoves
-	dw SpinarakEggMoves
+	dw CombeeEggMoves
 	dw NoEggMoves
 	dw NoEggMoves
 	dw ChinchouEggMoves
 	dw NoEggMoves
-	dw PichuEggMoves
-	dw CleffaEggMoves
-	dw IgglybuffEggMoves
+	dw LotadEggMoves
+	dw LombreEggMoves
+	dw LudicoloEggMoves
 	dw TogepiEggMoves
 	dw NoEggMoves
 	dw NatuEggMoves

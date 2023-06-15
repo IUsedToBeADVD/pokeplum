@@ -372,7 +372,7 @@ Function1161d5:
 	ld a, $6
 	ldh [rSVBK], a
 
-	ld hl, PichuBorderMobileTilemapAttrmap
+	ld hl, LotadBorderMobileTilemapAttrmap
 	ld de, wDecompressScratch
 	ld bc, 32 * 12 * 2
 	call CopyBytes
@@ -494,7 +494,7 @@ Function116294:
 	ld de, wc320
 	ld bc, 2 palettes
 	call CopyBytes
-	ld hl, PichuBorderMobileBGPalettes
+	ld hl, LotadBorderMobileBGPalettes
 	ld de, wBGPals1 palette 7
 	ld bc, 1 palettes
 	call CopyBytes
@@ -514,7 +514,7 @@ Function1162cb:
 	push af
 	ld a, $5
 	ldh [rSVBK], a
-	ld hl, PichuBorderMobileOBPalettes
+	ld hl, LotadBorderMobileOBPalettes
 	ld de, wOBPals1 + 2 palettes
 	ld bc, 6 palettes
 	call CopyBytes

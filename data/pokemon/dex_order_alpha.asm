@@ -9,7 +9,7 @@ AlphabeticalPokedexOrder:
 	db AMPHAROS
 	db ARBOK
 	db ARCANINE
-	db ARIADOS
+	db VESPIQUEN
 	db ARTICUNO
 	db AZUMARILL
 	db GROVYLE
@@ -30,7 +30,7 @@ AlphabeticalPokedexOrder:
 	db CHINCHOU
 	db CLEFABLE
 	db CLEFAIRY
-	db CLEFFA
+	db LOMBRE
 	db CLOYSTER
 	db CORSOLA
 	db CROBAT
@@ -65,7 +65,7 @@ AlphabeticalPokedexOrder:
 	db FLAAFFY
 	db FLAREON
 	db FORRETRESS
-	db FURRET
+	db LOPUNNY
 	db GASTLY
 	db GENGAR
 	db GEODUDE
@@ -93,7 +93,7 @@ AlphabeticalPokedexOrder:
 	db HOUNDOOM
 	db HOUNDOUR
 	db HYPNO
-	db IGGLYBUFF
+	db LUDICOLO
 	db IVYSAUR
 	db JIGGLYPUFF
 	db JOLTEON
@@ -159,7 +159,7 @@ AlphabeticalPokedexOrder:
 	db PARASECT
 	db PERSIAN
 	db PHANPY
-	db PICHU
+	db LOTAD
 	db PIDGEOT
 	db PIDGEOTTO
 	db ROOKIDEE
@@ -195,7 +195,7 @@ AlphabeticalPokedexOrder:
 	db SEADRA
 	db SEAKING
 	db SEEL
-	db SENTRET
+	db BUNEARY
 	db SHELLDER
 	db SHUCKLE
 	db SKARMORY
@@ -210,7 +210,7 @@ AlphabeticalPokedexOrder:
 	db SNORLAX
 	db SNUBBULL
 	db SPEAROW
-	db SPINARAK
+	db COMBEE
 	db SQUIRTLE
 	db STANTLER
 	db STARMIE

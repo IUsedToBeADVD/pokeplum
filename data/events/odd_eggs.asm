@@ -9,13 +9,13 @@ OddEggProbabilities:
 ; entries correspond to OddEggs (below)
 	table_width 2, OddEggProbabilities
 DEF prob_total = 0
-; Pichu
+; Lotad
 	prob 8
 	prob 1
-; Cleffa
+; Lombre
 	prob 16
 	prob 3
-; Igglybuff
+; Ludicolo
 	prob 16
 	prob 3
 ; Smoochum
@@ -36,7 +36,7 @@ DEF prob_total = 0
 OddEggs:
 	table_width NICKNAMED_MON_STRUCT_LENGTH, OddEggs
 
-	db PICHU
+	db LOTAD
 	db NO_ITEM
 	db THUNDERSHOCK, CHARM, DIZZY_PUNCH, 0
 	dw 02048 ; OT ID
@@ -62,7 +62,7 @@ OddEggs:
 	bigdw 8 ; SDef
 	db "EGG@@@@@@@@"
 
-	db PICHU
+	db LOTAD
 	db NO_ITEM
 	db THUNDERSHOCK, CHARM, DIZZY_PUNCH, 0
 	dw 00256 ; OT ID
@@ -88,7 +88,7 @@ OddEggs:
 	bigdw 9 ; SDef
 	db "EGG@@@@@@@@"
 
-	db CLEFFA
+	db LOMBRE
 	db NO_ITEM
 	db POUND, CHARM, DIZZY_PUNCH, 0
 	dw 04096 ; OT ID
@@ -114,7 +114,7 @@ OddEggs:
 	bigdw 10 ; SDef
 	db "EGG@@@@@@@@"
 
-	db CLEFFA
+	db LOMBRE
 	db NO_ITEM
 	db POUND, CHARM, DIZZY_PUNCH, 0
 	dw 00768 ; OT ID
@@ -140,7 +140,7 @@ OddEggs:
 	bigdw 11 ; SDef
 	db "EGG@@@@@@@@"
 
-	db IGGLYBUFF
+	db LUDICOLO
 	db NO_ITEM
 	db SING, CHARM, DIZZY_PUNCH, 0
 	dw 04096 ; OT ID
@@ -166,7 +166,7 @@ OddEggs:
 	bigdw 7 ; SDef
 	db "EGG@@@@@@@@"
 
-	db IGGLYBUFF
+	db LUDICOLO
 	db NO_ITEM
 	db SING, CHARM, DIZZY_PUNCH, 0
 	dw 00768 ; OT ID

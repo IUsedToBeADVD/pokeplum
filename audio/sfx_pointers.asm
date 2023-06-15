@@ -198,7 +198,7 @@ SFX:
 	dba Sfx_DittoPopUp
 	dba Sfx_DittoTransform
 	dba Sfx_IntroSuicune1
-	dba Sfx_IntroPichu
+	dba Sfx_IntroLotad
 	dba Sfx_IntroSuicune2
 	dba Sfx_IntroSuicune3
 	dba Sfx_DittoBounce

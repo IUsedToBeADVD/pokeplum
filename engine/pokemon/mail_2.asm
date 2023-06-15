@@ -428,7 +428,7 @@ LoadBlueSkyMailGFX:
 	ld de, BlueSkyMailGrassGFX
 	ld c, 1 * LEN_1BPP_TILE
 	call LoadMailGFX_Color3
-	ld de, MailDragoniteAndSentretGFX
+	ld de, MailDragoniteAndBunearyGFX
 	ld c, 23 * LEN_1BPP_TILE
 	call LoadMailGFX_Color3
 	ld de, MailCloudGFX

@@ -162,20 +162,20 @@ MonMenuIcons:
 	db ICON_FOX     ; MUDKIP
 	db ICON_FOX     ; MARSHTOMP
 	db ICON_MONSTER     ; SWAMPERT
-	db ICON_FOX         ; SENTRET
-	db ICON_FOX         ; FURRET
+	db ICON_FOX         ; BUNEARY
+	db ICON_FOX         ; LOPUNNY
 	db ICON_BIRD        ; HOOTHOOT
 	db ICON_BIRD        ; NOCTOWL
 	db ICON_BUG         ; LEDYBA
 	db ICON_BUG         ; LEDIAN
-	db ICON_BUG         ; SPINARAK
-	db ICON_BUG         ; ARIADOS
+	db ICON_BUG         ; COMBEE
+	db ICON_BUG         ; VESPIQUEN
 	db ICON_BAT         ; CROBAT
 	db ICON_FISH        ; CHINCHOU
 	db ICON_FISH        ; LANTURN
-	db ICON_PIKACHU     ; PICHU
-	db ICON_CLEFAIRY    ; CLEFFA
-	db ICON_JIGGLYPUFF  ; IGGLYBUFF
+	db ICON_PIKACHU     ; LOTAD
+	db ICON_CLEFAIRY    ; LOMBRE
+	db ICON_JIGGLYPUFF  ; LUDICOLO
 	db ICON_CLEFAIRY    ; TOGEPI
 	db ICON_BIRD        ; TOGETIC
 	db ICON_BIRD        ; NATU

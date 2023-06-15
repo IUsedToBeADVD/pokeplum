@@ -64,7 +64,6 @@ BattleTowerGroupSprites:
 	db SPRITE_POKE_BALL
 	db SPRITE_POKEDEX
 
-StelursaGroupSprites:
 SintiriGroupSprites:
 WishookGroupSprites:
 NewBarkGroupSprites:
@@ -117,6 +116,7 @@ IndigoGroupSprites:
 	db SPRITE_POKE_BALL
 	db SPRITE_POKEDEX
 
+StelursaGroupSprites:
 DungeonsGroupSprites:
 	db SPRITE_SUICUNE
 	db SPRITE_SILVER_TROPHY

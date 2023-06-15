@@ -1358,12 +1358,12 @@ Unknown_1172e9:
 	db $0, $8, $0, $2
 	db $4, $10, $10, $6
 
-PichuBorderMobileOBPalettes:
-INCLUDE "gfx/mobile/pichu_border_ob.pal"
+LotadBorderMobileOBPalettes:
+INCLUDE "gfx/mobile/lotad_border_ob.pal"
 
-PichuBorderMobileBGPalettes:
-INCLUDE "gfx/mobile/pichu_border_bg.pal"
+LotadBorderMobileBGPalettes:
+INCLUDE "gfx/mobile/lotad_border_bg.pal"
 
-PichuBorderMobileTilemapAttrmap:
-INCBIN "gfx/mobile/pichu_border.tilemap"
-INCBIN "gfx/mobile/pichu_border.attrmap"
+LotadBorderMobileTilemapAttrmap:
+INCBIN "gfx/mobile/lotad_border.tilemap"
+INCBIN "gfx/mobile/lotad_border.attrmap"

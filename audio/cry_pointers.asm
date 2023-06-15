@@ -40,20 +40,20 @@ Cries:
 	dba Cry_Vulpix
 	dba Cry_Weepinbell
 	dba Cry_Marill
-	dba Cry_Spinarak
+	dba Cry_Combee
 	dba Cry_Togepi
 	dba Cry_Girafarig
 	dba Cry_Raikou
 	dba Cry_Mareep
 	dba Cry_Togetic
 	dba Cry_Hoothoot
-	dba Cry_Sentret
+	dba Cry_Buneary
 	dba Cry_Slowking
 	dba Cry_Torchic
 	dba Cry_Treecko
 	dba Cry_Mudkip
 	dba Cry_Gligar
-	dba Cry_Cleffa
+	dba Cry_Lombre
 	dba Cry_Slugma
 	dba Cry_Ledyba
 	dba Cry_Entei
@@ -65,7 +65,7 @@ Cries:
 	dba Cry_Sunflora
 	dba Cry_Ampharos
 	dba Cry_Magcargo
-	dba Cry_Pichu
+	dba Cry_Lotad
 	dba Cry_Aipom
 	dba Cry_Dunsparce
 	dba Cry_Donphan

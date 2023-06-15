@@ -3046,8 +3046,11 @@ wBrunosRoomSceneID::                db
 wKarensRoomSceneID::                db
 wLancesRoomSceneID::                db
 wHallOfFameSceneID::                db
+wStelursaTownSceneID::              db
+wStumpsLabSceneID::					db
+wStumpsLabRoofSceneID::				db
 
-	ds 112
+	ds 109
 
 ; fight counts
 wJackFightCount::    db
