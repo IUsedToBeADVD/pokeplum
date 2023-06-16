@@ -117,8 +117,8 @@ AnimationPointers:
 	dw KangaskhanAnimation
 	dw HorseaAnimation
 	dw SeadraAnimation
-	dw GoldeenAnimation
-	dw SeakingAnimation
+	dw CacneaAnimation
+	dw CacturneAnimation
 	dw StaryuAnimation
 	dw StarmieAnimation
 	dw MrMimeAnimation
@@ -182,8 +182,8 @@ AnimationPointers:
 	dw FlaaffyAnimation
 	dw AmpharosAnimation
 	dw BellossomAnimation
-	dw MarillAnimation
-	dw AzumarillAnimation
+	dw MedititeAnimation
+	dw MedichamAnimation
 	dw SudowoodoAnimation
 	dw PolitoedAnimation
 	dw HoppipAnimation

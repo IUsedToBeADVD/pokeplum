@@ -1,8 +1,8 @@
-Cry_Marill:
+Cry_Meditite:
 	channel_count 3
-	channel 5, Cry_Marill_Ch5
-	channel 6, Cry_Marill_Ch6
-	channel 8, Cry_Marill_Ch8
+	channel 5, Cry_Meditite_Ch5
+	channel 6, Cry_Meditite_Ch6
+	channel 8, Cry_Meditite_Ch8
 
 Cry_Togepi:
 	channel_count 2
@@ -315,7 +315,7 @@ Cry_Lotad_Ch8:
 	noise_note 8, 12, 2, 24
 	sound_ret
 
-Cry_Marill_Ch5:
+Cry_Meditite_Ch5:
 	duty_cycle_pattern 0, 2, 0, 2
 	square_note 2, 8, 8, 1752
 	square_note 8, 14, 2, 1760
@@ -326,7 +326,7 @@ Cry_Marill_Ch5:
 	square_note 8, 12, 1, 1706
 	sound_ret
 
-Cry_Marill_Ch6:
+Cry_Meditite_Ch6:
 	duty_cycle_pattern 1, 2, 0, 3
 	square_note 2, 6, 8, 1713
 	square_note 5, 12, 1, 1721
@@ -336,7 +336,7 @@ Cry_Marill_Ch6:
 	square_note 10, 9, 2, 1659
 	sound_ret
 
-Cry_Marill_Ch8:
+Cry_Meditite_Ch8:
 	noise_note 1, 9, -1, 108
 	noise_note 1, 9, 2, 92
 	noise_note 10, 6, 2, 76

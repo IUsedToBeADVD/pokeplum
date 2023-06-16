@@ -11,7 +11,7 @@ AlphabeticalPokedexOrder:
 	db ARCANINE
 	db VESPIQUEN
 	db ARTICUNO
-	db AZUMARILL
+	db MEDICHAM
 	db GROVYLE
 	db BEEDRILL
 	db BELLOSSOM
@@ -73,7 +73,7 @@ AlphabeticalPokedexOrder:
 	db GLIGAR
 	db GLOOM
 	db GOLBAT
-	db GOLDEEN
+	db CACNEA
 	db GOLDUCK
 	db GOLEM
 	db DUBWOOL
@@ -128,7 +128,7 @@ AlphabeticalPokedexOrder:
 	db MANKEY
 	db MANTINE
 	db MAREEP
-	db MARILL
+	db MEDITITE
 	db MAROWAK
 	db SCEPTILE
 	db MEOWTH
@@ -193,7 +193,7 @@ AlphabeticalPokedexOrder:
 	db SCIZOR
 	db SCYTHER
 	db SEADRA
-	db SEAKING
+	db CACTURNE
 	db SIZZLIPEDE
 	db BUNEARY
 	db SHELLDER

@@ -123,8 +123,8 @@ PokemonCries::
 	mon_cry CRY_KANGASKHAN,    0,  256 ; KANGASKHAN
 	mon_cry CRY_CLEFAIRY,    153,  144 ; HORSEA
 	mon_cry CRY_CLEFAIRY,     60,  129 ; SEADRA
-	mon_cry CRY_CATERPIE,    128,  192 ; GOLDEEN
-	mon_cry CRY_CATERPIE,     16,  383 ; SEAKING
+	mon_cry CRY_CATERPIE,    128,  192 ; CACNEA
+	mon_cry CRY_CATERPIE,     16,  383 ; CACTURNE
 	mon_cry CRY_PARAS,         2,  160 ; STARYU
 	mon_cry CRY_PARAS,         0,  256 ; STARMIE
 	mon_cry CRY_KRABBY,        8,  192 ; MR__MIME
@@ -188,22 +188,22 @@ PokemonCries::
 	mon_cry CRY_MAREEP,       -7,  384 ; FLAAFFY
 	mon_cry CRY_AMPHAROS,   -124,  232 ; AMPHAROS
 	mon_cry CRY_LOMBRE,      132,  336 ; BELLOSSOM
-	mon_cry CRY_MARILL,      283,  288 ; MARILL
-	mon_cry CRY_MARILL,      182,  384 ; AZUMARILL
+	mon_cry CRY_MEDITITE,      283,  288 ; MEDITITE
+	mon_cry CRY_MEDITITE,      182,  384 ; MEDICHAM
 	mon_cry CRY_LOMBRE,     3904,  384 ; SUDOWOODO
 	mon_cry CRY_LOMBRE,     -675,  456 ; POLITOED
 	mon_cry CRY_LOMBRE,       59,  200 ; HOPPIP
 	mon_cry CRY_LOMBRE,       39,  312 ; SKIPLOOM
 	mon_cry CRY_LOMBRE,        0,  384 ; JUMPLUFF
 	mon_cry CRY_AIPOM,       -81,  232 ; AIPOM
-	mon_cry CRY_MARILL,      299,  184 ; SUNKERN
+	mon_cry CRY_MEDITITE,      299,  184 ; SUNKERN
 	mon_cry CRY_SUNFLORA,    -32,  384 ; SUNFLORA
 	mon_cry CRY_MUDKIP,     49,  200 ; YANMA
 	mon_cry CRY_WOOPER,      147,  175 ; WOOPER
 	mon_cry CRY_WOOPER,     -198,  320 ; QUAGSIRE
 	mon_cry CRY_AIPOM,       162,  320 ; ESPEON
 	mon_cry CRY_VENONAT,    -233,  240 ; UMBREON
-	mon_cry CRY_MARILL,      -31,  384 ; MURKROW
+	mon_cry CRY_MEDITITE,      -31,  384 ; MURKROW
 	mon_cry CRY_SLOWKING,    260,  512 ; SLOWKING
 	mon_cry CRY_HOOTHOOT,    304,  232 ; MISDREAVUS
 	mon_cry CRY_HOOTHOOT,    354,  256 ; UNOWN
@@ -243,7 +243,7 @@ PokemonCries::
 	mon_cry CRY_LOTAD,      -538,  496 ; SMEARGLE
 	mon_cry CRY_AIPOM,        44,  264 ; TYROGUE
 	mon_cry CRY_SLUGMA,        0,  256 ; HITMONTOP
-	mon_cry CRY_MARILL,      104,  256 ; SMOOCHUM
+	mon_cry CRY_MEDITITE,      104,  256 ; SMOOCHUM
 	mon_cry CRY_SUNFLORA,   -728,  180 ; ELEKID
 	mon_cry CRY_COTTONEE,   374,   58 ; MAGBY
 	mon_cry CRY_GLIGAR,     -461,  416 ; MILTANK

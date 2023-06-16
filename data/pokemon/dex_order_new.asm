@@ -79,8 +79,8 @@ NewPokedexOrder:
 	db POLITOED
 	db MAGIKARP
 	db GYARADOS
-	db GOLDEEN
-	db SEAKING
+	db CACNEA
+	db CACTURNE
 	db SLOWPOKE
 	db SLOWBRO
 	db SLOWKING
@@ -131,8 +131,8 @@ NewPokedexOrder:
 	db GROWLITHE
 	db ARCANINE
 	db STANTLER
-	db MARILL
-	db AZUMARILL
+	db MEDITITE
+	db MEDICHAM
 	db DIGLETT
 	db DUGTRIO
 	db MANKEY

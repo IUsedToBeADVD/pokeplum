@@ -943,7 +943,7 @@ BattleTowerMons:
 	bigdw 47 ; SDef
 	db "KENTAROSU@@"
 
-	db AZUMARILL
+	db MEDICHAM
 	db MYSTIC_WATER
 	db SURF, BLIZZARD, ATTRACT, RAIN_DANCE
 	dw 0 ; OT ID

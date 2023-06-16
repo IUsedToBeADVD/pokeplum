@@ -118,8 +118,8 @@ PokedexDataPointerTable:
 	dw KangaskhanPokedexEntry
 	dw HorseaPokedexEntry
 	dw SeadraPokedexEntry
-	dw GoldeenPokedexEntry
-	dw SeakingPokedexEntry
+	dw CacneaPokedexEntry
+	dw CacturnePokedexEntry
 	dw StaryuPokedexEntry
 	dw StarmiePokedexEntry
 	dw MrMimePokedexEntry
@@ -183,8 +183,8 @@ PokedexDataPointerTable:
 	dw FlaaffyPokedexEntry
 	dw AmpharosPokedexEntry
 	dw BellossomPokedexEntry
-	dw MarillPokedexEntry
-	dw AzumarillPokedexEntry
+	dw MedititePokedexEntry
+	dw MedichamPokedexEntry
 	dw SudowoodoPokedexEntry
 	dw PolitoedPokedexEntry
 	dw HoppipPokedexEntry

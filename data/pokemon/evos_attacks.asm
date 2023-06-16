@@ -1605,32 +1605,35 @@ SeadraEvosAttacks:
 	db 51, HYDRO_PUMP
 	db 0 ; no more level-up moves
 
-GoldeenEvosAttacks:
-	db EVOLVE_LEVEL, 33, SEAKING
+CacneaEvosAttacks:
+	db EVOLVE_LEVEL, 32, CACTURNE
 	db 0 ; no more evolutions
-	db 1, PECK
-	db 1, TAIL_WHIP
-	db 10, SUPERSONIC
-	db 15, HORN_ATTACK
-	db 24, FLAIL
-	db 29, FURY_ATTACK
-	db 38, WATERFALL
-	db 43, HORN_DRILL
-	db 52, AGILITY
+	db 1, POISON_STING
+	db 1, LEER
+	db 5, ABSORB
+	db 9, GROWTH
+	db 13, LEECH_SEED
+	db 17, SAND_ATTACK
+	db 21, PIN_MISSILE
+	db 25, FAINT_ATTACK
+	db 29, SPIKES
+	db 37, COTTON_SPORE
+	db 41, SANDSTORM
 	db 0 ; no more level-up moves
 
-SeakingEvosAttacks:
+CacturneEvosAttacks:
 	db 0 ; no more evolutions
-	db 1, PECK
-	db 1, TAIL_WHIP
-	db 1, TAIL_WHIP
-	db 10, SUPERSONIC
-	db 15, HORN_ATTACK
-	db 24, FLAIL
-	db 29, FURY_ATTACK
-	db 41, WATERFALL
-	db 49, HORN_DRILL
-	db 61, AGILITY
+	db 1, POISON_STING
+	db 1, LEER
+	db 5, ABSORB
+	db 9, GROWTH
+	db 13, LEECH_SEED
+	db 17, SAND_ATTACK
+	db 21, PIN_MISSILE
+	db 25, FAINT_ATTACK
+	db 29, SPIKES
+	db 41, COTTON_SPORE
+	db 45, SANDSTORM
 	db 0 ; no more level-up moves
 
 StaryuEvosAttacks:
@@ -2486,32 +2489,36 @@ BellossomEvosAttacks:
 	db 55, SOLARBEAM
 	db 0 ; no more level-up moves
 
-MarillEvosAttacks:
-	db EVOLVE_LEVEL, 18, AZUMARILL
+MedititeEvosAttacks:
+	db EVOLVE_LEVEL, 37, MEDICHAM
 	db 0 ; no more evolutions
-	db 1, TACKLE
-	db 3, DEFENSE_CURL
-	db 6, TAIL_WHIP
-	db 10, WATER_GUN
-	db 15, ROLLOUT
-	db 21, BUBBLEBEAM
-	db 28, DOUBLE_EDGE
-	db 36, RAIN_DANCE
+	db 1, BIDE
+	db 3, MEDITATE
+	db 8, CONFUSION
+	db 12, DETECT
+	db 18, HIDDEN_POWER
+	db 22, MIND_READER
+	db 28, HI_JUMP_KICK
+	db 36, PSYCH_UP
+	db 42, REVERSAL
+	db 48, RECOVER
 	db 0 ; no more level-up moves
 
-AzumarillEvosAttacks:
+MedichamEvosAttacks:
 	db 0 ; no more evolutions
-	db 1, TACKLE
-	db 1, DEFENSE_CURL
-	db 1, TAIL_WHIP
-	db 1, WATER_GUN
-	db 3, DEFENSE_CURL
-	db 6, TAIL_WHIP
-	db 10, WATER_GUN
-	db 15, ROLLOUT
-	db 25, BUBBLEBEAM
-	db 36, DOUBLE_EDGE
-	db 48, RAIN_DANCE
+	db 1, THUNDERPUNCH
+	db 1, FIRE_PUNCH
+	db 1, ICE_PUNCH
+	db 1, BIDE
+	db 3, MEDITATE
+	db 8, CONFUSION
+	db 12, DETECT
+	db 18, HIDDEN_POWER
+	db 22, MIND_READER
+	db 28, HI_JUMP_KICK
+	db 36, PSYCH_UP
+	db 42, REVERSAL
+	db 48, RECOVER
 	db 0 ; no more level-up moves
 
 SudowoodoEvosAttacks:

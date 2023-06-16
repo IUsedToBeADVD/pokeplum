@@ -42,7 +42,7 @@
 	const CRY_WEEPINBELL
 
 ; gen 2
-	const CRY_MARILL
+	const CRY_MEDITITE
 	const CRY_COMBEE
 	const CRY_TOGEPI
 	const CRY_GIRAFARIG

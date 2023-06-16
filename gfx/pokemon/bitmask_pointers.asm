@@ -117,8 +117,8 @@ BitmasksPointers:
 	dw KangaskhanBitmasks
 	dw HorseaBitmasks
 	dw SeadraBitmasks
-	dw GoldeenBitmasks
-	dw SeakingBitmasks
+	dw CacneaBitmasks
+	dw CacturneBitmasks
 	dw StaryuBitmasks
 	dw StarmieBitmasks
 	dw MrMimeBitmasks
@@ -182,8 +182,8 @@ BitmasksPointers:
 	dw FlaaffyBitmasks
 	dw AmpharosBitmasks
 	dw BellossomBitmasks
-	dw MarillBitmasks
-	dw AzumarillBitmasks
+	dw MedititeBitmasks
+	dw MedichamBitmasks
 	dw SudowoodoBitmasks
 	dw PolitoedBitmasks
 	dw HoppipBitmasks

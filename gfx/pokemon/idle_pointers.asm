@@ -117,8 +117,8 @@ AnimationIdlePointers:
 	dw KangaskhanAnimationIdle
 	dw HorseaAnimationIdle
 	dw SeadraAnimationIdle
-	dw GoldeenAnimationIdle
-	dw SeakingAnimationIdle
+	dw CacneaAnimationIdle
+	dw CacturneAnimationIdle
 	dw StaryuAnimationIdle
 	dw StarmieAnimationIdle
 	dw MrMimeAnimationIdle
@@ -182,8 +182,8 @@ AnimationIdlePointers:
 	dw FlaaffyAnimationIdle
 	dw AmpharosAnimationIdle
 	dw BellossomAnimationIdle
-	dw MarillAnimationIdle
-	dw AzumarillAnimationIdle
+	dw MedititeAnimationIdle
+	dw MedichamAnimationIdle
 	dw SudowoodoAnimationIdle
 	dw PolitoedAnimationIdle
 	dw HoppipAnimationIdle

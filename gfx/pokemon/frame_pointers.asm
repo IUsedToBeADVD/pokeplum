@@ -117,8 +117,8 @@ FramesPointers:
 	dw KangaskhanFrames
 	dw HorseaFrames
 	dw SeadraFrames
-	dw GoldeenFrames
-	dw SeakingFrames
+	dw CacneaFrames
+	dw CacturneFrames
 	dw StaryuFrames
 	dw StarmieFrames
 	dw MrMimeFrames
@@ -182,8 +182,8 @@ FramesPointers:
 	dw FlaaffyFrames
 	dw AmpharosFrames
 	dw BellossomFrames
-	dw MarillFrames
-	dw AzumarillFrames
+	dw MedititeFrames
+	dw MedichamFrames
 	dw SudowoodoFrames
 	dw PolitoedFrames
 	dw HoppipFrames

@@ -371,7 +371,7 @@ HorseaEggMoves:
 	db DRAGON_RAGE
 	db -1 ; end
 
-GoldeenEggMoves:
+CacneaEggMoves:
 	db PSYBEAM
 	db HAZE
 	db HYDRO_PUMP
@@ -552,7 +552,7 @@ MareepEggMoves:
 	db REFLECT
 	db -1 ; end
 
-MarillEggMoves:
+MedititeEggMoves:
 	db LIGHT_SCREEN
 	db PRESENT
 	db AMNESIA

@@ -136,8 +136,8 @@
 	const KANGASKHAN ; 73
 	const HORSEA     ; 74
 	const SEADRA     ; 75
-	const GOLDEEN    ; 76
-	const SEAKING    ; 77
+	const CACNEA    ; 76
+	const CACTURNE    ; 77
 	const STARYU     ; 78
 	const STARMIE    ; 79
 	const MR__MIME   ; 7a
@@ -202,8 +202,8 @@ DEF JOHTO_POKEMON EQU const_value
 	const FLAAFFY    ; b4
 	const AMPHAROS   ; b5
 	const BELLOSSOM  ; b6
-	const MARILL     ; b7
-	const AZUMARILL  ; b8
+	const MEDITITE     ; b7
+	const MEDICHAM  ; b8
 	const SUDOWOODO  ; b9
 	const POLITOED   ; ba
 	const HOPPIP     ; bb

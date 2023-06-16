@@ -269,8 +269,8 @@ INCBIN "gfx/footprints/tangela.1bpp",    footprint_top
 INCBIN "gfx/footprints/kangaskhan.1bpp", footprint_top
 INCBIN "gfx/footprints/horsea.1bpp",     footprint_top
 INCBIN "gfx/footprints/seadra.1bpp",     footprint_top
-INCBIN "gfx/footprints/goldeen.1bpp",    footprint_top
-INCBIN "gfx/footprints/seaking.1bpp",    footprint_top
+INCBIN "gfx/footprints/cacnea.1bpp",    footprint_top
+INCBIN "gfx/footprints/cacturne.1bpp",    footprint_top
 INCBIN "gfx/footprints/staryu.1bpp",     footprint_top
 ; 113-120 bottom halves
 INCBIN "gfx/footprints/chansey.1bpp",    footprint_bottom
@@ -278,8 +278,8 @@ INCBIN "gfx/footprints/tangela.1bpp",    footprint_bottom
 INCBIN "gfx/footprints/kangaskhan.1bpp", footprint_bottom
 INCBIN "gfx/footprints/horsea.1bpp",     footprint_bottom
 INCBIN "gfx/footprints/seadra.1bpp",     footprint_bottom
-INCBIN "gfx/footprints/goldeen.1bpp",    footprint_bottom
-INCBIN "gfx/footprints/seaking.1bpp",    footprint_bottom
+INCBIN "gfx/footprints/cacnea.1bpp",    footprint_bottom
+INCBIN "gfx/footprints/cacturne.1bpp",    footprint_bottom
 INCBIN "gfx/footprints/staryu.1bpp",     footprint_bottom
 ; 121-128 top halves
 INCBIN "gfx/footprints/starmie.1bpp",    footprint_top
@@ -414,8 +414,8 @@ INCBIN "gfx/footprints/mareep.1bpp",     footprint_top
 INCBIN "gfx/footprints/flaaffy.1bpp",    footprint_top
 INCBIN "gfx/footprints/ampharos.1bpp",   footprint_top
 INCBIN "gfx/footprints/bellossom.1bpp",  footprint_top
-INCBIN "gfx/footprints/marill.1bpp",     footprint_top
-INCBIN "gfx/footprints/azumarill.1bpp",  footprint_top
+INCBIN "gfx/footprints/meditite.1bpp",     footprint_top
+INCBIN "gfx/footprints/medicham.1bpp",  footprint_top
 ; 177-184 bottom halves
 INCBIN "gfx/footprints/natu.1bpp",       footprint_bottom
 INCBIN "gfx/footprints/xatu.1bpp",       footprint_bottom
@@ -423,8 +423,8 @@ INCBIN "gfx/footprints/mareep.1bpp",     footprint_bottom
 INCBIN "gfx/footprints/flaaffy.1bpp",    footprint_bottom
 INCBIN "gfx/footprints/ampharos.1bpp",   footprint_bottom
 INCBIN "gfx/footprints/bellossom.1bpp",  footprint_bottom
-INCBIN "gfx/footprints/marill.1bpp",     footprint_bottom
-INCBIN "gfx/footprints/azumarill.1bpp",  footprint_bottom
+INCBIN "gfx/footprints/meditite.1bpp",     footprint_bottom
+INCBIN "gfx/footprints/medicham.1bpp",  footprint_bottom
 ; 185-192 top halves
 INCBIN "gfx/footprints/sudowoodo.1bpp",  footprint_top
 INCBIN "gfx/footprints/politoed.1bpp",   footprint_top

@@ -119,8 +119,8 @@ EvosAttacksPointers::
 	dw KangaskhanEvosAttacks
 	dw HorseaEvosAttacks
 	dw SeadraEvosAttacks
-	dw GoldeenEvosAttacks
-	dw SeakingEvosAttacks
+	dw CacneaEvosAttacks
+	dw CacturneEvosAttacks
 	dw StaryuEvosAttacks
 	dw StarmieEvosAttacks
 	dw MrMimeEvosAttacks
@@ -184,8 +184,8 @@ EvosAttacksPointers::
 	dw FlaaffyEvosAttacks
 	dw AmpharosEvosAttacks
 	dw BellossomEvosAttacks
-	dw MarillEvosAttacks
-	dw AzumarillEvosAttacks
+	dw MedititeEvosAttacks
+	dw MedichamEvosAttacks
 	dw SudowoodoEvosAttacks
 	dw PolitoedEvosAttacks
 	dw HoppipEvosAttacks

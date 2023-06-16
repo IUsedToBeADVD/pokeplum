@@ -41,10 +41,10 @@ JohtoGrassWildMons:
 	db 3, MANKEY
 	db 3, MANKEY
 	; day
-	db 2, JOLTIK
+	db 2, MUSHARNA
 	db 2, MUNNA
-	db 3, FERROSEED
-	db 3, SIZZLIPEDE
+	db 3, MUSHARNA
+	db 3, MUSHARNA
 	db 2, DUBWOOL
 	db 3, MUNNA
 	db 3, COTTONEE

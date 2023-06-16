@@ -237,10 +237,10 @@ PokemonPicPointers::
 	dba HorseaBackpic
 	dba SeadraFrontpic
 	dba SeadraBackpic
-	dba GoldeenFrontpic
-	dba GoldeenBackpic
-	dba SeakingFrontpic
-	dba SeakingBackpic
+	dba CacneaFrontpic
+	dba CacneaBackpic
+	dba CacturneFrontpic
+	dba CacturneBackpic
 	dba StaryuFrontpic
 	dba StaryuBackpic
 	dba StarmieFrontpic
@@ -367,10 +367,10 @@ PokemonPicPointers::
 	dba AmpharosBackpic
 	dba BellossomFrontpic
 	dba BellossomBackpic
-	dba MarillFrontpic
-	dba MarillBackpic
-	dba AzumarillFrontpic
-	dba AzumarillBackpic
+	dba MedititeFrontpic
+	dba MedititeBackpic
+	dba MedichamFrontpic
+	dba MedichamBackpic
 	dba SudowoodoFrontpic
 	dba SudowoodoBackpic
 	dba PolitoedFrontpic

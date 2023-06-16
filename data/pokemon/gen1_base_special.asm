@@ -119,8 +119,8 @@ KantoMonSpecials:
 	db  40 ; KANGASKHAN
 	db  70 ; HORSEA
 	db  95 ; SEADRA
-	db  50 ; GOLDEEN
-	db  80 ; SEAKING
+	db  50 ; CACNEA
+	db  80 ; CACTURNE
 	db  70 ; STARYU
 	db 100 ; STARMIE
 	db 100 ; MR__MIME
