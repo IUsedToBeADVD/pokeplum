@@ -197,8 +197,8 @@ INCBIN "gfx/footprints/magneton.1bpp",   footprint_top
 INCBIN "gfx/footprints/farfetch_d.1bpp", footprint_top
 INCBIN "gfx/footprints/doduo.1bpp",      footprint_top
 INCBIN "gfx/footprints/dodrio.1bpp",     footprint_top
-INCBIN "gfx/footprints/seel.1bpp",       footprint_top
-INCBIN "gfx/footprints/dewgong.1bpp",    footprint_top
+INCBIN "gfx/footprints/sizzlipede.1bpp",       footprint_top
+INCBIN "gfx/footprints/cntiskorch.1bpp",    footprint_top
 INCBIN "gfx/footprints/grimer.1bpp",     footprint_top
 ; 081-088 bottom halves
 INCBIN "gfx/footprints/magnemite.1bpp",  footprint_bottom
@@ -206,8 +206,8 @@ INCBIN "gfx/footprints/magneton.1bpp",   footprint_bottom
 INCBIN "gfx/footprints/farfetch_d.1bpp", footprint_bottom
 INCBIN "gfx/footprints/doduo.1bpp",      footprint_bottom
 INCBIN "gfx/footprints/dodrio.1bpp",     footprint_bottom
-INCBIN "gfx/footprints/seel.1bpp",       footprint_bottom
-INCBIN "gfx/footprints/dewgong.1bpp",    footprint_bottom
+INCBIN "gfx/footprints/sizzlipede.1bpp",       footprint_bottom
+INCBIN "gfx/footprints/cntiskorch.1bpp",    footprint_bottom
 INCBIN "gfx/footprints/grimer.1bpp",     footprint_bottom
 ; 089-096 top halves
 INCBIN "gfx/footprints/muk.1bpp",        footprint_top
@@ -465,8 +465,8 @@ INCBIN "gfx/footprints/misdreavus.1bpp", footprint_bottom
 INCBIN "gfx/footprints/unown.1bpp",      footprint_top
 INCBIN "gfx/footprints/wobbuffet.1bpp",  footprint_top
 INCBIN "gfx/footprints/girafarig.1bpp",  footprint_top
-INCBIN "gfx/footprints/pineco.1bpp",     footprint_top
-INCBIN "gfx/footprints/forretress.1bpp", footprint_top
+INCBIN "gfx/footprints/ferroseed.1bpp",     footprint_top
+INCBIN "gfx/footprints/ferrothorn.1bpp", footprint_top
 INCBIN "gfx/footprints/dunsparce.1bpp",  footprint_top
 INCBIN "gfx/footprints/gligar.1bpp",     footprint_top
 INCBIN "gfx/footprints/steelix.1bpp",    footprint_top
@@ -474,8 +474,8 @@ INCBIN "gfx/footprints/steelix.1bpp",    footprint_top
 INCBIN "gfx/footprints/unown.1bpp",      footprint_bottom
 INCBIN "gfx/footprints/wobbuffet.1bpp",  footprint_bottom
 INCBIN "gfx/footprints/girafarig.1bpp",  footprint_bottom
-INCBIN "gfx/footprints/pineco.1bpp",     footprint_bottom
-INCBIN "gfx/footprints/forretress.1bpp", footprint_bottom
+INCBIN "gfx/footprints/ferroseed.1bpp",     footprint_bottom
+INCBIN "gfx/footprints/ferrothorn.1bpp", footprint_bottom
 INCBIN "gfx/footprints/dunsparce.1bpp",  footprint_bottom
 INCBIN "gfx/footprints/gligar.1bpp",     footprint_bottom
 INCBIN "gfx/footprints/steelix.1bpp",    footprint_bottom
@@ -504,8 +504,8 @@ INCBIN "gfx/footprints/magcargo.1bpp",   footprint_top
 INCBIN "gfx/footprints/swinub.1bpp",     footprint_top
 INCBIN "gfx/footprints/piloswine.1bpp",  footprint_top
 INCBIN "gfx/footprints/corsola.1bpp",    footprint_top
-INCBIN "gfx/footprints/remoraid.1bpp",   footprint_top
-INCBIN "gfx/footprints/octillery.1bpp",  footprint_top
+INCBIN "gfx/footprints/joltik.1bpp",   footprint_top
+INCBIN "gfx/footprints/galvantula.1bpp",  footprint_top
 ; 217-224 bottom halves
 INCBIN "gfx/footprints/whimsicott.1bpp",   footprint_bottom
 INCBIN "gfx/footprints/slugma.1bpp",     footprint_bottom
@@ -513,8 +513,8 @@ INCBIN "gfx/footprints/magcargo.1bpp",   footprint_bottom
 INCBIN "gfx/footprints/swinub.1bpp",     footprint_bottom
 INCBIN "gfx/footprints/piloswine.1bpp",  footprint_bottom
 INCBIN "gfx/footprints/corsola.1bpp",    footprint_bottom
-INCBIN "gfx/footprints/remoraid.1bpp",   footprint_bottom
-INCBIN "gfx/footprints/octillery.1bpp",  footprint_bottom
+INCBIN "gfx/footprints/joltik.1bpp",   footprint_bottom
+INCBIN "gfx/footprints/galvantula.1bpp",  footprint_bottom
 ; 225-232 top halves
 INCBIN "gfx/footprints/delibird.1bpp",   footprint_top
 INCBIN "gfx/footprints/mantine.1bpp",    footprint_top

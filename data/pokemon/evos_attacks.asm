@@ -1154,29 +1154,35 @@ DodrioEvosAttacks:
 	db 47, AGILITY
 	db 0 ; no more level-up moves
 
-SeelEvosAttacks:
-	db EVOLVE_LEVEL, 34, DEWGONG
+SizzlipedeEvosAttacks:
+	db EVOLVE_LEVEL, 28, CNTISKORCH
 	db 0 ; no more evolutions
-	db 1, HEADBUTT
-	db 5, GROWL
-	db 16, AURORA_BEAM
-	db 21, REST
-	db 32, TAKE_DOWN
-	db 37, ICE_BEAM
-	db 48, SAFEGUARD
+	db 1, EMBER
+	db 1, SMOKESCREEN
+	db 5, WRAP
+	db 10, BITE
+	db 15, FLAME_WHEEL
+	db 20, TWINEEDLE
+	db 25, MINIMIZE
+	db 30, SLAM
+	db 35, FIRE_SPIN
+	db 40, CRUNCH
+	db 45, SACRED_FIRE
 	db 0 ; no more level-up moves
 
-DewgongEvosAttacks:
+CntiskorchEvosAttacks:
 	db 0 ; no more evolutions
-	db 1, HEADBUTT
-	db 1, GROWL
-	db 1, AURORA_BEAM
-	db 5, GROWL
-	db 16, AURORA_BEAM
-	db 21, REST
-	db 32, TAKE_DOWN
-	db 43, ICE_BEAM
-	db 60, SAFEGUARD
+	db 1, EMBER
+	db 1, SMOKESCREEN
+	db 5, WRAP
+	db 10, BITE
+	db 15, FLAME_WHEEL
+	db 20, TWINEEDLE
+	db 25, MINIMIZE
+	db 32, SLAM
+	db 39, FIRE_SPIN
+	db 45, CRUNCH
+	db 51, SACRED_FIRE
 	db 0 ; no more level-up moves
 
 GrimerEvosAttacks:
@@ -2741,32 +2747,36 @@ GirafarigEvosAttacks:
 	db 54, CRUNCH
 	db 0 ; no more level-up moves
 
-PinecoEvosAttacks:
-	db EVOLVE_LEVEL, 31, FORRETRESS
+FerroseedEvosAttacks:
+	db EVOLVE_LEVEL, 40, FERROTHORN
 	db 0 ; no more evolutions
 	db 1, TACKLE
-	db 1, PROTECT
-	db 8, SELFDESTRUCT
-	db 15, TAKE_DOWN
-	db 22, RAPID_SPIN
+	db 1, HARDEN
+	db 6, ROLLOUT
+	db 9, SELFDESTRUCT
+	db 14, METAL_CLAW
+	db 18, PIN_MISSILE
+	db 22, LEECH_SEED
 	db 29, BIDE
 	db 36, EXPLOSION
 	db 43, SPIKES
 	db 50, DOUBLE_EDGE
 	db 0 ; no more level-up moves
 
-ForretressEvosAttacks:
+FerrothornEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, TACKLE
-	db 1, PROTECT
-	db 1, SELFDESTRUCT
-	db 8, SELFDESTRUCT
-	db 15, TAKE_DOWN
-	db 22, RAPID_SPIN
+	db 1, HARDEN
+	db 6, ROLLOUT
+	db 9, SELFDESTRUCT
+	db 14, METAL_CLAW
+	db 18, PIN_MISSILE
+	db 22, LEECH_SEED
 	db 29, BIDE
-	db 39, EXPLOSION
-	db 49, SPIKES
-	db 59, DOUBLE_EDGE
+	db 36, EXPLOSION
+	db 36, GIGA_DRAIN
+	db 45, SPIKES
+	db 50, DOUBLE_EDGE
 	db 0 ; no more level-up moves
 
 DunsparceEvosAttacks:
@@ -2989,30 +2999,39 @@ CorsolaEvosAttacks:
 	db 43, ANCIENTPOWER
 	db 0 ; no more level-up moves
 
-RemoraidEvosAttacks:
-	db EVOLVE_LEVEL, 25, OCTILLERY
+JoltikEvosAttacks:
+	db EVOLVE_LEVEL, 36, GALVANTULA
 	db 0 ; no more evolutions
-	db 1, WATER_GUN
-	db 11, LOCK_ON
-	db 22, PSYBEAM
-	db 22, AURORA_BEAM
-	db 22, BUBBLEBEAM
-	db 33, FOCUS_ENERGY
-	db 44, ICE_BEAM
-	db 55, HYPER_BEAM
+	db 1, LEECH_LIFE
+	db 1, STRING_SHOT
+	db 1, SPIDER_WEB
+	db 4, THUNDER_WAVE
+	db 7, SCREECH
+	db 12, FURY_CUTTER
+	db 15, SPARK
+	db 18, TWINEEDLE
+	db 23, ACID
+	db 28, SLASH
+	db 34, THUNDERBOLT
+	db 45, MEGAHORN
+	db 49, ZAP_CANNON
 	db 0 ; no more level-up moves
 
-OctilleryEvosAttacks:
+GalvantulaEvosAttacks:
 	db 0 ; no more evolutions
-	db 1, WATER_GUN
-	db 11, CONSTRICT
-	db 22, PSYBEAM
-	db 22, AURORA_BEAM
-	db 22, BUBBLEBEAM
-	db 25, OCTAZOOKA
-	db 38, FOCUS_ENERGY
-	db 54, ICE_BEAM
-	db 70, HYPER_BEAM
+	db 1, LEECH_LIFE
+	db 1, STRING_SHOT
+	db 1, SPIDER_WEB
+	db 4, THUNDER_WAVE
+	db 7, SCREECH
+	db 12, FURY_CUTTER
+	db 15, SPARK
+	db 18, TWINEEDLE
+	db 23, ACID
+	db 28, SLASH
+	db 34, THUNDERBOLT
+	db 48, MEGAHORN
+	db 55, ZAP_CANNON
 	db 0 ; no more level-up moves
 
 DelibirdEvosAttacks:

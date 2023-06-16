@@ -87,8 +87,8 @@ MonMenuIcons:
 	db ICON_BIRD        ; FARFETCH_D
 	db ICON_BIRD        ; DODUO
 	db ICON_BIRD        ; DODRIO
-	db ICON_LAPRAS      ; SEEL
-	db ICON_LAPRAS      ; DEWGONG
+	db ICON_LAPRAS      ; SIZZLIPEDE
+	db ICON_LAPRAS      ; CNTISKORCH
 	db ICON_BLOB        ; GRIMER
 	db ICON_BLOB        ; MUK
 	db ICON_SHELL       ; SHELLDER
@@ -205,8 +205,8 @@ MonMenuIcons:
 	db ICON_UNOWN       ; UNOWN
 	db ICON_GHOST       ; WOBBUFFET
 	db ICON_EQUINE      ; GIRAFARIG
-	db ICON_BUG         ; PINECO
-	db ICON_BUG         ; FORRETRESS
+	db ICON_BUG         ; FERROSEED
+	db ICON_BUG         ; FERROTHORN
 	db ICON_SERPENT     ; DUNSPARCE
 	db ICON_BUG         ; GLIGAR
 	db ICON_SERPENT     ; STEELIX
@@ -224,8 +224,8 @@ MonMenuIcons:
 	db ICON_EQUINE      ; SWINUB
 	db ICON_EQUINE      ; PILOSWINE
 	db ICON_SHELL       ; CORSOLA
-	db ICON_FISH        ; REMORAID
-	db ICON_FISH        ; OCTILLERY
+	db ICON_FISH        ; JOLTIK
+	db ICON_FISH        ; GALVANTULA
 	db ICON_MONSTER     ; DELIBIRD
 	db ICON_FISH        ; MANTINE
 	db ICON_BIRD        ; SKARMORY

@@ -251,7 +251,7 @@ DoduoEggMoves:
 	db FLAIL
 	db -1 ; end
 
-SeelEggMoves:
+SizzlipedeEggMoves:
 	db LICK
 	db PERISH_SONG
 	db DISABLE
@@ -622,7 +622,7 @@ GirafarigEggMoves:
 	db BEAT_UP
 	db -1 ; end
 
-PinecoEggMoves:
+FerroseedEggMoves:
 	db REFLECT
 	db PIN_MISSILE
 	db FLAIL
@@ -709,7 +709,7 @@ CorsolaEggMoves:
 	db AMNESIA
 	db -1 ; end
 
-RemoraidEggMoves:
+JoltikEggMoves:
 	db AURORA_BEAM
 	db OCTAZOOKA
 	db SUPERSONIC

@@ -85,8 +85,8 @@ AnimationPointers:
 	dw FarfetchDAnimation
 	dw DoduoAnimation
 	dw DodrioAnimation
-	dw SeelAnimation
-	dw DewgongAnimation
+	dw SizzlipedeAnimation
+	dw CntiskorchAnimation
 	dw GrimerAnimation
 	dw MukAnimation
 	dw ShellderAnimation
@@ -203,8 +203,8 @@ AnimationPointers:
 	dw UnownAnimation
 	dw WobbuffetAnimation
 	dw GirafarigAnimation
-	dw PinecoAnimation
-	dw ForretressAnimation
+	dw FerroseedAnimation
+	dw FerrothornAnimation
 	dw DunsparceAnimation
 	dw GligarAnimation
 	dw SteelixAnimation
@@ -222,8 +222,8 @@ AnimationPointers:
 	dw SwinubAnimation
 	dw PiloswineAnimation
 	dw CorsolaAnimation
-	dw RemoraidAnimation
-	dw OctilleryAnimation
+	dw JoltikAnimation
+	dw GalvantulaAnimation
 	dw DelibirdAnimation
 	dw MantineAnimation
 	dw SkarmoryAnimation

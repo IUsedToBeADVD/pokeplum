@@ -85,8 +85,8 @@ FramesPointers:
 	dw FarfetchDFrames
 	dw DoduoFrames
 	dw DodrioFrames
-	dw SeelFrames
-	dw DewgongFrames
+	dw SizzlipedeFrames
+	dw CntiskorchFrames
 	dw GrimerFrames
 	dw MukFrames
 	dw ShellderFrames
@@ -203,8 +203,8 @@ FramesPointers:
 	dw UnownFrames
 	dw WobbuffetFrames
 	dw GirafarigFrames
-	dw PinecoFrames
-	dw ForretressFrames
+	dw FerroseedFrames
+	dw FerrothornFrames
 	dw DunsparceFrames
 	dw GligarFrames
 	dw SteelixFrames
@@ -222,8 +222,8 @@ FramesPointers:
 	dw SwinubFrames
 	dw PiloswineFrames
 	dw CorsolaFrames
-	dw RemoraidFrames
-	dw OctilleryFrames
+	dw JoltikFrames
+	dw GalvantulaFrames
 	dw DelibirdFrames
 	dw MantineFrames
 	dw SkarmoryFrames

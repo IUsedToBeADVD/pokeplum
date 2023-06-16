@@ -85,8 +85,8 @@ AnimationIdlePointers:
 	dw FarfetchDAnimationIdle
 	dw DoduoAnimationIdle
 	dw DodrioAnimationIdle
-	dw SeelAnimationIdle
-	dw DewgongAnimationIdle
+	dw SizzlipedeAnimationIdle
+	dw CntiskorchAnimationIdle
 	dw GrimerAnimationIdle
 	dw MukAnimationIdle
 	dw ShellderAnimationIdle
@@ -203,8 +203,8 @@ AnimationIdlePointers:
 	dw UnownAnimationIdle
 	dw WobbuffetAnimationIdle
 	dw GirafarigAnimationIdle
-	dw PinecoAnimationIdle
-	dw ForretressAnimationIdle
+	dw FerroseedAnimationIdle
+	dw FerrothornAnimationIdle
 	dw DunsparceAnimationIdle
 	dw GligarAnimationIdle
 	dw SteelixAnimationIdle
@@ -222,8 +222,8 @@ AnimationIdlePointers:
 	dw SwinubAnimationIdle
 	dw PiloswineAnimationIdle
 	dw CorsolaAnimationIdle
-	dw RemoraidAnimationIdle
-	dw OctilleryAnimationIdle
+	dw JoltikAnimationIdle
+	dw GalvantulaAnimationIdle
 	dw DelibirdAnimationIdle
 	dw MantineAnimationIdle
 	dw SkarmoryAnimationIdle

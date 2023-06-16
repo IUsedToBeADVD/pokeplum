@@ -85,7 +85,7 @@ EggMovePointers::
 	dw FarfetchDEggMoves
 	dw DoduoEggMoves
 	dw NoEggMoves
-	dw SeelEggMoves
+	dw SizzlipedeEggMoves
 	dw NoEggMoves
 	dw GrimerEggMoves
 	dw NoEggMoves
@@ -203,7 +203,7 @@ EggMovePointers::
 	dw NoEggMoves
 	dw NoEggMoves
 	dw GirafarigEggMoves
-	dw PinecoEggMoves
+	dw FerroseedEggMoves
 	dw NoEggMoves
 	dw DunsparceEggMoves
 	dw GligarEggMoves
@@ -222,7 +222,7 @@ EggMovePointers::
 	dw SwinubEggMoves
 	dw NoEggMoves
 	dw CorsolaEggMoves
-	dw RemoraidEggMoves
+	dw JoltikEggMoves
 	dw NoEggMoves
 	dw DelibirdEggMoves
 	dw MantineEggMoves

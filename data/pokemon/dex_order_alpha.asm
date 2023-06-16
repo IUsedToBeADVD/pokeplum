@@ -38,7 +38,7 @@ AlphabeticalPokedexOrder:
 	db CUBONE
 	db TORCHIC
 	db DELIBIRD
-	db DEWGONG
+	db CNTISKORCH
 	db DIGLETT
 	db DITTO
 	db DODRIO
@@ -64,7 +64,7 @@ AlphabeticalPokedexOrder:
 	db SWAMPERT
 	db FLAAFFY
 	db FLAREON
-	db FORRETRESS
+	db FERROTHORN
 	db LOPUNNY
 	db GASTLY
 	db GENGAR
@@ -150,7 +150,7 @@ AlphabeticalPokedexOrder:
 	db NIDORINO
 	db NINETALES
 	db NOCTOWL
-	db OCTILLERY
+	db GALVANTULA
 	db ODDISH
 	db OMANYTE
 	db OMASTAR
@@ -165,7 +165,7 @@ AlphabeticalPokedexOrder:
 	db ROOKIDEE
 	db PIKACHU
 	db PILOSWINE
-	db PINECO
+	db FERROSEED
 	db PINSIR
 	db POLITOED
 	db POLIWAG
@@ -185,7 +185,7 @@ AlphabeticalPokedexOrder:
 	db RAPIDASH
 	db RATICATE
 	db RATTATA
-	db REMORAID
+	db JOLTIK
 	db RHYDON
 	db RHYHORN
 	db SANDSHREW
@@ -194,7 +194,7 @@ AlphabeticalPokedexOrder:
 	db SCYTHER
 	db SEADRA
 	db SEAKING
-	db SEEL
+	db SIZZLIPEDE
 	db BUNEARY
 	db SHELLDER
 	db SHUCKLE

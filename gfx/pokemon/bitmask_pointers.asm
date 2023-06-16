@@ -85,8 +85,8 @@ BitmasksPointers:
 	dw FarfetchDBitmasks
 	dw DoduoBitmasks
 	dw DodrioBitmasks
-	dw SeelBitmasks
-	dw DewgongBitmasks
+	dw SizzlipedeBitmasks
+	dw CntiskorchBitmasks
 	dw GrimerBitmasks
 	dw MukBitmasks
 	dw ShellderBitmasks
@@ -203,8 +203,8 @@ BitmasksPointers:
 	dw UnownBitmasks
 	dw WobbuffetBitmasks
 	dw GirafarigBitmasks
-	dw PinecoBitmasks
-	dw ForretressBitmasks
+	dw FerroseedBitmasks
+	dw FerrothornBitmasks
 	dw DunsparceBitmasks
 	dw GligarBitmasks
 	dw SteelixBitmasks
@@ -222,8 +222,8 @@ BitmasksPointers:
 	dw SwinubBitmasks
 	dw PiloswineBitmasks
 	dw CorsolaBitmasks
-	dw RemoraidBitmasks
-	dw OctilleryBitmasks
+	dw JoltikBitmasks
+	dw GalvantulaBitmasks
 	dw DelibirdBitmasks
 	dw MantineBitmasks
 	dw SkarmoryBitmasks

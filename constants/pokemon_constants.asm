@@ -104,8 +104,8 @@
 	const FARFETCH_D ; 53
 	const DODUO      ; 54
 	const DODRIO     ; 55
-	const SEEL       ; 56
-	const DEWGONG    ; 57
+	const SIZZLIPEDE       ; 56
+	const CNTISKORCH    ; 57
 	const GRIMER     ; 58
 	const MUK        ; 59
 	const SHELLDER   ; 5a
@@ -223,8 +223,8 @@ DEF JOHTO_POKEMON EQU const_value
 	const UNOWN      ; c9
 	const WOBBUFFET  ; ca
 	const GIRAFARIG  ; cb
-	const PINECO     ; cc
-	const FORRETRESS ; cd
+	const FERROSEED     ; cc
+	const FERROTHORN ; cd
 	const DUNSPARCE  ; ce
 	const GLIGAR     ; cf
 	const STEELIX    ; d0
@@ -242,8 +242,8 @@ DEF JOHTO_POKEMON EQU const_value
 	const SWINUB     ; dc
 	const PILOSWINE  ; dd
 	const CORSOLA    ; de
-	const REMORAID   ; df
-	const OCTILLERY  ; e0
+	const JOLTIK   ; df
+	const GALVANTULA  ; e0
 	const DELIBIRD   ; e1
 	const MANTINE    ; e2
 	const SKARMORY   ; e3

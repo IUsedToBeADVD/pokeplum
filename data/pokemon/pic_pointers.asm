@@ -173,10 +173,10 @@ PokemonPicPointers::
 	dba DoduoBackpic
 	dba DodrioFrontpic
 	dba DodrioBackpic
-	dba SeelFrontpic
-	dba SeelBackpic
-	dba DewgongFrontpic
-	dba DewgongBackpic
+	dba SizzlipedeFrontpic
+	dba SizzlipedeBackpic
+	dba CntiskorchFrontpic
+	dba CntiskorchBackpic
 	dba GrimerFrontpic
 	dba GrimerBackpic
 	dba MukFrontpic
@@ -412,10 +412,10 @@ PokemonPicPointers::
 	dba WobbuffetBackpic
 	dba GirafarigFrontpic
 	dba GirafarigBackpic
-	dba PinecoFrontpic
-	dba PinecoBackpic
-	dba ForretressFrontpic
-	dba ForretressBackpic
+	dba FerroseedFrontpic
+	dba FerroseedBackpic
+	dba FerrothornFrontpic
+	dba FerrothornBackpic
 	dba DunsparceFrontpic
 	dba DunsparceBackpic
 	dba GligarFrontpic
@@ -450,10 +450,10 @@ PokemonPicPointers::
 	dba PiloswineBackpic
 	dba CorsolaFrontpic
 	dba CorsolaBackpic
-	dba RemoraidFrontpic
-	dba RemoraidBackpic
-	dba OctilleryFrontpic
-	dba OctilleryBackpic
+	dba JoltikFrontpic
+	dba JoltikBackpic
+	dba GalvantulaFrontpic
+	dba GalvantulaBackpic
 	dba DelibirdFrontpic
 	dba DelibirdBackpic
 	dba MantineFrontpic

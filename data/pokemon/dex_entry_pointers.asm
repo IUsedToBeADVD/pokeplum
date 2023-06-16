@@ -86,8 +86,8 @@ PokedexDataPointerTable:
 	dw FarfetchDPokedexEntry
 	dw DoduoPokedexEntry
 	dw DodrioPokedexEntry
-	dw SeelPokedexEntry
-	dw DewgongPokedexEntry
+	dw SizzlipedePokedexEntry
+	dw CntiskorchPokedexEntry
 	dw GrimerPokedexEntry
 	dw MukPokedexEntry
 	dw ShellderPokedexEntry
@@ -204,8 +204,8 @@ PokedexDataPointerTable:
 	dw UnownPokedexEntry
 	dw WobbuffetPokedexEntry
 	dw GirafarigPokedexEntry
-	dw PinecoPokedexEntry
-	dw ForretressPokedexEntry
+	dw FerroseedPokedexEntry
+	dw FerrothornPokedexEntry
 	dw DunsparcePokedexEntry
 	dw GligarPokedexEntry
 	dw SteelixPokedexEntry
@@ -223,8 +223,8 @@ PokedexDataPointerTable:
 	dw SwinubPokedexEntry
 	dw PiloswinePokedexEntry
 	dw CorsolaPokedexEntry
-	dw RemoraidPokedexEntry
-	dw OctilleryPokedexEntry
+	dw JoltikPokedexEntry
+	dw GalvantulaPokedexEntry
 	dw DelibirdPokedexEntry
 	dw MantinePokedexEntry
 	dw SkarmoryPokedexEntry

@@ -91,8 +91,8 @@ PokemonCries::
 	mon_cry CRY_SPEAROW,     221,  129 ; FARFETCH_D
 	mon_cry CRY_DIGLETT,     187,  129 ; DODUO
 	mon_cry CRY_DIGLETT,     153,  160 ; DODRIO
-	mon_cry CRY_SEEL,        136,  320 ; SEEL
-	mon_cry CRY_SEEL,         35,  383 ; DEWGONG
+	mon_cry CRY_SIZZLIPEDE,        136,  320 ; SIZZLIPEDE
+	mon_cry CRY_SIZZLIPEDE,         35,  383 ; CNTISKORCH
 	mon_cry CRY_GRIMER,        0,  256 ; GRIMER
 	mon_cry CRY_MUK,         239,  383 ; MUK
 	mon_cry CRY_FEAROW,        0,  256 ; SHELLDER
@@ -112,8 +112,8 @@ PokemonCries::
 	mon_cry CRY_CLEFAIRY,      0,  256 ; CUBONE
 	mon_cry CRY_ODDISH,       79,  224 ; MAROWAK
 	mon_cry CRY_GOLEM,       128,  320 ; HITMONLEE
-	mon_cry CRY_SEEL,        238,  320 ; HITMONCHAN
-	mon_cry CRY_SEEL,          0,  256 ; LICKITUNG
+	mon_cry CRY_SIZZLIPEDE,        238,  320 ; HITMONCHAN
+	mon_cry CRY_SIZZLIPEDE,          0,  256 ; LICKITUNG
 	mon_cry CRY_GOLEM,       230,  349 ; KOFFING
 	mon_cry CRY_GOLEM,       255,  383 ; WEEZING
 	mon_cry CRY_CHARMANDER,    0,  256 ; RHYHORN
@@ -209,8 +209,8 @@ PokemonCries::
 	mon_cry CRY_HOOTHOOT,    354,  256 ; UNOWN
 	mon_cry CRY_AMPHAROS,    635,  324 ; WOBBUFFET
 	mon_cry CRY_GIRAFARIG,    65,  512 ; GIRAFARIG
-	mon_cry CRY_SLOWKING,    128,  256 ; PINECO
-	mon_cry CRY_SLOWKING,      0,  384 ; FORRETRESS
+	mon_cry CRY_SLOWKING,    128,  256 ; FERROSEED
+	mon_cry CRY_SLOWKING,      0,  384 ; FERROTHORN
 	mon_cry CRY_DUNSPARCE,   452,  256 ; DUNSPARCE
 	mon_cry CRY_GLIGAR,     -258,  256 ; GLIGAR
 	mon_cry CRY_BLAZIKEN,  239,  247 ; STEELIX
@@ -228,8 +228,8 @@ PokemonCries::
 	mon_cry CRY_TORCHIC,   510,  320 ; SWINUB
 	mon_cry CRY_MAGCARGO,   -265,  256 ; PILOSWINE
 	mon_cry CRY_MAGCARGO,    161,  232 ; CORSOLA
-	mon_cry CRY_SUNFLORA,     13,  256 ; REMORAID
-	mon_cry CRY_MUDKIP,      0,  384 ; OCTILLERY
+	mon_cry CRY_SUNFLORA,     13,  256 ; JOLTIK
+	mon_cry CRY_MUDKIP,      0,  384 ; GALVANTULA
 	mon_cry CRY_COTTONEE,     2,  106 ; DELIBIRD
 	mon_cry CRY_MANTINE,    -190,  240 ; MANTINE
 	mon_cry CRY_AMPHAROS,   2217,  384 ; SKARMORY
