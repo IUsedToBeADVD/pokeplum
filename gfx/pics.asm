@@ -168,7 +168,6 @@ MurkrowFrontpic:     INCBIN "gfx/pokemon/murkrow/front.animated.2bpp.lz"
 GravelerFrontpic:    INCBIN "gfx/pokemon/graveler/front.animated.2bpp.lz"
 StarmieFrontpic:     INCBIN "gfx/pokemon/starmie/front.animated.2bpp.lz"
 PidgeottoFrontpic:   INCBIN "gfx/pokemon/pidgeotto/front.animated.2bpp.lz"
-MunnaFrontpic:      INCBIN "gfx/pokemon/munna/front.animated.2bpp.lz"
 GengarFrontpic:      INCBIN "gfx/pokemon/gengar/front.animated.2bpp.lz"
 OmastarFrontpic:     INCBIN "gfx/pokemon/omastar/front.animated.2bpp.lz"
 PiloswineFrontpic:   INCBIN "gfx/pokemon/piloswine/front.animated.2bpp.lz"
@@ -713,6 +712,7 @@ LudicoloFrontpic:   INCBIN "gfx/pokemon/ludicolo/front.animated.2bpp.lz"
 LombreBackpic:       INCBIN "gfx/pokemon/lombre/back.2bpp.lz"
 WoolooFrontpic:    INCBIN "gfx/pokemon/wooloo/front.animated.2bpp.lz"
 DubwoolFrontpic:    INCBIN "gfx/pokemon/dubwool/front.animated.2bpp.lz"
+MunnaFrontpic:      INCBIN "gfx/pokemon/munna/front.animated.2bpp.lz"
 
 
 ; Sections "Pics 20" to "Pics 24" are not used for any graphics,
