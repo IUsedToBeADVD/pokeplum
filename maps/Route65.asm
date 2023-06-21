@@ -5,6 +5,9 @@ Route65_MapScripts:
 
 	def_callbacks
 
+Route65HiddenPotion:
+	hiddenitem POTION, EVENT_ROUTE65_HIDDEN_POTION
+
 Route65_MapEvents:
 	db 0, 0 ; filler
 
@@ -15,5 +18,6 @@ Route65_MapEvents:
 	def_coord_events
 
 	def_bg_events
+	bg_event 6, 24, BGEVENT_ITEM, Route65HiddenPotion
 
 	def_object_events

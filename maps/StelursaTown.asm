@@ -124,6 +124,9 @@ StelursaTownTechGuyScript:
 	closetext
 	end
 
+StelursaHiddenPokeball:
+	hiddenitem POKE_BALL, EVENT_STELURSA_HIDDEN_POKEBALL
+
 StelursaTown_RouteGuardRunsToYouMovement1:
 	step UP
 	step UP
@@ -215,22 +218,23 @@ StelursaTown_MapEvents:
 	def_warp_events
 	warp_event 13, 23, PLAYERS_HOUSE_1F, 1
 	warp_event 15,  5, STUMPS_LAB, 1
-	warp_event 8,  0, PETALFALL_PARK, 1
-	warp_event 9,  0, PETALFALL_PARK, 2
-	warp_event 39,  32, ROUTE_65, 1
-	warp_event 39,  33, ROUTE_52_GATE, 2
+	warp_event 8,  2, PETALFALL_PARK, 1
+	warp_event 9,  2, PETALFALL_PARK, 2
+	warp_event 37,  32, ROUTE_65, 1
+	warp_event 37,  33, ROUTE_52_GATE, 2
 
 	def_coord_events
-	coord_event  3, 28, SCENE_STELURSATOWN_GUARD_STOPS_YOU, StelursaTown_RouteGuardStopsYouScene1
-	coord_event  3, 29, SCENE_STELURSATOWN_GUARD_STOPS_YOU, StelursaTown_RouteGuardStopsYouScene2
-	coord_event  8, 1, SCENE_STELURSATOWN_GUARD_STOPS_YOU, StelursaTown_ParkGuardStopsYouScene1
-	coord_event  9, 1, SCENE_STELURSATOWN_GUARD_STOPS_YOU, StelursaTown_ParkGuardStopsYouScene2
+	coord_event  2, 28, SCENE_STELURSATOWN_GUARD_STOPS_YOU, StelursaTown_RouteGuardStopsYouScene1
+	coord_event  2, 29, SCENE_STELURSATOWN_GUARD_STOPS_YOU, StelursaTown_RouteGuardStopsYouScene2
+	coord_event  8, 3, SCENE_STELURSATOWN_GUARD_STOPS_YOU, StelursaTown_ParkGuardStopsYouScene1
+	coord_event  9, 3, SCENE_STELURSATOWN_GUARD_STOPS_YOU, StelursaTown_ParkGuardStopsYouScene2
 
 
 	def_bg_events
+	bg_event 29, 34, BGEVENT_ITEM, StelursaHiddenPokeball
 
 	def_object_events
-	object_event  6,  2, SPRITE_SCIENTIST, SPRITEMOVEDATA_STANDING_DOWN, 1, 0, -1, -1, 0, OBJECTTYPE_SCRIPT, 0, StelursaTownGuardScript, EVENT_GUARD_STELURSA_TOWN
-	object_event  4, 30, SPRITE_SCIENTIST, SPRITEMOVEDATA_STANDING_RIGHT, 1, 0, -1, -1, 0, OBJECTTYPE_SCRIPT, 0, StelursaTownGuardScript, EVENT_GUARD_STELURSA_TOWN
+	object_event  6,  4, SPRITE_SCIENTIST, SPRITEMOVEDATA_STANDING_DOWN, 1, 0, -1, -1, 0, OBJECTTYPE_SCRIPT, 0, StelursaTownGuardScript, EVENT_GUARD_STELURSA_TOWN
+	object_event  3, 30, SPRITE_SCIENTIST, SPRITEMOVEDATA_STANDING_RIGHT, 1, 0, -1, -1, 0, OBJECTTYPE_SCRIPT, 0, StelursaTownGuardScript, EVENT_GUARD_STELURSA_TOWN
 	object_event  15, 27, SPRITE_FISHER, SPRITEMOVEDATA_WANDER, 1, 0, -1, -1, 0, OBJECTTYPE_SCRIPT, 0, StelursaTownTechGuyScript, -1
 

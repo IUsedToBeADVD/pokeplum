@@ -2,88 +2,144 @@
 
 JohtoGrassWildMons:
 
-	def_grass_wildmons NEW_BARK_TOWN
+	def_grass_wildmons PETALFALL_PARK
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
 	; morn
 	db 2, ROOKIDEE
 	db 2, BUNEARY
-	db 3, ROOKIDEE
+	db 3, SPEAROW
 	db 3, BUNEARY
-	db 2, RATTATA
-	db 3, HOPPIP
-	db 3, HOPPIP
+	db 2, EKANS
+	db 3, SUNKERN
+	db 3, SUNKERN
 	; day
 	db 2, ROOKIDEE
 	db 2, BUNEARY
-	db 3, ROOKIDEE
+	db 3, SPEAROW
+	db 3, EKANS
+	db 2, EKANS
 	db 3, BUNEARY
-	db 2, RATTATA
-	db 3, HOPPIP
-	db 3, HOPPIP
+	db 3, SUNKERN
 	; nite
 	db 2, HOOTHOOT
-	db 2, RATTATA
+	db 2, BUNEARY
 	db 3, HOOTHOOT
-	db 3, RATTATA
-	db 2, RATTATA
+	db 3, EKANS
+	db 2, EKANS
 	db 3, HOOTHOOT
-	db 3, HOOTHOOT
+	db 3, MUNNA
 	end_grass_wildmons
 	
 	def_grass_wildmons ROUTE_50
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
 	; morn
 	db 2, ROOKIDEE
-	db 2, ROOKIDEE
-	db 3, ROOKIDEE
-	db 3, ROOKIDEE
-	db 2, ODDISH
-	db 3, MANKEY
-	db 3, MANKEY
+	db 2, BUNEARY
+	db 3, SPEAROW
+	db 3, BUNEARY
+	db 4, ROOKIDEE
+	db 4, SPEAROW
+	db 3, SUNKERN
 	; day
-	db 2, MUSHARNA
-	db 2, MUNNA
-	db 3, MUSHARNA
-	db 3, MUSHARNA
-	db 2, DUBWOOL
-	db 3, MUNNA
-	db 3, COTTONEE
+	db 2, ROOKIDEE
+	db 2, BUNEARY
+	db 3, SPEAROW
+	db 3, BUNEARY
+	db 4, ROOKIDEE
+	db 4, BUNEARY
+	db 3, SUNKERN
 	; nite
-	db 2, ROOKIDEE
-	db 2, ROOKIDEE
-	db 3, ZUBAT
-	db 3, ODDISH
-	db 2, ZUBAT
-	db 3, MANKEY
-	db 3, MANKEY
+	db 2, HOOTHOOT
+	db 2, BUNEARY
+	db 3, HOOTHOOT
+	db 3, EKANS
+	db 4, HOOTHOOT
+	db 4, EKANS
+	db 4, BUNEARY
+	end_grass_wildmons
+	
+	def_grass_wildmons ROUTE_51
+	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
+	; morn
+	db 3, ROOKIDEE
+	db 3, BUNEARY
+	db 4, SPEAROW
+	db 4, SANDSHREW
+	db 5, ROOKIDEE
+	db 5, MEOWTH
+	db 5, SANDSHREW
+	; day
+	db 3, ROOKIDEE
+	db 3, BUNEARY
+	db 4, SPEAROW
+	db 4, SANDSHREW
+	db 5, ROOKIDEE
+	db 5, MEOWTH
+	db 5, SANDSHREW
+	; nite
+	db 3, HOOTHOOT
+	db 3, BUNEARY
+	db 4, HOOTHOOT
+	db 4, EKANS
+	db 4, MEOWTH
+	db 5, SANDSHREW
+	db 5, MEOWTH
 	end_grass_wildmons
 	
 	def_grass_wildmons STONESTEP_TUNNEL_1F
 	db 3 percent, 3 percent, 3 percent ; encounter rates: morn/day/nite
 	; morn
-	db 4, RATTATA
+	db 4, KABUTO
 	db 4, ZUBAT
-	db 4, GEODUDE
+	db 5, KABUTO
 	db 4, SANDSHREW
-	db 5, RATTATA
-	db 3, EKANS
-	db 3, EKANS
+	db 5, GEODUDE
+	db 5, EKANS
+	db 6, GEODUDE
 	; day
-	db 4, RATTATA
+	db 4, KABUTO
 	db 4, ZUBAT
-	db 4, GEODUDE
+	db 5, KABUTO
 	db 4, SANDSHREW
-	db 5, RATTATA
-	db 3, EKANS
-	db 3, EKANS
+	db 5, GEODUDE
+	db 5, EKANS
+	db 6, GEODUDE
 	; nite
-	db 4, RATTATA
+	db 4, KABUTO
 	db 4, ZUBAT
-	db 4, GEODUDE
+	db 5, KABUTO
 	db 4, SANDSHREW
-	db 5, RATTATA
-	db 3, EKANS
-	db 3, EKANS
+	db 5, GEODUDE
+	db 5, EKANS
+	db 6, GEODUDE
+	end_grass_wildmons
+	
+	def_grass_wildmons ROUTE_52
+	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
+	; morn
+	db 5, ROOKIDEE
+	db 5, MEOWTH
+	db 5, LOTAD
+	db 6, LOTAD
+	db 6, ROOKIDEE
+	db 6, YANMA
+	db 7, YANMA
+	; day
+	db 5, ROOKIDEE
+	db 5, MEOWTH
+	db 5, LOTAD
+	db 6, LOTAD
+	db 6, ROOKIDEE
+	db 6, MEOWTH
+	db 7, YANMA
+	; nite
+	db 5, YANMA
+	db 5, HOOTHOOT
+	db 7, YANMA
+	db 6, LOTAD
+	db 7, MEOWTH
+	db 6, HOOTHOOT
+	db 7, LOTAD
 	end_grass_wildmons
 
 	db -1 ; end
