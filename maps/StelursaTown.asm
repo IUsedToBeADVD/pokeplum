@@ -9,12 +9,18 @@ StelursaTown_MapScripts:
 	scene_script StelursaTownNoop2Scene, SCENE_STELURSATOWN_NOOP
 
 	def_callbacks
+	callback MAPCALLBACK_NEWMAP, StelursaTownFlypointCallback
 
 StelursaTownNoop1Scene:
 	end
 
 StelursaTownNoop2Scene:
 	end
+
+StelursaTownFlypointCallback:
+	setflag ENGINE_FLYPOINT_STELURSA
+	clearevent EVENT_FIRST_TIME_BANKING_WITH_MOM
+	endcallback
 
 StelursaTown_RouteGuardStopsYouScene1:
 	playmusic MUSIC_MOM

@@ -69,6 +69,7 @@ ENDM
 	newgroup DUNGEONS											  ;  5
 	map_const STONESTEP_TUNNEL_1F,						   10, 18 ;  1
 	map_const STONESTEP_TUNNEL_B1F,						    7,  8 ;  2
+	map_const SERPENT_FALLS_1F,							   12, 15 ;  3
 	endgroup
 	
 	newgroup STELURSA											  ;  6

@@ -61,6 +61,9 @@ SintiriTown_Blocks:
 SintiriLake_Blocks:
 	INCBIN "maps/SintiriLake.ablk"
 
+SerpentFalls1F_Blocks:
+	INCBIN "maps/SerpentFalls1F.ablk"
+
 PetalfallPark_Blocks:
 	INCBIN "maps/PetalfallPark.ablk"
 

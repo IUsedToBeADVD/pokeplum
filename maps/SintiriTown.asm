@@ -4,6 +4,11 @@ SintiriTown_MapScripts:
 	def_scene_scripts
 
 	def_callbacks
+	callback MAPCALLBACK_NEWMAP, SintiriTownFlypointCallback
+
+SintiriTownFlypointCallback:
+	setflag ENGINE_FLYPOINT_SINTIRI
+	endcallback
 
 SintiriTown_MapEvents:
 	db 0, 0 ; filler

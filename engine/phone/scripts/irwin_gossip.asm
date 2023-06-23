@@ -8,7 +8,7 @@ IrwinRumorScript:
 	checkflag ENGINE_MARSHBADGE
 	iftrue .MarshBadge
 ; TODO: Change this flypoint and the various other dialog conditions.
-	checkflag ENGINE_FLYPOINT_NEW_BARK
+	checkflag ENGINE_FLYPOINT_STELURSA
 	iftrue .VermilionCity
 	checkevent EVENT_BEAT_ELITE_FOUR
 	iftrue .EliteFour

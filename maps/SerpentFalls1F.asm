@@ -1,15 +1,16 @@
 	object_const_def
 
-SintiriLake_MapScripts:
+SerpentFalls1F_MapScripts:
 	def_scene_scripts
 
 	def_callbacks
 
-SintiriLake_MapEvents:
+SerpentFalls1F_MapEvents:
 	db 0, 0 ; filler
 
 	def_warp_events
-	warp_event 16, 21, SERPENT_FALLS_1F, 1
+	warp_event 14,  4, SINTIRI_LAKE, 1
+	warp_event 15,  3, SINTIRI_LAKE, 1
 
 	def_coord_events
 

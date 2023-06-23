@@ -51,11 +51,67 @@ JohtoGrassWildMons:
 	; nite
 	db 2, HOOTHOOT
 	db 2, BUNEARY
-	db 3, HOOTHOOT
+	db 3, BUNEARY
 	db 3, EKANS
 	db 4, HOOTHOOT
 	db 4, EKANS
 	db 4, BUNEARY
+	end_grass_wildmons
+	
+	def_grass_wildmons SINTIRI_LAKE
+	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
+	; morn
+	db 3, SPEAROW
+	db 3, BUNEARY
+	db 4, GEODUDE
+	db 3, EKANS
+	db 3, EXEGGCUTE
+	db 4, SPEAROW
+	db 4, EXEGGCUTE
+	; day
+	db 3, SPEAROW
+	db 3, BUNEARY
+	db 4, GEODUDE
+	db 3, EKANS
+	db 3, EXEGGCUTE
+	db 4, SPEAROW
+	db 4, EXEGGCUTE
+	; nite
+	db 3, HOOTHOOT
+	db 3, BUNEARY
+	db 4, GEODUDE
+	db 3, EKANS
+	db 3, EXEGGCUTE
+	db 4, HOOTHOOT
+	db 4, EXEGGCUTE
+	end_grass_wildmons
+	
+	def_grass_wildmons SERPENT_FALLS_1F
+	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
+	; morn
+	db 4, EKANS
+	db 3, KABUTO
+	db 5, EKANS
+	db 3, EKANS
+	db 6, EKANS
+	db 4, KABUTO
+	db 7, EKANS
+	; day
+	db 4, EKANS
+	db 3, KABUTO
+	db 5, EKANS
+	db 3, EKANS
+	db 6, EKANS
+	db 4, KABUTO
+	db 7, EKANS
+	; nite
+	db 4, EKANS
+	db 3, KABUTO
+	db 5, EKANS
+	db 3, EKANS
+	db 6, EKANS
+	db 4, KABUTO
+	db 7, EKANS
 	end_grass_wildmons
 	
 	def_grass_wildmons ROUTE_51
