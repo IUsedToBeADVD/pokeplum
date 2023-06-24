@@ -132,6 +132,8 @@ ENDM
 	map_attributes StumpsLabRoof, STUMPS_LAB_ROOF, $24, 0
 	map_attributes StarterRoom, STARTER_ROOM, $00, 0
 	map_attributes SerpentFalls1F, SERPENT_FALLS_1F, $09, 0
+	map_attributes DragonscaleTower1F, DRAGONSCALE_TOWER_1F, $01, 0
+	map_attributes DragonscaleTowerB1F, DRAGONSCALE_TOWER_B1F, $09, 0
 	
 	map_attributes StelursaTown, STELURSA_TOWN, $05, WEST
 	connection west, Route50, ROUTE_50, 10

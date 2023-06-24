@@ -70,6 +70,7 @@ ENDM
 	map_const STONESTEP_TUNNEL_1F,						   10, 18 ;  1
 	map_const STONESTEP_TUNNEL_B1F,						    7,  8 ;  2
 	map_const SERPENT_FALLS_1F,							   12, 15 ;  3
+	map_const DRAGONSCALE_TOWER_B1F,						9, 11 ;  4
 	endgroup
 	
 	newgroup STELURSA											  ;  6
@@ -86,10 +87,11 @@ ENDM
 	newgroup SINTIRI										  	  ;  7
 	map_const SINTIRI_TOWN,						   		   20,  9 ;  1
 	map_const SINTIRI_LAKE,						   		   20, 18 ;  2
-	map_const SINTIRI_POKECENTER_1F,				        5,  4 ;  3
+	map_const SINTIRI_POKECENTER_1F,				        7,  7 ;  3
 	map_const ROUTE_51,				   					   10, 27 ;  4
 	map_const ROUTE_52,				   					   20, 18 ;  5
 	map_const ROUTE_52_GATE,							    5,  4 ;  6
+	map_const DRAGONSCALE_TOWER_1F,							7,  7 ;  7
 	endgroup
 
 	newgroup WISHOOK										      ;  8

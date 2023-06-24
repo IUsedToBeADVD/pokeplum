@@ -58,6 +58,12 @@ StumpsLab_Blocks:
 SintiriTown_Blocks:
 	INCBIN "maps/SintiriTown.ablk"
 
+DragonscaleTower1F_Blocks:
+	INCBIN "maps/DragonscaleTower1F.ablk"
+
+DragonscaleTowerB1F_Blocks:
+	INCBIN "maps/DragonscaleTowerB1F.ablk"
+
 SintiriLake_Blocks:
 	INCBIN "maps/SintiriLake.ablk"
 
