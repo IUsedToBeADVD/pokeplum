@@ -11,7 +11,7 @@ AsleepTreeMonsNite:
 	db EKANS
 	db EXEGGCUTE
 	db MUNNA
-	db AIPOM
+	db MAGNELOCKE
 	db -1 ; end
 
 AsleepTreeMonsDay:

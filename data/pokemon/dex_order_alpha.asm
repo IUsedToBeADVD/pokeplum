@@ -4,7 +4,7 @@ AlphabeticalPokedexOrder:
 	table_width 1, AlphabeticalPokedexOrder
 	db ABRA
 	db AERODACTYL
-	db AIPOM
+	db MAGNELOCKE
 	db ALAKAZAM
 	db AMPHAROS
 	db ARBOK

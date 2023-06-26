@@ -13,11 +13,11 @@ JohtoGrassWildMons:
 	db 3, SUNKERN
 	db 3, SUNKERN
 	; day
-	db 2, ROOKIDEE
-	db 2, BUNEARY
-	db 3, SPEAROW
-	db 3, EKANS
-	db 2, EKANS
+	db 8, MAGNELOCKE
+	db 5, MAGNELOCKE
+	db 7, MAGNELOCKE
+	db 6, MAGNELOCKE
+	db 4, MAGNELOCKE
 	db 3, BUNEARY
 	db 3, SUNKERN
 	; nite

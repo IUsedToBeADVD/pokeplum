@@ -69,7 +69,7 @@
 	const CRY_AMPHAROS
 	const CRY_MAGCARGO
 	const CRY_LOTAD
-	const CRY_AIPOM
+	const CRY_MAGNELOCKE
 	const CRY_DUNSPARCE
 	const CRY_DONPHAN
 

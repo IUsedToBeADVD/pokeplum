@@ -189,7 +189,7 @@ PokemonNames::
 	db "HOPPIP@@@@"
 	db "SKIPLOOM@@"
 	db "JUMPLUFF@@"
-	db "AIPOM@@@@@"
+	db "MAGNELOCKE"
 	db "SUNKERN@@@"
 	db "SUNFLORA@@"
 	db "YANMA@@@@@"

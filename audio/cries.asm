@@ -142,11 +142,11 @@ Cry_Lotad:
 	channel 6, Cry_Lotad_Ch6
 	channel 8, Cry_Lotad_Ch8
 
-Cry_Aipom:
+Cry_Magnelocke:
 	channel_count 3
-	channel 5, Cry_Aipom_Ch5
-	channel 6, Cry_Aipom_Ch6
-	channel 8, Cry_Aipom_Ch8
+	channel 5, Cry_Magnelocke_Ch5
+	channel 6, Cry_Magnelocke_Ch6
+	channel 8, Cry_Magnelocke_Ch8
 
 Cry_Dunsparce:
 	channel_count 3
@@ -817,7 +817,7 @@ Cry_Lombre_Ch8:
 	noise_note 2, 6, 1, 107
 	sound_ret
 
-Cry_Aipom_Ch5:
+Cry_Magnelocke_Ch5:
 	duty_cycle_pattern 3, 1, 0, 2
 	square_note 3, 15, 8, 1712
 	square_note 1, 15, 8, 1701
@@ -828,7 +828,7 @@ Cry_Aipom_Ch5:
 	square_note 20, 15, 2, 1806
 	sound_ret
 
-Cry_Aipom_Ch6:
+Cry_Magnelocke_Ch6:
 	duty_cycle_pattern 0, 2, 1, 3
 .loop1:
 	square_note 1, 15, 1, 1972
@@ -842,9 +842,9 @@ Cry_Aipom_Ch6:
 	square_note 16, 9, 2, 1941
 	sound_ret
 
-Cry_Aipom_Ch8:
+Cry_Magnelocke_Ch8:
 	noise_note 0, 15, 1, 40
-	sound_loop 4, Cry_Aipom_Ch8
+	sound_loop 4, Cry_Magnelocke_Ch8
 	noise_note 0, 9, 1, 73
 	noise_note 1, 10, 8, 74
 	noise_note 0, 14, 1, 75

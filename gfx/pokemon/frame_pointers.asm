@@ -189,7 +189,7 @@ FramesPointers:
 	dw HoppipFrames
 	dw SkiploomFrames
 	dw JumpluffFrames
-	dw AipomFrames
+	dw MagnelockeFrames
 	dw SunkernFrames
 	dw SunfloraFrames
 	dw YanmaFrames

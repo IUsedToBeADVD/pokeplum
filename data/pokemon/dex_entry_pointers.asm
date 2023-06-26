@@ -190,7 +190,7 @@ PokedexDataPointerTable:
 	dw HoppipPokedexEntry
 	dw SkiploomPokedexEntry
 	dw JumpluffPokedexEntry
-	dw AipomPokedexEntry
+	dw MagnelockePokedexEntry
 	dw SunkernPokedexEntry
 	dw SunfloraPokedexEntry
 	dw YanmaPokedexEntry

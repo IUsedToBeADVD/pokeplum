@@ -189,7 +189,7 @@ AnimationIdlePointers:
 	dw HoppipAnimationIdle
 	dw SkiploomAnimationIdle
 	dw JumpluffAnimationIdle
-	dw AipomAnimationIdle
+	dw MagnelockeAnimationIdle
 	dw SunkernAnimationIdle
 	dw SunfloraAnimationIdle
 	dw YanmaAnimationIdle

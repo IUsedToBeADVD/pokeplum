@@ -189,7 +189,7 @@ AnimationPointers:
 	dw HoppipAnimation
 	dw SkiploomAnimation
 	dw JumpluffAnimation
-	dw AipomAnimation
+	dw MagnelockeAnimation
 	dw SunkernAnimation
 	dw SunfloraAnimation
 	dw YanmaAnimation

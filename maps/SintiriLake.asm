@@ -10,6 +10,7 @@ SintiriLake_MapEvents:
 
 	def_warp_events
 	warp_event 16, 21, SERPENT_FALLS_1F, 1
+	warp_event 24, 19, SERPENT_FALLS_1F, 2
 
 	def_coord_events
 

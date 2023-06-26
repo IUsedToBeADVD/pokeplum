@@ -12,7 +12,7 @@ SintiriPokecenter1FNurseScript:
 
 SintiriMartClerkScript:
 	opentext
-	pokemart MARTTYPE_STANDARD, MART_CHERRYGROVE
+	pokemart MARTTYPE_STANDARD, MART_CHERRYGROVE_DEX
 	closetext
 	end
 

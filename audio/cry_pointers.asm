@@ -66,7 +66,7 @@ Cries:
 	dba Cry_Ampharos
 	dba Cry_Magcargo
 	dba Cry_Lotad
-	dba Cry_Aipom
+	dba Cry_Magnelocke
 	dba Cry_Dunsparce
 	dba Cry_Donphan
 	assert_table_length NUM_CRIES
