@@ -31,7 +31,7 @@
 	const TILESET_DARK_CAVE            ; 1d
 	const TILESET_FOREST               ; 1e
 	const TILESET_BETA_WORD_ROOM       ; 1f
-	const TILESET_HO_OH_WORD_ROOM      ; 20
+	const TILESET_HOGWYRE_WORD_ROOM      ; 20
 	const TILESET_KABUTO_WORD_ROOM     ; 21
 	const TILESET_OMANYTE_WORD_ROOM    ; 22
 	const TILESET_WISHOOK			   ; 23

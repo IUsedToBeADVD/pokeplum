@@ -571,7 +571,7 @@ INCBIN "gfx/footprints/pupitar.1bpp",    footprint_bottom
 INCBIN "gfx/footprints/tyranitar.1bpp",  footprint_bottom
 ; 249-256 top halves
 INCBIN "gfx/footprints/lugia.1bpp",      footprint_top
-INCBIN "gfx/footprints/ho_oh.1bpp",      footprint_top
+INCBIN "gfx/footprints/hogwyre.1bpp",      footprint_top
 INCBIN "gfx/footprints/celebi.1bpp",     footprint_top
 INCBIN "gfx/footprints/piloswine.1bpp",  footprint_top
 INCBIN "gfx/footprints/253.1bpp",        footprint_top
@@ -580,7 +580,7 @@ INCBIN "gfx/footprints/255.1bpp",        footprint_top
 INCBIN "gfx/footprints/256.1bpp",        footprint_top
 ; 249-256 bottom halves
 INCBIN "gfx/footprints/lugia.1bpp",      footprint_bottom
-INCBIN "gfx/footprints/ho_oh.1bpp",      footprint_bottom
+INCBIN "gfx/footprints/hogwyre.1bpp",      footprint_bottom
 INCBIN "gfx/footprints/celebi.1bpp",     footprint_bottom
 INCBIN "gfx/footprints/piloswine.1bpp",  footprint_bottom
 INCBIN "gfx/footprints/253.1bpp",        footprint_bottom

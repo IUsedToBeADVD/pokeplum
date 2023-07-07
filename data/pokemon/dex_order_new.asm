@@ -249,7 +249,7 @@ NewPokedexOrder:
 	db PUPITAR
 	db TYRANITAR
 	db LUGIA
-	db HO_OH
+	db HOGWYRE
 	db MEWTWO
 	db MEW
 	db CELEBI

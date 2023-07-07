@@ -814,7 +814,7 @@ LoadUnownPuzzlePiecesGFX:
 	dw KabutoPuzzleLZ
 	dw OmanytePuzzleLZ
 	dw AerodactylPuzzleLZ
-	dw HoOhPuzzleLZ
+	dw HogwyrePuzzleLZ
 
 UnownPuzzleCursorGFX:
 INCBIN "gfx/unown_puzzle/cursor.2bpp"
@@ -822,8 +822,8 @@ INCBIN "gfx/unown_puzzle/cursor.2bpp"
 UnownPuzzleStartCancelLZ:
 INCBIN "gfx/unown_puzzle/start_cancel.2bpp.lz"
 
-HoOhPuzzleLZ:
-INCBIN "gfx/unown_puzzle/hooh.2bpp.lz"
+HogwyrePuzzleLZ:
+INCBIN "gfx/unown_puzzle/hogwyre.2bpp.lz"
 
 AerodactylPuzzleLZ:
 INCBIN "gfx/unown_puzzle/aerodactyl.2bpp.lz"

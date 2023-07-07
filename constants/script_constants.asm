@@ -309,7 +309,7 @@ DEF BUG_CONTESTANT_SIZE EQU 4
 	const UNOWNPUZZLE_KABUTO     ; 0
 	const UNOWNPUZZLE_OMANYTE    ; 1
 	const UNOWNPUZZLE_AERODACTYL ; 2
-	const UNOWNPUZZLE_HO_OH      ; 3
+	const UNOWNPUZZLE_HOGWYRE      ; 3
 DEF NUM_UNOWN_PUZZLES EQU const_value
 
 ; DisplayUnownWords setval arguments
@@ -318,7 +318,7 @@ DEF NUM_UNOWN_PUZZLES EQU const_value
 	const UNOWNWORDS_ESCAPE ; 0
 	const UNOWNWORDS_LIGHT  ; 1
 	const UNOWNWORDS_WATER  ; 2
-	const UNOWNWORDS_HO_OH  ; 3
+	const UNOWNWORDS_HOGWYRE  ; 3
 
 ; MoveTutor setval arguments
 	const_def 1

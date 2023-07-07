@@ -255,7 +255,7 @@ PokemonCries::
 	mon_cry CRY_COMBEE,   -475,  336 ; PUPITAR
 	mon_cry CRY_RAIKOU,     -256,  384 ; TYRANITAR
 	mon_cry CRY_BLAZIKEN,    0,  256 ; LUGIA
-	mon_cry CRY_MAGNELOCKE,         0,  384 ; HO_OH
+	mon_cry CRY_MAGNELOCKE,         0,  384 ; HOGWYRE
 	mon_cry CRY_ENTEI,       330,  273 ; CELEBI
 	mon_cry CRY_KANGASKHAN,    0,  320 ; MAMOSWINE
 	assert_table_length NUM_POKEMON

@@ -249,7 +249,7 @@ FramesPointers:
 	dw PupitarFrames
 	dw TyranitarFrames
 	dw LugiaFrames
-	dw HoOhFrames
+	dw HogwyreFrames
 	dw CelebiFrames
 	dw MamoswineFrames
 	assert_table_length NUM_POKEMON

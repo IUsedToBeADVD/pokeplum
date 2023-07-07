@@ -26,7 +26,7 @@ UnownWalls:
 ; UNOWNWORDS_WATER
 	; db $4c, $00, $46, $08, $42, -1
 	unownwall "WATER"
-; UNOWNWORDS_HO_OH
+; UNOWNWORDS_HOGWYRE
 	; db $0e, $2c, $64, $2c, $0e, -1
 	unownwall "HO-OH"
 
@@ -40,6 +40,6 @@ MenuHeaders_UnownWalls:
 ; UNOWNWORDS_WATER
 	db MENU_BACKUP_TILES ; flags
 	menu_coords 4, 4, 15, 9
-; UNOWNWORDS_HO_OH
+; UNOWNWORDS_HOGWYRE
 	db MENU_BACKUP_TILES ; flags
 	menu_coords 4, 4, 15, 9

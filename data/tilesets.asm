@@ -43,7 +43,7 @@ Tilesets::
 	tileset TilesetDarkCave
 	tileset TilesetForest
 	tileset TilesetBetaWordRoom
-	tileset TilesetHoOhWordRoom
+	tileset TilesetHogwyreWordRoom
 	tileset TilesetKabutoWordRoom
 	tileset TilesetOmanyteWordRoom
 	tileset TilesetWishook

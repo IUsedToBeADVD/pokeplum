@@ -34,7 +34,7 @@ IconPointers:
 	dw MothIcon
 	dw BatIcon
 	dw SnorlaxIcon
-	dw HoOhIcon
+	dw HogwyreIcon
 	dw LugiaIcon
 	dw GyaradosIcon
 	dw SlowpokeIcon

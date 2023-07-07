@@ -269,7 +269,7 @@ DEF JOHTO_POKEMON EQU const_value
 	const PUPITAR    ; f7
 	const TYRANITAR  ; f8
 	const LUGIA      ; f9
-	const HO_OH      ; fa
+	const HOGWYRE      ; fa
 	const CELEBI     ; fb
 	const MAMOSWINE  ; fc
 DEF NUM_POKEMON EQU const_value - 1

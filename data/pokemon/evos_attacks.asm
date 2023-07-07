@@ -750,6 +750,7 @@ MankeyEvosAttacks:
 	db 0 ; no more level-up moves
 
 PrimeapeEvosAttacks:
+	db EVOLVE_LEVEL, 45, HOGWYRE
 	db 0 ; no more evolutions
 	db 1, SCRATCH
 	db 1, LEER
@@ -3368,18 +3369,21 @@ LugiaEvosAttacks:
 	db 99, FUTURE_SIGHT
 	db 0 ; no more level-up moves
 
-HoOhEvosAttacks:
+HogwyreEvosAttacks:
 	db 0 ; no more evolutions
-	db 1, SACRED_FIRE
-	db 11, SAFEGUARD
-	db 22, GUST
-	db 33, RECOVER
-	db 44, FIRE_BLAST
-	db 55, SUNNY_DAY
-	db 66, SWIFT
-	db 77, WHIRLWIND
-	db 88, ANCIENTPOWER
-	db 99, FUTURE_SIGHT
+	db 1, SCRATCH
+	db 1, LEER
+	db 1, LOW_KICK
+	db 1, RAGE
+	db 9, LOW_KICK
+	db 15, KARATE_CHOP
+	db 21, FURY_SWIPES
+	db 27, FOCUS_ENERGY
+	db 28, RAGE
+	db 36, SEISMIC_TOSS
+	db 47, CROSS_CHOP
+	db 58, SCREECH
+	db 69, THRASH
 	db 0 ; no more level-up moves
 
 CelebiEvosAttacks:

@@ -35,5 +35,5 @@ SpriteMons:
 	db SNORLAX
 	db GYARADOS
 	db LUGIA
-	db HO_OH
+	db HOGWYRE
 	assert_table_length NUM_POKEMON_SPRITES

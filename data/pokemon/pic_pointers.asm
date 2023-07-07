@@ -504,8 +504,8 @@ PokemonPicPointers::
 	dba TyranitarBackpic
 	dba LugiaFrontpic
 	dba LugiaBackpic
-	dba HoOhFrontpic
-	dba HoOhBackpic
+	dba HogwyreFrontpic
+	dba HogwyreBackpic
 	dba CelebiFrontpic
 	dba CelebiBackpic
 	dba MamoswineFrontpic

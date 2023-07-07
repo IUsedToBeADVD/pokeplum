@@ -39,7 +39,7 @@ DoAnimFrame:
 	dw AnimSeq_FlyFrom
 	dw AnimSeq_FlyLeaf
 	dw AnimSeq_FlyTo
-	dw AnimSeq_GSIntroHoOhLugia
+	dw AnimSeq_GSIntroHogwyreLugia
 	dw AnimSeq_EZChatCursor
 	dw AnimSeq_MobileTradeSentPulse
 	dw AnimSeq_MobileTradeOTPulse
@@ -199,7 +199,7 @@ AnimSeq_GSTitleTrail:
 	call DeinitializeSprite
 	ret
 
-AnimSeq_GSIntroHoOhLugia:
+AnimSeq_GSIntroHogwyreLugia:
 	ld hl, SPRITEANIMSTRUCT_VAR1
 	add hl, bc
 	ld a, [hl]

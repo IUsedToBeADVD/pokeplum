@@ -1,10 +1,10 @@
-HoOhChamber:
+HogwyreChamber:
 	ld hl, wPartySpecies
 	ld a, [hl]
-	cp HO_OH ; is Ho-oh the first Pokémon in the party?
+	cp HOGWYRE ; is Ho-oh the first Pokémon in the party?
 	jr nz, .done ; if not, we're done
 	call GetMapAttributesPointer ; pointless?
-	ld de, EVENT_WALL_OPENED_IN_HO_OH_CHAMBER
+	ld de, EVENT_WALL_OPENED_IN_HOGWYRE_CHAMBER
 	ld b, SET_FLAG
 	call EventFlagAction
 .done

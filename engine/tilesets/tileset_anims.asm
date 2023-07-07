@@ -198,7 +198,7 @@ TilesetRuinsOfAlphAnim:
 TilesetRadioTowerAnim:
 TilesetUndergroundAnim:
 TilesetBetaWordRoomAnim:
-TilesetHoOhWordRoomAnim:
+TilesetHogwyreWordRoomAnim:
 TilesetKabutoWordRoomAnim:
 TilesetOmanyteWordRoomAnim:
 	dw NULL,  WaitTileAnimation

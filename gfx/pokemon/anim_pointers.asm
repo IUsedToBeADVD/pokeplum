@@ -249,7 +249,7 @@ AnimationPointers:
 	dw PupitarAnimation
 	dw TyranitarAnimation
 	dw LugiaAnimation
-	dw HoOhAnimation
+	dw HogwyreAnimation
 	dw CelebiAnimation
 	dw MamoswineAnimation
 	assert_table_length NUM_POKEMON

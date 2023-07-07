@@ -37,7 +37,7 @@ SpriteAnimFrameData:
 	dw .Frameset_EggHatch2
 	dw .Frameset_EggHatch3
 	dw .Frameset_EggHatch4
-	dw .Frameset_GSIntroHoOhLugia
+	dw .Frameset_GSIntroHogwyreLugia
 	dw .Frameset_HeadbuttTree
 	dw .Frameset_EZChatCursor1
 	dw .Frameset_EZChatCursor2
@@ -327,13 +327,13 @@ SpriteAnimFrameData:
 	oamframe SPRITE_ANIM_OAMSET_EGG_HATCH, 32, OAM_X_FLIP, OAM_Y_FLIP
 	oamend
 
-.Frameset_GSIntroHoOhLugia:
-	oamframe SPRITE_ANIM_OAMSET_GS_INTRO_HO_OH_LUGIA_1, 10
-	oamframe SPRITE_ANIM_OAMSET_GS_INTRO_HO_OH_LUGIA_2,  9
-	oamframe SPRITE_ANIM_OAMSET_GS_INTRO_HO_OH_LUGIA_3, 10
-	oamframe SPRITE_ANIM_OAMSET_GS_INTRO_HO_OH_LUGIA_4, 10
-	oamframe SPRITE_ANIM_OAMSET_GS_INTRO_HO_OH_LUGIA_3,  9
-	oamframe SPRITE_ANIM_OAMSET_GS_INTRO_HO_OH_LUGIA_5, 10
+.Frameset_GSIntroHogwyreLugia:
+	oamframe SPRITE_ANIM_OAMSET_GS_INTRO_HOGWYRE_LUGIA_1, 10
+	oamframe SPRITE_ANIM_OAMSET_GS_INTRO_HOGWYRE_LUGIA_2,  9
+	oamframe SPRITE_ANIM_OAMSET_GS_INTRO_HOGWYRE_LUGIA_3, 10
+	oamframe SPRITE_ANIM_OAMSET_GS_INTRO_HOGWYRE_LUGIA_4, 10
+	oamframe SPRITE_ANIM_OAMSET_GS_INTRO_HOGWYRE_LUGIA_3,  9
+	oamframe SPRITE_ANIM_OAMSET_GS_INTRO_HOGWYRE_LUGIA_5, 10
 	oamrestart
 
 .Frameset_HeadbuttTree:

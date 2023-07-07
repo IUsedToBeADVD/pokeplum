@@ -19,7 +19,7 @@ INCLUDE "data/trainers/pic_pointers.asm"
 
 SECTION "Pics 1", ROMX
 
-HoOhFrontpic:        INCBIN "gfx/pokemon/ho_oh/front.animated.2bpp.lz"
+HogwyreFrontpic:        INCBIN "gfx/pokemon/hogwyre/front.animated.2bpp.lz"
 MachampFrontpic:     INCBIN "gfx/pokemon/machamp/front.animated.2bpp.lz"
 NinetalesFrontpic:   INCBIN "gfx/pokemon/ninetales/front.animated.2bpp.lz"
 SwampertFrontpic:  INCBIN "gfx/pokemon/swampert/front.animated.2bpp.lz"
@@ -485,7 +485,7 @@ EnteiBackpic:        INCBIN "gfx/pokemon/entei/back.2bpp.lz"
 GruntfPic:           INCBIN "gfx/trainers/grunt_f.2bpp.lz"
 HorseaFrontpic:      INCBIN "gfx/pokemon/horsea/front.animated.2bpp.lz"
 PidgeotBackpic:      INCBIN "gfx/pokemon/pidgeot/back.2bpp.lz"
-HoOhBackpic:         INCBIN "gfx/pokemon/ho_oh/back.2bpp.lz"
+HogwyreBackpic:         INCBIN "gfx/pokemon/hogwyre/back.2bpp.lz"
 PoliwhirlBackpic:    INCBIN "gfx/pokemon/poliwhirl/back.2bpp.lz"
 MewBackpic:          INCBIN "gfx/pokemon/mew/back.2bpp.lz"
 MachopBackpic:       INCBIN "gfx/pokemon/machop/back.2bpp.lz"
