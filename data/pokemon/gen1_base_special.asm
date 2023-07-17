@@ -49,8 +49,8 @@ KantoMonSpecials:
 	db 100 ; VILEPLUME
 	db  55 ; PARAS
 	db  80 ; PARASECT
-	db  40 ; VENONAT
-	db  90 ; VENOMOTH
+	db  40 ; SNOM
+	db  90 ; SNOMYOMI
 	db  45 ; DIGLETT
 	db  70 ; DUGTRIO
 	db  40 ; MEOWTH

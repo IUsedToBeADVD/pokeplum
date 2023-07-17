@@ -47,8 +47,8 @@ BitmasksPointers:
 	dw VileplumeBitmasks
 	dw ParasBitmasks
 	dw ParasectBitmasks
-	dw VenonatBitmasks
-	dw VenomothBitmasks
+	dw SnomBitmasks
+	dw SnomyomiBitmasks
 	dw DiglettBitmasks
 	dw DugtrioBitmasks
 	dw MeowthBitmasks

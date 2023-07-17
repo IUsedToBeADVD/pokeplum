@@ -619,37 +619,25 @@ ParasectEvosAttacks:
 	db 55, GIGA_DRAIN
 	db 0 ; no more level-up moves
 
-VenonatEvosAttacks:
-	db EVOLVE_LEVEL, 31, VENOMOTH
+SnomEvosAttacks:
+	db EVOLVE_HAPPINESS, TR_NITE, SNOMYOMI
 	db 0 ; no more evolutions
-	db 1, TACKLE
-	db 1, DISABLE
-	db 1, FORESIGHT
-	db 9, SUPERSONIC
-	db 17, CONFUSION
-	db 20, POISONPOWDER
-	db 25, LEECH_LIFE
-	db 28, STUN_SPORE
-	db 33, PSYBEAM
-	db 36, SLEEP_POWDER
-	db 41, PSYCHIC_M
+	db 1, POWDER_SNOW
+	db 1, PIN_MISSILE
 	db 0 ; no more level-up moves
 
-VenomothEvosAttacks:
+SnomyomiEvosAttacks:
 	db 0 ; no more evolutions
-	db 1, TACKLE
-	db 1, DISABLE
-	db 1, FORESIGHT
-	db 1, SUPERSONIC
-	db 9, SUPERSONIC
-	db 17, CONFUSION
-	db 20, POISONPOWDER
-	db 25, LEECH_LIFE
-	db 28, STUN_SPORE
-	db 31, GUST
-	db 36, PSYBEAM
-	db 42, SLEEP_POWDER
-	db 52, PSYCHIC_M
+	db 1, POWDER_SNOW
+	db 1, PIN_MISSILE
+	db 14, MIST
+	db 19, BODY_SLAM
+	db 23, WITHDRAW
+	db 28, HAZE
+	db 33, ICE_BEAM
+	db 39, ANCIENTPOWER
+	db 44, PROTECT
+	db 49, SAFEGUARD
 	db 0 ; no more level-up moves
 
 DiglettEvosAttacks:

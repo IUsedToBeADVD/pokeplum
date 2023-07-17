@@ -53,8 +53,8 @@ PokemonCries::
 	mon_cry CRY_VILEPLUME,    34,  383 ; VILEPLUME
 	mon_cry CRY_PARAS,        32,  352 ; PARAS
 	mon_cry CRY_PARAS,        66,  383 ; PARASECT
-	mon_cry CRY_VENONAT,      68,  192 ; VENONAT
-	mon_cry CRY_VENONAT,      41,  256 ; VENOMOTH
+	mon_cry CRY_SNOM,      68,  192 ; SNOM
+	mon_cry CRY_SNOM,      41,  256 ; SNOMYOMI
 	mon_cry CRY_DIGLETT,     170,  129 ; DIGLETT
 	mon_cry CRY_DIGLETT,      42,  144 ; DUGTRIO
 	mon_cry CRY_CLEFAIRY,    119,  144 ; MEOWTH
@@ -77,8 +77,8 @@ PokemonCries::
 	mon_cry CRY_PSYDUCK,      85,  129 ; BELLSPROUT
 	mon_cry CRY_WEEPINBELL,   68,  160 ; WEEPINBELL
 	mon_cry CRY_WEEPINBELL,  102,  332 ; VICTREEBEL
-	mon_cry CRY_VENONAT,       0,  256 ; TENTACOOL
-	mon_cry CRY_VENONAT,     238,  383 ; TENTACRUEL
+	mon_cry CRY_SNOM,       0,  256 ; TENTACOOL
+	mon_cry CRY_SNOM,     238,  383 ; TENTACRUEL
 	mon_cry CRY_VULPIX,      240,  144 ; GEODUDE
 	mon_cry CRY_VULPIX,        0,  256 ; GRAVELER
 	mon_cry CRY_GOLEM,       224,  192 ; GOLEM
@@ -138,10 +138,10 @@ PokemonCries::
 	mon_cry CRY_EKANS,         0,  256 ; GYARADOS
 	mon_cry CRY_LAPRAS,        0,  256 ; LAPRAS
 	mon_cry CRY_ROOKIDEE,      255,  383 ; DITTO
-	mon_cry CRY_VENONAT,     136,  224 ; EEVEE
-	mon_cry CRY_VENONAT,     170,  383 ; VAPOREON
-	mon_cry CRY_VENONAT,      61,  256 ; JOLTEON
-	mon_cry CRY_VENONAT,      16,  160 ; FLAREON
+	mon_cry CRY_SNOM,     136,  224 ; EEVEE
+	mon_cry CRY_SNOM,     170,  383 ; VAPOREON
+	mon_cry CRY_SNOM,      61,  256 ; JOLTEON
+	mon_cry CRY_SNOM,      16,  160 ; FLAREON
 	mon_cry CRY_WEEPINBELL,  170,  383 ; PORYGON
 	mon_cry CRY_GROWLITHE,   240,  129 ; OMANYTE
 	mon_cry CRY_GROWLITHE,   255,  192 ; OMASTAR
@@ -202,7 +202,7 @@ PokemonCries::
 	mon_cry CRY_WOOPER,      147,  175 ; WOOPER
 	mon_cry CRY_WOOPER,     -198,  320 ; QUAGSIRE
 	mon_cry CRY_MAGNELOCKE,       162,  320 ; ESPEON
-	mon_cry CRY_VENONAT,    -233,  240 ; UMBREON
+	mon_cry CRY_SNOM,    -233,  240 ; UMBREON
 	mon_cry CRY_MEDITITE,      -31,  384 ; MURKROW
 	mon_cry CRY_SLOWKING,    260,  512 ; SLOWKING
 	mon_cry CRY_HOOTHOOT,    304,  232 ; MISDREAVUS

@@ -1,9 +1,9 @@
-	db VENOMOTH ; 049
+	db SNOMYOMI ; 049
 
-	db  70,  65,  60,  90,  90,  75
+	db  100,  70,  100,  50,  95,  60
 	;   hp  atk  def  spd  sat  sdf
 
-	db BUG, POISON ; type
+	db ICE, BUG ; type
 	db 75 ; catch rate
 	db 138 ; base exp
 	db NO_ITEM, NO_ITEM ; items
@@ -11,7 +11,7 @@
 	db 100 ; unknown 1
 	db 20 ; step cycles to hatch
 	db 5 ; unknown 2
-	INCBIN "gfx/pokemon/venomoth/front.dimensions"
+	INCBIN "gfx/pokemon/snomyomi/front.dimensions"
 	dw NULL, NULL ; unused (beta front/back pics)
 	db GROWTH_MEDIUM_FAST ; growth rate
 	dn EGG_BUG, EGG_BUG ; egg groups

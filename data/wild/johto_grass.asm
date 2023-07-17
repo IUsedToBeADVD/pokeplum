@@ -13,11 +13,11 @@ JohtoGrassWildMons:
 	db 3, SUNKERN
 	db 3, SUNKERN
 	; day
-	db 8, HOGWYRE
-	db 5, HOGWYRE
-	db 7, HOGWYRE
-	db 6, HOGWYRE
-	db 4, HOGWYRE
+	db 4, SNOM
+	db 3, SNOMYOMI
+	db 4, SNOMYOMI
+	db 3, SNOM
+	db 2, SNOM
 	db 3, BUNEARY
 	db 3, SUNKERN
 	; nite

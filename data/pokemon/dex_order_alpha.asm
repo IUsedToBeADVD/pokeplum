@@ -236,8 +236,8 @@ AlphabeticalPokedexOrder:
 	db UNOWN
 	db WHIMSICOTT
 	db VAPOREON
-	db VENOMOTH
-	db VENONAT
+	db SNOMYOMI
+	db SNOM
 	db VENUSAUR
 	db VICTREEBEL
 	db VILEPLUME

@@ -66,8 +66,8 @@
 	const VILEPLUME  ; 2d
 	const PARAS      ; 2e
 	const PARASECT   ; 2f
-	const VENONAT    ; 30
-	const VENOMOTH   ; 31
+	const SNOM    	 ; 30
+	const SNOMYOMI   ; 31
 	const DIGLETT    ; 32
 	const DUGTRIO    ; 33
 	const MEOWTH     ; 34
