@@ -88,11 +88,11 @@ Cry_Wooper:
 	channel 6, Cry_Wooper_Ch6
 	channel 8, Cry_Wooper_Ch8
 
-Cry_Donphan:
+Cry_Creepture:
 	channel_count 3
-	channel 5, Cry_Donphan_Ch5
-	channel 6, Cry_Donphan_Ch6
-	channel 8, Cry_Donphan_Ch8
+	channel 5, Cry_Creepture_Ch5
+	channel 6, Cry_Creepture_Ch6
+	channel 8, Cry_Creepture_Ch8
 
 Cry_Blaziken:
 	channel_count 3
@@ -589,7 +589,7 @@ Cry_Munna_Ch8:
 	sound_ret
 
 Cry_Wooper_Ch5:
-Cry_Donphan_Ch5:
+Cry_Creepture_Ch5:
 	duty_cycle 2
 	square_note 2, 9, -1, 1816
 	square_note 4, 10, -3, 1826
@@ -600,7 +600,7 @@ Cry_Donphan_Ch5:
 	sound_ret
 
 Cry_Wooper_Ch6:
-Cry_Donphan_Ch6:
+Cry_Creepture_Ch6:
 	duty_cycle_pattern 0, 0, 1, 3
 	square_note 2, 11, -1, 1848
 	square_note 4, 12, -3, 1858
@@ -618,7 +618,7 @@ Cry_Wooper_Ch8:
 	noise_note 16, 5, 1, 4
 	sound_ret
 
-Cry_Donphan_Ch8:
+Cry_Creepture_Ch8:
 	noise_note 2, 8, -3, 89
 	noise_note 4, 10, 8, 106
 	noise_note 8, 10, 8, 112

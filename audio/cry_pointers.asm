@@ -68,5 +68,5 @@ Cries:
 	dba Cry_Lotad
 	dba Cry_Magnelocke
 	dba Cry_Dunsparce
-	dba Cry_Donphan
+	dba Cry_Creepture
 	assert_table_length NUM_CRIES

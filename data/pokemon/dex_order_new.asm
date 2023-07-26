@@ -196,8 +196,8 @@ NewPokedexOrder:
 	db PILOSWINE
 	db COTTONEE
 	db WHIMSICOTT
-	db PHANPY
-	db DONPHAN
+	db PHINK
+	db CREEPTURE
 	db MANTINE
 	db SKARMORY
 	db DODUO

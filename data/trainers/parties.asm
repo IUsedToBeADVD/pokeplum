@@ -3285,7 +3285,7 @@ PokefanMGroup:
 
 	; POKEFANM (13)
 	db "REX@", TRAINERTYPE_ITEM
-	db 35, PHANPY,     BERRY
+	db 35, PHINK,     BERRY
 	db -1 ; end
 
 	; POKEFANM (14)
@@ -3366,12 +3366,12 @@ TwinsGroup:
 	; TWINS (7)
 	db "MEG & PEG@", TRAINERTYPE_NORMAL
 	db 31, COTTONEE
-	db 31, PHANPY
+	db 31, PHINK
 	db -1 ; end
 
 	; TWINS (8)
 	db "MEG & PEG@", TRAINERTYPE_NORMAL
-	db 31, PHANPY
+	db 31, PHINK
 	db 31, COTTONEE
 	db -1 ; end
 

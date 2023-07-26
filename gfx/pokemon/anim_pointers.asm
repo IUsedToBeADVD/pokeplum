@@ -230,8 +230,8 @@ AnimationPointers:
 	dw HoundourAnimation
 	dw HoundoomAnimation
 	dw KingdraAnimation
-	dw PhanpyAnimation
-	dw DonphanAnimation
+	dw PhinkAnimation
+	dw CreeptureAnimation
 	dw Porygon2Animation
 	dw StantlerAnimation
 	dw SmeargleAnimation

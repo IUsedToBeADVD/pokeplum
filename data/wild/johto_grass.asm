@@ -13,11 +13,11 @@ JohtoGrassWildMons:
 	db 3, SUNKERN
 	db 3, SUNKERN
 	; day
-	db 4, SNOM
-	db 3, SNOMYOMI
-	db 4, SNOMYOMI
-	db 3, SNOM
-	db 2, SNOM
+	db 4, PHINK
+	db 3, CREEPTURE
+	db 4, CREEPTURE
+	db 3, PHINK
+	db 2, PHINK
 	db 3, BUNEARY
 	db 3, SUNKERN
 	; nite

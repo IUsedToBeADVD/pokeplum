@@ -71,6 +71,6 @@
 	const CRY_LOTAD
 	const CRY_MAGNELOCKE
 	const CRY_DUNSPARCE
-	const CRY_DONPHAN
+	const CRY_CREEPTURE
 
 DEF NUM_CRIES EQU const_value

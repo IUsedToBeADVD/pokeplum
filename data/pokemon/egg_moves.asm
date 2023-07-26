@@ -749,7 +749,7 @@ HoundourEggMoves:
 	db BEAT_UP
 	db -1 ; end
 
-PhanpyEggMoves:
+PhinkEggMoves:
 	db FOCUS_ENERGY
 	db BODY_SLAM
 	db ANCIENTPOWER

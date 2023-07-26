@@ -230,8 +230,8 @@ FramesPointers:
 	dw HoundourFrames
 	dw HoundoomFrames
 	dw KingdraFrames
-	dw PhanpyFrames
-	dw DonphanFrames
+	dw PhinkFrames
+	dw CreeptureFrames
 	dw Porygon2Frames
 	dw StantlerFrames
 	dw SmeargleFrames

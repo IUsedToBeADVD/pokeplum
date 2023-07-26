@@ -236,8 +236,8 @@ PokemonCries::
 	mon_cry CRY_TORCHIC,    57,  320 ; HOUNDOUR
 	mon_cry CRY_MUDKIP,   -266,  256 ; HOUNDOOM
 	mon_cry CRY_SLUGMA,      763,  256 ; KINGDRA
-	mon_cry CRY_BUNEARY,      72,  560 ; PHANPY
-	mon_cry CRY_DONPHAN,       0,  416 ; DONPHAN
+	mon_cry CRY_BUNEARY,      72,  560 ; PHINK
+	mon_cry CRY_CREEPTURE,       0,  416 ; CREEPTURE
 	mon_cry CRY_GIRAFARIG,   115,  576 ; PORYGON2
 	mon_cry CRY_MAGNELOCKE,      -352,  384 ; STANTLER
 	mon_cry CRY_LOTAD,      -538,  496 ; SMEARGLE

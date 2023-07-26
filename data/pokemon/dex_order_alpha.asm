@@ -43,7 +43,7 @@ AlphabeticalPokedexOrder:
 	db DITTO
 	db DODRIO
 	db DODUO
-	db DONPHAN
+	db CREEPTURE
 	db DRAGONAIR
 	db DRAGONITE
 	db DRATINI
@@ -158,7 +158,7 @@ AlphabeticalPokedexOrder:
 	db PARAS
 	db PARASECT
 	db PERSIAN
-	db PHANPY
+	db PHINK
 	db LOTAD
 	db PIDGEOT
 	db PIDGEOTTO

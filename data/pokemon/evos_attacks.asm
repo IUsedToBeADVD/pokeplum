@@ -3101,29 +3101,33 @@ KingdraEvosAttacks:
 	db 51, HYDRO_PUMP
 	db 0 ; no more level-up moves
 
-PhanpyEvosAttacks:
-	db EVOLVE_LEVEL, 25, DONPHAN
+PhinkEvosAttacks:
+	db EVOLVE_LEVEL, 40, CREEPTURE
 	db 0 ; no more evolutions
-	db 1, TACKLE
+	db 1, SCRATCH
 	db 1, GROWL
-	db 9, DEFENSE_CURL
-	db 17, FLAIL
-	db 25, TAKE_DOWN
-	db 33, ROLLOUT
-	db 41, ENDURE
-	db 49, DOUBLE_EDGE
+	db 7, SAND_ATTACK
+	db 12, BITE
+	db 18, QUICK_ATTACK
+	db 23, CHARM
+	db 30, FURY_SWIPES
+	db 37, THIEF
 	db 0 ; no more level-up moves
 
-DonphanEvosAttacks:
+CreeptureEvosAttacks:
 	db 0 ; no more evolutions
-	db 1, HORN_ATTACK
+	db 1, SCRATCH
 	db 1, GROWL
-	db 9, DEFENSE_CURL
-	db 17, FLAIL
-	db 25, FURY_ATTACK
-	db 33, ROLLOUT
-	db 41, RAPID_SPIN
-	db 49, EARTHQUAKE
+	db 7, SAND_ATTACK
+	db 12, BITE
+	db 18, QUICK_ATTACK
+	db 23, CHARM
+	db 30, FURY_SWIPES
+	db 37, THIEF
+	db 40, SMOG
+	db 45, CRUNCH
+	db 49, SLUDGE
+	db 54, DOUBLE_TEAM
 	db 0 ; no more level-up moves
 
 Porygon2EvosAttacks:

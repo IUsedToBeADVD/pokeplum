@@ -466,10 +466,10 @@ PokemonPicPointers::
 	dba HoundoomBackpic
 	dba KingdraFrontpic
 	dba KingdraBackpic
-	dba PhanpyFrontpic
-	dba PhanpyBackpic
-	dba DonphanFrontpic
-	dba DonphanBackpic
+	dba PhinkFrontpic
+	dba PhinkBackpic
+	dba CreeptureFrontpic
+	dba CreeptureBackpic
 	dba Porygon2Frontpic
 	dba Porygon2Backpic
 	dba StantlerFrontpic

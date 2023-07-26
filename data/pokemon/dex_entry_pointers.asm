@@ -231,8 +231,8 @@ PokedexDataPointerTable:
 	dw HoundourPokedexEntry
 	dw HoundoomPokedexEntry
 	dw KingdraPokedexEntry
-	dw PhanpyPokedexEntry
-	dw DonphanPokedexEntry
+	dw PhinkPokedexEntry
+	dw CreepturePokedexEntry
 	dw Porygon2PokedexEntry
 	dw StantlerPokedexEntry
 	dw SmearglePokedexEntry
