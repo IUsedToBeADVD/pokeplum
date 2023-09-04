@@ -51,7 +51,7 @@
 	tilecoll WATER, WATER, WATER, WATER ; 32
 	tilecoll WATER, WATER, WATER, WATER ; 33
 	tilecoll WALL, WALL, WALL, WALL ; 34
-	tilecoll FLOOR, WALL, FLOOR, WALL ; 35
+	tilecoll WALL, WALL, WALL, WALL ; 35
 	tilecoll FLOOR, WALL, FLOOR, WALL ; 36
 	tilecoll WALL, WALL, WALL, CAVE ; 37
 	tilecoll WALL, HOP_DOWN_LEFT, WALL, WALL ; 38

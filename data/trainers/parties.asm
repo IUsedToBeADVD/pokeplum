@@ -338,38 +338,36 @@ ErikaGroup:
 YoungsterGroup:
 	; YOUNGSTER (1)
 	db "JOEY@", TRAINERTYPE_NORMAL
-	db  4, RATTATA
+	db  3, SPEAROW
 	db -1 ; end
 
 	; YOUNGSTER (2)
 	db "MIKEY@", TRAINERTYPE_NORMAL
 	db  2, ROOKIDEE
-	db  4, RATTATA
+	db  2, MANKEY
 	db -1 ; end
 
 	; YOUNGSTER (3)
 	db "ALBERT@", TRAINERTYPE_NORMAL
-	db  6, RATTATA
-	db  8, ZUBAT
+	db  3, ZUBAT
 	db -1 ; end
 
 	; YOUNGSTER (4)
 	db "GORDON@", TRAINERTYPE_NORMAL
-	db 10, WOOPER
+	db 3, RATTATA
+	db 5, GASTLY
 	db -1 ; end
 
 	; YOUNGSTER (5)
 	db "SAMUEL@", TRAINERTYPE_NORMAL
-	db  7, RATTATA
-	db 10, SANDSHREW
-	db  8, SPEAROW
-	db  8, SPEAROW
+	db  3, WEEDLE
+	db  4, BUNEARY
 	db -1 ; end
 
 	; YOUNGSTER (6)
 	db "IAN@", TRAINERTYPE_NORMAL
-	db 10, MANKEY
-	db 12, DIGLETT
+	db 3, CATERPIE
+	db 4, ROOKIDEE
 	db -1 ; end
 
 	; YOUNGSTER (7)
@@ -384,24 +382,24 @@ YoungsterGroup:
 
 	; YOUNGSTER (9)
 	db "WARREN@", TRAINERTYPE_NORMAL
-	db 35, FEAROW
+	db 5, METAPOD
 	db -1 ; end
 
 	; YOUNGSTER (10)
 	db "JIMMY@", TRAINERTYPE_NORMAL
-	db 33, RATICATE
-	db 33, ARBOK
+	db 4, RATTATA
+	db 5, EKANS
 	db -1 ; end
 
 	; YOUNGSTER (11)
 	db "OWEN@", TRAINERTYPE_NORMAL
-	db 35, GROWLITHE
+	db 8, GROWLITHE
 	db -1 ; end
 
 	; YOUNGSTER (12)
 	db "JASON@", TRAINERTYPE_NORMAL
-	db 33, SANDSLASH
-	db 33, CROBAT
+	db 7, RATTATA
+	db 7, ZUBAT
 	db -1 ; end
 
 	; YOUNGSTER (13)
@@ -417,52 +415,47 @@ YoungsterGroup:
 SchoolboyGroup:
 	; SCHOOLBOY (1)
 	db "JACK@", TRAINERTYPE_NORMAL
-	db 12, ODDISH
-	db 15, VOLTORB
+	db 5, ODDISH
+	db 5, SPEAROW
 	db -1 ; end
 
 	; SCHOOLBOY (2)
 	db "KIPP@", TRAINERTYPE_NORMAL
-	db 27, VOLTORB
-	db 27, MAGNEMITE
-	db 31, VOLTORB
-	db 31, MAGNETON
+	db 4, RATTATA
+	db 6, EKANS
 	db -1 ; end
 
 	; SCHOOLBOY (3)
 	db "ALAN@", TRAINERTYPE_NORMAL
-	db 16, TANGELA
+	db 7, ODDISH
 	db -1 ; end
 
 	; SCHOOLBOY (4)
 	db "JOHNNY@", TRAINERTYPE_NORMAL
-	db 29, BELLSPROUT
-	db 31, WEEPINBELL
-	db 33, VICTREEBEL
+	db 8, BELLSPROUT
 	db -1 ; end
 
 	; SCHOOLBOY (5)
 	db "DANNY@", TRAINERTYPE_NORMAL
-	db 31, JYNX
-	db 31, ELECTABUZZ
-	db 31, MAGMAR
+	db 6, ELEKID
+	db 6, MAGBY
 	db -1 ; end
 
 	; SCHOOLBOY (6)
 	db "TOMMY@", TRAINERTYPE_NORMAL
-	db 32, XATU
-	db 34, ALAKAZAM
+	db 6, NATU
+	db 7, ABRA
 	db -1 ; end
 
 	; SCHOOLBOY (7)
 	db "DUDLEY@", TRAINERTYPE_NORMAL
-	db 35, ODDISH
+	db 8, ODDISH
 	db -1 ; end
 
 	; SCHOOLBOY (8)
 	db "JOE@", TRAINERTYPE_NORMAL
-	db 33, TANGELA
-	db 33, VAPOREON
+	db 7, EEVEE
+	db 8, EEVEE
 	db -1 ; end
 
 	; SCHOOLBOY (9)
@@ -573,8 +566,8 @@ SchoolboyGroup:
 BirdKeeperGroup:
 	; BIRD_KEEPER (1)
 	db "ROD@", TRAINERTYPE_NORMAL
-	db  7, ROOKIDEE
-	db  7, ROOKIDEE
+	db  3, ROOKIDEE
+	db  4, ROOKIDEE
 	db -1 ; end
 
 	; BIRD_KEEPER (2)

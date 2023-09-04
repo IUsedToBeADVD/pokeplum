@@ -42,12 +42,13 @@ ENDM
 	map_const TIME_CAPSULE,                                 5,  4 ;  4
 	endgroup
 
-	newgroup BATTLE_TOWER                                         ;  2
-	map_const BATTLE_TOWER_OUTSIDE,                        10, 14 ;  1
-	map_const BATTLE_TOWER_1F,                              8,  5 ;  2
+	newgroup BATTLE_TOWER                                         ;  2  All snow maps will be in Battle Tower group because
+	map_const BATTLE_TOWER_OUTSIDE,                        10, 14 ;  1  roof color makes for good snow tile coloring
+	map_const BATTLE_TOWER_1F,                              8,  5 ;  2  and these maps will share tileset with outside battle tower
 	map_const BATTLE_TOWER_ELEVATOR,                        2,  2 ;  3
 	map_const BATTLE_TOWER_HALLWAY,                        11,  2 ;  4
 	map_const BATTLE_TOWER_BATTLE_ROOM,                     4,  4 ;  5
+	map_const DRAGONSCALE_PEAK_1F, 						   20, 18 ;  6
 	endgroup
 
 	newgroup NEW_BARK                                             ;  3
@@ -67,21 +68,21 @@ ENDM
 	endgroup
 	
 	newgroup DUNGEONS											  ;  5
-	map_const STONESTEP_TUNNEL_1F,						   10, 18 ;  1
-	map_const STONESTEP_TUNNEL_B1F,						    7,  8 ;  2
-	map_const SERPENT_FALLS_1F,							   12, 19 ;  3
-	map_const DRAGONSCALE_TOWER_B1F,						9, 11 ;  4
+	map_const STONESTEP_TUNNEL_1F,						   20,  9 ;  1
+	map_const STONESTEP_TUNNEL_2F,						   10,  9 ;  2
+	map_const STONESTEP_TUNNEL_B1F,						   20,  9 ;  3
+	map_const SERPENT_FALLS_1F,							   12, 19 ;  4
+	map_const DRAGONSCALE_TOWER_B1F,						9, 11 ;  5
 	endgroup
 	
 	newgroup STELURSA											  ;  6
 	map_const STELURSA_TOWN,							   20, 18 ;  1
-	map_const ROUTE_50,									   30, 18 ;  2
+	map_const ROUTE_50,									   10, 18 ;  2
 	map_const STUMPS_LAB,								    8,  6 ;  3
-	map_const ROUTE_50_GATE,								5,  4 ;  4
-	map_const PETALFALL_PARK,							   20, 18 ;  5
-	map_const ROUTE_65,							   		   40, 18 ;  6
-	map_const STUMPS_LAB_ROOF,							    5,  7 ;  7
-	map_const STARTER_ROOM,									4,  4 ;  8
+	map_const PETALFALL_PARK,							   20, 18 ;  4
+	map_const ROUTE_65,							   		   40, 18 ;  5
+	map_const STUMPS_LAB_ROOF,							    5,  7 ;  6
+	map_const STARTER_ROOM,									4,  4 ;  7
 	endgroup
 
 	newgroup SINTIRI										  	  ;  7
@@ -96,7 +97,7 @@ ENDM
 
 	newgroup WISHOOK										      ;  8
 	map_const WISHOOK_CITY,						   		   30, 18 ;  1
-	map_const ROUTE_53,						   			   10, 36 ;  2
+	map_const ROUTE_53,						   			   20, 27 ;  2
 	endgroup
 
 DEF NUM_MAP_GROUPS EQU const_value ; 8

@@ -180,7 +180,6 @@ TilesetGateColl::
 INCLUDE "data/tilesets/gate_collision.asm"
 
 TilesetJohtoModernGFX::
-TilesetBattleTowerOutsideGFX::
 INCBIN "gfx/tilesets/johto_modern.2bpp.lz"
 
 TilesetJohtoModernMeta::
@@ -439,3 +438,7 @@ TilesetWishookAttr::
 INCBIN "data/tilesets/wishook_attributes.bin"
 
 
+SECTION "Tileset Data 12", ROMX
+
+TilesetBattleTowerOutsideGFX::
+INCBIN "gfx/tilesets/battle_tower_outside.2bpp.lz"

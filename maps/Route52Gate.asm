@@ -10,7 +10,7 @@ Route52Gate_MapEvents:
 
 	def_warp_events
 	warp_event  4,  7, ROUTE_52, 1
-	warp_event  5,  7, ROUTE_52, 1
+	warp_event  5,  7, ROUTE_52, 4
 	warp_event  4,  0, WISHOOK_CITY, 1
 	warp_event  5,  0, WISHOOK_CITY, 2
 

@@ -227,7 +227,7 @@ StelursaTown_MapEvents:
 	warp_event 8,  2, PETALFALL_PARK, 1
 	warp_event 9,  2, PETALFALL_PARK, 2
 	warp_event 37,  32, ROUTE_65, 1
-	warp_event 37,  33, ROUTE_50_GATE, 2
+	warp_event 37,  33, DRAGONSCALE_PEAK_1F, 1
 
 	def_coord_events
 	coord_event  2, 28, SCENE_STELURSATOWN_GUARD_STOPS_YOU, StelursaTown_RouteGuardStopsYouScene1

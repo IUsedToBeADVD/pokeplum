@@ -64,17 +64,18 @@ BattleTowerGroupSprites:
 	db SPRITE_POKE_BALL
 	db SPRITE_POKEDEX
 
+StelursaGroupSprites:
 SintiriGroupSprites:
 WishookGroupSprites:
 NewBarkGroupSprites:
-	db SPRITE_SUICUNE
+	db SPRITE_SCIENTIST
 	db SPRITE_SILVER_TROPHY
 	db SPRITE_FAMICOM
 	db SPRITE_POKEDEX
 	db SPRITE_WILL
 	db SPRITE_KAREN
 	db SPRITE_NURSE
-	db SPRITE_OLD_LINK_RECEPTIONIST
+	db SPRITE_FRUIT_TREE
 	db SPRITE_BIG_LAPRAS
 	db SPRITE_BIG_ONIX
 	db SPRITE_SUDOWOODO
@@ -116,7 +117,6 @@ IndigoGroupSprites:
 	db SPRITE_POKE_BALL
 	db SPRITE_POKEDEX
 
-StelursaGroupSprites:
 DungeonsGroupSprites:
 	db SPRITE_SUICUNE
 	db SPRITE_SILVER_TROPHY

@@ -80,6 +80,7 @@ TilesetJohtoAnim:
 TilesetWishookAnim:
 	dw vTiles2 tile $14, AnimateWaterTile
 	dw NULL,  WaitTileAnimation
+	dw vTiles2 tile $5b, AnimateFountainTile
 	dw NULL,  WaitTileAnimation
 	dw NULL,  AnimateWaterPalette
 	dw NULL,  WaitTileAnimation

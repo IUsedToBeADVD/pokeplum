@@ -6,9 +6,6 @@ SintiriPokecenter1F_Blocks:
 Pokecenter2F_Blocks:
 	INCBIN "maps/Pokecenter2F.ablk"
 
-Route50Gate_Blocks:
-	INCBIN "maps/EastWestGate.ablk"
-
 Route52Gate_Blocks:
 	INCBIN "maps/NorthSouthGate.ablk"
 
@@ -64,6 +61,9 @@ DragonscaleTower1F_Blocks:
 DragonscaleTowerB1F_Blocks:
 	INCBIN "maps/DragonscaleTowerB1F.ablk"
 
+DragonscalePeak1F_Blocks:
+	INCBIN "maps/DragonscalePeak1F.ablk"
+
 SintiriLake_Blocks:
 	INCBIN "maps/SintiriLake.ablk"
 
@@ -78,6 +78,9 @@ Route65_Blocks:
 
 StonestepTunnel1F_Blocks:
 	INCBIN "maps/StonestepTunnel1F.ablk"
+
+StonestepTunnel2F_Blocks:
+	INCBIN "maps/StonestepTunnel2F.ablk"
 
 StonestepTunnelB1F_Blocks:
 	INCBIN "maps/StonestepTunnelB1F.ablk"

@@ -125,8 +125,8 @@ ENDM
 	map_attributes Route65, ROUTE_65, $35, 0
 	map_attributes SintiriPokecenter1F, SINTIRI_POKECENTER_1F, $00, 0
 	map_attributes StonestepTunnel1F, STONESTEP_TUNNEL_1F, $09, 0
+	map_attributes StonestepTunnel2F, STONESTEP_TUNNEL_2F, $09, 0
 	map_attributes StonestepTunnelB1F, STONESTEP_TUNNEL_B1F, $09, 0
-	map_attributes Route50Gate, ROUTE_50_GATE, $00, 0
 	map_attributes Route52Gate, ROUTE_52_GATE, $00, 0
 	map_attributes Route52, ROUTE_52, $05, 0
 	map_attributes StumpsLabRoof, STUMPS_LAB_ROOF, $24, 0
@@ -134,16 +134,19 @@ ENDM
 	map_attributes SerpentFalls1F, SERPENT_FALLS_1F, $09, 0
 	map_attributes DragonscaleTower1F, DRAGONSCALE_TOWER_1F, $01, 0
 	map_attributes DragonscaleTowerB1F, DRAGONSCALE_TOWER_B1F, $09, 0
+	map_attributes DragonscalePeak1F, DRAGONSCALE_PEAK_1F, $4B, 0
 	
 	map_attributes StelursaTown, STELURSA_TOWN, $05, WEST
-	connection west, Route50, ROUTE_50, 10
+	connection west, Route50, ROUTE_50, 13
 	
-	map_attributes Route50, ROUTE_50, $05, EAST
-	connection east, StelursaTown, STELURSA_TOWN, -10
+	map_attributes Route50, ROUTE_50, $05, WEST | EAST
+	connection west, SintiriTown, SINTIRI_TOWN, 1
+	connection east, StelursaTown, STELURSA_TOWN, -13
 	
-	map_attributes SintiriTown, SINTIRI_TOWN, $05, NORTH | SOUTH
+	map_attributes SintiriTown, SINTIRI_TOWN, $05, NORTH | SOUTH | EAST
 	connection north, Route51, ROUTE_51, -1
 	connection south, SintiriLake, SINTIRI_LAKE, 1
+	connection east, Route50, ROUTE_50, -1
 	
 	map_attributes SintiriLake, SINTIRI_LAKE, $71, NORTH
 	connection north, SintiriTown, SINTIRI_TOWN, -1

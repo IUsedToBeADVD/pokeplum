@@ -91,27 +91,27 @@ JohtoGrassWildMons:
 	; morn
 	db 4, EKANS
 	db 3, KABUTO
-	db 5, EKANS
 	db 3, EKANS
-	db 6, EKANS
+	db 4, EKANS
+	db 5, EKANS
 	db 4, KABUTO
-	db 7, EKANS
+	db 6, EKANS
 	; day
 	db 4, EKANS
 	db 3, KABUTO
-	db 5, EKANS
 	db 3, EKANS
-	db 6, EKANS
+	db 4, EKANS
+	db 5, EKANS
 	db 4, KABUTO
-	db 7, EKANS
+	db 6, EKANS
 	; nite
 	db 4, EKANS
 	db 3, KABUTO
-	db 5, EKANS
 	db 3, EKANS
-	db 6, EKANS
+	db 4, EKANS
+	db 5, EKANS
 	db 4, KABUTO
-	db 7, EKANS
+	db 6, EKANS
 	end_grass_wildmons
 	
 	def_grass_wildmons ROUTE_51
@@ -168,6 +168,90 @@ JohtoGrassWildMons:
 	db 5, GEODUDE
 	db 5, EKANS
 	db 6, GEODUDE
+	end_grass_wildmons
+	
+	def_grass_wildmons STONESTEP_TUNNEL_2F
+	db 3 percent, 3 percent, 3 percent ; encounter rates: morn/day/nite
+	; morn
+	db 4, KABUTO
+	db 4, ZUBAT
+	db 5, KABUTO
+	db 4, SANDSHREW
+	db 5, GEODUDE
+	db 5, EKANS
+	db 6, GEODUDE
+	; day
+	db 4, KABUTO
+	db 4, ZUBAT
+	db 5, KABUTO
+	db 4, SANDSHREW
+	db 5, GEODUDE
+	db 5, EKANS
+	db 6, GEODUDE
+	; nite
+	db 4, KABUTO
+	db 4, ZUBAT
+	db 5, KABUTO
+	db 4, SANDSHREW
+	db 5, GEODUDE
+	db 5, EKANS
+	db 6, GEODUDE
+	end_grass_wildmons
+	
+	def_grass_wildmons STONESTEP_TUNNEL_B1F
+	db 3 percent, 3 percent, 3 percent ; encounter rates: morn/day/nite
+	; morn
+	db 4, KABUTO
+	db 4, ZUBAT
+	db 5, KABUTO
+	db 4, SANDSHREW
+	db 5, GEODUDE
+	db 5, EKANS
+	db 6, GEODUDE
+	; day
+	db 4, KABUTO
+	db 4, ZUBAT
+	db 5, KABUTO
+	db 4, SANDSHREW
+	db 5, GEODUDE
+	db 5, EKANS
+	db 6, GEODUDE
+	; nite
+	db 4, KABUTO
+	db 4, ZUBAT
+	db 5, KABUTO
+	db 4, SANDSHREW
+	db 5, GEODUDE
+	db 5, EKANS
+	db 6, GEODUDE
+	end_grass_wildmons
+	
+	def_grass_wildmons DRAGONSCALE_PEAK_1F
+	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
+	; morn
+	db 4, SPEAROW
+	db 4, SNOM
+	db 5, SPEAROW
+	db 4, GEODUDE
+	db 5, SNOM
+	db 5, GEODUDE
+	db 6, SPEAROW
+	; day
+	db 4, SPEAROW
+	db 4, SNOM
+	db 5, SPEAROW
+	db 4, GEODUDE
+	db 5, SNOM
+	db 5, GEODUDE
+	db 6, SPEAROW
+	; nite
+	db 4, SPEAROW
+	db 4, SNOM
+	db 5, SPEAROW
+	db 4, GEODUDE
+	db 5, SNOM
+	db 5, GEODUDE
+	db 6, SPEAROW
 	end_grass_wildmons
 	
 	def_grass_wildmons ROUTE_52

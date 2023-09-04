@@ -15,8 +15,6 @@ SintiriTown_MapEvents:
 
 	def_warp_events
 	warp_event 29,  5, SINTIRI_POKECENTER_1F, 2
-	warp_event 35,  6, ROUTE_50_GATE, 3
-	warp_event 35,  7, ROUTE_50_GATE, 4
 	warp_event 21,  5, DRAGONSCALE_TOWER_1F, 1
 	def_coord_events
 
