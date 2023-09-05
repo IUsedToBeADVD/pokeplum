@@ -172,8 +172,8 @@ PokemonCries::
 	mon_cry CRY_HOOTHOOT,      0,  416 ; NOCTOWL
 	mon_cry CRY_MUNNA,        0,  222 ; MUNNA
 	mon_cry CRY_MUNNA,     -150,  312 ; MUSHARNA
-	mon_cry CRY_COMBEE,     17,  512 ; COMBEE
-	mon_cry CRY_COMBEE,   -174,  482 ; VESPIQUEN
+	mon_cry CRY_BARBOACH,     17,  512 ; BARBOACH
+	mon_cry CRY_BARBOACH,   -174,  482 ; WHISCASH
 	mon_cry CRY_SQUIRTLE,    -16,  320 ; CROBAT
 	mon_cry CRY_TORCHIC,   969,  320 ; CHINCHOU
 	mon_cry CRY_TORCHIC,   720,  272 ; LANTURN
@@ -252,7 +252,7 @@ PokemonCries::
 	mon_cry CRY_ENTEI,         0,  416 ; ENTEI
 	mon_cry CRY_MAGCARGO,      0,  384 ; SUICUNE
 	mon_cry CRY_RAIKOU,       95,  208 ; LARVITAR
-	mon_cry CRY_COMBEE,   -475,  336 ; PUPITAR
+	mon_cry CRY_BARBOACH,   -475,  336 ; PUPITAR
 	mon_cry CRY_RAIKOU,     -256,  384 ; TYRANITAR
 	mon_cry CRY_BLAZIKEN,    0,  256 ; LUGIA
 	mon_cry CRY_MAGNELOCKE,         0,  384 ; HOGWYRE

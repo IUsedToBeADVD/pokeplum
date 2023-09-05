@@ -166,8 +166,8 @@ AnimationPointers:
 	dw NoctowlAnimation
 	dw MunnaAnimation
 	dw MusharnaAnimation
-	dw CombeeAnimation
-	dw VespiquenAnimation
+	dw BarboachAnimation
+	dw WhiscashAnimation
 	dw CrobatAnimation
 	dw ChinchouAnimation
 	dw LanturnAnimation

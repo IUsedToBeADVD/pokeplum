@@ -77,6 +77,7 @@ EngineFlags:
 	engine_flag wVisitedSpawns, SPAWN_INDIGO
 	engine_flag wVisitedSpawns, SPAWN_STELURSA
 	engine_flag wVisitedSpawns, SPAWN_SINTIRI
+	engine_flag wVisitedSpawns, SPAWN_WISHOOK
 	engine_flag wVisitedSpawns, SPAWN_BATTLE_TOWER
 
 	engine_flag wLuckyNumberShowFlag, LUCKYNUMBERSHOW_GAME_OVER_F

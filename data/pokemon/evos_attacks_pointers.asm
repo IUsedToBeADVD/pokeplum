@@ -168,8 +168,8 @@ EvosAttacksPointers::
 	dw NoctowlEvosAttacks
 	dw MunnaEvosAttacks
 	dw MusharnaEvosAttacks
-	dw CombeeEvosAttacks
-	dw VespiquenEvosAttacks
+	dw BarboachEvosAttacks
+	dw WhiscashEvosAttacks
 	dw CrobatEvosAttacks
 	dw ChinchouEvosAttacks
 	dw LanturnEvosAttacks

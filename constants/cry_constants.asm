@@ -43,7 +43,7 @@
 
 ; gen 2
 	const CRY_MEDITITE
-	const CRY_COMBEE
+	const CRY_BARBOACH
 	const CRY_TOGEPI
 	const CRY_GIRAFARIG
 	const CRY_RAIKOU

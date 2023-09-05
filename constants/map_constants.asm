@@ -98,6 +98,8 @@ ENDM
 	newgroup WISHOOK										      ;  8
 	map_const WISHOOK_CITY,						   		   30, 18 ;  1
 	map_const ROUTE_53,						   			   20, 27 ;  2
+	map_const WISHOOK_GYM,									8,  8 ;  3
+	map_const WISHOOK_POKECENTER_1F,				        7,  7 ;  4
 	endgroup
 
 DEF NUM_MAP_GROUPS EQU const_value ; 8

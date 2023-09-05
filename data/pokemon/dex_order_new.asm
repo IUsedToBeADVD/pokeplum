@@ -33,8 +33,8 @@ NewPokedexOrder:
 	db BEEDRILL
 	db MUNNA
 	db MUSHARNA
-	db COMBEE
-	db VESPIQUEN
+	db BARBOACH
+	db WHISCASH
 	db GEODUDE
 	db GRAVELER
 	db GOLEM

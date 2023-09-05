@@ -1209,7 +1209,8 @@ ShellderEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 1, WITHDRAW
-	db 9, SUPERSONIC
+	db 7, SUPERSONIC
+	db 12, ICY_WIND
 	db 17, AURORA_BEAM
 	db 25, PROTECT
 	db 33, LEER
@@ -2285,27 +2286,31 @@ MusharnaEvosAttacks:
 	db 1, FORESIGHT
 	db 0 ; no more level-up moves
 
-CombeeEvosAttacks:
-	db EVOLVE_LEVEL, 21, VESPIQUEN
+BarboachEvosAttacks:
+	db EVOLVE_LEVEL, 30, WHISCASH
 	db 0 ; no more evolutions
-	db 1, GUST
-	db 1, SWEET_SCENT
+	db 1, MUD_SLAP
+	db 6, WATER_GUN
+	db 11, MAGNITUDE
+	db 16, AMNESIA
+	db 21, REST
+	db 26, SNORE
+	db 31, EARTHQUAKE
+	db 36, FUTURE_SIGHT
+	db 41, FISSURE
 	db 0 ; no more level-up moves
 
-VespiquenEvosAttacks:
+WhiscashEvosAttacks:
 	db 0 ; no more evolutions
-	db 1, GUST
-	db 1, SWEET_SCENT
-	db 3, POISON_STING
-	db 7, CONFUSE_RAY
-	db 9, FURY_CUTTER
-	db 17, FURY_SWIPES
-	db 21, PURSUIT
-	db 25, RECOVER
-	db 27, TOXIC
-	db 31, SLASH
-	db 33, CHARM
-	db 43, DESTINY_BOND
+	db 1, MUD_SLAP
+	db 6, WATER_GUN
+	db 11, MAGNITUDE
+	db 16, AMNESIA
+	db 21, REST
+	db 26, SNORE
+	db 36, EARTHQUAKE
+	db 46, FUTURE_SIGHT
+	db 56, FISSURE
 	db 0 ; no more level-up moves
 
 CrobatEvosAttacks:

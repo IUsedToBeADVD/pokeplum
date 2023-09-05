@@ -167,8 +167,8 @@ PokedexDataPointerTable:
 	dw NoctowlPokedexEntry
 	dw MunnaPokedexEntry
 	dw MusharnaPokedexEntry
-	dw CombeePokedexEntry
-	dw VespiquenPokedexEntry
+	dw BarboachPokedexEntry
+	dw WhiscashPokedexEntry
 	dw CrobatPokedexEntry
 	dw ChinchouPokedexEntry
 	dw LanturnPokedexEntry

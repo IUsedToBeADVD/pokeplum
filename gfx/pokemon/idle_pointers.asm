@@ -166,8 +166,8 @@ AnimationIdlePointers:
 	dw NoctowlAnimationIdle
 	dw MunnaAnimationIdle
 	dw MusharnaAnimationIdle
-	dw CombeeAnimationIdle
-	dw VespiquenAnimationIdle
+	dw BarboachAnimationIdle
+	dw WhiscashAnimationIdle
 	dw CrobatAnimationIdle
 	dw ChinchouAnimationIdle
 	dw LanturnAnimationIdle

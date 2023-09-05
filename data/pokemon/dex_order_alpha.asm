@@ -9,7 +9,7 @@ AlphabeticalPokedexOrder:
 	db AMPHAROS
 	db ARBOK
 	db ARCANINE
-	db VESPIQUEN
+	db WHISCASH
 	db ARTICUNO
 	db MEDICHAM
 	db GROVYLE
@@ -210,7 +210,7 @@ AlphabeticalPokedexOrder:
 	db SNORLAX
 	db WOOLOO
 	db SPEAROW
-	db COMBEE
+	db BARBOACH
 	db SQUIRTLE
 	db STANTLER
 	db STARMIE

@@ -1,5 +1,6 @@
 SECTION "Map Blocks 1", ROMX
 
+WishookPokecenter1F_Blocks:
 SintiriPokecenter1F_Blocks:
 	INCBIN "maps/Pokecenter1F.ablk"
 
@@ -102,6 +103,9 @@ StumpsLabRoof_Blocks:
 
 StarterRoom_Blocks:
 	INCBIN "maps/StarterRoom.ablk"
+
+WishookGym_Blocks:
+	INCBIN "maps/WishookGym.ablk"
 
 SECTION "Map Blocks 3", ROMX
 

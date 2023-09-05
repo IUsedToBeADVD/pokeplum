@@ -42,6 +42,8 @@ INCLUDE "maps/WishookCity.asm"
 INCLUDE "maps/Route53.asm"
 INCLUDE "maps/StumpsLabRoof.asm"
 INCLUDE "maps/StarterRoom.asm"
+INCLUDE "maps/WishookGym.asm"
+INCLUDE "maps/WishookPokecenter1F.asm"
 
 
 SECTION "Map Scripts 4", ROMX
