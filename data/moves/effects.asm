@@ -1762,6 +1762,9 @@ RapidSpin:
 	criticaltext
 	supereffectivetext
 	clearhazards
+	speedup
+	statupmessage
+	statupfailtext
 	checkfaint
 	buildopponentrage
 	kingsrock

@@ -532,11 +532,12 @@ WigglytuffEvosAttacks:
 ZubatEvosAttacks:
 	db EVOLVE_LEVEL, 22, GOLBAT
 	db 0 ; no more evolutions
-	db 1, LEECH_LIFE
+	db 1, ABSORB
 	db 6, SUPERSONIC
 	db 12, BITE
 	db 19, CONFUSE_RAY
 	db 27, WING_ATTACK
+	db 31, LEECH_LIFE
 	db 36, MEAN_LOOK
 	db 46, HAZE
 	db 0 ; no more level-up moves
@@ -545,12 +546,13 @@ GolbatEvosAttacks:
 	db EVOLVE_HAPPINESS, TR_ANYTIME, CROBAT
 	db 0 ; no more evolutions
 	db 1, SCREECH
-	db 1, LEECH_LIFE
+	db 1, ABSORB
 	db 1, SUPERSONIC
 	db 6, SUPERSONIC
 	db 12, BITE
 	db 19, CONFUSE_RAY
 	db 30, WING_ATTACK
+	db 35, LEECH_LIFE
 	db 42, MEAN_LOOK
 	db 55, HAZE
 	db 0 ; no more level-up moves
@@ -1798,7 +1800,7 @@ EeveeEvosAttacks:
 	db EVOLVE_HAPPINESS, TR_MORNDAY, ESPEON
 	db EVOLVE_HAPPINESS, TR_NITE, UMBREON
 	db 0 ; no more evolutions
-	db 1, TACKLE
+	db 1, RAPID_SPIN
 	db 1, TAIL_WHIP
 	db 8, SAND_ATTACK
 	db 16, GROWL
@@ -1895,28 +1897,33 @@ OmastarEvosAttacks:
 KabutoEvosAttacks:
 	db EVOLVE_LEVEL, 40, KABUTOPS
 	db 0 ; no more evolutions
-	db 1, SCRATCH
+	db 1, ABSORB
 	db 1, HARDEN
-	db 10, ABSORB
-	db 19, LEER
-	db 28, SAND_ATTACK
-	db 37, ENDURE
-	db 46, MEGA_DRAIN
-	db 55, ANCIENTPOWER
+	db 5, SCRATCH
+	db 10, SAND_ATTACK
+	db 14, BUBBLE
+	db 20, LEER
+	db 28, ANCIENTPOWER
+	db 32, ENDURE
+	db 37, BUBBLEBEAM
+	db 46, LEECH_LIFE
+	db 55, RAIN_DANCE
 	db 0 ; no more level-up moves
 
 KabutopsEvosAttacks:
 	db 0 ; no more evolutions
-	db 1, SCRATCH
-	db 1, HARDEN
 	db 1, ABSORB
-	db 10, ABSORB
-	db 19, LEER
-	db 28, SAND_ATTACK
-	db 37, ENDURE
+	db 1, HARDEN
+	db 5, SCRATCH
+	db 10, SAND_ATTACK
+	db 14, BUBBLE
+	db 20, LEER
+	db 28, ANCIENTPOWER
+	db 32, ENDURE
+	db 37, BUBBLEBEAM
 	db 40, SLASH
-	db 51, MEGA_DRAIN
-	db 65, ANCIENTPOWER
+	db 49, LEECH_LIFE
+	db 60, RAIN_DANCE
 	db 0 ; no more level-up moves
 
 AerodactylEvosAttacks:
@@ -2316,12 +2323,13 @@ WhiscashEvosAttacks:
 CrobatEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, SCREECH
-	db 1, LEECH_LIFE
+	db 1, ABSORB
 	db 1, SUPERSONIC
 	db 6, SUPERSONIC
 	db 12, BITE
 	db 19, CONFUSE_RAY
 	db 30, WING_ATTACK
+	db 35, LEECH_LIFE
 	db 42, MEAN_LOOK
 	db 55, HAZE
 	db 0 ; no more level-up moves
@@ -3007,7 +3015,7 @@ CorsolaEvosAttacks:
 JoltikEvosAttacks:
 	db EVOLVE_LEVEL, 36, GALVANTULA
 	db 0 ; no more evolutions
-	db 1, LEECH_LIFE
+	db 1, ABSORB
 	db 1, STRING_SHOT
 	db 1, SPIDER_WEB
 	db 4, THUNDER_WAVE
@@ -3024,7 +3032,7 @@ JoltikEvosAttacks:
 
 GalvantulaEvosAttacks:
 	db 0 ; no more evolutions
-	db 1, LEECH_LIFE
+	db 1, ABSORB
 	db 1, STRING_SHOT
 	db 1, SPIDER_WEB
 	db 4, THUNDER_WAVE

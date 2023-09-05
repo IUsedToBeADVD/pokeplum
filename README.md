@@ -1,5 +1,5 @@
 # Pokémon Plum
-Pokémon Plum is disassembly hack of Pokémon Crystal, using the [**nomaps**][nomaps] branch
+Pokémon Plum is a disassembly hack of Pokémon Crystal, using the [**nomaps**][nomaps] branch
 of pokecrystal. This project is still fairly early in development, 
 but here's a rundown of its scope:
 
@@ -23,7 +23,7 @@ These are features that would likely require heavier lifting
 or do not have a lot of tutorial coverage. I will try to tackle
 them at some point, but they may be beyond me
 
--Three difficulty modes with togglable options for level caps/item usage (would entail a complete AI overhaul)
+- Three difficulty modes with togglable options for level caps/item usage (would entail a complete AI overhaul)
 
 ## Credits
 There are countless artists to whom I am deeply indebted.
