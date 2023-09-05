@@ -1,5 +1,39 @@
-# Pokémon Crystal [![Build Status][ci-badge]][ci]
+# Pokémon Plum
+Pokémon Plum is disassembly hack of Pokémon Crystal, using the [**nomaps**][nomaps] branch
+of pokecrystal. This project is still fairly early in development, 
+but here's a rundown of its scope:
 
+## Features
+These features are in varying states of implementation:
+
+- New Region, Story, Characters, etc...
+- Curated Dex of 253 mons spanning all generations
+- A handful of exciting fakemon, some original concepts but mostly regional variants or new evolutions
+- Fairy Type and Physical/Special Split
+- Visual overhaul: new and modified tilesets, new sprites
+- Some new moves and many old ones modified to accomodate newer gen changes
+- NO HM SLAVES: HMs can be used without being taught, as long as you have the appropriate badge
+- QOL features like reusable TMs, exp from catching, survive poisoning outside of battle, and many more
+- Replacing stat experience with the EV system
+- Add-on to the party menu to view EVs and DVs
+- Improving the game's pace wherever possible
+
+## Dream Features
+These are features that would likely require heavier lifting
+or do not have a lot of tutorial coverage. I will try to tackle
+them at some point, but they may be beyond me
+
+-Three difficulty modes with togglable options for level caps/item usage (would entail a complete AI overhaul)
+
+## Credits
+There are countless artists to whom I am deeply indebted.
+With so many sprites from so many different talents
+on display in this game, this list is going to be an effort to
+compile. I want to make sure that no one is getting left out
+and that I can include artists' socials/websites wherever possible
+
+(the readme for pokecrystal is below)
+# Pokecrystal
 This is a disassembly of Pokémon Crystal.
 
 It builds the following ROMs:
@@ -50,3 +84,4 @@ Other disassembly projects:
 [irc]: https://web.libera.chat/?#pret
 [ci]: https://github.com/pret/pokecrystal/actions
 [ci-badge]: https://github.com/pret/pokecrystal/actions/workflows/main.yml/badge.svg
+[nomaps]: https://github.com/Rangi42/pokecrystal/tree/no-maps#pok%C3%A9mon-crystal-
