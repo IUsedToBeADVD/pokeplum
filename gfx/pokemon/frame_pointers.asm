@@ -226,7 +226,7 @@ FramesPointers:
 	dw GalvantulaFrames
 	dw DelibirdFrames
 	dw MantineFrames
-	dw SkarmoryFrames
+	dw AudinoFrames
 	dw HoundourFrames
 	dw HoundoomFrames
 	dw KingdraFrames

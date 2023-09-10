@@ -228,7 +228,7 @@ EvosAttacksPointers::
 	dw GalvantulaEvosAttacks
 	dw DelibirdEvosAttacks
 	dw MantineEvosAttacks
-	dw SkarmoryEvosAttacks
+	dw AudinoEvosAttacks
 	dw HoundourEvosAttacks
 	dw HoundoomEvosAttacks
 	dw KingdraEvosAttacks

@@ -226,7 +226,7 @@ AnimationIdlePointers:
 	dw GalvantulaAnimationIdle
 	dw DelibirdAnimationIdle
 	dw MantineAnimationIdle
-	dw SkarmoryAnimationIdle
+	dw AudinoAnimationIdle
 	dw HoundourAnimationIdle
 	dw HoundoomAnimationIdle
 	dw KingdraAnimationIdle

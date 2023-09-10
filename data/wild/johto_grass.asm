@@ -13,11 +13,11 @@ JohtoGrassWildMons:
 	db 3, SUNKERN
 	db 3, SUNKERN
 	; day
-	db 4, PHINK
-	db 3, CREEPTURE
-	db 4, CREEPTURE
-	db 3, PHINK
-	db 2, PHINK
+	db 4, AUDINO
+	db 3, AUDINO
+	db 4, AUDINO
+	db 3, AUDINO
+	db 2, AUDINO
 	db 3, BUNEARY
 	db 3, SUNKERN
 	; nite
@@ -41,10 +41,10 @@ JohtoGrassWildMons:
 	db 4, SPEAROW
 	db 3, SUNKERN
 	; day
-	db 2, ROOKIDEE
-	db 2, BUNEARY
-	db 3, SPEAROW
-	db 3, BUNEARY
+	db 6, AUDINO
+	db 8, AUDINO
+	db 10, AUDINO
+	db 12, AUDINO
 	db 4, ROOKIDEE
 	db 4, BUNEARY
 	db 3, SUNKERN
@@ -56,34 +56,6 @@ JohtoGrassWildMons:
 	db 4, HOOTHOOT
 	db 4, EKANS
 	db 4, BUNEARY
-	end_grass_wildmons
-	
-	def_grass_wildmons SINTIRI_LAKE
-	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
-	; morn
-	db 3, SPEAROW
-	db 3, BUNEARY
-	db 4, GEODUDE
-	db 3, EKANS
-	db 3, EXEGGCUTE
-	db 4, SPEAROW
-	db 4, EXEGGCUTE
-	; day
-	db 3, SPEAROW
-	db 3, BUNEARY
-	db 4, GEODUDE
-	db 3, EKANS
-	db 3, EXEGGCUTE
-	db 4, SPEAROW
-	db 4, EXEGGCUTE
-	; nite
-	db 3, HOOTHOOT
-	db 3, BUNEARY
-	db 4, GEODUDE
-	db 3, EKANS
-	db 3, EXEGGCUTE
-	db 4, HOOTHOOT
-	db 4, EXEGGCUTE
 	end_grass_wildmons
 	
 	def_grass_wildmons SERPENT_FALLS_1F

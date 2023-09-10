@@ -198,7 +198,7 @@ AlphabeticalPokedexOrder:
 	db BUNEARY
 	db SHELLDER
 	db SHUCKLE
-	db SKARMORY
+	db AUDINO
 	db SKIPLOOM
 	db SLOWBRO
 	db SLOWKING

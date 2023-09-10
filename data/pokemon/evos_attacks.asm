@@ -3064,15 +3064,17 @@ MantineEvosAttacks:
 	db 49, CONFUSE_RAY
 	db 0 ; no more level-up moves
 
-SkarmoryEvosAttacks:
+AudinoEvosAttacks:
 	db 0 ; no more evolutions
-	db 1, LEER
-	db 1, PECK
-	db 13, SAND_ATTACK
-	db 19, SWIFT
-	db 25, AGILITY
-	db 37, FURY_ATTACK
-	db 49, STEEL_WING
+	db 1, GROWL
+	db 1, POUND
+	db 7, SAFEGUARD
+	db 13, DOUBLESLAP
+	db 19, ATTRACT
+	db 24, TRI_ATTACK
+	db 29, TAKE_DOWN
+	db 35, HEAL_BELL
+	db 42, DOUBLE_EDGE
 	db 0 ; no more level-up moves
 
 HoundourEvosAttacks:

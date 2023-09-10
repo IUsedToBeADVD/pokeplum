@@ -458,8 +458,8 @@ PokemonPicPointers::
 	dba DelibirdBackpic
 	dba MantineFrontpic
 	dba MantineBackpic
-	dba SkarmoryFrontpic
-	dba SkarmoryBackpic
+	dba AudinoFrontpic
+	dba AudinoBackpic
 	dba HoundourFrontpic
 	dba HoundourBackpic
 	dba HoundoomFrontpic

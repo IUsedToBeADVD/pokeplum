@@ -199,7 +199,7 @@ NewPokedexOrder:
 	db PHINK
 	db CREEPTURE
 	db MANTINE
-	db SKARMORY
+	db AUDINO
 	db DODUO
 	db DODRIO
 	db PONYTA

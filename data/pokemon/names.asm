@@ -226,7 +226,7 @@ PokemonNames::
 	db "GALVANTULA"
 	db "DELIBIRD@@"
 	db "MANTINE@@@"
-	db "SKARMORY@@"
+	db "AUDINO@@@@"
 	db "HOUNDOUR@@"
 	db "HOUNDOOM@@"
 	db "KINGDRA@@@"

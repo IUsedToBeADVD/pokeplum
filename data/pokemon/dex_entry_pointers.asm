@@ -227,7 +227,7 @@ PokedexDataPointerTable:
 	dw GalvantulaPokedexEntry
 	dw DelibirdPokedexEntry
 	dw MantinePokedexEntry
-	dw SkarmoryPokedexEntry
+	dw AudinoPokedexEntry
 	dw HoundourPokedexEntry
 	dw HoundoomPokedexEntry
 	dw KingdraPokedexEntry

@@ -246,7 +246,7 @@ DEF JOHTO_POKEMON EQU const_value
 	const GALVANTULA  ; e0
 	const DELIBIRD   ; e1
 	const MANTINE    ; e2
-	const SKARMORY   ; e3
+	const AUDINO   ; e3
 	const HOUNDOUR   ; e4
 	const HOUNDOOM   ; e5
 	const KINGDRA    ; e6

@@ -232,7 +232,7 @@ PokemonCries::
 	mon_cry CRY_MUDKIP,      0,  384 ; GALVANTULA
 	mon_cry CRY_COTTONEE,     2,  106 ; DELIBIRD
 	mon_cry CRY_MANTINE,    -190,  240 ; MANTINE
-	mon_cry CRY_AMPHAROS,   2217,  384 ; SKARMORY
+	mon_cry CRY_AMPHAROS,   2217,  384 ; AUDINO
 	mon_cry CRY_TORCHIC,    57,  320 ; HOUNDOUR
 	mon_cry CRY_MUDKIP,   -266,  256 ; HOUNDOOM
 	mon_cry CRY_SLUGMA,      763,  256 ; KINGDRA

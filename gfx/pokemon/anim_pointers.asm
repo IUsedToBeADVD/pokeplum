@@ -226,7 +226,7 @@ AnimationPointers:
 	dw GalvantulaAnimation
 	dw DelibirdAnimation
 	dw MantineAnimation
-	dw SkarmoryAnimation
+	dw AudinoAnimation
 	dw HoundourAnimation
 	dw HoundoomAnimation
 	dw KingdraAnimation
