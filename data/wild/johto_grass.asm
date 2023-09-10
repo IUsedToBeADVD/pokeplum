@@ -209,13 +209,13 @@ JohtoGrassWildMons:
 	db 5, GEODUDE
 	db 6, SPEAROW
 	; day
-	db 4, SPEAROW
 	db 4, SNOM
-	db 5, SPEAROW
-	db 4, GEODUDE
+	db 4, SNOM
 	db 5, SNOM
-	db 5, GEODUDE
-	db 6, SPEAROW
+	db 4, SNOM
+	db 5, SNOM
+	db 5, SNOM
+	db 6, SNOM
 	; nite
 	db 4, SPEAROW
 	db 4, SNOM
