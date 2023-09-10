@@ -136,7 +136,7 @@
 	const EVENT_ROUTE65_HIDDEN_POTION
 	const EVENT_TIN_TOWER_5F_HIDDEN_CARBOS
 	const EVENT_BURNED_TOWER_1F_HIDDEN_ETHER
-	const_skip ; unused in Crystal
+	const EVENT_STELURSA_HIDDEN_EXP_SHARE ; previously unused, now used for testing purposes
 	const_skip ; unused in Crystal
 	const_skip ; unused in Crystal
 	const EVENT_NATIONAL_PARK_HIDDEN_FULL_HEAL

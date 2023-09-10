@@ -133,6 +133,9 @@ StelursaTownTechGuyScript:
 StelursaHiddenPokeball:
 	hiddenitem POKE_BALL, EVENT_STELURSA_HIDDEN_POKEBALL
 
+StelursaHiddenExpShare:
+	hiddenitem EXP_SHARE, EVENT_STELURSA_HIDDEN_EXP_SHARE
+
 StelursaTown_RouteGuardRunsToYouMovement1:
 	step UP
 	step UP
@@ -238,6 +241,7 @@ StelursaTown_MapEvents:
 
 	def_bg_events
 	bg_event 29, 34, BGEVENT_ITEM, StelursaHiddenPokeball
+	bg_event 11, 22, BGEVENT_ITEM, StelursaHiddenExpShare
 
 	def_object_events
 	object_event  6,  4, SPRITE_SCIENTIST, SPRITEMOVEDATA_STANDING_DOWN, 1, 0, -1, -1, 0, OBJECTTYPE_SCRIPT, 0, StelursaTownGuardScript, EVENT_GUARD_STELURSA_TOWN
