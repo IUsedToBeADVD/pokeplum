@@ -81,3 +81,37 @@ CheckForHiddenItems:
 	call GetFarByte
 	inc hl
 	ret
+
+RockItemEncounter:
+	ld hl, .RockItems
+	call Random
+.loop
+	sub [hl]
+	jr c, .ok
+	inc hl
+	inc hl
+	jr .loop
+
+.ok
+	ld a, [hli]
+	inc a
+	jr z, .done
+	ld a, [hli]
+.done
+	ld [wScriptVar], a
+	ret
+	
+.RockItems:
+	db 3, OLD_AMBER ;old amber (aerodactyl)
+	db 15, ARMOR_FOSSIL ;armor fossil (shieldon)
+	db 15, SKULL_FOSSIL ;skull fossil (cranidos)
+	db 18, NUGGET
+	db 20, STAR_PIECE
+	db 20, THUNDERSTONE
+	db 20, SUN_STONE
+	db 20, FIRE_STONE
+	db 20, WATER_STONE
+	db 20, LEAF_STONE
+	db 20, MOON_STONE
+	db 64, HARD_STONE
+	db -1
