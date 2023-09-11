@@ -204,13 +204,13 @@ PokedexDataPointerTable:
 	dw UnownPokedexEntry
 	dw WobbuffetPokedexEntry
 	dw GirafarigPokedexEntry
-	dw FerroseedPokedexEntry
-	dw FerrothornPokedexEntry
+	dw ShieldonPokedexEntry
+	dw BastiodonPokedexEntry
 	dw DunsparcePokedexEntry
 	dw GligarPokedexEntry
 	dw SteelixPokedexEntry
-	dw WoolooPokedexEntry
-	dw DubwoolPokedexEntry
+	dw CranidosPokedexEntry
+	dw RampardosPokedexEntry
 	dw QwilfishPokedexEntry
 	dw ScizorPokedexEntry
 	dw ShucklePokedexEntry

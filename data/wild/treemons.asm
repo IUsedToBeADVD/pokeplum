@@ -64,8 +64,8 @@ TreeMonSet_Route:
 	db -1
 ; rare
 	db 50, HOOTHOOT,   10
-	db 15, FERROSEED,     10
-	db 15, FERROSEED,     10
+	db 15, SHIELDON,     10
+	db 15, SHIELDON,     10
 	db 10, EXEGGCUTE,  10
 	db  5, EXEGGCUTE,  10
 	db  5, EXEGGCUTE,  10
@@ -82,8 +82,8 @@ TreeMonSet_Kanto:
 	db -1
 ; rare
 	db 50, HOOTHOOT,   10
-	db 15, FERROSEED,     10
-	db 15, FERROSEED,     10
+	db 15, SHIELDON,     10
+	db 15, SHIELDON,     10
 	db 10, EXEGGCUTE,  10
 	db  5, EXEGGCUTE,  10
 	db  5, EXEGGCUTE,  10
@@ -100,8 +100,8 @@ TreeMonSet_Lake:
 	db -1
 ; rare
 	db 50, HOOTHOOT,   10
-	db 15, FERROSEED,     10
-	db 15, FERROSEED,     10
+	db 15, SHIELDON,     10
+	db 15, SHIELDON,     10
 	db 10, EXEGGCUTE,  10
 	db  5, EXEGGCUTE,  10
 	db  5, EXEGGCUTE,  10
@@ -110,8 +110,8 @@ TreeMonSet_Lake:
 TreeMonSet_Forest:
 ; common
 	db 50, HOOTHOOT,   10
-	db 15, FERROSEED,     10
-	db 15, FERROSEED,     10
+	db 15, SHIELDON,     10
+	db 15, SHIELDON,     10
 	db 10, NOCTOWL,    10
 	db  5, BUTTERFREE, 10
 	db  5, BEEDRILL,   10

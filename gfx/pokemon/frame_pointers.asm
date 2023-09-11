@@ -203,13 +203,13 @@ FramesPointers:
 	dw UnownFrames
 	dw WobbuffetFrames
 	dw GirafarigFrames
-	dw FerroseedFrames
-	dw FerrothornFrames
+	dw ShieldonFrames
+	dw BastiodonFrames
 	dw DunsparceFrames
 	dw GligarFrames
 	dw SteelixFrames
-	dw WoolooFrames
-	dw DubwoolFrames
+	dw CranidosFrames
+	dw RampardosFrames
 	dw QwilfishFrames
 	dw ScizorFrames
 	dw ShuckleFrames

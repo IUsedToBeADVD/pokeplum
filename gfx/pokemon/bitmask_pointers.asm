@@ -203,13 +203,13 @@ BitmasksPointers:
 	dw UnownBitmasks
 	dw WobbuffetBitmasks
 	dw GirafarigBitmasks
-	dw FerroseedBitmasks
-	dw FerrothornBitmasks
+	dw ShieldonBitmasks
+	dw BastiodonBitmasks
 	dw DunsparceBitmasks
 	dw GligarBitmasks
 	dw SteelixBitmasks
-	dw WoolooBitmasks
-	dw DubwoolBitmasks
+	dw CranidosBitmasks
+	dw RampardosBitmasks
 	dw QwilfishBitmasks
 	dw ScizorBitmasks
 	dw ShuckleBitmasks

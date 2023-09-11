@@ -465,8 +465,8 @@ INCBIN "gfx/footprints/misdreavus.1bpp", footprint_bottom
 INCBIN "gfx/footprints/unown.1bpp",      footprint_top
 INCBIN "gfx/footprints/wobbuffet.1bpp",  footprint_top
 INCBIN "gfx/footprints/girafarig.1bpp",  footprint_top
-INCBIN "gfx/footprints/ferroseed.1bpp",     footprint_top
-INCBIN "gfx/footprints/ferrothorn.1bpp", footprint_top
+INCBIN "gfx/footprints/shieldon.1bpp",     footprint_top
+INCBIN "gfx/footprints/bastiodon.1bpp", footprint_top
 INCBIN "gfx/footprints/dunsparce.1bpp",  footprint_top
 INCBIN "gfx/footprints/gligar.1bpp",     footprint_top
 INCBIN "gfx/footprints/steelix.1bpp",    footprint_top
@@ -474,14 +474,14 @@ INCBIN "gfx/footprints/steelix.1bpp",    footprint_top
 INCBIN "gfx/footprints/unown.1bpp",      footprint_bottom
 INCBIN "gfx/footprints/wobbuffet.1bpp",  footprint_bottom
 INCBIN "gfx/footprints/girafarig.1bpp",  footprint_bottom
-INCBIN "gfx/footprints/ferroseed.1bpp",     footprint_bottom
-INCBIN "gfx/footprints/ferrothorn.1bpp", footprint_bottom
+INCBIN "gfx/footprints/shieldon.1bpp",     footprint_bottom
+INCBIN "gfx/footprints/bastiodon.1bpp", footprint_bottom
 INCBIN "gfx/footprints/dunsparce.1bpp",  footprint_bottom
 INCBIN "gfx/footprints/gligar.1bpp",     footprint_bottom
 INCBIN "gfx/footprints/steelix.1bpp",    footprint_bottom
 ; 209-216 top halves
-INCBIN "gfx/footprints/wooloo.1bpp",   footprint_top
-INCBIN "gfx/footprints/dubwool.1bpp",   footprint_top
+INCBIN "gfx/footprints/cranidos.1bpp",   footprint_top
+INCBIN "gfx/footprints/rampardos.1bpp",   footprint_top
 INCBIN "gfx/footprints/qwilfish.1bpp",   footprint_top
 INCBIN "gfx/footprints/scizor.1bpp",     footprint_top
 INCBIN "gfx/footprints/shuckle.1bpp",    footprint_top
@@ -489,8 +489,8 @@ INCBIN "gfx/footprints/heracross.1bpp",  footprint_top
 INCBIN "gfx/footprints/sneasel.1bpp",    footprint_top
 INCBIN "gfx/footprints/cottonee.1bpp",  footprint_top
 ; 209-216 bottom halves
-INCBIN "gfx/footprints/wooloo.1bpp",   footprint_bottom
-INCBIN "gfx/footprints/dubwool.1bpp",   footprint_bottom
+INCBIN "gfx/footprints/cranidos.1bpp",   footprint_bottom
+INCBIN "gfx/footprints/rampardos.1bpp",   footprint_bottom
 INCBIN "gfx/footprints/qwilfish.1bpp",   footprint_bottom
 INCBIN "gfx/footprints/scizor.1bpp",     footprint_bottom
 INCBIN "gfx/footprints/shuckle.1bpp",    footprint_bottom

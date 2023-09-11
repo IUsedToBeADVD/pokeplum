@@ -205,13 +205,13 @@ EvosAttacksPointers::
 	dw UnownEvosAttacks
 	dw WobbuffetEvosAttacks
 	dw GirafarigEvosAttacks
-	dw FerroseedEvosAttacks
-	dw FerrothornEvosAttacks
+	dw ShieldonEvosAttacks
+	dw BastiodonEvosAttacks
 	dw DunsparceEvosAttacks
 	dw GligarEvosAttacks
 	dw SteelixEvosAttacks
-	dw WoolooEvosAttacks
-	dw DubwoolEvosAttacks
+	dw CranidosEvosAttacks
+	dw RampardosEvosAttacks
 	dw QwilfishEvosAttacks
 	dw ScizorEvosAttacks
 	dw ShuckleEvosAttacks

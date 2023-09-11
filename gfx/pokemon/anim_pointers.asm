@@ -203,13 +203,13 @@ AnimationPointers:
 	dw UnownAnimation
 	dw WobbuffetAnimation
 	dw GirafarigAnimation
-	dw FerroseedAnimation
-	dw FerrothornAnimation
+	dw ShieldonAnimation
+	dw BastiodonAnimation
 	dw DunsparceAnimation
 	dw GligarAnimation
 	dw SteelixAnimation
-	dw WoolooAnimation
-	dw DubwoolAnimation
+	dw CranidosAnimation
+	dw RampardosAnimation
 	dw QwilfishAnimation
 	dw ScizorAnimation
 	dw ShuckleAnimation

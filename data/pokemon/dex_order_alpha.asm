@@ -64,7 +64,7 @@ AlphabeticalPokedexOrder:
 	db SWAMPERT
 	db FLAAFFY
 	db FLAREON
-	db FERROTHORN
+	db BASTIODON
 	db LOPUNNY
 	db GASTLY
 	db GENGAR
@@ -76,7 +76,7 @@ AlphabeticalPokedexOrder:
 	db CACNEA
 	db GOLDUCK
 	db GOLEM
-	db DUBWOOL
+	db RAMPARDOS
 	db GRAVELER
 	db GRIMER
 	db GROWLITHE
@@ -165,7 +165,7 @@ AlphabeticalPokedexOrder:
 	db ROOKIDEE
 	db PIKACHU
 	db PILOSWINE
-	db FERROSEED
+	db SHIELDON
 	db PINSIR
 	db POLITOED
 	db POLIWAG
@@ -208,7 +208,7 @@ AlphabeticalPokedexOrder:
 	db SMOOCHUM
 	db SNEASEL
 	db SNORLAX
-	db WOOLOO
+	db CRANIDOS
 	db SPEAROW
 	db BARBOACH
 	db SQUIRTLE

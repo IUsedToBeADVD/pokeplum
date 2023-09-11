@@ -412,20 +412,20 @@ PokemonPicPointers::
 	dba WobbuffetBackpic
 	dba GirafarigFrontpic
 	dba GirafarigBackpic
-	dba FerroseedFrontpic
-	dba FerroseedBackpic
-	dba FerrothornFrontpic
-	dba FerrothornBackpic
+	dba ShieldonFrontpic
+	dba ShieldonBackpic
+	dba BastiodonFrontpic
+	dba BastiodonBackpic
 	dba DunsparceFrontpic
 	dba DunsparceBackpic
 	dba GligarFrontpic
 	dba GligarBackpic
 	dba SteelixFrontpic
 	dba SteelixBackpic
-	dba WoolooFrontpic
-	dba WoolooBackpic
-	dba DubwoolFrontpic
-	dba DubwoolBackpic
+	dba CranidosFrontpic
+	dba CranidosBackpic
+	dba RampardosFrontpic
+	dba RampardosBackpic
 	dba QwilfishFrontpic
 	dba QwilfishBackpic
 	dba ScizorFrontpic

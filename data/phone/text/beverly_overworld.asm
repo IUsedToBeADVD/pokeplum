@@ -28,7 +28,7 @@ BeverlyNumberAcceptedText:
 	line "want a MEDITITE."
 
 	para "But I make do with"
-	line "my cute WOOLOO."
+	line "my cute CRANIDOS."
 	done
 
 BeverlyNumberDeclinedText:

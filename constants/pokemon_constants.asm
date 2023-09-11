@@ -223,13 +223,13 @@ DEF JOHTO_POKEMON EQU const_value
 	const UNOWN      ; c9
 	const WOBBUFFET  ; ca
 	const GIRAFARIG  ; cb
-	const FERROSEED     ; cc
-	const FERROTHORN ; cd
+	const SHIELDON     ; cc
+	const BASTIODON ; cd
 	const DUNSPARCE  ; ce
 	const GLIGAR     ; cf
 	const STEELIX    ; d0
-	const WOOLOO   ; d1
-	const DUBWOOL   ; d2
+	const CRANIDOS   ; d1
+	const RAMPARDOS   ; d2
 	const QWILFISH   ; d3
 	const SCIZOR     ; d4
 	const SHUCKLE    ; d5

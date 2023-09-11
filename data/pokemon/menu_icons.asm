@@ -205,13 +205,13 @@ MonMenuIcons:
 	db ICON_UNOWN       ; UNOWN
 	db ICON_GHOST       ; WOBBUFFET
 	db ICON_EQUINE      ; GIRAFARIG
-	db ICON_BUG         ; FERROSEED
-	db ICON_BUG         ; FERROTHORN
+	db ICON_BUG         ; SHIELDON
+	db ICON_BUG         ; BASTIODON
 	db ICON_SERPENT     ; DUNSPARCE
 	db ICON_BUG         ; GLIGAR
 	db ICON_SERPENT     ; STEELIX
-	db ICON_MONSTER     ; WOOLOO
-	db ICON_MONSTER     ; DUBWOOL
+	db ICON_MONSTER     ; CRANIDOS
+	db ICON_MONSTER     ; RAMPARDOS
 	db ICON_FISH        ; QWILFISH
 	db ICON_BUG         ; SCIZOR
 	db ICON_BUG         ; SHUCKLE

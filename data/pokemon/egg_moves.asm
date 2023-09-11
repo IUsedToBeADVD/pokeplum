@@ -622,7 +622,7 @@ GirafarigEggMoves:
 	db BEAT_UP
 	db -1 ; end
 
-FerroseedEggMoves:
+ShieldonEggMoves:
 	db REFLECT
 	db PIN_MISSILE
 	db FLAIL
@@ -644,7 +644,7 @@ GligarEggMoves:
 	db COUNTER
 	db -1 ; end
 
-WoolooEggMoves:
+CranidosEggMoves:
 	db METRONOME
 	db FAINT_ATTACK
 	db REFLECT

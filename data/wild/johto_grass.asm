@@ -13,13 +13,13 @@ JohtoGrassWildMons:
 	db 3, SUNKERN
 	db 3, SUNKERN
 	; day
-	db 4, AUDINO
-	db 3, AUDINO
-	db 4, AUDINO
-	db 3, AUDINO
-	db 2, AUDINO
-	db 3, BUNEARY
-	db 3, SUNKERN
+	db 4, CRANIDOS
+	db 3, SHIELDON
+	db 4, RAMPARDOS
+	db 3, BASTIODON
+	db 2, RAMPARDOS
+	db 3, BASTIODON
+	db 3, SHIELDON
 	; nite
 	db 2, HOOTHOOT
 	db 2, BUNEARY

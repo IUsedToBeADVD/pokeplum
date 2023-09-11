@@ -2761,36 +2761,33 @@ GirafarigEvosAttacks:
 	db 54, CRUNCH
 	db 0 ; no more level-up moves
 
-FerroseedEvosAttacks:
-	db EVOLVE_LEVEL, 40, FERROTHORN
+ShieldonEvosAttacks:
+	db EVOLVE_LEVEL, 30, BASTIODON
 	db 0 ; no more evolutions
 	db 1, TACKLE
-	db 1, HARDEN
-	db 6, ROLLOUT
-	db 9, SELFDESTRUCT
-	db 14, METAL_CLAW
-	db 18, PIN_MISSILE
-	db 22, LEECH_SEED
-	db 29, BIDE
-	db 36, EXPLOSION
-	db 43, SPIKES
-	db 50, DOUBLE_EDGE
+	db 1, PROTECT
+	db 8, HARDEN
+	db 13, ROAR
+	db 18, TAKE_DOWN
+	db 23, BARRIER
+	db 27, SWAGGER
+	db 31, ANCIENTPOWER
+	db 36, ENDURE
+	db 43, IRON_TAIL
 	db 0 ; no more level-up moves
 
-FerrothornEvosAttacks:
+BastiodonEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, TACKLE
-	db 1, HARDEN
-	db 6, ROLLOUT
-	db 9, SELFDESTRUCT
-	db 14, METAL_CLAW
-	db 18, PIN_MISSILE
-	db 22, LEECH_SEED
-	db 29, BIDE
-	db 36, EXPLOSION
-	db 36, GIGA_DRAIN
-	db 45, SPIKES
-	db 50, DOUBLE_EDGE
+	db 1, PROTECT
+	db 8, HARDEN
+	db 13, ROAR
+	db 18, TAKE_DOWN
+	db 23, BARRIER
+	db 27, SWAGGER
+	db 32, ANCIENTPOWER
+	db 38, ENDURE
+	db 46, IRON_TAIL
 	db 0 ; no more level-up moves
 
 DunsparceEvosAttacks:
@@ -2829,31 +2826,31 @@ SteelixEvosAttacks:
 	db 49, CRUNCH
 	db 0 ; no more level-up moves
 
-WoolooEvosAttacks:
-	db EVOLVE_LEVEL, 24, DUBWOOL
+CranidosEvosAttacks:
+	db EVOLVE_LEVEL, 30, RAMPARDOS
 	db 0 ; no more evolutions
-	db 1, TACKLE
-	db 1, GROWL
-	db 4, DEFENSE_CURL
-	db 8, MIRROR_MOVE
-	db 13, DOUBLE_KICK
-	db 19, HEADBUTT
-	db 25, TAKE_DOWN
-	db 29, REVERSAL
-	db 36, DOUBLE_EDGE
+	db 1, LEER
+	db 1, HEADBUTT
+	db 6, FOCUS_ENERGY
+	db 10, PURSUIT
+	db 15, TAKE_DOWN
+	db 23, SCARY_FACE
+	db 28, ANCIENTPOWER
+	db 35, SCREECH
+	db 43, DOUBLE_EDGE
 	db 0 ; no more level-up moves
 
-DubwoolEvosAttacks:
+RampardosEvosAttacks:
 	db 0 ; no more evolutions
-	db 1, TACKLE
-	db 1, GROWL
-	db 4, DEFENSE_CURL
-	db 8, MIRROR_MOVE
-	db 13, DOUBLE_KICK
-	db 19, HEADBUTT
-	db 27, TAKE_DOWN
-	db 33, REVERSAL
-	db 41, DOUBLE_EDGE
+	db 1, LEER
+	db 1, HEADBUTT
+	db 6, FOCUS_ENERGY
+	db 10, PURSUIT
+	db 15, TAKE_DOWN
+	db 23, SCARY_FACE
+	db 28, ANCIENTPOWER
+	db 39, SCREECH
+	db 48, DOUBLE_EDGE
 	db 0 ; no more level-up moves
 
 QwilfishEvosAttacks:

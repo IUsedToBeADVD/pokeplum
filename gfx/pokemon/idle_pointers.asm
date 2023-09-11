@@ -203,13 +203,13 @@ AnimationIdlePointers:
 	dw UnownAnimationIdle
 	dw WobbuffetAnimationIdle
 	dw GirafarigAnimationIdle
-	dw FerroseedAnimationIdle
-	dw FerrothornAnimationIdle
+	dw ShieldonAnimationIdle
+	dw BastiodonAnimationIdle
 	dw DunsparceAnimationIdle
 	dw GligarAnimationIdle
 	dw SteelixAnimationIdle
-	dw WoolooAnimationIdle
-	dw DubwoolAnimationIdle
+	dw CranidosAnimationIdle
+	dw RampardosAnimationIdle
 	dw QwilfishAnimationIdle
 	dw ScizorAnimationIdle
 	dw ShuckleAnimationIdle

@@ -203,12 +203,12 @@ EggMovePointers::
 	dw NoEggMoves
 	dw NoEggMoves
 	dw GirafarigEggMoves
-	dw FerroseedEggMoves
+	dw ShieldonEggMoves
 	dw NoEggMoves
 	dw DunsparceEggMoves
 	dw GligarEggMoves
 	dw NoEggMoves
-	dw WoolooEggMoves
+	dw CranidosEggMoves
 	dw NoEggMoves
 	dw QwilfishEggMoves
 	dw NoEggMoves
