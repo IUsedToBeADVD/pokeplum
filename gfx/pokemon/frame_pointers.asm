@@ -105,9 +105,9 @@ FramesPointers:
 	dw ExeggutorFrames
 	dw CuboneFrames
 	dw MarowakFrames
-	dw HitmonleeFrames
-	dw HitmonchanFrames
-	dw LickitungFrames
+	dw LeafeonFrames
+	dw GlaceonFrames
+	dw EmolgaFrames
 	dw KoffingFrames
 	dw WeezingFrames
 	dw RhyhornFrames
@@ -217,8 +217,8 @@ FramesPointers:
 	dw SneaselFrames
 	dw CottoneeFrames
 	dw WhimsicottFrames
-	dw SlugmaFrames
-	dw MagcargoFrames
+	dw ApplinFrames
+	dw AppletunFrames
 	dw SwinubFrames
 	dw PiloswineFrames
 	dw CorsolaFrames
@@ -236,7 +236,7 @@ FramesPointers:
 	dw StantlerFrames
 	dw SmeargleFrames
 	dw TyrogueFrames
-	dw HitmontopFrames
+	dw SylveonFrames
 	dw SmoochumFrames
 	dw ElekidFrames
 	dw MagbyFrames

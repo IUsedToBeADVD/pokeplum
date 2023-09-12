@@ -106,9 +106,9 @@ PokedexDataPointerTable:
 	dw ExeggutorPokedexEntry
 	dw CubonePokedexEntry
 	dw MarowakPokedexEntry
-	dw HitmonleePokedexEntry
-	dw HitmonchanPokedexEntry
-	dw LickitungPokedexEntry
+	dw LeafeonPokedexEntry
+	dw GlaceonPokedexEntry
+	dw EmolgaPokedexEntry
 	dw KoffingPokedexEntry
 	dw WeezingPokedexEntry
 	dw RhyhornPokedexEntry
@@ -218,8 +218,8 @@ PokedexDataPointerTable:
 	dw SneaselPokedexEntry
 	dw CottoneePokedexEntry
 	dw WhimsicottPokedexEntry
-	dw SlugmaPokedexEntry
-	dw MagcargoPokedexEntry
+	dw ApplinPokedexEntry
+	dw AppletunPokedexEntry
 	dw SwinubPokedexEntry
 	dw PiloswinePokedexEntry
 	dw CorsolaPokedexEntry
@@ -237,7 +237,7 @@ PokedexDataPointerTable:
 	dw StantlerPokedexEntry
 	dw SmearglePokedexEntry
 	dw TyroguePokedexEntry
-	dw HitmontopPokedexEntry
+	dw SylveonPokedexEntry
 	dw SmoochumPokedexEntry
 	dw ElekidPokedexEntry
 	dw MagbyPokedexEntry

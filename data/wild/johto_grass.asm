@@ -13,13 +13,13 @@ JohtoGrassWildMons:
 	db 3, SUNKERN
 	db 3, SUNKERN
 	; day
-	db 4, CRANIDOS
-	db 3, SHIELDON
-	db 4, RAMPARDOS
-	db 3, BASTIODON
-	db 2, RAMPARDOS
-	db 3, BASTIODON
-	db 3, SHIELDON
+	db 4, EMOLGA
+	db 3, APPLIN
+	db 4, APPLETUN
+	db 3, APPLETUN
+	db 2, EMOLGA
+	db 3, APPLIN
+	db 3, APPLIN
 	; nite
 	db 2, HOOTHOOT
 	db 2, BUNEARY
@@ -41,13 +41,13 @@ JohtoGrassWildMons:
 	db 4, SPEAROW
 	db 3, SUNKERN
 	; day
-	db 6, AUDINO
-	db 8, AUDINO
-	db 10, AUDINO
-	db 12, AUDINO
-	db 4, ROOKIDEE
-	db 4, BUNEARY
-	db 3, SUNKERN
+	db 3, LEAFEON
+	db 3, GLACEON
+	db 3, SYLVEON
+	db 3, SYLVEON
+	db 4, SYLVEON
+	db 4, GLACEON
+	db 3, LEAFEON
 	; nite
 	db 2, HOOTHOOT
 	db 2, BUNEARY

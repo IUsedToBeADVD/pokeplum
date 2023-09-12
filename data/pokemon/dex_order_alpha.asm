@@ -83,9 +83,9 @@ AlphabeticalPokedexOrder:
 	db GYARADOS
 	db HAUNTER
 	db HERACROSS
-	db HITMONCHAN
-	db HITMONLEE
-	db HITMONTOP
+	db GLACEON
+	db LEAFEON
+	db SYLVEON
 	db HOGWYRE
 	db HOOTHOOT
 	db HOPPIP
@@ -113,13 +113,13 @@ AlphabeticalPokedexOrder:
 	db LARVITAR
 	db MUSHARNA
 	db MUNNA
-	db LICKITUNG
+	db EMOLGA
 	db LUGIA
 	db MACHAMP
 	db MACHOKE
 	db MACHOP
 	db MAGBY
-	db MAGCARGO
+	db APPLETUN
 	db MAGIKARP
 	db MAGMAR
 	db MAGNEMITE
@@ -203,7 +203,7 @@ AlphabeticalPokedexOrder:
 	db SLOWBRO
 	db SLOWKING
 	db SLOWPOKE
-	db SLUGMA
+	db APPLIN
 	db SMEARGLE
 	db SMOOCHUM
 	db SNEASEL

@@ -111,9 +111,9 @@ PokemonCries::
 	mon_cry CRY_DROWZEE,       0,  256 ; EXEGGUTOR
 	mon_cry CRY_CLEFAIRY,      0,  256 ; CUBONE
 	mon_cry CRY_ODDISH,       79,  224 ; MAROWAK
-	mon_cry CRY_GOLEM,       128,  320 ; HITMONLEE
-	mon_cry CRY_SIZZLIPEDE,        238,  320 ; HITMONCHAN
-	mon_cry CRY_SIZZLIPEDE,          0,  256 ; LICKITUNG
+	mon_cry CRY_GOLEM,       128,  320 ; LEAFEON
+	mon_cry CRY_SIZZLIPEDE,        238,  320 ; GLACEON
+	mon_cry CRY_SIZZLIPEDE,          0,  256 ; EMOLGA
 	mon_cry CRY_GOLEM,       230,  349 ; KOFFING
 	mon_cry CRY_GOLEM,       255,  383 ; WEEZING
 	mon_cry CRY_CHARMANDER,    0,  256 ; RHYHORN
@@ -223,11 +223,11 @@ PokemonCries::
 	mon_cry CRY_WOOPER,       83,  175 ; SNEASEL
 	mon_cry CRY_COTTONEE,  1954,  110 ; COTTONEE
 	mon_cry CRY_COTTONEE,  1600,  216 ; WHIMSICOTT
-	mon_cry CRY_SLUGMA,     -472,  320 ; SLUGMA
-	mon_cry CRY_MAGCARGO,   -525,  448 ; MAGCARGO
+	mon_cry CRY_APPLIN,     -472,  320 ; APPLIN
+	mon_cry CRY_APPLETUN,   -525,  448 ; APPLETUN
 	mon_cry CRY_TORCHIC,   510,  320 ; SWINUB
-	mon_cry CRY_MAGCARGO,   -265,  256 ; PILOSWINE
-	mon_cry CRY_MAGCARGO,    161,  232 ; CORSOLA
+	mon_cry CRY_APPLETUN,   -265,  256 ; PILOSWINE
+	mon_cry CRY_APPLETUN,    161,  232 ; CORSOLA
 	mon_cry CRY_SUNFLORA,     13,  256 ; JOLTIK
 	mon_cry CRY_MUDKIP,      0,  384 ; GALVANTULA
 	mon_cry CRY_COTTONEE,     2,  106 ; DELIBIRD
@@ -235,14 +235,14 @@ PokemonCries::
 	mon_cry CRY_AMPHAROS,   2217,  384 ; AUDINO
 	mon_cry CRY_TORCHIC,    57,  320 ; HOUNDOUR
 	mon_cry CRY_MUDKIP,   -266,  256 ; HOUNDOOM
-	mon_cry CRY_SLUGMA,      763,  256 ; KINGDRA
+	mon_cry CRY_APPLIN,      763,  256 ; KINGDRA
 	mon_cry CRY_BUNEARY,      72,  560 ; PHINK
 	mon_cry CRY_CREEPTURE,       0,  416 ; CREEPTURE
 	mon_cry CRY_GIRAFARIG,   115,  576 ; PORYGON2
 	mon_cry CRY_MAGNELOCKE,      -352,  384 ; STANTLER
 	mon_cry CRY_LOTAD,      -538,  496 ; SMEARGLE
 	mon_cry CRY_MAGNELOCKE,        44,  264 ; TYROGUE
-	mon_cry CRY_SLUGMA,        0,  256 ; HITMONTOP
+	mon_cry CRY_APPLIN,        0,  256 ; SYLVEON
 	mon_cry CRY_MEDITITE,      104,  256 ; SMOOCHUM
 	mon_cry CRY_SUNFLORA,   -728,  180 ; ELEKID
 	mon_cry CRY_COTTONEE,   374,   58 ; MAGBY
@@ -250,7 +250,7 @@ PokemonCries::
 	mon_cry CRY_SLOWKING,    659,  320 ; BLISSEY
 	mon_cry CRY_RAIKOU,      558,  288 ; RAIKOU
 	mon_cry CRY_ENTEI,         0,  416 ; ENTEI
-	mon_cry CRY_MAGCARGO,      0,  384 ; SUICUNE
+	mon_cry CRY_APPLETUN,      0,  384 ; SUICUNE
 	mon_cry CRY_RAIKOU,       95,  208 ; LARVITAR
 	mon_cry CRY_BARBOACH,   -475,  336 ; PUPITAR
 	mon_cry CRY_RAIKOU,     -256,  384 ; TYRANITAR

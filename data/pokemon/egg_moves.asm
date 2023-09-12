@@ -316,7 +316,7 @@ CuboneEggMoves:
 	db SWORDS_DANCE
 	db -1 ; end
 
-LickitungEggMoves:
+EmolgaEggMoves:
 	db BELLY_DRUM
 	db MAGNITUDE
 	db BODY_SLAM
@@ -689,7 +689,7 @@ CottoneeEggMoves:
 	db METAL_CLAW
 	db -1 ; end
 
-SlugmaEggMoves:
+ApplinEggMoves:
 	db ACID_ARMOR
 	db -1 ; end
 

@@ -105,9 +105,9 @@ AnimationIdlePointers:
 	dw ExeggutorAnimationIdle
 	dw CuboneAnimationIdle
 	dw MarowakAnimationIdle
-	dw HitmonleeAnimationIdle
-	dw HitmonchanAnimationIdle
-	dw LickitungAnimationIdle
+	dw LeafeonAnimationIdle
+	dw GlaceonAnimationIdle
+	dw EmolgaAnimationIdle
 	dw KoffingAnimationIdle
 	dw WeezingAnimationIdle
 	dw RhyhornAnimationIdle
@@ -217,8 +217,8 @@ AnimationIdlePointers:
 	dw SneaselAnimationIdle
 	dw CottoneeAnimationIdle
 	dw WhimsicottAnimationIdle
-	dw SlugmaAnimationIdle
-	dw MagcargoAnimationIdle
+	dw ApplinAnimationIdle
+	dw AppletunAnimationIdle
 	dw SwinubAnimationIdle
 	dw PiloswineAnimationIdle
 	dw CorsolaAnimationIdle
@@ -236,7 +236,7 @@ AnimationIdlePointers:
 	dw StantlerAnimationIdle
 	dw SmeargleAnimationIdle
 	dw TyrogueAnimationIdle
-	dw HitmontopAnimationIdle
+	dw SylveonAnimationIdle
 	dw SmoochumAnimationIdle
 	dw ElekidAnimationIdle
 	dw MagbyAnimationIdle

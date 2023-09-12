@@ -107,9 +107,9 @@ EvosAttacksPointers::
 	dw ExeggutorEvosAttacks
 	dw CuboneEvosAttacks
 	dw MarowakEvosAttacks
-	dw HitmonleeEvosAttacks
-	dw HitmonchanEvosAttacks
-	dw LickitungEvosAttacks
+	dw LeafeonEvosAttacks
+	dw GlaceonEvosAttacks
+	dw EmolgaEvosAttacks
 	dw KoffingEvosAttacks
 	dw WeezingEvosAttacks
 	dw RhyhornEvosAttacks
@@ -219,8 +219,8 @@ EvosAttacksPointers::
 	dw SneaselEvosAttacks
 	dw CottoneeEvosAttacks
 	dw WhimsicottEvosAttacks
-	dw SlugmaEvosAttacks
-	dw MagcargoEvosAttacks
+	dw ApplinEvosAttacks
+	dw AppletunEvosAttacks
 	dw SwinubEvosAttacks
 	dw PiloswineEvosAttacks
 	dw CorsolaEvosAttacks
@@ -238,7 +238,7 @@ EvosAttacksPointers::
 	dw StantlerEvosAttacks
 	dw SmeargleEvosAttacks
 	dw TyrogueEvosAttacks
-	dw HitmontopEvosAttacks
+	dw SylveonEvosAttacks
 	dw SmoochumEvosAttacks
 	dw ElekidEvosAttacks
 	dw MagbyEvosAttacks

@@ -124,9 +124,9 @@
 	const EXEGGUTOR  ; 67
 	const CUBONE     ; 68
 	const MAROWAK    ; 69
-	const HITMONLEE  ; 6a
-	const HITMONCHAN ; 6b
-	const LICKITUNG  ; 6c
+	const LEAFEON  ; 6a
+	const GLACEON ; 6b
+	const EMOLGA  ; 6c
 	const KOFFING    ; 6d
 	const WEEZING    ; 6e
 	const RHYHORN    ; 6f
@@ -237,8 +237,8 @@ DEF JOHTO_POKEMON EQU const_value
 	const SNEASEL    ; d7
 	const COTTONEE  ; d8
 	const WHIMSICOTT   ; d9
-	const SLUGMA     ; da
-	const MAGCARGO   ; db
+	const APPLIN     ; da
+	const APPLETUN   ; db
 	const SWINUB     ; dc
 	const PILOSWINE  ; dd
 	const CORSOLA    ; de
@@ -256,7 +256,7 @@ DEF JOHTO_POKEMON EQU const_value
 	const STANTLER   ; ea
 	const SMEARGLE   ; eb
 	const TYROGUE    ; ec
-	const HITMONTOP  ; ed
+	const SYLVEON  ; ed
 	const SMOOCHUM   ; ee
 	const ELEKID     ; ef
 	const MAGBY      ; f0

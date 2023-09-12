@@ -213,12 +213,12 @@ PokemonPicPointers::
 	dba CuboneBackpic
 	dba MarowakFrontpic
 	dba MarowakBackpic
-	dba HitmonleeFrontpic
-	dba HitmonleeBackpic
-	dba HitmonchanFrontpic
-	dba HitmonchanBackpic
-	dba LickitungFrontpic
-	dba LickitungBackpic
+	dba LeafeonFrontpic
+	dba LeafeonBackpic
+	dba GlaceonFrontpic
+	dba GlaceonBackpic
+	dba EmolgaFrontpic
+	dba EmolgaBackpic
 	dba KoffingFrontpic
 	dba KoffingBackpic
 	dba WeezingFrontpic
@@ -440,10 +440,10 @@ PokemonPicPointers::
 	dba CottoneeBackpic
 	dba WhimsicottFrontpic
 	dba WhimsicottBackpic
-	dba SlugmaFrontpic
-	dba SlugmaBackpic
-	dba MagcargoFrontpic
-	dba MagcargoBackpic
+	dba ApplinFrontpic
+	dba ApplinBackpic
+	dba AppletunFrontpic
+	dba AppletunBackpic
 	dba SwinubFrontpic
 	dba SwinubBackpic
 	dba PiloswineFrontpic
@@ -478,8 +478,8 @@ PokemonPicPointers::
 	dba SmeargleBackpic
 	dba TyrogueFrontpic
 	dba TyrogueBackpic
-	dba HitmontopFrontpic
-	dba HitmontopBackpic
+	dba SylveonFrontpic
+	dba SylveonBackpic
 	dba SmoochumFrontpic
 	dba SmoochumBackpic
 	dba ElekidFrontpic

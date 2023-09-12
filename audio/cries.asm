@@ -71,10 +71,10 @@ Cry_Girafarig:
 	channel 6, Cry_Girafarig_Ch6
 	channel 8, Cry_Girafarig_Ch8
 
-Cry_Slugma:
+Cry_Applin:
 	channel_count 2
-	channel 5, Cry_Slugma_Ch5
-	channel 8, Cry_Slugma_Ch8
+	channel 5, Cry_Applin_Ch5
+	channel 8, Cry_Applin_Ch8
 
 Cry_Munna:
 	channel_count 3
@@ -154,11 +154,11 @@ Cry_Dunsparce:
 	channel 6, Cry_Dunsparce_Ch6
 	channel 8, Cry_Dunsparce_Ch8
 
-Cry_Magcargo:
+Cry_Appletun:
 	channel_count 3
-	channel 5, Cry_Magcargo_Ch5
-	channel 6, Cry_Magcargo_Ch6
-	channel 8, Cry_Magcargo_Ch8
+	channel 5, Cry_Appletun_Ch5
+	channel 6, Cry_Appletun_Ch6
+	channel 8, Cry_Appletun_Ch8
 
 Cry_Entei:
 	channel_count 3
@@ -197,7 +197,7 @@ Cry_Entei_Ch8:
 	noise_note 32, 11, 4, 108
 	sound_ret
 
-Cry_Magcargo_Ch5:
+Cry_Appletun_Ch5:
 	duty_cycle_pattern 3, 0, 1, 0
 	square_note 4, 10, -7, 1824
 	square_note 2, 15, 8, 1820
@@ -208,7 +208,7 @@ Cry_Magcargo_Ch5:
 	square_note 4, 9, 1, 1806
 	sound_ret
 
-Cry_Magcargo_Ch6:
+Cry_Appletun_Ch6:
 	duty_cycle_pattern 0, 0, 2, 2
 	square_note 1, 11, 8, 1808
 	square_note 3, 13, 8, 1836
@@ -219,7 +219,7 @@ Cry_Magcargo_Ch6:
 	square_note 4, 12, 1, 1872
 	sound_ret
 
-Cry_Magcargo_Ch8:
+Cry_Appletun_Ch8:
 	noise_note 2, 14, 8, 59
 .loop:
 	noise_note 1, 15, 1, 78
@@ -547,7 +547,7 @@ Cry_Girafarig_Ch8:
 	noise_note 7, 4, 1, 0
 	sound_ret
 
-Cry_Slugma_Ch5:
+Cry_Applin_Ch5:
 	duty_cycle_pattern 2, 1, 0, 1
 	square_note 12, 15, 2, 1958
 	square_note 4, 15, 8, 1968
@@ -556,7 +556,7 @@ Cry_Slugma_Ch5:
 	square_note 8, 14, 1, 656
 	sound_ret
 
-Cry_Slugma_Ch8:
+Cry_Applin_Ch8:
 	noise_note 12, 11, 2, 80
 	noise_note 8, 10, 8, 96
 	noise_note 6, 10, 8, 91

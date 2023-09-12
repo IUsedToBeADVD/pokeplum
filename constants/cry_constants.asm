@@ -57,7 +57,7 @@
 	const CRY_MUDKIP
 	const CRY_GLIGAR
 	const CRY_LOMBRE
-	const CRY_SLUGMA
+	const CRY_APPLIN
 	const CRY_MUNNA
 	const CRY_ENTEI
 	const CRY_WOOPER
@@ -67,7 +67,7 @@
 	const CRY_COTTONEE
 	const CRY_SUNFLORA
 	const CRY_AMPHAROS
-	const CRY_MAGCARGO
+	const CRY_APPLETUN
 	const CRY_LOTAD
 	const CRY_MAGNELOCKE
 	const CRY_DUNSPARCE

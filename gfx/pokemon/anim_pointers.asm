@@ -105,9 +105,9 @@ AnimationPointers:
 	dw ExeggutorAnimation
 	dw CuboneAnimation
 	dw MarowakAnimation
-	dw HitmonleeAnimation
-	dw HitmonchanAnimation
-	dw LickitungAnimation
+	dw LeafeonAnimation
+	dw GlaceonAnimation
+	dw EmolgaAnimation
 	dw KoffingAnimation
 	dw WeezingAnimation
 	dw RhyhornAnimation
@@ -217,8 +217,8 @@ AnimationPointers:
 	dw SneaselAnimation
 	dw CottoneeAnimation
 	dw WhimsicottAnimation
-	dw SlugmaAnimation
-	dw MagcargoAnimation
+	dw ApplinAnimation
+	dw AppletunAnimation
 	dw SwinubAnimation
 	dw PiloswineAnimation
 	dw CorsolaAnimation
@@ -236,7 +236,7 @@ AnimationPointers:
 	dw StantlerAnimation
 	dw SmeargleAnimation
 	dw TyrogueAnimation
-	dw HitmontopAnimation
+	dw SylveonAnimation
 	dw SmoochumAnimation
 	dw ElekidAnimation
 	dw MagbyAnimation

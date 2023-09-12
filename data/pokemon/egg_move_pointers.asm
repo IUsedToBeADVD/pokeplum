@@ -107,7 +107,7 @@ EggMovePointers::
 	dw NoEggMoves
 	dw NoEggMoves
 	dw NoEggMoves
-	dw LickitungEggMoves
+	dw EmolgaEggMoves
 	dw KoffingEggMoves
 	dw NoEggMoves
 	dw RhyhornEggMoves
@@ -217,7 +217,7 @@ EggMovePointers::
 	dw SneaselEggMoves
 	dw CottoneeEggMoves
 	dw NoEggMoves
-	dw SlugmaEggMoves
+	dw ApplinEggMoves
 	dw NoEggMoves
 	dw SwinubEggMoves
 	dw NoEggMoves
