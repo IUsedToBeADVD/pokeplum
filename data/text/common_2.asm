@@ -546,6 +546,40 @@ _WhitedOutText::
 	line "out!"
 	done
 
+_WhitedOutToWildMonText::
+	text "<PLAYER> is out of"
+	line "useable #MON!"
+
+	para "<PLAYER> panicked"
+	line "and dropped"
+	cont "¥@"
+	text_decimal hMoneyTemp, 3, 6
+	text "…"
+
+	para "<……><……><……>"
+	line "<……><……><……>"
+
+	para "<PLAYER> whited"
+	line "out!"
+	done
+
+_WhitedOutToTrainerText::
+	text "<PLAYER> is out of"
+	line "useable #MON!"
+
+	para "<PLAYER> paid"
+	line "¥@"
+	text_decimal hMoneyTemp, 3, 6
+	text " to the"
+	cont "winner…"
+
+	para "<……><……><……>"
+	line "<……><……><……>"
+
+	para "<PLAYER> whited"
+	line "out!"
+	done
+
 _ItemfinderItemNearbyText::
 	text "Yes! ITEMFINDER"
 	line "indicates there's"
@@ -560,15 +594,8 @@ _ItemfinderNopeText::
 _PoisonFaintText::
 	text_ram wStringBuffer3
 	text_start
-	line "fainted!"
-	prompt
-
-_PoisonWhiteoutText::
-	text "<PLAYER> is out of"
-	line "useable #MON!"
-
-	para "<PLAYER> whited"
-	line "out!"
+	line "survived the"
+	cont "poisoning!"
 	prompt
 
 _UseSweetScentText::
