@@ -31,9 +31,9 @@
 	const CATERPIE   ; 0a
 	const METAPOD    ; 0b
 	const BUTTERFREE ; 0c
-	const WEEDLE     ; 0d
-	const KAKUNA     ; 0e
-	const BEEDRILL   ; 0f
+	const WEEDLE     ; 0d to-go
+	const KAKUNA     ; 0e to-go
+	const BEEDRILL   ; 0f to-go
 	const ROOKIDEE   ; 10
 	const PIDGEOTTO  ; 11
 	const PIDGEOT    ; 12
@@ -68,8 +68,8 @@
 	const PARASECT   ; 2f
 	const SNOM    	 ; 30
 	const SNOMYOMI   ; 31
-	const DIGLETT    ; 32
-	const DUGTRIO    ; 33
+	const DIGLETT    ; 32 to-go
+	const DUGTRIO    ; 33 to-go
 	const MEOWTH     ; 34
 	const PERSIAN    ; 35
 	const PSYDUCK    ; 36
@@ -80,13 +80,13 @@
 	const ARCANINE   ; 3b
 	const POLIWAG    ; 3c
 	const POLIWHIRL  ; 3d
-	const POLIWRATH  ; 3e
+	const POLIWRATH  ; 3e to-go
 	const ABRA       ; 3f
 	const KADABRA    ; 40
 	const ALAKAZAM   ; 41
-	const MACHOP     ; 42
-	const MACHOKE    ; 43
-	const MACHAMP    ; 44
+	const MACHOP     ; 42 to-go
+	const MACHOKE    ; 43 to-go
+	const MACHAMP    ; 44 to-go
 	const BELLSPROUT ; 45
 	const WEEPINBELL ; 46
 	const VICTREEBEL ; 47
@@ -114,8 +114,8 @@
 	const HAUNTER    ; 5d
 	const GENGAR     ; 5e
 	const ONIX       ; 5f
-	const DROWZEE    ; 60
-	const HYPNO      ; 61
+	const DROWZEE    ; 60 to-go
+	const HYPNO      ; 61 to-go
 	const KRABBY     ; 62
 	const KINGLER    ; 63
 	const VOLTORB    ; 64
@@ -138,11 +138,11 @@
 	const SEADRA     ; 75
 	const CACNEA    ; 76
 	const CACTURNE    ; 77
-	const STARYU     ; 78
-	const STARMIE    ; 79
+	const STARYU     ; 78 to-go
+	const STARMIE    ; 79 to-go
 	const MR__MIME   ; 7a
 	const SCYTHER    ; 7b
-	const JYNX       ; 7c
+	const JYNX       ; 7c to-go
 	const ELECTABUZZ ; 7d
 	const MAGMAR     ; 7e
 	const PINSIR     ; 7f
@@ -156,8 +156,8 @@
 	const JOLTEON    ; 87
 	const FLAREON    ; 88
 	const PORYGON    ; 89
-	const OMANYTE    ; 8a
-	const OMASTAR    ; 8b
+	const OMANYTE    ; 8a to-go
+	const OMASTAR    ; 8b to-go
 	const KABUTO     ; 8c
 	const KABUTOPS   ; 8d
 	const AERODACTYL ; 8e
@@ -205,23 +205,23 @@ DEF JOHTO_POKEMON EQU const_value
 	const MEDITITE     ; b7
 	const MEDICHAM  ; b8
 	const SUDOWOODO  ; b9
-	const POLITOED   ; ba
-	const HOPPIP     ; bb
-	const SKIPLOOM   ; bc
-	const JUMPLUFF   ; bd
+	const POLITOED   ; ba to-go
+	const HOPPIP     ; bb to-go
+	const SKIPLOOM   ; bc to-go
+	const JUMPLUFF   ; bd to-go
 	const MAGNELOCKE      ; be
 	const SUNKERN    ; bf
 	const SUNFLORA   ; c0
 	const YANMA      ; c1
-	const WOOPER     ; c2
-	const QUAGSIRE   ; c3
+	const WOOPER     ; c2 to-go
+	const QUAGSIRE   ; c3 to-go
 	const ESPEON     ; c4
 	const UMBREON    ; c5
 	const MURKROW    ; c6
 	const SLOWKING   ; c7
-	const MISDREAVUS ; c8
+	const MISDREAVUS ; c8 to-go
 	const UNOWN      ; c9
-	const WOBBUFFET  ; ca
+	const WOBBUFFET  ; ca to-go
 	const GIRAFARIG  ; cb
 	const SHIELDON     ; cc
 	const BASTIODON ; cd
@@ -230,11 +230,11 @@ DEF JOHTO_POKEMON EQU const_value
 	const STEELIX    ; d0
 	const CRANIDOS   ; d1
 	const RAMPARDOS   ; d2
-	const QWILFISH   ; d3
+	const QWILFISH   ; d3 to-go
 	const SCIZOR     ; d4
 	const SHUCKLE    ; d5
 	const HERACROSS  ; d6
-	const SNEASEL    ; d7
+	const SNEASEL    ; d7 to-go
 	const COTTONEE  ; d8
 	const WHIMSICOTT   ; d9
 	const APPLIN     ; da
@@ -244,7 +244,7 @@ DEF JOHTO_POKEMON EQU const_value
 	const CORSOLA    ; de
 	const JOLTIK   ; df
 	const GALVANTULA  ; e0
-	const DELIBIRD   ; e1
+	const DELIBIRD   ; e1 to-go
 	const MANTINE    ; e2
 	const AUDINO   ; e3
 	const HOUNDOUR   ; e4
@@ -254,10 +254,10 @@ DEF JOHTO_POKEMON EQU const_value
 	const CREEPTURE    ; e8
 	const PORYGON2   ; e9
 	const STANTLER   ; ea
-	const SMEARGLE   ; eb
-	const TYROGUE    ; ec
+	const SMEARGLE   ; eb to-go
+	const TYROGUE    ; ec to-go
 	const SYLVEON  ; ed
-	const SMOOCHUM   ; ee
+	const SMOOCHUM   ; ee to-go
 	const ELEKID     ; ef
 	const MAGBY      ; f0
 	const MILTANK    ; f1
@@ -265,9 +265,9 @@ DEF JOHTO_POKEMON EQU const_value
 	const RAIKOU     ; f3
 	const ENTEI      ; f4
 	const SUICUNE    ; f5
-	const LARVITAR   ; f6
-	const PUPITAR    ; f7
-	const TYRANITAR  ; f8
+	const LARVITAR   ; f6 to-go
+	const PUPITAR    ; f7 to-go
+	const TYRANITAR  ; f8 to-go
 	const LUGIA      ; f9
 	const HOGWYRE      ; fa
 	const CELEBI     ; fb
