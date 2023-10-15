@@ -494,7 +494,7 @@ InitRoamMons:
 ; initialize wRoamMon structs
 
 ; species
-	ld a, RAIKOU
+	ld a, ARCHETA
 	ld [wRoamMon1Species], a
 	ld a, ENTEI
 	ld [wRoamMon2Species], a
@@ -504,8 +504,8 @@ InitRoamMons:
 	ld [wRoamMon1Level], a
 	ld [wRoamMon2Level], a
 
-; raikou starting map
-; TODO: Replace GROUP_NONE and MAP_NONE with the starting map for Raikou to roam.
+; archeta starting map
+; TODO: Replace GROUP_NONE and MAP_NONE with the starting map for Archeta to roam.
 	ld a, GROUP_NONE
 	ld [wRoamMon1MapGroup], a
 	ld a, MAP_NONE
@@ -538,7 +538,7 @@ CheckEncounterRoamMon:
 	jr nc, .DontEncounterRoamMon
 	and %00000011 ; Of that, a 3/4 chance.  Running total: 75/256, or around 29.3%.
 	jr z, .DontEncounterRoamMon
-	dec a ; 1/3 chance that it's Entei, 1/3 chance that it's Raikou
+	dec a ; 1/3 chance that it's Entei, 1/3 chance that it's Archeta
 ; Compare its current location with yours
 	ld hl, wRoamMon1MapGroup
 	ld c, a
@@ -575,7 +575,7 @@ CheckEncounterRoamMon:
 UpdateRoamMons:
 	ld a, [wRoamMon1MapGroup]
 	cp GROUP_N_A
-	jr z, .SkipRaikou
+	jr z, .SkipArcheta
 	ld b, a
 	ld a, [wRoamMon1MapNumber]
 	ld c, a
@@ -585,7 +585,7 @@ UpdateRoamMons:
 	ld a, c
 	ld [wRoamMon1MapNumber], a
 
-.SkipRaikou:
+.SkipArcheta:
 	ld a, [wRoamMon2MapGroup]
 	cp GROUP_N_A
 	jr z, .SkipEntei
@@ -674,14 +674,14 @@ UpdateRoamMons:
 JumpRoamMons:
 	ld a, [wRoamMon1MapGroup]
 	cp GROUP_N_A
-	jr z, .SkipRaikou
+	jr z, .SkipArcheta
 	call JumpRoamMon
 	ld a, b
 	ld [wRoamMon1MapGroup], a
 	ld a, c
 	ld [wRoamMon1MapNumber], a
 
-.SkipRaikou:
+.SkipArcheta:
 	ld a, [wRoamMon2MapGroup]
 	cp GROUP_N_A
 	jr z, .SkipEntei

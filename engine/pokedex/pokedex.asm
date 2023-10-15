@@ -465,7 +465,7 @@ DexEntryScreen_MenuActionJumptable:
 	ret
 
 .Cry:
-; BUG: Playing Entei's Pokédex cry can distort Raikou's and Suicune's (see docs/bugs_and_glitches.md)
+; BUG: Playing Entei's Pokédex cry can distort Archeta's and Suicune's (see docs/bugs_and_glitches.md)
 	call Pokedex_GetSelectedMon
 	ld a, [wTempSpecies]
 	call GetCryIndex

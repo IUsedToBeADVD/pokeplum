@@ -6114,7 +6114,7 @@ LoadEnemyMon:
 ; Wild DVs
 ; Here's where the fun starts
 
-; Roaming monsters (Entei, Raikou) work differently
+; Roaming monsters (Entei, Archeta) work differently
 ; They have their own structs, which are shorter than normal
 	ld a, [wBattleType]
 	cp BATTLETYPE_ROAMING
@@ -6328,7 +6328,7 @@ LoadEnemyMon:
 
 .InitRoamHP:
 ; HP only uses the lo byte in the RoamMon struct since
-; Raikou and Entei will have < 256 hp at level 40
+; Archeta and Entei will have < 256 hp at level 40
 	ld a, [wEnemyMonHP + 1]
 	ld [hl], a
 	jr .Moves

@@ -244,7 +244,7 @@ MonMenuIcons:
 	db ICON_HUMANSHAPE  ; MAGBY
 	db ICON_EQUINE      ; MILTANK
 	db ICON_CLEFAIRY    ; BLISSEY
-	db ICON_FOX         ; RAIKOU
+	db ICON_FOX         ; ARCHETA
 	db ICON_FOX         ; ENTEI
 	db ICON_FOX         ; SUICUNE
 	db ICON_MONSTER     ; LARVITAR

@@ -20,11 +20,11 @@ Cry_Barboach:
 	channel 6, Cry_Barboach_Ch6
 	channel 8, Cry_Barboach_Ch8
 
-Cry_Raikou:
+Cry_Archeta:
 	channel_count 3
-	channel 5, Cry_Raikou_Ch5
-	channel 6, Cry_Raikou_Ch6
-	channel 8, Cry_Raikou_Ch8
+	channel 5, Cry_Archeta_Ch5
+	channel 6, Cry_Archeta_Ch6
+	channel 8, Cry_Archeta_Ch8
 
 Cry_Hoothoot:
 	channel_count 3
@@ -387,7 +387,7 @@ Cry_Barboach_Ch8:
 	noise_note 6, 9, 3, 0
 	sound_ret
 
-Cry_Raikou_Ch5:
+Cry_Archeta_Ch5:
 	duty_cycle_pattern 3, 3, 2, 0
 	square_note 2, 15, 1, 1200
 	square_note 2, 15, 7, 1424
@@ -398,7 +398,7 @@ Cry_Raikou_Ch5:
 	square_note 16, 15, 2, 1680
 	sound_ret
 
-Cry_Raikou_Ch6:
+Cry_Archeta_Ch6:
 	duty_cycle_pattern 3, 3, 0, 2
 	square_note 2, 15, 1, 1824
 	square_note 2, 14, 1, 1616
@@ -410,7 +410,7 @@ Cry_Raikou_Ch6:
 	square_note 16, 14, 2, 1696
 	sound_ret
 
-Cry_Raikou_Ch8:
+Cry_Archeta_Ch8:
 	noise_note 2, 8, -1, 46
 	noise_note 2, 9, -1, 31
 	noise_note 4, 8, -1, 78

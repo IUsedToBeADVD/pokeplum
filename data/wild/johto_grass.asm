@@ -15,8 +15,8 @@ JohtoGrassWildMons:
 	; day
 	db 4, EMOLGA
 	db 3, APPLIN
-	db 4, APPLETUN
-	db 3, APPLETUN
+	db 4, ARCHETA
+	db 3, ARCHETA
 	db 2, EMOLGA
 	db 3, APPLIN
 	db 3, APPLIN
@@ -41,13 +41,13 @@ JohtoGrassWildMons:
 	db 4, SPEAROW
 	db 3, SUNKERN
 	; day
-	db 3, LEAFEON
-	db 3, GLACEON
-	db 3, SYLVEON
-	db 3, SYLVEON
-	db 4, SYLVEON
-	db 4, GLACEON
-	db 3, LEAFEON
+	db 3, DITTO
+	db 3, DITTO
+	db 3, DITTO
+	db 3, DITTO
+	db 4, DITTO
+	db 4, DITTO
+	db 3, DITTO
 	; nite
 	db 2, HOOTHOOT
 	db 2, BUNEARY

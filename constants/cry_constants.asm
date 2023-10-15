@@ -46,7 +46,7 @@
 	const CRY_BARBOACH
 	const CRY_TOGEPI
 	const CRY_GIRAFARIG
-	const CRY_RAIKOU
+	const CRY_ARCHETA
 	const CRY_MAREEP
 	const CRY_TOGETIC
 	const CRY_HOOTHOOT

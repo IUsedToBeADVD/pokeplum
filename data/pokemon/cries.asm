@@ -248,12 +248,12 @@ PokemonCries::
 	mon_cry CRY_COTTONEE,   374,   58 ; MAGBY
 	mon_cry CRY_GLIGAR,     -461,  416 ; MILTANK
 	mon_cry CRY_SLOWKING,    659,  320 ; BLISSEY
-	mon_cry CRY_RAIKOU,      558,  288 ; RAIKOU
+	mon_cry CRY_ARCHETA,      558,  288 ; ARCHETA
 	mon_cry CRY_ENTEI,         0,  416 ; ENTEI
 	mon_cry CRY_APPLETUN,      0,  384 ; SUICUNE
-	mon_cry CRY_RAIKOU,       95,  208 ; LARVITAR
+	mon_cry CRY_ARCHETA,       95,  208 ; LARVITAR
 	mon_cry CRY_BARBOACH,   -475,  336 ; PUPITAR
-	mon_cry CRY_RAIKOU,     -256,  384 ; TYRANITAR
+	mon_cry CRY_ARCHETA,     -256,  384 ; TYRANITAR
 	mon_cry CRY_BLAZIKEN,    0,  256 ; LUGIA
 	mon_cry CRY_MAGNELOCKE,         0,  384 ; HOGWYRE
 	mon_cry CRY_ENTEI,       330,  273 ; CELEBI

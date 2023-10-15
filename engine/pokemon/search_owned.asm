@@ -3,7 +3,7 @@ BeastsCheck:
 ; They must exist in either party or PC, and have the player's OT and ID.
 ; Return the result in wScriptVar.
 
-	ld a, RAIKOU
+	ld a, ARCHETA
 	ld [wScriptVar], a
 	call CheckOwnMonAnywhere
 	jr nc, .notexist

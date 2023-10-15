@@ -3266,7 +3266,7 @@ BlisseyEvosAttacks:
 	db 47, DOUBLE_EDGE
 	db 0 ; no more level-up moves
 
-RaikouEvosAttacks:
+ArchetaEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, BITE
 	db 1, LEER

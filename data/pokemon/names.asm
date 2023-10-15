@@ -242,7 +242,7 @@ PokemonNames::
 	db "MAGBY@@@@@"
 	db "MILTANK@@@"
 	db "BLISSEY@@@"
-	db "RAIKOU@@@@"
+	db "ARCHETA@@@"
 	db "ENTEI@@@@@"
 	db "SUICUNE@@@"
 	db "LARVITAR@@"

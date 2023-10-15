@@ -181,7 +181,7 @@ AlphabeticalPokedexOrder:
 	db COMBUSKEN
 	db QWILFISH
 	db RAICHU
-	db RAIKOU
+	db ARCHETA
 	db RAPIDASH
 	db RATICATE
 	db RATTATA

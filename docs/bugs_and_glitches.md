@@ -81,7 +81,7 @@ Fixes in the [multi-player battle engine](#multi-player-battle-engine) category 
   - [Slot machine payout sound effects cut each other off](#slot-machine-payout-sound-effects-cut-each-other-off)
   - [Team Rocket battle music is not used for Executives or Scientists](#team-rocket-battle-music-is-not-used-for-executives-or-scientists)
   - [No bump noise if standing on tile `$3E`](#no-bump-noise-if-standing-on-tile-3e)
-  - [Playing Entei's Pokédex cry can distort Raikou's and Suicune's](#playing-enteis-pok%C3%A9dex-cry-can-distort-raikous-and-suicunes)
+  - [Playing Entei's Pokédex cry can distort Archeta's and Suicune's](#playing-enteis-pok%C3%A9dex-cry-can-distort-archetas-and-suicunes)
 - [Text](#text)
   - [Five-digit experience gain is printed incorrectly](#five-digit-experience-gain-is-printed-incorrectly)
   - [Only the first three evolution entries can have Stone compatibility reported correctly](#only-the-first-three-evolution-entries-can-have-stone-compatibility-reported-correctly)
@@ -2105,7 +2105,7 @@ If `[wWalkingDirection]` is `STANDING` (`$FF`), this will check `[.EdgeWarps + $
 ```
 
 
-### Playing Entei's Pokédex cry can distort Raikou's and Suicune's
+### Playing Entei's Pokédex cry can distort Archeta's and Suicune's
 
 ([Video](https://www.youtube.com/watch?v=z305e4sIO24))
 
@@ -2115,7 +2115,7 @@ The exact cause of this bug is unknown.
 
 ```diff
  .Cry:
--; BUG: Playing Entei's Pokédex cry can distort Raikou's and Suicune's (see docs/bugs_and_glitches.md)
+-; BUG: Playing Entei's Pokédex cry can distort Archeta's and Suicune's (see docs/bugs_and_glitches.md)
 -	call Pokedex_GetSelectedMon
 -	ld a, [wTempSpecies]
 -	call GetCryIndex
