@@ -13,13 +13,13 @@ JohtoGrassWildMons:
 	db 3, SUNKERN
 	db 3, SUNKERN
 	; day
-	db 4, VOLTORB
-	db 3, MAGNETON
-	db 4, VOLTORB
-	db 3, MAGNETON
-	db 2, VOLTORB
-	db 3, MAGNETON
-	db 3, MAGNETON
+	db 2, HOOTHOOT
+	db 2, BUNEARY
+	db 3, HOOTHOOT
+	db 3, EKANS
+	db 2, EKANS
+	db 3, HOOTHOOT
+	db 3, MUNNA
 	; nite
 	db 2, HOOTHOOT
 	db 2, BUNEARY
@@ -41,13 +41,13 @@ JohtoGrassWildMons:
 	db 4, SPEAROW
 	db 3, SUNKERN
 	; day
-	db 3, DITTO
-	db 3, DITTO
-	db 3, DITTO
-	db 3, DITTO
-	db 4, DITTO
-	db 4, DITTO
-	db 3, DITTO
+	db 2, ROOKIDEE
+	db 2, BUNEARY
+	db 3, SPEAROW
+	db 3, BUNEARY
+	db 4, ROOKIDEE
+	db 4, SPEAROW
+	db 3, SUNKERN
 	; nite
 	db 2, HOOTHOOT
 	db 2, BUNEARY

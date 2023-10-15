@@ -1,4 +1,7 @@
 	object_const_def
+	const ROUTE50_TREE1
+	const ROUTE50_TREE2
+	const ROUTE50_ITEM1
 
 Route50_MapScripts:
 	def_scene_scripts

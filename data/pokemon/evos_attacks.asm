@@ -12,6 +12,7 @@ SECTION "Evolutions and Attacks", ROMX
 ;	 * db EVOLVE_ITEM_GENDER, used item, gender (MON_MALE/MON_FEMALE), species : Causes the 'mon to evolve when an item is used and it has the correct gender.
 ;	 * db EVOLVE_HOLD, used item, TR_* constant, species : Causes the 'mon to evolve when it's leveled up while holding an item during a specific time of day.
 ;	 * db EVOLVE_PARTY, companion species, species : Causes the 'mon to evolve when it's leveled up with another specific 'mon in the party.
+;	 * db EVOLVE_SHINY, level, species : Causes 'mon to evolve at the specified level if its shiny
 ; - db 0 ; no more evolutions
 ; - Learnset (in increasing level order):
 ;    * db level, move
@@ -30,6 +31,7 @@ EvoTypeSizes::
 	db 2 ; EVOLVE_MOVE_TYPE
 	db 3 ; EVOLVE_HOLD
 	db 2 ; EVOLVE_PARTY
+	db 2 ; EVOLVE_SHINY
 
 
 BulbasaurEvosAttacks:

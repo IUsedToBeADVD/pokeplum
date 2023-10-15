@@ -82,6 +82,10 @@ EvolveAfterBattle_MasterLoop:
 	ld a, [wForceEvolution]
 	and a
 	jr nz, .skip_evolve
+	
+	ld a, b
+	cp EVOLVE_SHINY
+	jp z, .shiny
 
 	ld a, b
 	cp EVOLVE_LEVEL
@@ -174,6 +178,22 @@ EvolveAfterBattle_MasterLoop:
 	; Continue by checking for the item
 	jp .item
 
+.shiny
+	ld a, [hli]
+	ld b, a
+	ld a, [wTempMonLevel]
+	cp b
+	jp c, .dont_evolve_3
+	call IsMonHoldingEverstone
+	jp z, .dont_evolve_3
+	push hl
+	push bc
+	ld bc, wTempMonDVs
+	farcall CheckShininess
+	pop bc
+	pop hl
+	jp nc, .dont_evolve_3
+	jp .proceed
 
 .level
 	ld a, [hli]
