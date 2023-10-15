@@ -6,6 +6,10 @@ DEF TRUE  EQU 1
 DEF MALE   EQU 0
 DEF FEMALE EQU 1
 
+MON_MALE   EQU 1
+MON_FEMALE EQU 0
+
+
 ; FlagAction arguments (see home/flag.asm)
 	const_def
 	const RESET_FLAG

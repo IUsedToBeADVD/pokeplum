@@ -13,13 +13,13 @@ JohtoGrassWildMons:
 	db 3, SUNKERN
 	db 3, SUNKERN
 	; day
-	db 4, EMOLGA
-	db 3, APPLIN
-	db 4, ARCHETA
-	db 3, ARCHETA
-	db 2, EMOLGA
-	db 3, APPLIN
-	db 3, APPLIN
+	db 4, VOLTORB
+	db 3, MAGNETON
+	db 4, VOLTORB
+	db 3, MAGNETON
+	db 2, VOLTORB
+	db 3, MAGNETON
+	db 3, MAGNETON
 	; nite
 	db 2, HOOTHOOT
 	db 2, BUNEARY

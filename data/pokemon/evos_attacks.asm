@@ -7,12 +7,30 @@ SECTION "Evolutions and Attacks", ROMX
 ;    * db EVOLVE_TRADE, held item (or -1 for none), species
 ;    * db EVOLVE_HAPPINESS, TR_* constant (ANYTIME, MORNDAY, NITE), species
 ;    * db EVOLVE_STAT, level, ATK_*_DEF constant (LT, GT, EQ), species
+;	 * db EVOLVE_MOVE, move, species : Causes the 'mon to evolve when it is leveled up while knowing a certain move.
+;	 * db EVOLVE_MOVE_TYPE, type, species : Causes the 'mon to evolve when it is leveled up while knowing a move of a certain type.
+;	 * db EVOLVE_ITEM_GENDER, used item, gender (MON_MALE/MON_FEMALE), species : Causes the 'mon to evolve when an item is used and it has the correct gender.
+;	 * db EVOLVE_HOLD, used item, TR_* constant, species : Causes the 'mon to evolve when it's leveled up while holding an item during a specific time of day.
+;	 * db EVOLVE_PARTY, companion species, species : Causes the 'mon to evolve when it's leveled up with another specific 'mon in the party.
 ; - db 0 ; no more evolutions
 ; - Learnset (in increasing level order):
 ;    * db level, move
 ; - db 0 ; no more level-up moves
 
 INCLUDE "data/pokemon/evos_attacks_pointers.asm"
+
+EvoTypeSizes::
+	db 2 ; EVOLVE_LEVEL
+	db 2 ; EVOLVE_ITEM
+	db 3 ; EVOLVE_ITEM_GENDER
+	db 2 ; EVOLVE_TRADE
+	db 2 ; EVOLVE_HAPPINESS
+	db 3 ; EVOLVE_STAT
+	db 2 ; EVOLVE_MOVE
+	db 2 ; EVOLVE_MOVE_TYPE
+	db 3 ; EVOLVE_HOLD
+	db 2 ; EVOLVE_PARTY
+
 
 BulbasaurEvosAttacks:
 	db EVOLVE_LEVEL, 16, IVYSAUR
@@ -1092,7 +1110,7 @@ MagnemiteEvosAttacks:
 	db 0 ; no more level-up moves
 
 MagnetonEvosAttacks:
-	db EVOLVE_LEVEL, 45, MAGNELOCKE
+	db EVOLVE_PARTY, VOLTORB, MAGNELOCKE
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 1, THUNDERSHOCK
