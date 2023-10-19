@@ -207,7 +207,7 @@ PokemonCries::
 	mon_cry CRY_SLOWKING,    260,  512 ; SLOWKING
 	mon_cry CRY_HOOTHOOT,    304,  232 ; MISDREAVUS
 	mon_cry CRY_HOOTHOOT,    354,  256 ; UNOWN
-	mon_cry CRY_AMPHAROS,    635,  324 ; WOBBUFFET
+	mon_cry CRY_AMPHAROS,    635,  324 ; GYARADOS_S
 	mon_cry CRY_GIRAFARIG,    65,  512 ; GIRAFARIG
 	mon_cry CRY_SLOWKING,    128,  256 ; SHIELDON
 	mon_cry CRY_SLOWKING,      0,  384 ; BASTIODON

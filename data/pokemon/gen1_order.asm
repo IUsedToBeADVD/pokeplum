@@ -241,7 +241,7 @@ Pokered_MonIndices:
 	db SLOWKING
 	db MISDREAVUS
 	db UNOWN
-	db WOBBUFFET
+	db GYARADOS_S
 	db GIRAFARIG
 	db SHIELDON
 	db BASTIODON
@@ -251,7 +251,7 @@ Pokered_MonIndices:
 	db CRANIDOS
 	db RAMPARDOS
 	db QWILFISH
-	db WOBBUFFET
-	db WOBBUFFET
+	db GYARADOS_S
+	db GYARADOS_S
 	db MAMOSWINE
 	assert_table_length NUM_POKEMON + 1

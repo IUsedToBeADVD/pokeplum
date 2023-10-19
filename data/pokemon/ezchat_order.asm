@@ -62,7 +62,7 @@ EZChat_SortedPokemon:
 .shi_ji:   db SEADRA, SHELLDER, VAPOREON, CNTISKORCH, -1
 .su_zu:    db SUICUNE, STARMIE, SCYTHER, ZUBAT, BEEDRILL, HYPNO, DROWZEE, -1
 .se_ze:    db SQUIRTLE, CELEBI, -1
-.so_zo:    db WOBBUFFET, -1
+.so_zo:    db GYARADOS_S, -1
 .ta_da:    db DUGTRIO, HORSEA, EXEGGCUTE, -1
 .chi_dhi:  db TREECKO, CHINCHOU, -1
 .tsu_du:   db SHUCKLE, -1

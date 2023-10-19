@@ -201,7 +201,7 @@ PokemonNames::
 	db "SLOWKING@@"
 	db "MISDREAVUS"
 	db "UNOWN@@@@@"
-	db "WOBBUFFET@"
+	db "GYARADOS@@" ;shiny Gyarados
 	db "GIRAFARIG@"
 	db "SHIELDON@@"
 	db "BASTIODON@"

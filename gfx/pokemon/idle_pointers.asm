@@ -201,7 +201,7 @@ AnimationIdlePointers:
 	dw SlowkingAnimationIdle
 	dw MisdreavusAnimationIdle
 	dw UnownAnimationIdle
-	dw WobbuffetAnimationIdle
+	dw Gyarados_sAnimationIdle
 	dw GirafarigAnimationIdle
 	dw ShieldonAnimationIdle
 	dw BastiodonAnimationIdle

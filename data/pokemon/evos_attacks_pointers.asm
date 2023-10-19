@@ -203,7 +203,7 @@ EvosAttacksPointers::
 	dw SlowkingEvosAttacks
 	dw MisdreavusEvosAttacks
 	dw UnownEvosAttacks
-	dw WobbuffetEvosAttacks
+	dw Gyarados_sEvosAttacks
 	dw GirafarigEvosAttacks
 	dw ShieldonEvosAttacks
 	dw BastiodonEvosAttacks

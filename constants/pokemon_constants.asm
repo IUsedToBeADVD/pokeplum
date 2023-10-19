@@ -171,15 +171,15 @@
 	const MEWTWO     ; 96
 	const MEW        ; 97
 DEF JOHTO_POKEMON EQU const_value
-	const TREECKO    ; 98
-	const GROVYLE    ; 99
-	const SCEPTILE   ; 9a
-	const TORCHIC  	 ; 9b
-	const COMBUSKEN  ; 9c
-	const BLAZIKEN 	 ; 9d
-	const MUDKIP     ; 9e
-	const MARSHTOMP  ; 9f
-	const SWAMPERT 	 ; a0
+	const TREECKO    ; 98 to-go
+	const GROVYLE    ; 99 to-go
+	const SCEPTILE   ; 9a to-go
+	const TORCHIC  	 ; 9b to-go
+	const COMBUSKEN  ; 9c to-go
+	const BLAZIKEN 	 ; 9d to-go
+	const MUDKIP     ; 9e to-go
+	const MARSHTOMP  ; 9f to-go
+	const SWAMPERT 	 ; a0 to-go
 	const BUNEARY    ; a1
 	const LOPUNNY    ; a2
 	const HOOTHOOT   ; a3
@@ -198,9 +198,9 @@ DEF JOHTO_POKEMON EQU const_value
 	const TOGETIC    ; b0
 	const NATU       ; b1
 	const XATU       ; b2
-	const MAREEP     ; b3
-	const FLAAFFY    ; b4
-	const AMPHAROS   ; b5
+	const MAREEP     ; b3 to-go
+	const FLAAFFY    ; b4 to-go
+	const AMPHAROS   ; b5 to-go
 	const BELLOSSOM  ; b6
 	const MEDITITE     ; b7
 	const MEDICHAM  ; b8
@@ -221,7 +221,7 @@ DEF JOHTO_POKEMON EQU const_value
 	const SLOWKING   ; c7
 	const MISDREAVUS ; c8 to-go
 	const UNOWN      ; c9
-	const WOBBUFFET  ; ca to-go
+	const GYARADOS_S  ; ca
 	const GIRAFARIG  ; cb
 	const SHIELDON     ; cc
 	const BASTIODON ; cd

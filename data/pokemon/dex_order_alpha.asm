@@ -248,7 +248,7 @@ AlphabeticalPokedexOrder:
 	db WEEPINBELL
 	db WEEZING
 	db WIGGLYTUFF
-	db WOBBUFFET
+	db GYARADOS_S
 	db WOOPER
 	db XATU
 	db YANMA

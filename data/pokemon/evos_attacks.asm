@@ -1774,6 +1774,7 @@ TaurosEvosAttacks:
 	db 0 ; no more level-up moves
 
 MagikarpEvosAttacks:
+	db EVOLVE_SHINY, 20, GYARADOS_S
 	db EVOLVE_LEVEL, 20, GYARADOS
 	db 0 ; no more evolutions
 	db 1, SPLASH
@@ -2759,12 +2760,16 @@ UnownEvosAttacks:
 	db 1, HIDDEN_POWER
 	db 0 ; no more level-up moves
 
-WobbuffetEvosAttacks:
+Gyarados_sEvosAttacks:
 	db 0 ; no more evolutions
-	db 1, COUNTER
-	db 1, MIRROR_COAT
-	db 1, SAFEGUARD
-	db 1, DESTINY_BOND
+	db 1, THRASH
+	db 20, BITE
+	db 25, DRAGON_RAGE
+	db 30, LEER
+	db 35, TWISTER
+	db 40, HYDRO_PUMP
+	db 45, RAIN_DANCE
+	db 50, HYPER_BEAM
 	db 0 ; no more level-up moves
 
 GirafarigEvosAttacks:

@@ -408,8 +408,8 @@ PokemonPicPointers::
 	dbw -1, -1
 	dbw -1, -1
 
-	dba WobbuffetFrontpic
-	dba WobbuffetBackpic
+	dba Gyarados_sFrontpic
+	dba Gyarados_sBackpic
 	dba GirafarigFrontpic
 	dba GirafarigBackpic
 	dba ShieldonFrontpic

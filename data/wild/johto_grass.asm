@@ -13,10 +13,10 @@ JohtoGrassWildMons:
 	db 3, SUNKERN
 	db 3, SUNKERN
 	; day
-	db 2, HOOTHOOT
-	db 2, BUNEARY
-	db 3, HOOTHOOT
-	db 3, EKANS
+	db 2, MAGIKARP
+	db 2, MAGIKARP
+	db 3, MAGIKARP
+	db 3, MAGIKARP
 	db 2, EKANS
 	db 3, HOOTHOOT
 	db 3, MUNNA

@@ -82,7 +82,7 @@ BattleTowerMons:
 	bigdw 39 ; SDef
 	db "BURAtuKI-@@"
 
-	db WOBBUFFET
+	db GYARADOS_S
 	db FOCUS_BAND
 	db COUNTER, MIRROR_COAT, SAFEGUARD, DESTINY_BOND
 	dw 0 ; OT ID
@@ -1833,7 +1833,7 @@ BattleTowerMons:
 	bigdw 105 ; SDef
 	db "SUTA-MI-@@@"
 
-	db WOBBUFFET
+	db GYARADOS_S
 	db GOLD_BERRY
 	db COUNTER, MIRROR_COAT, SAFEGUARD, DESTINY_BOND
 	dw 0 ; OT ID
@@ -2905,7 +2905,7 @@ BattleTowerMons:
 	bigdw 161 ; SDef
 	db "SANDA-@@@@@"
 
-	db WOBBUFFET
+	db GYARADOS_S
 	db GOLD_BERRY
 	db COUNTER, MIRROR_COAT, DESTINY_BOND, SAFEGUARD
 	dw 0 ; OT ID

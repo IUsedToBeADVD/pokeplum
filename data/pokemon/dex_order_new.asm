@@ -108,7 +108,7 @@ NewPokedexOrder:
 	db EXEGGCUTE
 	db EXEGGUTOR
 	db SUDOWOODO
-	db WOBBUFFET
+	db GYARADOS_S
 	db SNOM
 	db SNOMYOMI
 	db SCYTHER

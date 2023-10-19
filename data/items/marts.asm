@@ -46,7 +46,9 @@ MartCherrygrove:
 	db -1 ; end
 
 MartCherrygroveDex:
-	db 5 ; # items
+	db 7 ; # items
+	db MASTER_BALL
+	db RARE_CANDY
 	db POKE_BALL
 	db POTION
 	db ANTIDOTE

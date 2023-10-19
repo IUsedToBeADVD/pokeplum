@@ -201,7 +201,7 @@ FramesPointers:
 	dw SlowkingFrames
 	dw MisdreavusFrames
 	dw UnownFrames
-	dw WobbuffetFrames
+	dw Gyarados_sFrames
 	dw GirafarigFrames
 	dw ShieldonFrames
 	dw BastiodonFrames
