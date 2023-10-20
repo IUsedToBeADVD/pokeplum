@@ -3037,7 +3037,11 @@ wStelursaTownSceneID::              db
 wStumpsLabSceneID::					db
 wStumpsLabRoofSceneID::				db
 
-	ds 109
+	ds 106
+
+wPlayerGoingUpDownStairs:: db
+wObjectGoingUpDownStairs:: db
+wPlayerGoingLeftRightStairs:: db
 
 ; fight counts
 wJackFightCount::    db
