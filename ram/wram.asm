@@ -3033,9 +3033,9 @@ wBrunosRoomSceneID::                db
 wKarensRoomSceneID::                db
 wLancesRoomSceneID::                db
 wHallOfFameSceneID::                db
-wStelursaTownSceneID::              db
-wStumpsLabSceneID::					db
-wStumpsLabRoofSceneID::				db
+wPeckshellPierSceneID::              db
+wStumpsLabSceneID::					db ;unused
+wStumpsLabRoofSceneID::				db ;unused
 
 	ds 106
 

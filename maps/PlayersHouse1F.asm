@@ -63,22 +63,13 @@ MeetMomScript:
 	iffalse .SetDayOfWeek
 .DayOfWeekDone:
 	writetext ComeHomeForDSTText
-	yesorno
-	iffalse .ExplainPhone
-	sjump .KnowPhone
-
-.KnowPhone:
-	writetext KnowTheInstructionsText
-	promptbutton
-	sjump .FinishPhone
-
-.ExplainPhone:
-	writetext DontKnowTheInstructionsText
-	promptbutton
-	sjump .FinishPhone
-
-.FinishPhone:
-	writetext InstructionsNextText
+	waitbutton
+	setevent EVENT_GOT_EEVEE_FROM_ELM
+	setevent EVENT_GOT_A_POKEMON_FROM_ELM
+	writetext ReceivedEeveeText
+	playsound SFX_CAUGHT_MON
+	waitsfx
+	givepoke EEVEE, 5
 	waitbutton
 	closetext
 	checkevent EVENT_TEMPORARY_UNTIL_MAP_RELOAD_1
@@ -212,87 +203,23 @@ MomWalksBackMovement:
 	step_end
 
 ElmsLookingForYouText:
-	text "Oh, <PLAYER>…! Our"
-	line "neighbor, PROF."
-
-	para "ELM, was looking"
-	line "for you."
-
-	para "He said he wanted"
-	line "you to do some-"
-	cont "thing for him."
-
-	para "Oh! I almost for-"
-	line "got! Your #MON"
-
-	para "GEAR is back from"
-	line "the repair shop."
-
-	para "Here you go!"
+	text "<PLAYER>…! Take"
+	line "all this shit!"
 	done
 
 MomGivesPokegearText:
-	text "#MON GEAR, or"
-	line "just #GEAR."
-
-	para "It's essential if"
-	line "you want to be a"
-	cont "good trainer."
-
-	para "It comes with a"
-	line "CLOCK, PHONE,"
-	cont "and TOWN MAP!"
-
-	para "Oh, the day of the"
-	line "week isn't set."
-
-	para "You mustn't forget"
-	line "that!"
+	text "Quick, what"
+	line "day is it?"
 	done
 
 IsItDSTText:
 	text "Is it Daylight"
-	line "Saving Time now?"
+	line "Saving Time?"
 	done
 
 ComeHomeForDSTText:
-	text "Come home to"
-	line "adjust your clock"
-
-	para "for Daylight"
-	line "Saving Time."
-
-	para "By the way, do you"
-	line "know how to use"
-	cont "the PHONE?"
-	done
-
-KnowTheInstructionsText:
-	text "Don't you just"
-	line "turn the #GEAR"
-
-	para "on and select the"
-	line "PHONE icon?"
-	done
-
-DontKnowTheInstructionsText:
-	text "I'll read the"
-	line "instructions."
-
-	para "Turn the #GEAR"
-	line "on and select the"
-	cont "PHONE icon."
-	done
-
-InstructionsNextText:
-	text "Phone numbers are"
-	line "stored in memory."
-
-	para "Just choose a name"
-	line "you want to call."
-
-	para "Gee, isn't that"
-	line "convenient?"
+	text "Take this #MON"
+	line "and fuck off!"
 	done
 
 HurryUpElmIsWaitingText:
@@ -300,6 +227,11 @@ HurryUpElmIsWaitingText:
 	line "ing for you."
 
 	para "Hurry up, baby!"
+	done
+
+ReceivedEeveeText:
+	text "<PLAYER> received"
+	line "EEVEE!"
 	done
 
 SoWhatWasProfElmsErrandText:
@@ -392,8 +324,8 @@ PlayersHouse1F_MapEvents:
 	db 0, 0 ; filler
 
 	def_warp_events
-	warp_event  6,  7, STELURSA_TOWN, 1
-	warp_event  7,  7, STELURSA_TOWN, 1
+	warp_event  6,  7, PECKSHELL_PIER, 1
+	warp_event  7,  7, PECKSHELL_PIER, 1
 	warp_event  9,  0, PLAYERS_HOUSE_2F, 1
 
 	def_coord_events

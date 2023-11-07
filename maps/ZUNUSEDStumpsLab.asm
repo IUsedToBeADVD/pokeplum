@@ -163,8 +163,8 @@ StumpsLab_MapEvents:
 	db 0, 0 ; filler
 
 	def_warp_events
-	warp_event  4,  11, STELURSA_TOWN, 2
-	warp_event  5,  11, STELURSA_TOWN, 2
+	warp_event  4,  11, PECKSHELL_TOWN, 2
+	warp_event  5,  11, PECKSHELL_TOWN, 2
 	warp_event  13,  2, STUMPS_LAB_ROOF, 1
 	def_coord_events
 	coord_event  8, 3, SCENE_STUMPSLAB_CANT_LEAVE, StumpsLab_AideStopsYouScene

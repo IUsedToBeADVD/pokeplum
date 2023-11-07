@@ -106,7 +106,7 @@ Landmarks:
 	landmark 140, 116, FastShipName
 	assert_table_length NUM_LANDMARKS
 
-NewBarkTownName:     db "STELURSA¯TOWN@"
+NewBarkTownName:     db "PECKSHELL¯PIER@"
 CherrygroveCityName: db "SINTIRI¯TOWN@"
 VioletCityName:      db "WISHOOK CITY@"
 AzaleaTownName:      db "AZALEA TOWN@"
@@ -180,7 +180,7 @@ Route25Name:         db "ROUTE 25@"
 Route26Name:         db "ROUTE 26@"
 Route27Name:         db "ROUTE 27@"
 Route28Name:         db "ROUTE 28@"
-Route29Name:         db "ROUTE 50@"
+Route29Name:         db "ROUTE 1@"
 Route30Name:         db "ROUTE 30@"
 Route31Name:         db "ROUTE 51@"
 Route32Name:         db "ROUTE 52@"

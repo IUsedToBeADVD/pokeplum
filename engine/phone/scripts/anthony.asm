@@ -27,7 +27,7 @@ AnthonyPhoneCallerScript:
 	gettrainername STRING_BUFFER_3, HIKER, ANTHONY2
 	farscall PhoneScript_GreetPhone_Male
 ; TODO: Change this flypoint to a midgame one like Goldenrod.
-	checkflag ENGINE_FLYPOINT_STELURSA
+	checkflag ENGINE_FLYPOINT_PECKSHELL
 	iffalse .TriesSwarm
 	checkflag ENGINE_ANTHONY_READY_FOR_REMATCH
 	iftrue .TriesSwarm

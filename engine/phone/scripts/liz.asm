@@ -32,7 +32,7 @@ LizPhoneCallerScript:
 	farscall PhoneScript_Random2
 	ifequal 0, LizGossip
 ; TODO: Change this flypoint to a midgame one like Goldenrod.
-	checkflag ENGINE_FLYPOINT_STELURSA
+	checkflag ENGINE_FLYPOINT_PECKSHELL
 	iffalse .Generic
 	farscall PhoneScript_Random2
 	ifequal 0, LizWantsBattle

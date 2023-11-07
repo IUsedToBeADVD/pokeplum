@@ -7,6 +7,7 @@ SintiriPokecenter1F_Blocks:
 Pokecenter2F_Blocks:
 	INCBIN "maps/Pokecenter2F.ablk"
 
+PeckshellGate_Blocks:
 Route52Gate_Blocks:
 	INCBIN "maps/NorthSouthGate.ablk"
 
@@ -44,14 +45,11 @@ PlayersHouse1F_Blocks:
 PlayersHouse2F_Blocks:
 	INCBIN "maps/PlayersHouse2F.ablk"
 
-StelursaTown_Blocks:
-	INCBIN "maps/StelursaTown.ablk"
+PeckshellPier_Blocks:
+	INCBIN "maps/PeckshellPier.ablk"
 
-Route50_Blocks:
-	INCBIN "maps/Route50.ablk"
-
-StumpsLab_Blocks:
-	INCBIN "maps/StumpsLab.ablk"
+Route1_Blocks:
+	INCBIN "maps/Route1.ablk"
 
 SintiriTown_Blocks:
 	INCBIN "maps/SintiriTown.ablk"
@@ -70,12 +68,6 @@ SintiriLake_Blocks:
 
 SerpentFalls1F_Blocks:
 	INCBIN "maps/SerpentFalls1F.ablk"
-
-PetalfallPark_Blocks:
-	INCBIN "maps/PetalfallPark.ablk"
-
-Route65_Blocks:
-	INCBIN "maps/Route65.ablk"
 
 StonestepTunnel1F_Blocks:
 	INCBIN "maps/StonestepTunnel1F.ablk"
@@ -97,12 +89,6 @@ WishookCity_Blocks:
 
 Route53_Blocks:
 	INCBIN "maps/Route53.ablk"
-
-StumpsLabRoof_Blocks:
-	INCBIN "maps/StumpsLabRoof.ablk"
-
-StarterRoom_Blocks:
-	INCBIN "maps/StarterRoom.ablk"
 
 WishookGym_Blocks:
 	INCBIN "maps/WishookGym.ablk"

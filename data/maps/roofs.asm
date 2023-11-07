@@ -17,7 +17,7 @@ MapGroupRoofs:
 	db ROOF_NEW_BARK  ;  3 (New Bark)
 	db -1             ;  4
 	db -1			  ;  5
-	db ROOF_AZALEA    ;  6 (Stelursa)
+	db ROOF_AZALEA    ;  6 (Peckshell)
 	db ROOF_AZALEA    ;  7 (Sintiri)
 	db ROOF_OLIVINE   ;  8 (Wishook)
 	assert_table_length NUM_MAP_GROUPS + 1

@@ -7,7 +7,7 @@ NewBarkTown_MapScripts:
 	callback MAPCALLBACK_NEWMAP, NewBarkTownFlypointCallback
 
 NewBarkTownFlypointCallback:
-	setflag ENGINE_FLYPOINT_STELURSA
+	setflag ENGINE_FLYPOINT_PECKSHELL
 	clearevent EVENT_FIRST_TIME_BANKING_WITH_MOM
 	endcallback
 

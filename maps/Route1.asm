@@ -1,16 +1,16 @@
 	object_const_def
 
-PetalfallPark_MapScripts:
+Route1_MapScripts:
 	def_scene_scripts
 
 	def_callbacks
 
-PetalfallPark_MapEvents:
+Route1_MapEvents:
 	db 0, 0 ; filler
 
 	def_warp_events
-	warp_event 18, 29, STELURSA_TOWN, 3
-	warp_event 19, 29, STELURSA_TOWN, 4
+	warp_event  9, 29, PECKSHELL_GATE, 3
+	warp_event 10, 29, PECKSHELL_GATE, 4
 
 	def_coord_events
 

@@ -75,7 +75,7 @@ EngineFlags:
 	; fly
 	engine_flag wVisitedSpawns, SPAWN_HOME
 	engine_flag wVisitedSpawns, SPAWN_INDIGO
-	engine_flag wVisitedSpawns, SPAWN_STELURSA
+	engine_flag wVisitedSpawns, SPAWN_PECKSHELL
 	engine_flag wVisitedSpawns, SPAWN_SINTIRI
 	engine_flag wVisitedSpawns, SPAWN_WISHOOK
 	engine_flag wVisitedSpawns, SPAWN_BATTLE_TOWER

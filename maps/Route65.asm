@@ -12,8 +12,8 @@ Route65_MapEvents:
 	db 0, 0 ; filler
 
 	def_warp_events
-	warp_event 6,  28, STELURSA_TOWN, 5
-	warp_event 6,  29, STELURSA_TOWN, 6
+	warp_event 6,  28, PECKSHELL_TOWN, 5
+	warp_event 6,  29, PECKSHELL_TOWN, 6
 
 	def_coord_events
 

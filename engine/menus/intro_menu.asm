@@ -384,13 +384,13 @@ Continue:
 	ret
 
 .SpawnAfterE4:
-	ld a, SPAWN_STELURSA
+	ld a, SPAWN_PECKSHELL
 	ld [wDefaultSpawnpoint], a
 	call PostCreditsSpawn
 	jp FinishContinueFunction
 
 SpawnAfterRed:
-	ld a, SPAWN_STELURSA
+	ld a, SPAWN_PECKSHELL
 	ld [wDefaultSpawnpoint], a
 
 PostCreditsSpawn:

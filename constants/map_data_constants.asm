@@ -76,7 +76,7 @@ DEF NUM_FISHGROUPS EQU const_value - 1
 ; kanto
 	const SPAWN_INDIGO
 ; johto
-	const SPAWN_STELURSA
+	const SPAWN_PECKSHELL
 	const SPAWN_SINTIRI
 	const SPAWN_WISHOOK
 	const SPAWN_BATTLE_TOWER

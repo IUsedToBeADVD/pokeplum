@@ -2,35 +2,7 @@
 
 JohtoGrassWildMons:
 
-	def_grass_wildmons PETALFALL_PARK
-	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
-	; morn
-	db 2, ROOKIDEE
-	db 2, BUNEARY
-	db 3, SPEAROW
-	db 3, BUNEARY
-	db 2, EKANS
-	db 3, SUNKERN
-	db 3, SUNKERN
-	; day
-	db 2, MAGIKARP
-	db 2, MAGIKARP
-	db 3, MAGIKARP
-	db 3, MAGIKARP
-	db 2, EKANS
-	db 3, HOOTHOOT
-	db 3, MUNNA
-	; nite
-	db 2, HOOTHOOT
-	db 2, BUNEARY
-	db 3, HOOTHOOT
-	db 3, EKANS
-	db 2, EKANS
-	db 3, HOOTHOOT
-	db 3, MUNNA
-	end_grass_wildmons
-	
-	def_grass_wildmons ROUTE_50
+	def_grass_wildmons ROUTE_1
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
 	; morn
 	db 2, ROOKIDEE

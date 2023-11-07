@@ -75,14 +75,10 @@ ENDM
 	map_const DRAGONSCALE_TOWER_B1F,						9, 11 ;  5
 	endgroup
 	
-	newgroup STELURSA											  ;  6
-	map_const STELURSA_TOWN,							   20, 18 ;  1
-	map_const ROUTE_50,									   10, 18 ;  2
-	map_const STUMPS_LAB,								    8,  6 ;  3
-	map_const PETALFALL_PARK,							   20, 18 ;  4
-	map_const ROUTE_65,							   		   40, 18 ;  5
-	map_const STUMPS_LAB_ROOF,							    5,  7 ;  6
-	map_const STARTER_ROOM,									4,  4 ;  7
+	newgroup PECKSHELL											  ;  6
+	map_const PECKSHELL_PIER,							   20, 18 ;  1
+	map_const ROUTE_1,									   10, 18 ;  2
+	map_const PECKSHELL_GATE,							    5,  4 ;  3
 	endgroup
 
 	newgroup SINTIRI										  	  ;  7

@@ -10,7 +10,7 @@ MACRO auto_weather_map
 	map_id \1 ; map
 	db \2 ; AUTOMATIC_* weather index
 ENDM
-	auto_weather_map STELURSA_TOWN, AUTOMATIC_SUN
+	auto_weather_map PECKSHELL_PIER, AUTOMATIC_SUN
 	db 0 ; end
 
 AutomaticWeatherEffects:

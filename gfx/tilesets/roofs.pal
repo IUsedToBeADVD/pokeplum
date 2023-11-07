@@ -22,9 +22,9 @@
 	RGB 21,21,21, 13,13,13 ; morn/day
 	RGB 11,11,19, 07,07,12 ; nite
 
-; group 6 (Stelursa)
-	RGB 10,20,02, 04,31,01 ; morn/day
-	RGB 05,10,01, 02,15,01 ; nite
+; group 6 (Peckshell)
+	RGB 31,05,08, 19,05,09 ; morn/day
+	RGB 22,00,12, 13,04,09 ; nite
 
 ; group 7 (Sintiri)
 	RGB 10,20,02, 04,31,01 ; morn/day
