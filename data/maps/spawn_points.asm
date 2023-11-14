@@ -13,7 +13,7 @@ SpawnPoints:
 	spawn INDIGO_PLATEAU_POKECENTER_1F,  7,  9
 ; johto
 	spawn PECKSHELL_PIER,                26, 18
-	spawn SINTIRI_TOWN,					 29,  6
+	spawn SINTIRI_TOWN,					 13, 28
 	spawn WISHOOK_CITY,					 29, 14
 	spawn BATTLE_TOWER_OUTSIDE,           8, 10
 

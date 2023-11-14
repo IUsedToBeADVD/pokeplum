@@ -8,7 +8,6 @@ Pokecenter2F_Blocks:
 	INCBIN "maps/Pokecenter2F.ablk"
 
 PeckshellGate_Blocks:
-Route52Gate_Blocks:
 	INCBIN "maps/NorthSouthGate.ablk"
 
 TradeCenter_Blocks:
@@ -54,17 +53,17 @@ Route1_Blocks:
 SintiriTown_Blocks:
 	INCBIN "maps/SintiriTown.ablk"
 
-DragonscaleTower1F_Blocks:
-	INCBIN "maps/DragonscaleTower1F.ablk"
+Route2_Blocks:
+	INCBIN "maps/Route2.ablk"
+
+StonestepWestGate_Blocks:
+	INCBIN "maps/StonestepWestGate.ablk"
 
 DragonscaleTowerB1F_Blocks:
 	INCBIN "maps/DragonscaleTowerB1F.ablk"
 
 DragonscalePeak1F_Blocks:
 	INCBIN "maps/DragonscalePeak1F.ablk"
-
-SintiriLake_Blocks:
-	INCBIN "maps/SintiriLake.ablk"
 
 SerpentFalls1F_Blocks:
 	INCBIN "maps/SerpentFalls1F.ablk"
@@ -77,12 +76,6 @@ StonestepTunnel2F_Blocks:
 
 StonestepTunnelB1F_Blocks:
 	INCBIN "maps/StonestepTunnelB1F.ablk"
-
-Route51_Blocks:
-	INCBIN "maps/Route51.ablk"
-
-Route52_Blocks:
-	INCBIN "maps/Route52.ablk"
 
 WishookCity_Blocks:
 	INCBIN "maps/WishookCity.ablk"

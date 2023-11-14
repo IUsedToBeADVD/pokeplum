@@ -122,13 +122,11 @@ ENDM
 	map_attributes HallOfFame, HALL_OF_FAME, $00, 0
 	map_attributes PeckshellGate, PECKSHELL_GATE, $00, 0
 	map_attributes SintiriPokecenter1F, SINTIRI_POKECENTER_1F, $00, 0
+	map_attributes StonestepWestGate, STONESTEP_WEST_GATE, $00, 0
 	map_attributes StonestepTunnel1F, STONESTEP_TUNNEL_1F, $09, 0
 	map_attributes StonestepTunnel2F, STONESTEP_TUNNEL_2F, $09, 0
 	map_attributes StonestepTunnelB1F, STONESTEP_TUNNEL_B1F, $09, 0
-	map_attributes Route52Gate, ROUTE_52_GATE, $00, 0
-	map_attributes Route52, ROUTE_52, $05, 0
 	map_attributes SerpentFalls1F, SERPENT_FALLS_1F, $09, 0
-	map_attributes DragonscaleTower1F, DRAGONSCALE_TOWER_1F, $01, 0
 	map_attributes DragonscaleTowerB1F, DRAGONSCALE_TOWER_B1F, $09, 0
 	map_attributes DragonscalePeak1F, DRAGONSCALE_PEAK_1F, $4B, 0
 	map_attributes WishookGym, WISHOOK_GYM, $00, 0
@@ -136,17 +134,15 @@ ENDM
 	
 	map_attributes PeckshellPier, PECKSHELL_PIER, $35, 0
 	
-	map_attributes Route1, ROUTE_1, $05, 0
+	map_attributes Route1, ROUTE_1, $05, NORTH
+	connection north, SintiriTown, SINTIRI_TOWN, 1
 	
-	map_attributes SintiriTown, SINTIRI_TOWN, $05, NORTH | SOUTH
-	connection north, Route51, ROUTE_51, -1
-	connection south, SintiriLake, SINTIRI_LAKE, 1
+	map_attributes SintiriTown, SINTIRI_TOWN, $05, SOUTH | EAST
+	connection south, Route1, ROUTE_1, -1
+	connection east, Route2, ROUTE_2, 6
 	
-	map_attributes SintiriLake, SINTIRI_LAKE, $71, NORTH
-	connection north, SintiriTown, SINTIRI_TOWN, -1
-
-	map_attributes Route51, ROUTE_51, $05, SOUTH
-	connection south, SintiriTown, SINTIRI_TOWN, 1
+	map_attributes Route2, ROUTE_2, $05, WEST
+	connection west, SintiriTown, SINTIRI_TOWN, -6
 	
 	map_attributes WishookCity, WISHOOK_CITY, $35, WEST
 	connection west, Route53, ROUTE_53, -24

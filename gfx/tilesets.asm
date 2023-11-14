@@ -63,9 +63,6 @@ INCBIN "data/tilesets/mansion_metatiles.bin"
 TilesetMansionColl::
 INCLUDE "data/tilesets/mansion_collision.asm"
 
-TilesetCaveGFX::
-INCBIN "gfx/tilesets/cave.2bpp.lz"
-
 TilesetCaveMeta::
 TilesetDarkCaveMeta::
 INCBIN "data/tilesets/cave_metatiles.bin"
@@ -442,3 +439,6 @@ SECTION "Tileset Data 12", ROMX
 
 TilesetBattleTowerOutsideGFX::
 INCBIN "gfx/tilesets/battle_tower_outside.2bpp.lz"
+
+TilesetCaveGFX::
+INCBIN "gfx/tilesets/cave.2bpp.lz"

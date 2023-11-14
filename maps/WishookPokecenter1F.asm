@@ -20,8 +20,6 @@ WishookPokecenter1F_MapEvents:
 	db 0, 0 ; filler
 
 	def_warp_events
-	warp_event  6,  13, WISHOOK_CITY, 3
-	warp_event  7,  13, WISHOOK_CITY, 3
 
 	def_coord_events
 

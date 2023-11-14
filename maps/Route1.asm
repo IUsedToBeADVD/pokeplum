@@ -9,8 +9,8 @@ Route1_MapEvents:
 	db 0, 0 ; filler
 
 	def_warp_events
-	warp_event  9, 29, PECKSHELL_GATE, 3
-	warp_event 10, 29, PECKSHELL_GATE, 4
+	warp_event  7, 29, PECKSHELL_GATE, 3
+	warp_event  8, 29, PECKSHELL_GATE, 4
 
 	def_coord_events
 

@@ -1,14 +1,16 @@
 	object_const_def
 
-DragonscaleTowerB1F_MapScripts:
+Route2_MapScripts:
 	def_scene_scripts
 
 	def_callbacks
 
-DragonscaleTowerB1F_MapEvents:
+Route2_MapEvents:
 	db 0, 0 ; filler
 
 	def_warp_events
+	warp_event 29,  5, STONESTEP_WEST_GATE, 1
+	warp_event 30,  5, STONESTEP_WEST_GATE, 2
 
 	def_coord_events
 

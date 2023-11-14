@@ -58,34 +58,6 @@ JohtoGrassWildMons:
 	db 6, EKANS
 	end_grass_wildmons
 	
-	def_grass_wildmons ROUTE_51
-	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
-	; morn
-	db 3, ROOKIDEE
-	db 3, BUNEARY
-	db 4, SPEAROW
-	db 4, SANDSHREW
-	db 5, ROOKIDEE
-	db 5, MEOWTH
-	db 5, SANDSHREW
-	; day
-	db 3, ROOKIDEE
-	db 3, BUNEARY
-	db 4, SPEAROW
-	db 4, SANDSHREW
-	db 5, ROOKIDEE
-	db 5, MEOWTH
-	db 5, SANDSHREW
-	; nite
-	db 3, HOOTHOOT
-	db 3, BUNEARY
-	db 4, HOOTHOOT
-	db 4, EKANS
-	db 4, MEOWTH
-	db 5, SANDSHREW
-	db 5, MEOWTH
-	end_grass_wildmons
-	
 	def_grass_wildmons STONESTEP_TUNNEL_1F
 	db 3 percent, 3 percent, 3 percent ; encounter rates: morn/day/nite
 	; morn
@@ -196,34 +168,6 @@ JohtoGrassWildMons:
 	db 5, SNOM
 	db 5, GEODUDE
 	db 6, SPEAROW
-	end_grass_wildmons
-	
-	def_grass_wildmons ROUTE_52
-	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
-	; morn
-	db 5, ROOKIDEE
-	db 5, MEOWTH
-	db 5, LOTAD
-	db 6, LOTAD
-	db 6, ROOKIDEE
-	db 6, YANMA
-	db 7, YANMA
-	; day
-	db 5, ROOKIDEE
-	db 5, MEOWTH
-	db 5, LOTAD
-	db 6, LOTAD
-	db 6, ROOKIDEE
-	db 6, MEOWTH
-	db 7, YANMA
-	; nite
-	db 5, YANMA
-	db 5, HOOTHOOT
-	db 7, YANMA
-	db 6, LOTAD
-	db 7, MEOWTH
-	db 6, HOOTHOOT
-	db 7, LOTAD
 	end_grass_wildmons
 
 	db -1 ; end

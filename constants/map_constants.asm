@@ -68,7 +68,7 @@ ENDM
 	endgroup
 	
 	newgroup DUNGEONS											  ;  5
-	map_const STONESTEP_TUNNEL_1F,						   20,  9 ;  1
+	map_const STONESTEP_TUNNEL_1F,						   20, 18 ;  1
 	map_const STONESTEP_TUNNEL_2F,						   10,  9 ;  2
 	map_const STONESTEP_TUNNEL_B1F,						   20,  9 ;  3
 	map_const SERPENT_FALLS_1F,							   12, 19 ;  4
@@ -77,18 +77,15 @@ ENDM
 	
 	newgroup PECKSHELL											  ;  6
 	map_const PECKSHELL_PIER,							   20, 18 ;  1
-	map_const ROUTE_1,									   10, 18 ;  2
-	map_const PECKSHELL_GATE,							    5,  4 ;  3
+	map_const PECKSHELL_GATE,							    5,  4 ;  2
 	endgroup
 
 	newgroup SINTIRI										  	  ;  7
-	map_const SINTIRI_TOWN,						   		   20,  9 ;  1
-	map_const SINTIRI_LAKE,						   		   20, 18 ;  2
+	map_const ROUTE_1,									   10, 18 ;  1
+	map_const SINTIRI_TOWN,						   		   20, 18 ;  2
 	map_const SINTIRI_POKECENTER_1F,				        7,  7 ;  3
-	map_const ROUTE_51,				   					   10, 27 ;  4
-	map_const ROUTE_52,				   					   20, 18 ;  5
-	map_const ROUTE_52_GATE,							    5,  4 ;  6
-	map_const DRAGONSCALE_TOWER_1F,							7,  7 ;  7
+	map_const ROUTE_2,									   20,  9 ;  4
+	map_const STONESTEP_WEST_GATE,						    8,  6 ;  5
 	endgroup
 
 	newgroup WISHOOK										      ;  8

@@ -43,15 +43,12 @@ StonestepTunnel1F_MapEvents:
 	db 0, 0 ; filler
 
 	def_warp_events
-	warp_event  3, 15, ROUTE_51, 1
-	warp_event 13,  7, STONESTEP_TUNNEL_2F, 1
-	warp_event 23,  5, STONESTEP_TUNNEL_2F, 4
-	warp_event 27, 15, ROUTE_52, 2
-	warp_event  3,  3, STONESTEP_TUNNEL_B1F, 2
-
+	warp_event  4, 13, STONESTEP_WEST_GATE, 3
+	warp_event  5, 13, STONESTEP_WEST_GATE, 4
+	
 	def_coord_events
 
 	def_bg_events
 
 	def_object_events
-	object_event  16, 10, SPRITE_YOUNGSTER, SPRITEMOVEDATA_STANDING_LEFT, 0, 0, -1, -1, PAL_NPC_BLUE, OBJECTTYPE_TRAINER, 4, TrainerYoungsterJimmy, -1
+	object_event 17, 32, SPRITE_YOUNGSTER, SPRITEMOVEDATA_STANDING_LEFT, 0, 0, -1, -1, PAL_NPC_BLUE, OBJECTTYPE_TRAINER, 6, TrainerYoungsterJimmy, -1

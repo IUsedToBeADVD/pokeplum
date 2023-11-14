@@ -14,8 +14,7 @@ SintiriTown_MapEvents:
 	db 0, 0 ; filler
 
 	def_warp_events
-	warp_event 29,  5, SINTIRI_POKECENTER_1F, 2
-	warp_event 21,  5, DRAGONSCALE_TOWER_1F, 1
+	warp_event 13, 27, SINTIRI_POKECENTER_1F, 2
 	def_coord_events
 
 	def_bg_events

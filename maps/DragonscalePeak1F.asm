@@ -65,8 +65,6 @@ DragonscalePeak1F_MapEvents:
 	db 0, 0 ; filler
 
 	def_warp_events
-	warp_event 14, 27, STONESTEP_TUNNEL_2F, 2
-	warp_event 24, 21, STONESTEP_TUNNEL_2F, 3
 
 	def_coord_events
 
