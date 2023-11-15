@@ -59,6 +59,9 @@ Route2_Blocks:
 StonestepWestGate_Blocks:
 	INCBIN "maps/StonestepWestGate.ablk"
 
+StonestepEastGate_Blocks:
+	INCBIN "maps/StonestepEastGate.ablk"
+
 DragonscaleTowerB1F_Blocks:
 	INCBIN "maps/DragonscaleTowerB1F.ablk"
 

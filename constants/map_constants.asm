@@ -86,6 +86,7 @@ ENDM
 	map_const SINTIRI_POKECENTER_1F,				        7,  7 ;  3
 	map_const ROUTE_2,									   20,  9 ;  4
 	map_const STONESTEP_WEST_GATE,						    8,  6 ;  5
+	map_const STONESTEP_EAST_GATE,						   10, 10 ;  6
 	endgroup
 
 	newgroup WISHOOK										      ;  8

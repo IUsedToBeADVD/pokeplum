@@ -106,3 +106,8 @@ SuicuneSpriteGFX::             INCBIN "gfx/sprites/suicune.2bpp"
 EnteiSpriteGFX::               INCBIN "gfx/sprites/entei.2bpp"
 ArchetaSpriteGFX::              INCBIN "gfx/sprites/archeta.2bpp"
 StandingYoungsterSpriteGFX::   INCBIN "gfx/sprites/standing_youngster.2bpp"
+
+
+SECTION "Sprites 3", ROMX
+
+TravelNurseSpriteGFX::         INCBIN "gfx/sprites/nurse_travel.2bpp"

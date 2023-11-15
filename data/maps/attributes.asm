@@ -123,6 +123,7 @@ ENDM
 	map_attributes PeckshellGate, PECKSHELL_GATE, $00, 0
 	map_attributes SintiriPokecenter1F, SINTIRI_POKECENTER_1F, $00, 0
 	map_attributes StonestepWestGate, STONESTEP_WEST_GATE, $00, 0
+	map_attributes StonestepEastGate, STONESTEP_EAST_GATE, $00, 0
 	map_attributes StonestepTunnel1F, STONESTEP_TUNNEL_1F, $09, 0
 	map_attributes StonestepTunnel2F, STONESTEP_TUNNEL_2F, $09, 0
 	map_attributes StonestepTunnelB1F, STONESTEP_TUNNEL_B1F, $09, 0

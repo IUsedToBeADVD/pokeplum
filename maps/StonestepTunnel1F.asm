@@ -45,6 +45,8 @@ StonestepTunnel1F_MapEvents:
 	def_warp_events
 	warp_event  4, 13, STONESTEP_WEST_GATE, 3
 	warp_event  5, 13, STONESTEP_WEST_GATE, 4
+	warp_event 34, 15, STONESTEP_EAST_GATE, 1
+	warp_event 35, 15, STONESTEP_EAST_GATE, 2
 	
 	def_coord_events
 
