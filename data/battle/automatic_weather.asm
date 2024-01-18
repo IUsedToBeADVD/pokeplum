@@ -11,6 +11,7 @@ MACRO auto_weather_map
 	db \2 ; AUTOMATIC_* weather index
 ENDM
 	auto_weather_map PECKSHELL_PIER, AUTOMATIC_SUN
+	auto_weather_map ATMOTORIUM_HAIL, AUTOMATIC_HAIL
 	db 0 ; end
 
 AutomaticWeatherEffects:

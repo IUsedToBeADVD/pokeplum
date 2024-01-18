@@ -129,7 +129,7 @@ ENDM
 	map_attributes StonestepTunnelB1F, STONESTEP_TUNNEL_B1F, $09, 0
 	map_attributes SerpentFalls1F, SERPENT_FALLS_1F, $09, 0
 	map_attributes DragonscaleTowerB1F, DRAGONSCALE_TOWER_B1F, $09, 0
-	map_attributes DragonscalePeak1F, DRAGONSCALE_PEAK_1F, $4B, 0
+	map_attributes AtmotoriumHail, ATMOTORIUM_HAIL, $05, 0
 	map_attributes WishookGym, WISHOOK_GYM, $00, 0
 	map_attributes WishookPokecenter1F, WISHOOK_POKECENTER_1F, $00, 0
 	

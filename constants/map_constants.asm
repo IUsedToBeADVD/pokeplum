@@ -48,7 +48,7 @@ ENDM
 	map_const BATTLE_TOWER_ELEVATOR,                        2,  2 ;  3
 	map_const BATTLE_TOWER_HALLWAY,                        11,  2 ;  4
 	map_const BATTLE_TOWER_BATTLE_ROOM,                     4,  4 ;  5
-	map_const DRAGONSCALE_PEAK_1F, 						   20, 18 ;  6
+	map_const ATMOTORIUM_HAIL, 						   	   20, 27 ;  6
 	endgroup
 
 	newgroup NEW_BARK                                             ;  3
@@ -76,7 +76,7 @@ ENDM
 	endgroup
 	
 	newgroup PECKSHELL											  ;  6
-	map_const PECKSHELL_PIER,							   20, 18 ;  1
+	map_const PECKSHELL_PIER,							   30, 18 ;  1
 	map_const PECKSHELL_GATE,							    5,  4 ;  2
 	endgroup
 

@@ -65,8 +65,8 @@ StonestepEastGate_Blocks:
 DragonscaleTowerB1F_Blocks:
 	INCBIN "maps/DragonscaleTowerB1F.ablk"
 
-DragonscalePeak1F_Blocks:
-	INCBIN "maps/DragonscalePeak1F.ablk"
+AtmotoriumHail_Blocks:
+	INCBIN "maps/AtmotoriumHail.ablk"
 
 SerpentFalls1F_Blocks:
 	INCBIN "maps/SerpentFalls1F.ablk"

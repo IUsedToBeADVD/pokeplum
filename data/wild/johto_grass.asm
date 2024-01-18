@@ -142,7 +142,7 @@ JohtoGrassWildMons:
 	db 6, GEODUDE
 	end_grass_wildmons
 	
-	def_grass_wildmons DRAGONSCALE_PEAK_1F
+	def_grass_wildmons ATMOTORIUM_HAIL
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
 	; morn
 	db 4, SPEAROW
