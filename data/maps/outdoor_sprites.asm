@@ -1,5 +1,6 @@
 ; Valid sprite IDs for each map group.
 ; Maps with environment ROUTE or TOWN can only use these sprites.
+; IMPORTANT: each group can only have up to 9 sprites with walking animations (otherwise, some may glitch when walking)
 
 OutdoorSprites:
 ; entries correspond to MAPGROUP_* constants
@@ -68,12 +69,12 @@ PeckshellGroupSprites:
 SintiriGroupSprites:
 WishookGroupSprites:
 NewBarkGroupSprites:
-	db SPRITE_SCIENTIST
+	db SPRITE_SUICUNE
 	db SPRITE_SILVER_TROPHY
 	db SPRITE_FAMICOM
 	db SPRITE_POKEDEX
 	db SPRITE_WILL
-	db SPRITE_KAREN
+	db SPRITE_ROCK
 	db SPRITE_NURSE
 	db SPRITE_FRUIT_TREE
 	db SPRITE_BIG_LAPRAS
@@ -86,7 +87,7 @@ NewBarkGroupSprites:
 	db SPRITE_TWIN
 	db SPRITE_YOUNGSTER
 	db SPRITE_LASS
-	db SPRITE_TEACHER
+	db SPRITE_FISHER
 	db SPRITE_BEAUTY
 	db SPRITE_SUPER_NERD
 	db SPRITE_POKE_BALL

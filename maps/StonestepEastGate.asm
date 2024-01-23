@@ -76,6 +76,8 @@ StonestepEastGate_MapEvents:
 	warp_event  2, 13, STONESTEP_TUNNEL_1F, 4
 	warp_event 13,  0, ATMOTORIUM_HAIL, 1
 	warp_event 14,  0, ATMOTORIUM_HAIL, 2
+	warp_event 13, 19, ROUTE_2, 3
+	warp_event 14, 19, ROUTE_2, 4
 
 	def_coord_events
 

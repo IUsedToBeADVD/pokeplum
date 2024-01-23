@@ -140,10 +140,10 @@ ENDM
 	
 	map_attributes SintiriTown, SINTIRI_TOWN, $05, SOUTH | EAST
 	connection south, Route1, ROUTE_1, -1
-	connection east, Route2, ROUTE_2, 6
+	connection east, Route2, ROUTE_2, 3
 	
 	map_attributes Route2, ROUTE_2, $05, WEST
-	connection west, SintiriTown, SINTIRI_TOWN, -6
+	connection west, SintiriTown, SINTIRI_TOWN, -3
 	
 	map_attributes WishookCity, WISHOOK_CITY, $35, WEST
 	connection west, Route53, ROUTE_53, -24
