@@ -53,6 +53,9 @@ Route1_Blocks:
 SintiriTown_Blocks:
 	INCBIN "maps/SintiriTown.ablk"
 
+PokemonRefuge_Blocks:
+	INCBIN "maps/PokemonRefuge.ablk"
+
 Route2_Blocks:
 	INCBIN "maps/Route2.ablk"
 

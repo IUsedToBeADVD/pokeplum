@@ -87,6 +87,7 @@ ENDM
 	map_const ROUTE_2,									   40,  9 ;  4
 	map_const STONESTEP_WEST_GATE,						    8,  6 ;  5
 	map_const STONESTEP_EAST_GATE,						   10, 10 ;  6
+	map_const POKEMON_REFUGE,							   20, 18 ;  7
 	endgroup
 
 	newgroup WISHOOK										      ;  8
