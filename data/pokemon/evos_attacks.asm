@@ -288,23 +288,27 @@ RattataEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 1, TAIL_WHIP
-	db 7, QUICK_ATTACK
-	db 13, HYPER_FANG
+	db 6, QUICK_ATTACK
+	db 9, BITE
+	db 12, PURSUIT
+	db 16, HYPER_FANG
 	db 20, FOCUS_ENERGY
-	db 27, PURSUIT
-	db 34, SUPER_FANG
+	db 24, CRUNCH
+	db 30, SUPER_FANG
 	db 0 ; no more level-up moves
 
 RaticateEvosAttacks:
 	db 0 ; no more evolutions
+	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 1, TAIL_WHIP
-	db 1, QUICK_ATTACK
-	db 7, QUICK_ATTACK
-	db 13, HYPER_FANG
+	db 6, QUICK_ATTACK
+	db 9, BITE
+	db 12, PURSUIT
+	db 16, HYPER_FANG
 	db 20, SCARY_FACE
-	db 30, PURSUIT
-	db 40, SUPER_FANG
+	db 25, CRUNCH
+	db 34, SUPER_FANG
 	db 0 ; no more level-up moves
 
 SpearowEvosAttacks:
@@ -1204,9 +1208,11 @@ GrimerEvosAttacks:
 	db 1, POISON_GAS
 	db 1, POUND
 	db 5, HARDEN
+	db 8, BITE
 	db 10, DISABLE
 	db 16, SLUDGE
-	db 23, MINIMIZE
+	db 21, MINIMIZE
+	db 27, CRUNCH
 	db 31, SCREECH
 	db 40, ACID_ARMOR
 	db 50, SLUDGE_BOMB
@@ -1218,10 +1224,12 @@ MukEvosAttacks:
 	db 1, POISON_GAS
 	db 1, POUND
 	db 1, HARDEN
+	db 8, BITE
 	db 33, HARDEN
 	db 37, DISABLE
 	db 45, SLUDGE
 	db 23, MINIMIZE
+	db 27, CRUNCH
 	db 31, SCREECH
 	db 45, ACID_ARMOR
 	db 60, SLUDGE_BOMB

@@ -1,10 +1,10 @@
 	db "RAT@" ; species name
 	dw 100, 80 ; height, weight
 
-	db   "This #MON's"
-	next "impressive vital-"
-	next "ity allows it to"
+	db   "At night, they"
+	next "break into homes"
+	next "to steal food."
 
-	page "live anywhere. It"
-	next "also multiplies"
-	next "very quickly.@"
+	page "A keen sense of"
+	next "smell lets them"
+	next "find food quick.@"

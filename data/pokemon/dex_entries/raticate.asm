@@ -1,10 +1,10 @@
 	db "RAT@" ; species name
 	dw 204, 410 ; height, weight
 
-	db   "The webs on its"
-	next "hind legs enable"
-	next "it to cross"
+	db   "It commands a"
+	next "nest of RATTATA."
+	next "Disputes between"
 
-	page "rivers. It search-"
-	next "es wide areas for"
-	next "food.@"
+	page "nests are common"
+	next "and often due"
+	next "to food.@"

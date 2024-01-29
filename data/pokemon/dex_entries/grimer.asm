@@ -1,10 +1,10 @@
 	db "SLUDGE@" ; species name
 	dw 211, 660 ; height, weight
 
-	db   "When two of these"
-	next "#MON's bodies"
-	next "are combined"
+	db   "Though highly val"
+	next "-ued for eating"
+	next "garbage, the toxic"
 
-	page "together, new"
-	next "poisons are"
-	next "created.@"
+	page "crystals they pro-"
+	next "duce as a result"
+	next "are problematic.@"

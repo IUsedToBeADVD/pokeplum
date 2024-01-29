@@ -13,11 +13,39 @@ JohtoGrassWildMons:
 	db 4, SPEAROW
 	db 3, SUNKERN
 	; day
+	db 2, GRIMER
+	db 2, RATTATA
+	db 3, RATICATE
+	db 3, RATICATE
+	db 4, RATTATA
+	db 4, GRIMER
+	db 3, SUNKERN
+	; nite
+	db 2, HOOTHOOT
+	db 2, BUNEARY
+	db 3, BUNEARY
+	db 3, EKANS
+	db 4, HOOTHOOT
+	db 4, EKANS
+	db 4, BUNEARY
+	end_grass_wildmons
+	
+	def_grass_wildmons ROUTE_2
+	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
+	; morn
 	db 2, ROOKIDEE
 	db 2, BUNEARY
 	db 3, SPEAROW
 	db 3, BUNEARY
 	db 4, ROOKIDEE
+	db 4, SPEAROW
+	db 3, SUNKERN
+	; day
+	db 2, RATTATA
+	db 3, RATTATA
+	db 3, SPEAROW
+	db 3, BUNEARY
+	db 4, RATTATA
 	db 4, SPEAROW
 	db 3, SUNKERN
 	; nite

@@ -1,9 +1,9 @@
 	db RATICATE ; 020
 
-	db  55,  91,  60,  107,  50,  90
+	db  75,  91,  70,  97,  40,  80
 	;   hp  atk  def  spd  sat  sdf
 
-	db NORMAL, NORMAL ; type
+	db DARK, NORMAL ; type
 	db 90 ; catch rate
 	db 116 ; base exp
 	db NO_ITEM, NO_ITEM ; items
