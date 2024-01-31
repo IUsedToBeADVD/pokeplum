@@ -13,12 +13,12 @@ JohtoGrassWildMons:
 	db 4, SPEAROW
 	db 3, SUNKERN
 	; day
-	db 2, GRIMER
+	db 2, MINKEY
 	db 2, RATTATA
-	db 3, RATICATE
-	db 3, RATICATE
+	db 3, MINKEY
+	db 3, RATTATA
 	db 4, RATTATA
-	db 4, GRIMER
+	db 4, MINKEY
 	db 3, SUNKERN
 	; nite
 	db 2, HOOTHOOT

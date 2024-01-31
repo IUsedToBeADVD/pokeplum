@@ -522,7 +522,7 @@ INCBIN "gfx/footprints/audino.1bpp",   footprint_top
 INCBIN "gfx/footprints/houndour.1bpp",   footprint_top
 INCBIN "gfx/footprints/houndoom.1bpp",   footprint_top
 INCBIN "gfx/footprints/kingdra.1bpp",    footprint_top
-INCBIN "gfx/footprints/phink.1bpp",     footprint_top
+INCBIN "gfx/footprints/minkey.1bpp",     footprint_top
 INCBIN "gfx/footprints/creepture.1bpp",    footprint_top
 ; 225-232 bottom halves
 INCBIN "gfx/footprints/delibird.1bpp",   footprint_bottom
@@ -531,7 +531,7 @@ INCBIN "gfx/footprints/audino.1bpp",   footprint_bottom
 INCBIN "gfx/footprints/houndour.1bpp",   footprint_bottom
 INCBIN "gfx/footprints/houndoom.1bpp",   footprint_bottom
 INCBIN "gfx/footprints/kingdra.1bpp",    footprint_bottom
-INCBIN "gfx/footprints/phink.1bpp",     footprint_bottom
+INCBIN "gfx/footprints/minkey.1bpp",     footprint_bottom
 INCBIN "gfx/footprints/creepture.1bpp",    footprint_bottom
 ; 233-240 top halves
 INCBIN "gfx/footprints/porygon2.1bpp",   footprint_top

@@ -230,7 +230,7 @@ AnimationIdlePointers:
 	dw HoundourAnimationIdle
 	dw HoundoomAnimationIdle
 	dw KingdraAnimationIdle
-	dw PhinkAnimationIdle
+	dw MinkeyAnimationIdle
 	dw CreeptureAnimationIdle
 	dw Porygon2AnimationIdle
 	dw StantlerAnimationIdle

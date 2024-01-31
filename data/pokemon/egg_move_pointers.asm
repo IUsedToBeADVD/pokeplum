@@ -230,7 +230,7 @@ EggMovePointers::
 	dw HoundourEggMoves
 	dw NoEggMoves
 	dw NoEggMoves
-	dw PhinkEggMoves
+	dw MinkeyEggMoves
 	dw NoEggMoves
 	dw NoEggMoves
 	dw StantlerEggMoves

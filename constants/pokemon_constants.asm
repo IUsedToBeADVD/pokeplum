@@ -250,7 +250,7 @@ DEF JOHTO_POKEMON EQU const_value
 	const HOUNDOUR   ; e4
 	const HOUNDOOM   ; e5
 	const KINGDRA    ; e6
-	const PHINK     ; e7
+	const MINKEY     ; e7
 	const CREEPTURE    ; e8
 	const PORYGON2   ; e9
 	const STANTLER   ; ea

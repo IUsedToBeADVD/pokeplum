@@ -158,7 +158,7 @@ AlphabeticalPokedexOrder:
 	db PARAS
 	db PARASECT
 	db PERSIAN
-	db PHINK
+	db MINKEY
 	db LOTAD
 	db PIDGEOT
 	db PIDGEOTTO

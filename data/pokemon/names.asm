@@ -230,7 +230,7 @@ PokemonNames::
 	db "HOUNDOUR@@"
 	db "HOUNDOOM@@"
 	db "KINGDRA@@@"
-	db "PHINK@@@@@"
+	db "MINKEY@@@@"
 	db "CREEPTURE@"
 	db "PORYGON2@@"
 	db "STANTLER@@"

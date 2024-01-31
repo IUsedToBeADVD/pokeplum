@@ -230,7 +230,7 @@ FramesPointers:
 	dw HoundourFrames
 	dw HoundoomFrames
 	dw KingdraFrames
-	dw PhinkFrames
+	dw MinkeyFrames
 	dw CreeptureFrames
 	dw Porygon2Frames
 	dw StantlerFrames

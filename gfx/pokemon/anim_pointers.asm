@@ -230,7 +230,7 @@ AnimationPointers:
 	dw HoundourAnimation
 	dw HoundoomAnimation
 	dw KingdraAnimation
-	dw PhinkAnimation
+	dw MinkeyAnimation
 	dw CreeptureAnimation
 	dw Porygon2Animation
 	dw StantlerAnimation

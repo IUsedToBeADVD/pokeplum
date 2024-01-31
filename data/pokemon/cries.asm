@@ -236,7 +236,7 @@ PokemonCries::
 	mon_cry CRY_TORCHIC,    57,  320 ; HOUNDOUR
 	mon_cry CRY_MUDKIP,   -266,  256 ; HOUNDOOM
 	mon_cry CRY_APPLIN,      763,  256 ; KINGDRA
-	mon_cry CRY_BUNEARY,      72,  560 ; PHINK
+	mon_cry CRY_BUNEARY,      72,  560 ; MINKEY
 	mon_cry CRY_CREEPTURE,       0,  416 ; CREEPTURE
 	mon_cry CRY_GIRAFARIG,   115,  576 ; PORYGON2
 	mon_cry CRY_MAGNELOCKE,      -352,  384 ; STANTLER

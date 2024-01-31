@@ -13,7 +13,7 @@ SometimesFleeMons:
 	db TOGETIC
 	db UMBREON
 	db UNOWN
-	db PHINK
+	db MINKEY
 	db HERACROSS
 	db -1
 

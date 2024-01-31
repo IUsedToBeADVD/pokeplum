@@ -232,7 +232,7 @@ MonMenuIcons:
 	db ICON_FOX         ; HOUNDOUR
 	db ICON_FOX         ; HOUNDOOM
 	db ICON_BIGMON      ; KINGDRA
-	db ICON_EQUINE      ; PHINK
+	db ICON_EQUINE      ; MINKEY
 	db ICON_EQUINE      ; CREEPTURE
 	db ICON_VOLTORB     ; PORYGON2
 	db ICON_EQUINE      ; STANTLER

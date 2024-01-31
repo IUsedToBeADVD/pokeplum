@@ -230,7 +230,7 @@ BitmasksPointers:
 	dw HoundourBitmasks
 	dw HoundoomBitmasks
 	dw KingdraBitmasks
-	dw PhinkBitmasks
+	dw MinkeyBitmasks
 	dw CreeptureBitmasks
 	dw Porygon2Bitmasks
 	dw StantlerBitmasks

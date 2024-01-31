@@ -232,7 +232,7 @@ EvosAttacksPointers::
 	dw HoundourEvosAttacks
 	dw HoundoomEvosAttacks
 	dw KingdraEvosAttacks
-	dw PhinkEvosAttacks
+	dw MinkeyEvosAttacks
 	dw CreeptureEvosAttacks
 	dw Porygon2EvosAttacks
 	dw StantlerEvosAttacks

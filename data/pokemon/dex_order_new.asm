@@ -196,7 +196,7 @@ NewPokedexOrder:
 	db PILOSWINE
 	db COTTONEE
 	db WHIMSICOTT
-	db PHINK
+	db MINKEY
 	db CREEPTURE
 	db MANTINE
 	db AUDINO
