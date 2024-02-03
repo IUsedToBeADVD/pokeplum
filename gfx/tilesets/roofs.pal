@@ -23,7 +23,7 @@
 	RGB 11,11,19, 07,07,12 ; nite
 
 ; group 6 (Peckshell)
-	RGB 31,05,08, 19,05,09 ; morn/day
+	RGB 31,10,08, 28,04,09 ; morn/day
 	RGB 22,00,12, 13,04,09 ; nite
 
 ; group 7 (Sintiri)
