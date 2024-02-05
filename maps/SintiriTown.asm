@@ -14,7 +14,10 @@ SintiriTown_MapEvents:
 	db 0, 0 ; filler
 
 	def_warp_events
-	warp_event 13, 27, SINTIRI_POKECENTER_1F, 2
+	warp_event  9, 27, SINTIRI_POKECENTER_1F, 2
+	warp_event 33, 20, SINTIRI_EAST_GATE, 1
+	warp_event 33, 21, SINTIRI_EAST_GATE, 2
+	
 	def_coord_events
 
 	def_bg_events

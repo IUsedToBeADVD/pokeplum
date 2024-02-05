@@ -7,8 +7,8 @@ SintiriPokecenter1F_Blocks:
 Pokecenter2F_Blocks:
 	INCBIN "maps/Pokecenter2F.ablk"
 
-PeckshellGate_Blocks:
-	INCBIN "maps/NorthSouthGate.ablk"
+SintiriEastGate_Blocks:
+	INCBIN "maps/EastWestGate.ablk"
 
 TradeCenter_Blocks:
 TimeCapsule_Blocks:

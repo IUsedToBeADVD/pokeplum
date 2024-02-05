@@ -57,13 +57,11 @@ Route1_MapEvents:
 	db 0, 0 ; filler
 
 	def_warp_events
-	warp_event  7, 29, PECKSHELL_GATE, 3
-	warp_event  8, 29, PECKSHELL_GATE, 4
 
 	def_coord_events
 
 	def_bg_events
 
 	def_object_events
-	object_event  3, 22, SPRITE_TWIN, SPRITEMOVEDATA_STANDING_RIGHT, 0, 0, -1, -1, PAL_NPC_PINK, OBJECTTYPE_SCRIPT, 0, Route1KioskGirlScript, -1
-	object_event 19, 13, SPRITE_FRUIT_TREE, SPRITEMOVEDATA_STILL, 0, 0, -1, -1, 0, OBJECTTYPE_SCRIPT, 0, Route1FruitTree, -1
+	object_event 23, 12, SPRITE_TWIN, SPRITEMOVEDATA_STANDING_LEFT, 0, 0, -1, -1, PAL_NPC_PINK, OBJECTTYPE_SCRIPT, 0, Route1KioskGirlScript, -1
+	object_event 33,  0, SPRITE_FRUIT_TREE, SPRITEMOVEDATA_STILL, 0, 0, -1, -1, 0, OBJECTTYPE_SCRIPT, 0, Route1FruitTree, -1

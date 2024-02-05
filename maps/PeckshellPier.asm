@@ -135,8 +135,6 @@ PeckshellPier_MapEvents:
 
 	def_warp_events
 	warp_event 29, 17, PLAYERS_HOUSE_1F, 1
-	warp_event 19,  5, PECKSHELL_GATE, 1
-	warp_event 20,  5, PECKSHELL_GATE, 2
 
 	def_coord_events
 

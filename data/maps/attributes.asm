@@ -120,7 +120,7 @@ ENDM
 	map_attributes KarensRoom, KARENS_ROOM, $00, 0
 	map_attributes LancesRoom, LANCES_ROOM, $00, 0
 	map_attributes HallOfFame, HALL_OF_FAME, $00, 0
-	map_attributes PeckshellGate, PECKSHELL_GATE, $00, 0
+	map_attributes SintiriEastGate, SINTIRI_EAST_GATE, $00, 0
 	map_attributes SintiriPokecenter1F, SINTIRI_POKECENTER_1F, $00, 0
 	map_attributes StonestepWestGate, STONESTEP_WEST_GATE, $00, 0
 	map_attributes StonestepEastGate, STONESTEP_EAST_GATE, $00, 0
@@ -133,21 +133,21 @@ ENDM
 	map_attributes WishookGym, WISHOOK_GYM, $00, 0
 	map_attributes WishookPokecenter1F, WISHOOK_POKECENTER_1F, $00, 0
 	
-	map_attributes PeckshellPier, PECKSHELL_PIER, $35, 0
+	map_attributes PeckshellPier, PECKSHELL_PIER, $35, NORTH
+	connection north, Route1, ROUTE_1, 0
 	
-	map_attributes Route1, ROUTE_1, $05, NORTH
-	connection north, SintiriTown, SINTIRI_TOWN, 1
+	map_attributes Route1, ROUTE_1, $05, NORTH | SOUTH
+	connection north, SintiriTown, SINTIRI_TOWN, 9
+	connection south, PeckshellPier, PECKSHELL_PIER, 0
 	
-	map_attributes SintiriTown, SINTIRI_TOWN, $05, NORTH | SOUTH | EAST
-	connection north, PokemonRefuge, POKEMON_REFUGE, 1
-	connection south, Route1, ROUTE_1, -1
-	connection east, Route2, ROUTE_2, 3
+	map_attributes SintiriTown, SINTIRI_TOWN, $05, NORTH | SOUTH
+	connection north, PokemonRefuge, POKEMON_REFUGE, -1
+	connection south, Route1, ROUTE_1, -9
 	
-	map_attributes Route2, ROUTE_2, $05, WEST
-	connection west, SintiriTown, SINTIRI_TOWN, -3
+	map_attributes Route2, ROUTE_2, $05, 0
 	
 	map_attributes PokemonRefuge, POKEMON_REFUGE, $05, SOUTH
-	connection south, SintiriTown, SINTIRI_TOWN, -1
+	connection south, SintiriTown, SINTIRI_TOWN, 1
 	
 	map_attributes WishookCity, WISHOOK_CITY, $35, WEST
 	connection west, Route53, ROUTE_53, -24

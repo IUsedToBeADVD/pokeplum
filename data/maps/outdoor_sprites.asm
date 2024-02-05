@@ -11,7 +11,6 @@ OutdoorSprites:
 	dw IndigoGroupSprites
 	dw DungeonsGroupSprites
 	dw PeckshellGroupSprites
-	dw SintiriGroupSprites
 	dw WishookGroupSprites
 	assert_table_length NUM_MAP_GROUPS
 
@@ -66,7 +65,6 @@ BattleTowerGroupSprites:
 	db SPRITE_POKEDEX
 
 PeckshellGroupSprites:
-SintiriGroupSprites:
 WishookGroupSprites:
 NewBarkGroupSprites:
 	db SPRITE_SUICUNE

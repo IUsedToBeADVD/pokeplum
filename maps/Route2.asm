@@ -13,6 +13,8 @@ Route2_MapEvents:
 	warp_event 30,  5, STONESTEP_WEST_GATE, 2
 	warp_event 63,  5, STONESTEP_EAST_GATE, 5
 	warp_event 64,  5, STONESTEP_EAST_GATE, 6
+	warp_event  4, 14, SINTIRI_EAST_GATE, 3
+	warp_event  4, 15, SINTIRI_EAST_GATE, 4
 
 	def_coord_events
 

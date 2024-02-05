@@ -77,24 +77,21 @@ ENDM
 	
 	newgroup PECKSHELL											  ;  6
 	map_const PECKSHELL_PIER,							   30, 18 ;  1
-	map_const PECKSHELL_GATE,							    5,  4 ;  2
+	map_const ROUTE_1,									   20,  9 ;  2
+	map_const SINTIRI_TOWN,						   		   20, 18 ;  3
+	map_const SINTIRI_POKECENTER_1F,				        7,  7 ;  4
+	map_const SINTIRI_EAST_GATE,							5,  4 ;  5
+	map_const POKEMON_REFUGE,							   20, 18 ;  6
+	endgroup
+	
+	newgroup WISHOOK										      ;  7
+	map_const ROUTE_2,									   40,  9 ;  1
+	map_const STONESTEP_WEST_GATE,						    8,  6 ;  2
+	map_const STONESTEP_EAST_GATE,						   10, 10 ;  3
+	map_const WISHOOK_CITY,						   		   30, 18 ;  4
+	map_const ROUTE_53,						   			   20, 27 ;  5
+	map_const WISHOOK_GYM,									8,  8 ;  6
+	map_const WISHOOK_POKECENTER_1F,				        7,  7 ;  7
 	endgroup
 
-	newgroup SINTIRI										  	  ;  7
-	map_const ROUTE_1,									   10, 18 ;  1
-	map_const SINTIRI_TOWN,						   		   20, 18 ;  2
-	map_const SINTIRI_POKECENTER_1F,				        7,  7 ;  3
-	map_const ROUTE_2,									   40,  9 ;  4
-	map_const STONESTEP_WEST_GATE,						    8,  6 ;  5
-	map_const STONESTEP_EAST_GATE,						   10, 10 ;  6
-	map_const POKEMON_REFUGE,							   20, 18 ;  7
-	endgroup
-
-	newgroup WISHOOK										      ;  8
-	map_const WISHOOK_CITY,						   		   30, 18 ;  1
-	map_const ROUTE_53,						   			   20, 27 ;  2
-	map_const WISHOOK_GYM,									8,  8 ;  3
-	map_const WISHOOK_POKECENTER_1F,				        7,  7 ;  4
-	endgroup
-
-DEF NUM_MAP_GROUPS EQU const_value ; 8
+DEF NUM_MAP_GROUPS EQU const_value ; 7
