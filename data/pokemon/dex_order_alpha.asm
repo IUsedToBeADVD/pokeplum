@@ -38,7 +38,7 @@ AlphabeticalPokedexOrder:
 	db CUBONE
 	db TORCHIC
 	db DELIBIRD
-	db CNTISKORCH
+	db PELIPPER
 	db DIGLETT
 	db DITTO
 	db DODRIO
@@ -194,7 +194,7 @@ AlphabeticalPokedexOrder:
 	db SCYTHER
 	db SEADRA
 	db CACTURNE
-	db SIZZLIPEDE
+	db WINGULL
 	db BUNEARY
 	db SHELLDER
 	db SHUCKLE

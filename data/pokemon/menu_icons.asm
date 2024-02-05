@@ -87,8 +87,8 @@ MonMenuIcons:
 	db ICON_BIRD        ; FARFETCH_D
 	db ICON_BIRD        ; DODUO
 	db ICON_BIRD        ; DODRIO
-	db ICON_LAPRAS      ; SIZZLIPEDE
-	db ICON_LAPRAS      ; CNTISKORCH
+	db ICON_LAPRAS      ; WINGULL
+	db ICON_LAPRAS      ; PELIPPER
 	db ICON_BLOB        ; GRIMER
 	db ICON_BLOB        ; MUK
 	db ICON_SHELL       ; SHELLDER

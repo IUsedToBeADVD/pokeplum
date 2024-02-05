@@ -85,8 +85,8 @@ BitmasksPointers:
 	dw FarfetchDBitmasks
 	dw DoduoBitmasks
 	dw DodrioBitmasks
-	dw SizzlipedeBitmasks
-	dw CntiskorchBitmasks
+	dw WingullBitmasks
+	dw PelipperBitmasks
 	dw GrimerBitmasks
 	dw MukBitmasks
 	dw ShellderBitmasks

@@ -87,8 +87,8 @@ EvosAttacksPointers::
 	dw FarfetchDEvosAttacks
 	dw DoduoEvosAttacks
 	dw DodrioEvosAttacks
-	dw SizzlipedeEvosAttacks
-	dw CntiskorchEvosAttacks
+	dw WingullEvosAttacks
+	dw PelipperEvosAttacks
 	dw GrimerEvosAttacks
 	dw MukEvosAttacks
 	dw ShellderEvosAttacks

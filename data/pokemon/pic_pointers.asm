@@ -173,10 +173,10 @@ PokemonPicPointers::
 	dba DoduoBackpic
 	dba DodrioFrontpic
 	dba DodrioBackpic
-	dba SizzlipedeFrontpic
-	dba SizzlipedeBackpic
-	dba CntiskorchFrontpic
-	dba CntiskorchBackpic
+	dba WingullFrontpic
+	dba WingullBackpic
+	dba PelipperFrontpic
+	dba PelipperBackpic
 	dba GrimerFrontpic
 	dba GrimerBackpic
 	dba MukFrontpic

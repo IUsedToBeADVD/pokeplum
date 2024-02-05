@@ -85,8 +85,8 @@ AnimationPointers:
 	dw FarfetchDAnimation
 	dw DoduoAnimation
 	dw DodrioAnimation
-	dw SizzlipedeAnimation
-	dw CntiskorchAnimation
+	dw WingullAnimation
+	dw PelipperAnimation
 	dw GrimerAnimation
 	dw MukAnimation
 	dw ShellderAnimation

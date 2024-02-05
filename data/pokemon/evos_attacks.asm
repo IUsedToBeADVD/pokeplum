@@ -1170,35 +1170,30 @@ DodrioEvosAttacks:
 	db 47, AGILITY
 	db 0 ; no more level-up moves
 
-SizzlipedeEvosAttacks:
-	db EVOLVE_LEVEL, 28, CNTISKORCH
+WingullEvosAttacks:
+	db EVOLVE_LEVEL, 25, PELIPPER
 	db 0 ; no more evolutions
-	db 1, EMBER
-	db 1, SMOKESCREEN
-	db 5, WRAP
-	db 10, BITE
-	db 15, FLAME_WHEEL
-	db 20, TWINEEDLE
-	db 25, MINIMIZE
-	db 30, SLAM
-	db 35, FIRE_SPIN
-	db 40, CRUNCH
-	db 45, SACRED_FIRE
+	db 1, GROWL
+	db 1, WATER_GUN
+	db 7, SUPERSONIC
+	db 10, WING_ATTACK
+	db 21, MIST
+	db 31, QUICK_ATTACK
+	db 43, PURSUIT
+	db 55, AGILITY
 	db 0 ; no more level-up moves
 
-CntiskorchEvosAttacks:
+PelipperEvosAttacks:
 	db 0 ; no more evolutions
-	db 1, EMBER
-	db 1, SMOKESCREEN
-	db 5, WRAP
-	db 10, BITE
-	db 15, FLAME_WHEEL
-	db 20, TWINEEDLE
-	db 25, MINIMIZE
-	db 32, SLAM
-	db 39, FIRE_SPIN
-	db 45, CRUNCH
-	db 51, SACRED_FIRE
+	db 1, GROWL
+	db 1, WATER_GUN
+	db 1, WING_ATTACK
+	db 2, WATER_GUN
+	db 7, SUPERSONIC
+	db 13, WING_ATTACK
+	db 21, MIST
+	db 25, PROTECT
+	db 38, HYDRO_PUMP
 	db 0 ; no more level-up moves
 
 GrimerEvosAttacks:

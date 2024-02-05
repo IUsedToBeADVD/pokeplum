@@ -85,8 +85,8 @@ AnimationIdlePointers:
 	dw FarfetchDAnimationIdle
 	dw DoduoAnimationIdle
 	dw DodrioAnimationIdle
-	dw SizzlipedeAnimationIdle
-	dw CntiskorchAnimationIdle
+	dw WingullAnimationIdle
+	dw PelipperAnimationIdle
 	dw GrimerAnimationIdle
 	dw MukAnimationIdle
 	dw ShellderAnimationIdle

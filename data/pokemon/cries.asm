@@ -91,8 +91,8 @@ PokemonCries::
 	mon_cry CRY_SPEAROW,     221,  129 ; FARFETCH_D
 	mon_cry CRY_DIGLETT,     187,  129 ; DODUO
 	mon_cry CRY_DIGLETT,     153,  160 ; DODRIO
-	mon_cry CRY_SIZZLIPEDE,        136,  320 ; SIZZLIPEDE
-	mon_cry CRY_SIZZLIPEDE,         35,  383 ; CNTISKORCH
+	mon_cry CRY_WINGULL,        136,  320 ; WINGULL
+	mon_cry CRY_WINGULL,         35,  383 ; PELIPPER
 	mon_cry CRY_GRIMER,        0,  256 ; GRIMER
 	mon_cry CRY_MUK,         239,  383 ; MUK
 	mon_cry CRY_FEAROW,        0,  256 ; SHELLDER
@@ -112,8 +112,8 @@ PokemonCries::
 	mon_cry CRY_CLEFAIRY,      0,  256 ; CUBONE
 	mon_cry CRY_ODDISH,       79,  224 ; MAROWAK
 	mon_cry CRY_GOLEM,       128,  320 ; LEAFEON
-	mon_cry CRY_SIZZLIPEDE,        238,  320 ; GLACEON
-	mon_cry CRY_SIZZLIPEDE,          0,  256 ; EMOLGA
+	mon_cry CRY_WINGULL,        238,  320 ; GLACEON
+	mon_cry CRY_WINGULL,          0,  256 ; EMOLGA
 	mon_cry CRY_GOLEM,       230,  349 ; KOFFING
 	mon_cry CRY_GOLEM,       255,  383 ; WEEZING
 	mon_cry CRY_CHARMANDER,    0,  256 ; RHYHORN

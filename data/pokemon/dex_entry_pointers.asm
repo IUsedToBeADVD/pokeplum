@@ -86,8 +86,8 @@ PokedexDataPointerTable:
 	dw FarfetchDPokedexEntry
 	dw DoduoPokedexEntry
 	dw DodrioPokedexEntry
-	dw SizzlipedePokedexEntry
-	dw CntiskorchPokedexEntry
+	dw WingullPokedexEntry
+	dw PelipperPokedexEntry
 	dw GrimerPokedexEntry
 	dw MukPokedexEntry
 	dw ShellderPokedexEntry

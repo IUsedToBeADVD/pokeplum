@@ -85,8 +85,8 @@ FramesPointers:
 	dw FarfetchDFrames
 	dw DoduoFrames
 	dw DodrioFrames
-	dw SizzlipedeFrames
-	dw CntiskorchFrames
+	dw WingullFrames
+	dw PelipperFrames
 	dw GrimerFrames
 	dw MukFrames
 	dw ShellderFrames

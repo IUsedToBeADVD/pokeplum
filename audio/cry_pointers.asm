@@ -13,7 +13,7 @@ Cries:
 	dba Cry_Raichu
 	dba Cry_Nidoqueen
 	dba Cry_Diglett
-	dba Cry_Sizzlipede
+	dba Cry_Wingull
 	dba Cry_Drowzee
 	dba Cry_Rookidee
 	dba Cry_Bulbasaur

@@ -104,8 +104,8 @@
 	const FARFETCH_D ; 53
 	const DODUO      ; 54
 	const DODRIO     ; 55
-	const SIZZLIPEDE       ; 56
-	const CNTISKORCH    ; 57
+	const WINGULL       ; 56
+	const PELIPPER      ; 57
 	const GRIMER     ; 58
 	const MUK        ; 59
 	const SHELLDER   ; 5a

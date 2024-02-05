@@ -85,7 +85,7 @@ EggMovePointers::
 	dw FarfetchDEggMoves
 	dw DoduoEggMoves
 	dw NoEggMoves
-	dw SizzlipedeEggMoves
+	dw WingullEggMoves
 	dw NoEggMoves
 	dw GrimerEggMoves
 	dw NoEggMoves
