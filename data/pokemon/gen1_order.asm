@@ -206,8 +206,8 @@ Pokered_MonIndices:
 	db NOCTOWL
 	db MUNNA
 	db MUSHARNA
-	db BARBOACH
-	db WHISCASH
+	db PUBBLE
+	db GUBBLER
 	db CROBAT
 	db CHINCHOU
 	db LANTURN

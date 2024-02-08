@@ -168,8 +168,8 @@ MonMenuIcons:
 	db ICON_BIRD        ; NOCTOWL
 	db ICON_BUG         ; MUNNA
 	db ICON_BUG         ; MUSHARNA
-	db ICON_BUG         ; BARBOACH
-	db ICON_BUG         ; WHISCASH
+	db ICON_BUG         ; PUBBLE
+	db ICON_BUG         ; GUBBLER
 	db ICON_BAT         ; CROBAT
 	db ICON_FISH        ; CHINCHOU
 	db ICON_FISH        ; LANTURN

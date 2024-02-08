@@ -56,7 +56,7 @@ TreeMonSet_Town:
 TreeMonSet_Route:
 ; common
 	db 50, HOOTHOOT,   10
-	db 15, BARBOACH,   10
+	db 15, PUBBLE,   10
 	db 15, MUNNA,     10
 	db 10, EXEGGCUTE,  10
 	db  5, EXEGGCUTE,  10

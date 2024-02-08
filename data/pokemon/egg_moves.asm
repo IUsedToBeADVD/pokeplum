@@ -490,7 +490,7 @@ MunnaEggMoves:
 	db LIGHT_SCREEN
 	db -1 ; end
 
-BarboachEggMoves:
+PubbleEggMoves:
 	db PSYBEAM
 	db DISABLE
 	db SONICBOOM

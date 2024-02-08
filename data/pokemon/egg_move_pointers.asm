@@ -166,7 +166,7 @@ EggMovePointers::
 	dw NoEggMoves
 	dw MunnaEggMoves
 	dw NoEggMoves
-	dw BarboachEggMoves
+	dw PubbleEggMoves
 	dw NoEggMoves
 	dw NoEggMoves
 	dw ChinchouEggMoves

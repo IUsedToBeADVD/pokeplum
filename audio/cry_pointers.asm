@@ -40,7 +40,7 @@ Cries:
 	dba Cry_Vulpix
 	dba Cry_Weepinbell
 	dba Cry_Meditite
-	dba Cry_Barboach
+	dba Cry_Pubble
 	dba Cry_Togepi
 	dba Cry_Girafarig
 	dba Cry_Archeta

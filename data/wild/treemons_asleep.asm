@@ -18,7 +18,7 @@ AsleepTreeMonsDay:
 	db SNOM
 	db HOOTHOOT
 	db NOCTOWL
-	db BARBOACH
+	db PUBBLE
 	db HERACROSS
 	db -1 ; end
 
@@ -26,6 +26,6 @@ AsleepTreeMonsMorn:
 	db SNOM
 	db HOOTHOOT
 	db NOCTOWL
-	db BARBOACH
+	db PUBBLE
 	db HERACROSS
 	db -1 ; end

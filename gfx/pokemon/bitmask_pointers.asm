@@ -166,8 +166,8 @@ BitmasksPointers:
 	dw NoctowlBitmasks
 	dw MunnaBitmasks
 	dw MusharnaBitmasks
-	dw BarboachBitmasks
-	dw WhiscashBitmasks
+	dw PubbleBitmasks
+	dw GubblerBitmasks
 	dw CrobatBitmasks
 	dw ChinchouBitmasks
 	dw LanturnBitmasks

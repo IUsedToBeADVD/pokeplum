@@ -9,7 +9,7 @@ BetaMonPicBanks: ; unreferenced
 	db KRABBY,    $15 + 3
 	db STARMIE,   $15 + 4
 	db ARTICUNO,  $15 + 5
-	db WHISCASH,   $15 + 6 ; JARANRA in pokegold-spaceworld
+	db GUBBLER,   $15 + 6 ; JARANRA in pokegold-spaceworld
 	db ESPEON,    $15 + 7 ; KOUNYA in pokegold-spaceworld
 	db GALVANTULA, $15 + 8 ; BOMBSEEKER in pokegold-spaceworld
 	db LARVITAR,  $15 + 9 ; NYULA in pokegold-spaceworld

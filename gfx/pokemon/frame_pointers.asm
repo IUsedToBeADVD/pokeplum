@@ -166,8 +166,8 @@ FramesPointers:
 	dw NoctowlFrames
 	dw MunnaFrames
 	dw MusharnaFrames
-	dw BarboachFrames
-	dw WhiscashFrames
+	dw PubbleFrames
+	dw GubblerFrames
 	dw CrobatFrames
 	dw ChinchouFrames
 	dw LanturnFrames

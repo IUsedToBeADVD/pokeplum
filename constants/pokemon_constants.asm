@@ -186,8 +186,8 @@ DEF JOHTO_POKEMON EQU const_value
 	const NOCTOWL    ; a4
 	const MUNNA     ; a5
 	const MUSHARNA     ; a6
-	const BARBOACH   	 ; a7
-	const WHISCASH  ; a8
+	const PUBBLE   	 ; a7
+	const GUBBLER  ; a8
 	const CROBAT     ; a9
 	const CHINCHOU   ; aa
 	const LANTURN    ; ab

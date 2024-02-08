@@ -2317,31 +2317,23 @@ MusharnaEvosAttacks:
 	db 1, FORESIGHT
 	db 0 ; no more level-up moves
 
-BarboachEvosAttacks:
-	db EVOLVE_LEVEL, 30, WHISCASH
+PubbleEvosAttacks:
+	db EVOLVE_SHINY, 30, GUBBLER
 	db 0 ; no more evolutions
-	db 1, MUD_SLAP
-	db 6, WATER_GUN
-	db 11, MAGNITUDE
-	db 16, AMNESIA
-	db 21, REST
-	db 26, SNORE
-	db 31, EARTHQUAKE
-	db 36, FUTURE_SIGHT
-	db 41, FISSURE
+	db 1, BARRAGE
 	db 0 ; no more level-up moves
 
-WhiscashEvosAttacks:
+GubblerEvosAttacks:
 	db 0 ; no more evolutions
-	db 1, MUD_SLAP
-	db 6, WATER_GUN
+	db 1, BARRAGE
+	db 6, SLAM
 	db 11, MAGNITUDE
-	db 16, AMNESIA
-	db 21, REST
-	db 26, SNORE
-	db 36, EARTHQUAKE
-	db 46, FUTURE_SIGHT
-	db 56, FISSURE
+	db 30, STOMP
+	db 34, WRAP
+	db 39, FAINT_ATTACK
+	db 44, ROCK_SLIDE
+	db 46, AGILITY
+	db 55, FISSURE
 	db 0 ; no more level-up moves
 
 CrobatEvosAttacks:

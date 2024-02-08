@@ -15,8 +15,8 @@ JohtoGrassWildMons:
 	; day
 	db 2, WINGULL
 	db 2, RATTATA
-	db 3, PELIPPER
-	db 3, PELIPPER
+	db 3, PUBBLE
+	db 3, PUBBLE
 	db 4, WINGULL
 	db 4, WINGULL
 	db 3, SUNKERN
@@ -41,12 +41,12 @@ JohtoGrassWildMons:
 	db 4, SPEAROW
 	db 3, SUNKERN
 	; day
-	db 2, RATTATA
-	db 3, RATTATA
-	db 3, SPEAROW
-	db 3, BUNEARY
-	db 4, RATTATA
-	db 4, SPEAROW
+	db 2, PUBBLE
+	db 3, GUBBLER
+	db 3, PUBBLE
+	db 3, GUBBLER
+	db 4, PUBBLE
+	db 4, GUBBLER
 	db 3, SUNKERN
 	; nite
 	db 2, HOOTHOOT

@@ -335,10 +335,10 @@ PokemonPicPointers::
 	dba MunnaBackpic
 	dba MusharnaFrontpic
 	dba MusharnaBackpic
-	dba BarboachFrontpic
-	dba BarboachBackpic
-	dba WhiscashFrontpic
-	dba WhiscashBackpic
+	dba PubbleFrontpic
+	dba PubbleBackpic
+	dba GubblerFrontpic
+	dba GubblerBackpic
 	dba CrobatFrontpic
 	dba CrobatBackpic
 	dba ChinchouFrontpic
