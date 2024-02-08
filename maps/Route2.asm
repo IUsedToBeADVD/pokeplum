@@ -1,9 +1,19 @@
 	object_const_def
+;	const ROUTE2_SHINY_TEST
 
 Route2_MapScripts:
 	def_scene_scripts
 
 	def_callbacks
+
+;ShinyTest:
+;	cry GYARADOS
+;	loadwildmon PUBBLE, 27
+;	loadvar VAR_BATTLETYPE, BATTLETYPE_SHINY
+;	startbattle
+;	disappear ROUTE2_SHINY_TEST
+;	reloadmapafterbattle
+;	end
 
 Route2_MapEvents:
 	db 0, 0 ; filler
@@ -21,3 +31,4 @@ Route2_MapEvents:
 	def_bg_events
 
 	def_object_events
+;	object_event 17, 12, SPRITE_FAMICOM, SPRITEMOVEDATA_STILL, 0, 0, -1, -1, 0, OBJECTTYPE_SCRIPT, 0, ShinyTest, -1
