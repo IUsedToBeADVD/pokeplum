@@ -124,12 +124,15 @@ ENDM
 	map_attributes SintiriPokecenter1F, SINTIRI_POKECENTER_1F, $00, 0
 	map_attributes StonestepWestGate, STONESTEP_WEST_GATE, $00, 0
 	map_attributes StonestepEastGate, STONESTEP_EAST_GATE, $00, 0
+	map_attributes WishookWestGate, WISHOOK_WEST_GATE, $00, 0
 	map_attributes StonestepTunnel1F, STONESTEP_TUNNEL_1F, $09, 0
 	map_attributes StonestepTunnel2F, STONESTEP_TUNNEL_2F, $09, 0
 	map_attributes StonestepTunnelB1F, STONESTEP_TUNNEL_B1F, $09, 0
 	map_attributes SerpentFalls1F, SERPENT_FALLS_1F, $09, 0
 	map_attributes DragonscaleTowerB1F, DRAGONSCALE_TOWER_B1F, $09, 0
 	map_attributes AtmotoriumHail, ATMOTORIUM_HAIL, $05, 0
+	map_attributes WishookCity, WISHOOK_CITY, $35, 0
+	map_attributes Route53, ROUTE_53, $03, 0
 	map_attributes WishookGym, WISHOOK_GYM, $00, 0
 	map_attributes WishookPokecenter1F, WISHOOK_POKECENTER_1F, $00, 0
 	
@@ -148,11 +151,5 @@ ENDM
 	
 	map_attributes PokemonRefuge, POKEMON_REFUGE, $05, SOUTH
 	connection south, SintiriTown, SINTIRI_TOWN, 1
-	
-	map_attributes WishookCity, WISHOOK_CITY, $35, WEST
-	connection west, Route53, ROUTE_53, -24
-	
-	map_attributes Route53, ROUTE_53, $03, EAST
-	connection east, WishookCity, WISHOOK_CITY, 24
 	
 	

@@ -14,6 +14,9 @@ WishookCity_MapEvents:
 	db 0, 0 ; filler
 
 	def_warp_events
+	warp_event 10, 26, WISHOOK_WEST_GATE, 3
+	warp_event 10, 27, WISHOOK_WEST_GATE, 4
+	warp_event 39, 13, WISHOOK_POKECENTER_1F, 2
 
 	def_coord_events
 

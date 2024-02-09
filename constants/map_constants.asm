@@ -85,13 +85,14 @@ ENDM
 	endgroup
 	
 	newgroup WISHOOK										      ;  7
-	map_const ROUTE_2,									   40,  9 ;  1
+	map_const ROUTE_2,									   50,  9 ;  1
 	map_const STONESTEP_WEST_GATE,						    8,  6 ;  2
 	map_const STONESTEP_EAST_GATE,						   10, 10 ;  3
-	map_const WISHOOK_CITY,						   		   30, 18 ;  4
-	map_const ROUTE_53,						   			   20, 27 ;  5
-	map_const WISHOOK_GYM,									8,  8 ;  6
-	map_const WISHOOK_POKECENTER_1F,				        7,  7 ;  7
+	map_const WISHOOK_WEST_GATE,							5,  4 ;  4
+	map_const WISHOOK_CITY,						   		   40, 18 ;  5
+	map_const ROUTE_53,						   			   20, 27 ;  6
+	map_const WISHOOK_GYM,									8,  8 ;  7
+	map_const WISHOOK_POKECENTER_1F,				        7,  7 ;  8
 	endgroup
 
 DEF NUM_MAP_GROUPS EQU const_value ; 7

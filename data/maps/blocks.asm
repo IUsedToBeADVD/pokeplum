@@ -7,6 +7,7 @@ SintiriPokecenter1F_Blocks:
 Pokecenter2F_Blocks:
 	INCBIN "maps/Pokecenter2F.ablk"
 
+WishookWestGate_Blocks:
 SintiriEastGate_Blocks:
 	INCBIN "maps/EastWestGate.ablk"
 
