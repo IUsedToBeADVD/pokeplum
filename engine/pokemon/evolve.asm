@@ -114,6 +114,9 @@ EvolveAfterBattle_MasterLoop:
 
 	cp EVOLVE_HOLD
 	jp z, .hold
+	
+	cp EVOLVE_LOCATION
+	jp z, .location
 
 	cp EVOLVE_PARTY
 	jp z, .party
@@ -393,6 +396,18 @@ EvolveAfterBattle_MasterLoop:
 	ld a, [hli]
 	ld b, a
 	ld a, [wEnvironment]
+	cp b
+	jp nz, .dont_evolve_3
+	jp .proceed
+
+.location
+	call IsMonHoldingEverstone
+	jp z, .dont_evolve_2
+
+	; Check if the current map_id matches
+	ld a, [hli]
+	ld b, a
+	ld a, [wMapNumber]
 	cp b
 	jp nz, .dont_evolve_3
 	jp .proceed

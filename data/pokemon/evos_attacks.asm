@@ -15,6 +15,7 @@ SECTION "Evolutions and Attacks", ROMX
 ;	 * db EVOLVE_PARTY, companion species, species : Causes the 'mon to evolve when it's leveled up with another specific 'mon in the party.
 ;	 * db EVOLVE_SHINY, level, species : Causes 'mon to evolve at the specified level if its shiny
 ;	 * db EVOLVE_ENVIRONMENT, level, environment (TOWN, ROUTE, INDOOR, CAVE, ENVIRONMENT_5, GATE, or DUNGEON), species : evolution at specified level if in the correct environment.
+;	 * db EVOLVE_LOCATION, MAP_ + map_id (i.e. MAP_ROUTE_1), species : evolution when leveled up in the specified map
 ; - db 0 ; no more evolutions
 ; - Learnset (in increasing level order):
 ;    * db level, move
@@ -36,6 +37,7 @@ EvoTypeSizes::
 	db 2 ; EVOLVE_PARTY
 	db 2 ; EVOLVE_SHINY
 	db 3 ; EVOLVE_ENVIRONMENT
+	db 2 ; EVOLVE_LOCATION
 
 
 BulbasaurEvosAttacks:
