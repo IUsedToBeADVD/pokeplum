@@ -49,6 +49,8 @@ MartCherrygroveDex:
 	db 7 ; # items
 	db MASTER_BALL
 	db RARE_CANDY
+	db WATER_STONE
+	db DRAGON_FANG
 	db POKE_BALL
 	db POTION
 	db ANTIDOTE
