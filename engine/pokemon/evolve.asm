@@ -86,10 +86,18 @@ EvolveAfterBattle_MasterLoop:
 	ld a, b
 	cp EVOLVE_SHINY
 	jp z, .shiny
+	
+	ld a, b
+	cp EVOLVE_LEVEL_GENDER
+	jp z, .level_gender
 
 	ld a, b
 	cp EVOLVE_LEVEL
 	jp z, .level
+	
+	ld a, b
+	cp EVOLVE_ENVIRONMENT
+	jp z, .environment
 
 	cp EVOLVE_HAPPINESS
 	jp z, .happiness
@@ -109,6 +117,7 @@ EvolveAfterBattle_MasterLoop:
 
 	cp EVOLVE_PARTY
 	jp z, .party
+	
 
 .skip_evolve:
 	call SkipEvo
@@ -369,6 +378,49 @@ EvolveAfterBattle_MasterLoop:
 	farcall FindThatSpecies
 	pop hl
 	jp z, .dont_evolve_3
+	jp .proceed
+
+.environment
+	ld a, [hli]
+	ld b, a
+	ld a, [wTempMonLevel]
+	cp b
+	jp c, .dont_evolve_3
+	call IsMonHoldingEverstone
+	jp z, .dont_evolve_3
+	
+	; check to see if the environments match
+	ld a, [hli]
+	ld b, a
+	ld a, [wEnvironment]
+	cp b
+	jp nz, .dont_evolve_3
+	jp .proceed
+	
+.level_gender
+	ld a, [hli]
+	ld b, a
+	ld a, [wTempMonLevel]
+	cp b
+	jp c, .dont_evolve_3
+	call IsMonHoldingEverstone
+	jp z, .dont_evolve_3
+	
+	; now, check for no gender
+	push hl
+	farcall GetGender
+	pop hl
+	jp c, .dont_evolve_1
+
+	; Check gender (using the zero flag because a isn't returned afer a farcall)
+	ld a, [hli]
+	jr z, .level_gender_female
+	cp MON_MALE
+	jr .level_gender_check
+.level_gender_female
+	cp MON_FEMALE
+.level_gender_check
+	jp nz, .dont_evolve_2
 	
 	; fallthrough
 	
