@@ -30,7 +30,7 @@
 	const TILESET_ICE_PATH             ; 1c
 	const TILESET_DARK_CAVE            ; 1d
 	const TILESET_FOREST               ; 1e
-	const TILESET_BETA_WORD_ROOM       ; 1f
+	const TILESET_BRIDGE       ; 1f
 	const TILESET_HOGWYRE_WORD_ROOM      ; 20
 	const TILESET_KABUTO_WORD_ROOM     ; 21
 	const TILESET_OMANYTE_WORD_ROOM    ; 22

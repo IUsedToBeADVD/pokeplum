@@ -26,5 +26,6 @@ MapScenes::
 	scene_var HALL_OF_FAME,                 wHallOfFameSceneID
 	
 	scene_var PECKSHELL_PIER, 				wPeckshellPierSceneID
+	scene_var WISHOOK_EAST_GATE, 			wWishookEastGateSceneID
 
 	db -1 ; end

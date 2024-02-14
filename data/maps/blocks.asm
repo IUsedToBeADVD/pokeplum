@@ -8,6 +8,7 @@ Pokecenter2F_Blocks:
 	INCBIN "maps/Pokecenter2F.ablk"
 
 WishookWestGate_Blocks:
+WishookEastGate_Blocks:
 SintiriEastGate_Blocks:
 	INCBIN "maps/EastWestGate.ablk"
 
@@ -92,6 +93,12 @@ Route53_Blocks:
 
 WishookGym_Blocks:
 	INCBIN "maps/WishookGym.ablk"
+	
+SeabiteBridgePassable_Blocks:
+	INCBIN "maps/SeabiteBridgePassable.ablk"
+
+SeabiteBridgeImpassable_Blocks:
+	INCBIN "maps/SeabiteBridgeImpassable.ablk"
 
 SECTION "Map Blocks 3", ROMX
 

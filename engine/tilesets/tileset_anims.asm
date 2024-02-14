@@ -93,6 +93,7 @@ TilesetWishookAnim:
 	dw NULL,  StandingTileFrame8
 	dw NULL,  DoneTileAnimation
 
+TilesetBridgeAnim:
 TilesetPortAnim:
 	dw vTiles2 tile $14, AnimateWaterTile
 	dw NULL,  WaitTileAnimation
@@ -198,7 +199,6 @@ TilesetBattleTowerInsideAnim:
 TilesetRuinsOfAlphAnim:
 TilesetRadioTowerAnim:
 TilesetUndergroundAnim:
-TilesetBetaWordRoomAnim:
 TilesetHogwyreWordRoomAnim:
 TilesetKabutoWordRoomAnim:
 TilesetOmanyteWordRoomAnim:

@@ -245,20 +245,19 @@ INCBIN "data/tilesets/battle_tower_outside_metatiles.bin"
 TilesetBattleTowerOutsideColl::
 INCLUDE "data/tilesets/battle_tower_outside_collision.asm"
 
-TilesetBetaWordRoomMeta::
-INCBIN "data/tilesets/beta_word_room_metatiles.bin"
+TilesetBridgeMeta::
+INCBIN "data/tilesets/bridge_metatiles.bin"
 
-TilesetBetaWordRoomColl::
+TilesetBridgeColl::
 TilesetHogwyreWordRoomColl::
 TilesetKabutoWordRoomColl::
 TilesetOmanyteWordRoomColl::
-INCLUDE "data/tilesets/beta_word_room_collision.asm"
+INCLUDE "data/tilesets/bridge_collision.asm"
 
 
 SECTION "Tileset Data 7", ROMX
 
 TilesetRuinsOfAlphGFX::
-TilesetBetaWordRoomGFX::
 TilesetHogwyreWordRoomGFX::
 TilesetKabutoWordRoomGFX::
 TilesetOmanyteWordRoomGFX::
@@ -419,8 +418,8 @@ INCBIN "data/tilesets/ice_path_attributes.bin"
 TilesetForestAttr::
 INCBIN "data/tilesets/forest_attributes.bin"
 
-TilesetBetaWordRoomAttr::
-INCBIN "data/tilesets/beta_word_room_attributes.bin"
+TilesetBridgeAttr::
+INCBIN "data/tilesets/bridge_attributes.bin"
 
 TilesetHogwyreWordRoomAttr::
 INCBIN "data/tilesets/hogwyre_word_room_attributes.bin"
@@ -442,3 +441,6 @@ INCBIN "gfx/tilesets/battle_tower_outside.2bpp.lz"
 
 TilesetCaveGFX::
 INCBIN "gfx/tilesets/cave.2bpp.lz"
+
+TilesetBridgeGFX::
+INCBIN "gfx/tilesets/bridge.2bpp.lz"

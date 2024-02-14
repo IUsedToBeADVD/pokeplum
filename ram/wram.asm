@@ -3033,8 +3033,8 @@ wBrunosRoomSceneID::                db
 wKarensRoomSceneID::                db
 wLancesRoomSceneID::                db
 wHallOfFameSceneID::                db
-wPeckshellPierSceneID::              db
-wStumpsLabSceneID::					db ;unused
+wPeckshellPierSceneID::             db
+wWishookEastGateSceneID::			db
 wStumpsLabRoofSceneID::				db ;unused
 
 	ds 106

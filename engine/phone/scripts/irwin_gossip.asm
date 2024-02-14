@@ -14,8 +14,6 @@ IrwinRumorScript:
 	iftrue .EliteFour
 	checkflag ENGINE_RISINGBADGE
 	iftrue .RisingBadge
-	checkevent EVENT_CLEARED_RADIO_TOWER
-	iftrue .RadioTower
 	checkevent EVENT_CLEARED_ROCKET_HIDEOUT
 	iftrue .RocketHideout
 	checkevent EVENT_JASMINE_RETURNED_TO_GYM
@@ -40,11 +38,6 @@ IrwinRumorScript:
 
 .RocketHideout:
 	farwritetext IrwinRocketHideoutGossipText
-	promptbutton
-	sjump PhoneScript_HangUpText_Male
-
-.RadioTower:
-	farwritetext IrwinRadioTowerGossipText
 	promptbutton
 	sjump PhoneScript_HangUpText_Male
 

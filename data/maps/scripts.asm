@@ -37,9 +37,12 @@ INCLUDE "maps/StonestepTunnel1F.asm"
 INCLUDE "maps/StonestepTunnel2F.asm"
 INCLUDE "maps/StonestepTunnelB1F.asm"
 INCLUDE "maps/WishookCity.asm"
+INCLUDE "maps/WishookEastGate.asm"
 INCLUDE "maps/Route53.asm"
 INCLUDE "maps/WishookGym.asm"
 INCLUDE "maps/WishookPokecenter1F.asm"
+INCLUDE "maps/SeabiteBridgePassable.asm"
+INCLUDE "maps/SeabiteBridgeImpassable.asm"
 
 
 SECTION "Map Scripts 4", ROMX

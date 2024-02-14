@@ -132,9 +132,11 @@ ENDM
 	map_attributes DragonscaleTowerB1F, DRAGONSCALE_TOWER_B1F, $09, 0
 	map_attributes AtmotoriumHail, ATMOTORIUM_HAIL, $05, 0
 	map_attributes WishookCity, WISHOOK_CITY, $35, 0
-	map_attributes Route53, ROUTE_53, $03, 0
+	map_attributes WishookEastGate, WISHOOK_EAST_GATE, $00, 0
 	map_attributes WishookGym, WISHOOK_GYM, $00, 0
 	map_attributes WishookPokecenter1F, WISHOOK_POKECENTER_1F, $00, 0
+	map_attributes SeabiteBridgePassable, SEABITE_BRIDGE_PASSABLE, $00, 0
+	map_attributes SeabiteBridgeImpassable, SEABITE_BRIDGE_IMPASSABLE, $00, 0
 	
 	map_attributes PeckshellPier, PECKSHELL_PIER, $35, NORTH
 	connection north, Route1, ROUTE_1, 0

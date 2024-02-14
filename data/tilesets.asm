@@ -42,7 +42,7 @@ Tilesets::
 	tileset TilesetIcePath
 	tileset TilesetDarkCave
 	tileset TilesetForest
-	tileset TilesetBetaWordRoom
+	tileset TilesetBridge
 	tileset TilesetHogwyreWordRoom
 	tileset TilesetKabutoWordRoom
 	tileset TilesetOmanyteWordRoom
