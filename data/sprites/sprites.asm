@@ -110,4 +110,5 @@ OverworldSprites:
 	overworld_sprite ArchetaSpriteGFX, 4, STILL_SPRITE, PAL_OW_RED
 	overworld_sprite StandingYoungsterSpriteGFX, 12, STANDING_SPRITE, PAL_OW_BLUE
 	overworld_sprite TravelNurseSpriteGFX, 12, WALKING_SPRITE, PAL_OW_RED
+	overworld_sprite FeathersSpriteGFX, 12, STANDING_SPRITE, PAL_OW_SILVER
 	assert_table_length NUM_OVERWORLD_SPRITES

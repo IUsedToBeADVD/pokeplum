@@ -93,8 +93,12 @@ ENDM
 	map_const WISHOOK_EAST_GATE,						    5,  4 ;  6
 	map_const WISHOOK_GYM,									8,  8 ;  7
 	map_const WISHOOK_POKECENTER_1F,				        7,  7 ;  8
-	map_const SEABITE_BRIDGE_PASSABLE,				       30,  9 ;  9
-	map_const SEABITE_BRIDGE_IMPASSABLE,				   30,  9 ;  10
 	endgroup
+	
+	newgroup BRIDGES											  ;  8
+	map_const SEABITE_BRIDGE_PASSABLE,				       30,  9 ;  1
+	map_const SEABITE_BRIDGE_IMPASSABLE,				   30,  9 ;  2
+	endgroup
+	
 
 DEF NUM_MAP_GROUPS EQU const_value ; 7

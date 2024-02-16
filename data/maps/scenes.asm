@@ -27,5 +27,6 @@ MapScenes::
 	
 	scene_var PECKSHELL_PIER, 				wPeckshellPierSceneID
 	scene_var WISHOOK_EAST_GATE, 			wWishookEastGateSceneID
+	scene_var SEABITE_BRIDGE_PASSABLE, 		wSeabiteBridgeSceneID
 
 	db -1 ; end

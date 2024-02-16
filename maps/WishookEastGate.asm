@@ -17,6 +17,7 @@ WarpToSeabiteBridge1Script:
 	end
 
 .WarpToPassableBridge1:
+	setmapscene SEABITE_BRIDGE_PASSABLE, SCENE_SEABITEBRIDGEPASSABLE_SETCLUSTER
 	warpfacing RIGHT, SEABITE_BRIDGE_PASSABLE, 4, 6
 	end
 
@@ -28,6 +29,7 @@ WarpToSeabiteBridge2Script:
 	end
 
 .WarpToPassableBridge2:
+	setmapscene SEABITE_BRIDGE_PASSABLE, SCENE_SEABITEBRIDGEPASSABLE_SETCLUSTER
 	warpfacing RIGHT, SEABITE_BRIDGE_PASSABLE, 4, 7
 	end
 	

@@ -24,6 +24,7 @@ MapGroupPointers::
 	dw MapGroup_Dungeons	  ;  5
 	dw MapGroup_Peckshell	  ;  6
 	dw MapGroup_Wishook   	  ;  7
+	dw MapGroup_Bridges		  ;  8
 	assert_table_length NUM_MAP_GROUPS
 
 MapGroup_CableClub:
@@ -91,6 +92,10 @@ MapGroup_Wishook:
 	map WishookEastGate, TILESET_GATE, GATE, LANDMARK_VIOLET_CITY, MUSIC_SS_AQUA, FALSE, PALETTE_DAY, FISHGROUP_POND
 	map WishookGym, TILESET_LIGHTHOUSE, INDOOR, LANDMARK_VIOLET_CITY, MUSIC_GYM, FALSE, PALETTE_DAY, FISHGROUP_POND
 	map WishookPokecenter1F, TILESET_POKECENTER, INDOOR, LANDMARK_VIOLET_CITY, MUSIC_POKEMON_CENTER, FALSE, PALETTE_DAY, FISHGROUP_SHORE
+	assert_table_length NUM_WISHOOK_MAPS
+
+MapGroup_Bridges:
+	table_width MAP_LENGTH, MapGroup_Bridges
 	map SeabiteBridgePassable, TILESET_BRIDGE, ROUTE, LANDMARK_ROUTE_31, MUSIC_SS_AQUA, FALSE, PALETTE_AUTO, FISHGROUP_SHORE
 	map SeabiteBridgeImpassable, TILESET_BRIDGE, ROUTE, LANDMARK_ROUTE_31, MUSIC_SS_AQUA, FALSE, PALETTE_AUTO, FISHGROUP_SHORE
-	assert_table_length NUM_WISHOOK_MAPS
+	assert_table_length NUM_BRIDGES_MAPS

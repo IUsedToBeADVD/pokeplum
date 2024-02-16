@@ -111,3 +111,4 @@ StandingYoungsterSpriteGFX::   INCBIN "gfx/sprites/standing_youngster.2bpp"
 SECTION "Sprites 3", ROMX
 
 TravelNurseSpriteGFX::         INCBIN "gfx/sprites/nurse_travel.2bpp"
+FeathersSpriteGFX::            INCBIN "gfx/sprites/feathers.2bpp"

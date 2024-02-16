@@ -29,3 +29,7 @@
 ; group 7 (Wishook)
 	RGB 05,20,29, 06,11,15 ; morn/day
 	RGB 01,10,20, 05,06,10 ; nite
+	
+; group 8 (Bridges)
+	RGB 18,26,24, 11,09,31 ; morn/day
+	RGB 08,16,15, 04,03,18 ; nite

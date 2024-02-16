@@ -135,6 +135,7 @@ PeckshellPier_MapEvents:
 
 	def_warp_events
 	warp_event 29, 17, PLAYERS_HOUSE_1F, 1
+	warp_event 21, 17, WISHOOK_CITY, 3
 
 	def_coord_events
 

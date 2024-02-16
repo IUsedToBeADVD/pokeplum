@@ -3035,7 +3035,7 @@ wLancesRoomSceneID::                db
 wHallOfFameSceneID::                db
 wPeckshellPierSceneID::             db
 wWishookEastGateSceneID::			db
-wStumpsLabRoofSceneID::				db ;unused
+wSeabiteBridgeSceneID::				db
 
 	ds 106
 
