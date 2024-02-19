@@ -12,6 +12,9 @@ WishookEastGate_Blocks:
 SintiriEastGate_Blocks:
 	INCBIN "maps/EastWestGate.ablk"
 
+Route3ForestGate_Blocks:
+	INCBIN "maps/NorthSouthGate.ablk"
+
 TradeCenter_Blocks:
 TimeCapsule_Blocks:
 	INCBIN "maps/TradeCenter.ablk"
@@ -99,6 +102,15 @@ SeabiteBridgePassable_Blocks:
 
 SeabiteBridgeImpassable_Blocks:
 	INCBIN "maps/SeabiteBridgeImpassable.ablk"
+
+Route3BridgeGate_Blocks:
+	INCBIN "maps/Route3BridgeGate.ablk"
+
+Route3_Blocks:
+	INCBIN "maps/Route3.ablk"
+
+PoporriForest_Blocks:
+	INCBIN "maps/PoporriForest.ablk"
 
 SECTION "Map Blocks 3", ROMX
 

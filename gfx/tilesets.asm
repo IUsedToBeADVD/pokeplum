@@ -119,9 +119,6 @@ INCBIN "data/tilesets/train_station_metatiles.bin"
 TilesetTrainStationColl::
 INCLUDE "data/tilesets/train_station_collision.asm"
 
-TilesetForestMeta::
-INCBIN "data/tilesets/forest_metatiles.bin"
-
 
 SECTION "Tileset Data 4", ROMX
 
@@ -444,3 +441,6 @@ INCBIN "gfx/tilesets/cave.2bpp.lz"
 
 TilesetBridgeGFX::
 INCBIN "gfx/tilesets/bridge.2bpp.lz"
+
+TilesetForestMeta::
+INCBIN "data/tilesets/forest_metatiles.bin"

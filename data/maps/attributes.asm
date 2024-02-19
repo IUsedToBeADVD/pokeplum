@@ -137,6 +137,10 @@ ENDM
 	map_attributes WishookPokecenter1F, WISHOOK_POKECENTER_1F, $00, 0
 	map_attributes SeabiteBridgePassable, SEABITE_BRIDGE_PASSABLE, $00, 0
 	map_attributes SeabiteBridgeImpassable, SEABITE_BRIDGE_IMPASSABLE, $00, 0
+	map_attributes Route3BridgeGate, ROUTE_3_BRIDGE_GATE, $00, 0
+	map_attributes Route3, ROUTE_3, $0B, 0
+	map_attributes Route3ForestGate, ROUTE_3_FOREST_GATE, $00, 0
+	map_attributes PoporriForest, POPORRI_FOREST, $00, 0
 	
 	map_attributes PeckshellPier, PECKSHELL_PIER, $35, NORTH
 	connection north, Route1, ROUTE_1, 0

@@ -73,6 +73,7 @@ ENDM
 	map_const STONESTEP_TUNNEL_B1F,						   20,  9 ;  3
 	map_const SERPENT_FALLS_1F,							   12, 19 ;  4
 	map_const DRAGONSCALE_TOWER_B1F,						9, 11 ;  5
+	map_const POPORRI_FOREST,				        	   20, 27 ;  6
 	endgroup
 	
 	newgroup PECKSHELL											  ;  6
@@ -93,6 +94,9 @@ ENDM
 	map_const WISHOOK_EAST_GATE,						    5,  4 ;  6
 	map_const WISHOOK_GYM,									8,  8 ;  7
 	map_const WISHOOK_POKECENTER_1F,				        7,  7 ;  8
+	map_const ROUTE_3_BRIDGE_GATE,				        	8,  7 ;  9
+	map_const ROUTE_3,				        			   20, 18 ;  10
+	map_const ROUTE_3_FOREST_GATE,				            5,  4 ;  11
 	endgroup
 	
 	newgroup BRIDGES											  ;  8

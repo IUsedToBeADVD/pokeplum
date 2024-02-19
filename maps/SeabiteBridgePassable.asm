@@ -111,6 +111,8 @@ SeabiteBridgePassable_MapEvents:
 	def_warp_events
 	warp_event  4,  6, WISHOOK_EAST_GATE, 3
 	warp_event  4,  7, WISHOOK_EAST_GATE, 4
+	warp_event 37,  6, ROUTE_3_BRIDGE_GATE, 1
+	warp_event 37,  7, ROUTE_3_BRIDGE_GATE, 2
 
 	def_coord_events
 

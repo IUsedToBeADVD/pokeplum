@@ -43,6 +43,10 @@ INCLUDE "maps/WishookGym.asm"
 INCLUDE "maps/WishookPokecenter1F.asm"
 INCLUDE "maps/SeabiteBridgePassable.asm"
 INCLUDE "maps/SeabiteBridgeImpassable.asm"
+INCLUDE "maps/Route3BridgeGate.asm"
+INCLUDE "maps/Route3.asm"
+INCLUDE "maps/Route3ForestGate.asm"
+INCLUDE "maps/PoporriForest.asm"
 
 
 SECTION "Map Scripts 4", ROMX
