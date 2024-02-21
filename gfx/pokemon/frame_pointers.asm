@@ -222,8 +222,8 @@ FramesPointers:
 	dw SwinubFrames
 	dw PiloswineFrames
 	dw CorsolaFrames
-	dw JoltikFrames
-	dw GalvantulaFrames
+	dw Dudunsparce_TwoFrames
+	dw Dudunsparce_ThreeFrames
 	dw DelibirdFrames
 	dw MantineFrames
 	dw AudinoFrames

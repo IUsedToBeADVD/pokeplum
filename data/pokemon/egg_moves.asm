@@ -709,7 +709,7 @@ CorsolaEggMoves:
 	db AMNESIA
 	db -1 ; end
 
-JoltikEggMoves:
+Dudunsparce_TwoEggMoves:
 	db AURORA_BEAM
 	db OCTAZOOKA
 	db SUPERSONIC

@@ -223,8 +223,8 @@ PokedexDataPointerTable:
 	dw SwinubPokedexEntry
 	dw PiloswinePokedexEntry
 	dw CorsolaPokedexEntry
-	dw JoltikPokedexEntry
-	dw GalvantulaPokedexEntry
+	dw Dudunsparce_TwoPokedexEntry
+	dw Dudunsparce_ThreePokedexEntry
 	dw DelibirdPokedexEntry
 	dw MantinePokedexEntry
 	dw AudinoPokedexEntry

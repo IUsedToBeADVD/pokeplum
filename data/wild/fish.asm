@@ -15,12 +15,12 @@ FishGroups:
 	fishgroup 50 percent + 1, .Pond_Old,             .Pond_Good,             .Pond_Super
 	fishgroup 50 percent + 1, .Dratini_Old,          .Dratini_Good,          .Dratini_Super
 	fishgroup 50 percent + 1, .Qwilfish_Swarm_Old,   .Qwilfish_Swarm_Good,   .Qwilfish_Swarm_Super
-	fishgroup 50 percent + 1, .Joltik_Swarm_Old,   .Joltik_Swarm_Good,   .Joltik_Swarm_Super
+	fishgroup 50 percent + 1, .Dudunsparce_Two_Swarm_Old,   .Dudunsparce_Two_Swarm_Good,   .Dudunsparce_Two_Swarm_Super
 	fishgroup 50 percent + 1, .Gyarados_Old,         .Gyarados_Good,         .Gyarados_Super
 	fishgroup 50 percent + 1, .Dratini_2_Old,        .Dratini_2_Good,        .Dratini_2_Super
 	fishgroup 50 percent + 1, .WhirlIslands_Old,     .WhirlIslands_Good,     .WhirlIslands_Super
 	fishgroup 50 percent + 1, .Qwilfish_Old,         .Qwilfish_Good,         .Qwilfish_Super
-	fishgroup 50 percent + 1, .Joltik_Old,         .Joltik_Good,         .Joltik_Super
+	fishgroup 50 percent + 1, .Dudunsparce_Two_Old,         .Dudunsparce_Two_Good,         .Dudunsparce_Two_Super
 	fishgroup 50 percent + 1, .Qwilfish_NoSwarm_Old, .Qwilfish_NoSwarm_Good, .Qwilfish_NoSwarm_Super
 	assert_table_length NUM_FISHGROUPS
 
@@ -114,20 +114,20 @@ FishGroups:
 	db  90 percent + 1, QWILFISH,   40
 	db 100 percent,     QWILFISH,   40
 
-.Joltik_Swarm_Old:
+.Dudunsparce_Two_Swarm_Old:
 	db  70 percent + 1, MAGIKARP,   10
 	db  85 percent + 1, MAGIKARP,   10
-	db 100 percent,     JOLTIK,   10
-.Joltik_Swarm_Good:
+	db 100 percent,     DUDUNSPARCE_TWO,   10
+.Dudunsparce_Two_Swarm_Good:
 	db  35 percent,     MAGIKARP,   20
-	db  70 percent,     JOLTIK,   20
-	db  90 percent + 1, JOLTIK,   20
+	db  70 percent,     DUDUNSPARCE_TWO,   20
+	db  90 percent + 1, DUDUNSPARCE_TWO,   20
 	db 100 percent,     time_group 12
-.Joltik_Swarm_Super:
-	db  40 percent,     JOLTIK,   40
+.Dudunsparce_Two_Swarm_Super:
+	db  40 percent,     DUDUNSPARCE_TWO,   40
 	db  70 percent,     time_group 13
-	db  90 percent + 1, JOLTIK,   40
-	db 100 percent,     JOLTIK,   40
+	db  90 percent + 1, DUDUNSPARCE_TWO,   40
+	db 100 percent,     DUDUNSPARCE_TWO,   40
 
 .Gyarados_Old:
 	db  70 percent + 1, MAGIKARP,   10
@@ -192,20 +192,20 @@ FishGroups:
 	db  90 percent + 1, MAGIKARP,   40
 	db 100 percent,     QWILFISH,   40
 
-.Joltik_Old:
+.Dudunsparce_Two_Old:
 	db  70 percent + 1, MAGIKARP,   10
 	db  85 percent + 1, MAGIKARP,   10
 	db 100 percent,     POLIWAG,    10
-.Joltik_Good:
+.Dudunsparce_Two_Good:
 	db  35 percent,     MAGIKARP,   20
 	db  70 percent,     POLIWAG,    20
 	db  90 percent + 1, POLIWAG,    20
 	db 100 percent,     time_group 6
-.Joltik_Super:
+.Dudunsparce_Two_Super:
 	db  40 percent,     POLIWAG,    40
 	db  70 percent,     time_group 7
 	db  90 percent + 1, MAGIKARP,   40
-	db 100 percent,     JOLTIK,   40
+	db 100 percent,     DUDUNSPARCE_TWO,   40
 
 TimeFishGroups:
 	;  day              nite
@@ -221,8 +221,8 @@ TimeFishGroups:
 	db DRATINI,    40,  DRATINI,    40 ; 9
 	db QWILFISH,   20,  QWILFISH,   20 ; 10
 	db QWILFISH,   40,  QWILFISH,   40 ; 11
-	db JOLTIK,   20,  JOLTIK,   20 ; 12
-	db JOLTIK,   40,  JOLTIK,   40 ; 13
+	db DUDUNSPARCE_TWO,   20,  DUDUNSPARCE_TWO,   20 ; 12
+	db DUDUNSPARCE_TWO,   40,  DUDUNSPARCE_TWO,   40 ; 13
 	db GYARADOS,   20,  GYARADOS,   20 ; 14
 	db GYARADOS,   40,  GYARADOS,   40 ; 15
 	db DRATINI,    10,  DRATINI,    10 ; 16

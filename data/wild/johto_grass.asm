@@ -5,20 +5,20 @@ JohtoGrassWildMons:
 	def_grass_wildmons ROUTE_1
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
 	; morn
-	db 2, ROOKIDEE
-	db 2, BUNEARY
-	db 3, SPEAROW
-	db 3, BUNEARY
-	db 4, ROOKIDEE
-	db 4, SPEAROW
-	db 3, SUNKERN
-	; day
 	db 2, WINGULL
 	db 2, RATTATA
-	db 3, PUBBLE
-	db 3, PUBBLE
+	db 3, WINGULL
+	db 3, RATTATA
 	db 4, WINGULL
-	db 4, WINGULL
+	db 4, RATTATA
+	db 3, SUNKERN
+	; day
+	db 2, DUDUNSPARCE_TWO
+	db 2, DUDUNSPARCE_THREE
+	db 3, DUDUNSPARCE_TWO
+	db 3, DUDUNSPARCE_THREE
+	db 4, DUDUNSPARCE_THREE
+	db 4, DUDUNSPARCE_THREE
 	db 3, SUNKERN
 	; nite
 	db 2, HOOTHOOT

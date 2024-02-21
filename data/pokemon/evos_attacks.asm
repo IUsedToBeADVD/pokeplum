@@ -2816,6 +2816,7 @@ BastiodonEvosAttacks:
 	db 0 ; no more level-up moves
 
 DunsparceEvosAttacks:
+	db EVOLVE_MOVE, MEGAHORN, DUDUNSPARCE_TWO
 	db 0 ; no more evolutions
 	db 1, RAGE
 	db 5, DEFENSE_CURL
@@ -3030,8 +3031,7 @@ CorsolaEvosAttacks:
 	db 43, ANCIENTPOWER
 	db 0 ; no more level-up moves
 
-JoltikEvosAttacks:
-	db EVOLVE_LEVEL, 36, GALVANTULA
+Dudunsparce_TwoEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, ABSORB
 	db 1, STRING_SHOT
@@ -3048,7 +3048,7 @@ JoltikEvosAttacks:
 	db 49, ZAP_CANNON
 	db 0 ; no more level-up moves
 
-GalvantulaEvosAttacks:
+Dudunsparce_ThreeEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, ABSORB
 	db 1, STRING_SHOT

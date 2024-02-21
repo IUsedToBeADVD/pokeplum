@@ -150,7 +150,7 @@ AlphabeticalPokedexOrder:
 	db NIDORINO
 	db NINETALES
 	db NOCTOWL
-	db GALVANTULA
+	db DUDUNSPARCE_THREE
 	db ODDISH
 	db OMANYTE
 	db OMASTAR
@@ -185,7 +185,7 @@ AlphabeticalPokedexOrder:
 	db RAPIDASH
 	db RATICATE
 	db RATTATA
-	db JOLTIK
+	db DUDUNSPARCE_TWO
 	db RHYDON
 	db RHYHORN
 	db SANDSHREW

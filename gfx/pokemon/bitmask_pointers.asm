@@ -222,8 +222,8 @@ BitmasksPointers:
 	dw SwinubBitmasks
 	dw PiloswineBitmasks
 	dw CorsolaBitmasks
-	dw JoltikBitmasks
-	dw GalvantulaBitmasks
+	dw Dudunsparce_TwoBitmasks
+	dw Dudunsparce_ThreeBitmasks
 	dw DelibirdBitmasks
 	dw MantineBitmasks
 	dw AudinoBitmasks

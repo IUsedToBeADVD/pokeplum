@@ -101,8 +101,8 @@ GetFishGroupIndex:
 	ld a, d
 	cp FISHGROUP_QWILFISH
 	jr z, .qwilfish
-	cp FISHGROUP_JOLTIK
-	jr z, .joltik
+	cp FISHGROUP_DUDUNSPARCE_TWO
+	jr z, .dudunsparce_two
 
 .done
 	dec d
@@ -117,11 +117,11 @@ GetFishGroupIndex:
 	ld d, FISHGROUP_QWILFISH_SWARM
 	jr .done
 
-.joltik
+.dudunsparce_two
 	ld a, [wFishingSwarmFlag]
-	cp FISHSWARM_JOLTIK
+	cp FISHSWARM_DUDUNSPARCE_TWO
 	jr nz, .done
-	ld d, FISHGROUP_JOLTIK_SWARM
+	ld d, FISHGROUP_DUDUNSPARCE_TWO_SWARM
 	jr .done
 
 INCLUDE "data/wild/fish.asm"

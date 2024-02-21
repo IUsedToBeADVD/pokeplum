@@ -171,9 +171,9 @@
 	const MEWTWO     ; 96
 	const MEW        ; 97
 DEF JOHTO_POKEMON EQU const_value
-	const TREECKO    ; 98 to-go
-	const GROVYLE    ; 99 to-go
-	const SCEPTILE   ; 9a to-go
+	const TREECKO    ; 98
+	const GROVYLE    ; 99
+	const SCEPTILE   ; 9a
 	const TORCHIC  	 ; 9b to-go
 	const COMBUSKEN  ; 9c to-go
 	const BLAZIKEN 	 ; 9d to-go
@@ -242,8 +242,8 @@ DEF JOHTO_POKEMON EQU const_value
 	const SWINUB     ; dc
 	const PILOSWINE  ; dd
 	const CORSOLA    ; de
-	const JOLTIK   ; df
-	const GALVANTULA  ; e0
+	const DUDUNSPARCE_TWO   ; df
+	const DUDUNSPARCE_THREE  ; e0
 	const DELIBIRD   ; e1 to-go
 	const MANTINE    ; e2
 	const AUDINO   ; e3

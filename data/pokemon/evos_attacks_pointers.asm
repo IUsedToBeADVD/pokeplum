@@ -224,8 +224,8 @@ EvosAttacksPointers::
 	dw SwinubEvosAttacks
 	dw PiloswineEvosAttacks
 	dw CorsolaEvosAttacks
-	dw JoltikEvosAttacks
-	dw GalvantulaEvosAttacks
+	dw Dudunsparce_TwoEvosAttacks
+	dw Dudunsparce_ThreeEvosAttacks
 	dw DelibirdEvosAttacks
 	dw MantineEvosAttacks
 	dw AudinoEvosAttacks

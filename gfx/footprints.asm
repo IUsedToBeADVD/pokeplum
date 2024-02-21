@@ -504,8 +504,8 @@ INCBIN "gfx/footprints/appletun.1bpp",   footprint_top
 INCBIN "gfx/footprints/swinub.1bpp",     footprint_top
 INCBIN "gfx/footprints/piloswine.1bpp",  footprint_top
 INCBIN "gfx/footprints/corsola.1bpp",    footprint_top
-INCBIN "gfx/footprints/joltik.1bpp",   footprint_top
-INCBIN "gfx/footprints/galvantula.1bpp",  footprint_top
+INCBIN "gfx/footprints/dudunsparce_two.1bpp",   footprint_top
+INCBIN "gfx/footprints/dudunsparce_three.1bpp",  footprint_top
 ; 217-224 bottom halves
 INCBIN "gfx/footprints/whimsicott.1bpp",   footprint_bottom
 INCBIN "gfx/footprints/applin.1bpp",     footprint_bottom
@@ -513,8 +513,8 @@ INCBIN "gfx/footprints/appletun.1bpp",   footprint_bottom
 INCBIN "gfx/footprints/swinub.1bpp",     footprint_bottom
 INCBIN "gfx/footprints/piloswine.1bpp",  footprint_bottom
 INCBIN "gfx/footprints/corsola.1bpp",    footprint_bottom
-INCBIN "gfx/footprints/joltik.1bpp",   footprint_bottom
-INCBIN "gfx/footprints/galvantula.1bpp",  footprint_bottom
+INCBIN "gfx/footprints/dudunsparce_two.1bpp",   footprint_bottom
+INCBIN "gfx/footprints/dudunsparce_three.1bpp",  footprint_bottom
 ; 225-232 top halves
 INCBIN "gfx/footprints/delibird.1bpp",   footprint_top
 INCBIN "gfx/footprints/mantine.1bpp",    footprint_top

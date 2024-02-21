@@ -222,8 +222,8 @@ AnimationIdlePointers:
 	dw SwinubAnimationIdle
 	dw PiloswineAnimationIdle
 	dw CorsolaAnimationIdle
-	dw JoltikAnimationIdle
-	dw GalvantulaAnimationIdle
+	dw Dudunsparce_TwoAnimationIdle
+	dw Dudunsparce_ThreeAnimationIdle
 	dw DelibirdAnimationIdle
 	dw MantineAnimationIdle
 	dw AudinoAnimationIdle

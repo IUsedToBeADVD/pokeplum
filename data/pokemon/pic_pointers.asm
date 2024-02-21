@@ -450,10 +450,10 @@ PokemonPicPointers::
 	dba PiloswineBackpic
 	dba CorsolaFrontpic
 	dba CorsolaBackpic
-	dba JoltikFrontpic
-	dba JoltikBackpic
-	dba GalvantulaFrontpic
-	dba GalvantulaBackpic
+	dba Dudunsparce_TwoFrontpic
+	dba Dudunsparce_TwoBackpic
+	dba Dudunsparce_ThreeFrontpic
+	dba Dudunsparce_ThreeBackpic
 	dba DelibirdFrontpic
 	dba DelibirdBackpic
 	dba MantineFrontpic

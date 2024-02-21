@@ -228,8 +228,8 @@ PokemonCries::
 	mon_cry CRY_TORCHIC,   510,  320 ; SWINUB
 	mon_cry CRY_APPLETUN,   -265,  256 ; PILOSWINE
 	mon_cry CRY_APPLETUN,    161,  232 ; CORSOLA
-	mon_cry CRY_SUNFLORA,     13,  256 ; JOLTIK
-	mon_cry CRY_MUDKIP,      0,  384 ; GALVANTULA
+	mon_cry CRY_SUNFLORA,     13,  256 ; DUDUNSPARCE_TWO
+	mon_cry CRY_MUDKIP,      0,  384 ; DUDUNSPARCE_THREE
 	mon_cry CRY_COTTONEE,     2,  106 ; DELIBIRD
 	mon_cry CRY_MANTINE,    -190,  240 ; MANTINE
 	mon_cry CRY_AMPHAROS,   2217,  384 ; AUDINO

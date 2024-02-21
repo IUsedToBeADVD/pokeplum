@@ -222,8 +222,8 @@ AnimationPointers:
 	dw SwinubAnimation
 	dw PiloswineAnimation
 	dw CorsolaAnimation
-	dw JoltikAnimation
-	dw GalvantulaAnimation
+	dw Dudunsparce_TwoAnimation
+	dw Dudunsparce_ThreeAnimation
 	dw DelibirdAnimation
 	dw MantineAnimation
 	dw AudinoAnimation
