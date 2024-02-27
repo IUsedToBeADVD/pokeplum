@@ -233,4 +233,8 @@
 	tilecoll WALL, FLOOR, WALL, WALL ; e8
 	tilecoll FLOOR, WALL, WALL, WALL ; e9
 	tilecoll FLOOR, WALL, FLOOR, WALL ; ea
-	tilecoll WALL, WALL, WALL, WALL ; eb
+	tilecoll UP_WALL, UP_WALL, WALL, WALL ; eb
+	tilecoll WALL, UP_WALL, WALL, FLOOR ; ec
+	tilecoll UP_WALL, WALL, FLOOR, WALL ; ed
+	tilecoll WATER, WATER, WALL, WATER ; ee
+	tilecoll WATER, WATER, WATER, WALL ; ef

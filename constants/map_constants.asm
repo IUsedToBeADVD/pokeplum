@@ -75,8 +75,13 @@ ENDM
 	map_const DRAGONSCALE_TOWER_B1F,						9, 11 ;  5
 	map_const POPORRI_FOREST,				        	   20, 27 ;  6
 	endgroup
+
+	newgroup BRIDGES											  ;  6
+	map_const SEABITE_BRIDGE_PASSABLE,				       30,  9 ;  1
+	map_const SEABITE_BRIDGE_IMPASSABLE,				   30,  9 ;  2
+	endgroup
 	
-	newgroup PECKSHELL											  ;  6
+	newgroup PECKSHELL											  ;  7
 	map_const PECKSHELL_PIER,							   30, 18 ;  1
 	map_const ROUTE_1,									   20,  9 ;  2
 	map_const SINTIRI_TOWN,						   		   20, 18 ;  3
@@ -85,7 +90,7 @@ ENDM
 	map_const POKEMON_REFUGE,							   20, 18 ;  6
 	endgroup
 	
-	newgroup WISHOOK										      ;  7
+	newgroup WISHOOK										      ;  8
 	map_const ROUTE_2,									   50,  9 ;  1
 	map_const STONESTEP_WEST_GATE,						    8,  6 ;  2
 	map_const STONESTEP_EAST_GATE,						   10, 10 ;  3
@@ -99,10 +104,14 @@ ENDM
 	map_const ROUTE_3_FOREST_GATE,				            5,  4 ;  11
 	endgroup
 	
-	newgroup BRIDGES											  ;  8
-	map_const SEABITE_BRIDGE_PASSABLE,				       30,  9 ;  1
-	map_const SEABITE_BRIDGE_IMPASSABLE,				   30,  9 ;  2
+	newgroup YEEHALL											  ;  9
+	map_const ROUTE_4_FOREST_GATE, 						    5,  4 ;  1
+	map_const ROUTE_4, 						    		   10, 18 ;  2
+	map_const YEEHALL_CITY, 						       20,  9 ;  3
+	map_const YEEHALL_POKECENTER_1F, 					    7,  7 ;  4
+	map_const ROUTE_5, 						    		   10, 18 ;  5
+	map_const ROUTE_5_GATE, 						    	5,  4 ;  6
 	endgroup
 	
 
-DEF NUM_MAP_GROUPS EQU const_value ; 7
+DEF NUM_MAP_GROUPS EQU const_value ; 9

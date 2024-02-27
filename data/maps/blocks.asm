@@ -1,5 +1,6 @@
 SECTION "Map Blocks 1", ROMX
 
+YeehallPokecenter1F_Blocks:
 WishookPokecenter1F_Blocks:
 SintiriPokecenter1F_Blocks:
 	INCBIN "maps/Pokecenter1F.ablk"
@@ -7,11 +8,13 @@ SintiriPokecenter1F_Blocks:
 Pokecenter2F_Blocks:
 	INCBIN "maps/Pokecenter2F.ablk"
 
+Route5Gate_Blocks:
 WishookWestGate_Blocks:
 WishookEastGate_Blocks:
 SintiriEastGate_Blocks:
 	INCBIN "maps/EastWestGate.ablk"
 
+Route4ForestGate_Blocks:
 Route3ForestGate_Blocks:
 	INCBIN "maps/NorthSouthGate.ablk"
 
@@ -111,6 +114,15 @@ Route3_Blocks:
 
 PoporriForest_Blocks:
 	INCBIN "maps/PoporriForest.ablk"
+
+Route4_Blocks:
+	INCBIN "maps/Route4.ablk"
+
+YeehallCity_Blocks:
+	INCBIN "maps/YeehallCity.ablk"
+
+Route5_Blocks:
+	INCBIN "maps/Route5.ablk"
 
 SECTION "Map Blocks 3", ROMX
 

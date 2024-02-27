@@ -47,6 +47,12 @@ INCLUDE "maps/Route3BridgeGate.asm"
 INCLUDE "maps/Route3.asm"
 INCLUDE "maps/Route3ForestGate.asm"
 INCLUDE "maps/PoporriForest.asm"
+INCLUDE "maps/Route4ForestGate.asm"
+INCLUDE "maps/Route4.asm"
+INCLUDE "maps/YeehallCity.asm"
+INCLUDE "maps/YeehallPokecenter1F.asm"
+INCLUDE "maps/Route5.asm"
+INCLUDE "maps/Route5Gate.asm"
 
 
 SECTION "Map Scripts 4", ROMX

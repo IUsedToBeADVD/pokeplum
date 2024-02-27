@@ -22,14 +22,18 @@
 	RGB 21,21,21, 13,13,13 ; morn/day
 	RGB 11,11,19, 07,07,12 ; nite
 
-; group 6 (Peckshell)
+; group 6 (Bridges)
+	RGB 18,26,24, 11,09,31 ; morn/day
+	RGB 08,16,15, 04,03,18 ; nite
+
+; group 7 (Peckshell)
 	RGB 05,28,13, 00,17,06 ; morn/day
 	RGB 05,17,14, 00,12,08 ; nite
 
-; group 7 (Wishook)
+; group 8 (Wishook)
 	RGB 05,20,29, 06,11,15 ; morn/day
 	RGB 01,10,20, 05,06,10 ; nite
 	
-; group 8 (Bridges)
-	RGB 18,26,24, 11,09,31 ; morn/day
-	RGB 08,16,15, 04,03,18 ; nite
+; group 9 (Yeehall)
+	RGB 31,19,02, 20,13,10 ; morn/day
+	RGB 16,12,14, 12,09,10 ; nite

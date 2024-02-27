@@ -141,6 +141,9 @@ ENDM
 	map_attributes Route3, ROUTE_3, $0B, 0
 	map_attributes Route3ForestGate, ROUTE_3_FOREST_GATE, $00, 0
 	map_attributes PoporriForest, POPORRI_FOREST, $00, 0
+	map_attributes Route4ForestGate, ROUTE_4_FOREST_GATE, $00, 0
+	map_attributes YeehallPokecenter1F, YEEHALL_POKECENTER_1F, $00, 0
+	map_attributes Route5Gate, ROUTE_5_GATE, $00, 0
 	
 	map_attributes PeckshellPier, PECKSHELL_PIER, $35, NORTH
 	connection north, Route1, ROUTE_1, 0
@@ -157,5 +160,15 @@ ENDM
 	
 	map_attributes PokemonRefuge, POKEMON_REFUGE, $05, SOUTH
 	connection south, SintiriTown, SINTIRI_TOWN, 1
+	
+	map_attributes Route4, ROUTE_4, $05, NORTH
+	connection north, YeehallCity, YEEHALL_CITY, -2
+	
+	map_attributes YeehallCity, YEEHALL_CITY, $05, NORTH | SOUTH
+	connection north, Route5, ROUTE_5, 5
+	connection south, Route4, ROUTE_4, 2
+	
+	map_attributes Route5, ROUTE_5, $05, SOUTH
+	connection south, YeehallCity, YEEHALL_CITY, -5
 	
 	

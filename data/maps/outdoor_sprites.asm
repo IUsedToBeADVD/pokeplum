@@ -10,9 +10,10 @@ OutdoorSprites:
 	dw NewBarkGroupSprites
 	dw IndigoGroupSprites
 	dw DungeonsGroupSprites
+	dw BridgesGroupSprites
 	dw PeckshellGroupSprites
 	dw WishookGroupSprites
-	dw BridgesGroupSprites
+	dw YeehallGroupSprites
 	assert_table_length NUM_MAP_GROUPS
 
 CableClubGroupSprites:
@@ -24,6 +25,7 @@ BattleTowerGroupSprites:
 PeckshellGroupSprites:
 WishookGroupSprites:
 NewBarkGroupSprites:
+YeehallGroupSprites:
 	db SPRITE_COOLTRAINER_M
 	db SPRITE_COOLTRAINER_F
 	db SPRITE_BUG_CATCHER

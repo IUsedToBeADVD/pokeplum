@@ -22,9 +22,10 @@ MapGroupPointers::
 	dw MapGroup_NewBark       ;  3
 	dw MapGroup_Indigo        ;  4
 	dw MapGroup_Dungeons	  ;  5
-	dw MapGroup_Peckshell	  ;  6
-	dw MapGroup_Wishook   	  ;  7
-	dw MapGroup_Bridges		  ;  8
+	dw MapGroup_Bridges		  ;  6
+	dw MapGroup_Peckshell	  ;  7
+	dw MapGroup_Wishook   	  ;  8
+	dw MapGroup_Yeehall		  ;  9
 	assert_table_length NUM_MAP_GROUPS
 
 MapGroup_CableClub:
@@ -73,6 +74,12 @@ MapGroup_Dungeons:
 	map PoporriForest, TILESET_FOREST, CAVE, LANDMARK_ILEX_FOREST, MUSIC_UNION_CAVE, FALSE, PALETTE_NITE, FISHGROUP_POND
 	assert_table_length NUM_DUNGEONS_MAPS
 
+MapGroup_Bridges:
+	table_width MAP_LENGTH, MapGroup_Bridges
+	map SeabiteBridgePassable, TILESET_BRIDGE, ROUTE, LANDMARK_ROUTE_31, MUSIC_SS_AQUA, FALSE, PALETTE_AUTO, FISHGROUP_SHORE
+	map SeabiteBridgeImpassable, TILESET_BRIDGE, ROUTE, LANDMARK_ROUTE_31, MUSIC_SS_AQUA, FALSE, PALETTE_AUTO, FISHGROUP_SHORE
+	assert_table_length NUM_BRIDGES_MAPS
+
 MapGroup_Peckshell:
 	table_width MAP_LENGTH, MapGroup_Peckshell
 	map PeckshellPier, TILESET_JOHTO, TOWN, LANDMARK_NEW_BARK_TOWN, MUSIC_POKE_FLUTE_CHANNEL, FALSE, PALETTE_AUTO, FISHGROUP_SHORE
@@ -98,8 +105,12 @@ MapGroup_Wishook:
 	map Route3ForestGate, TILESET_GATE, GATE, LANDMARK_ROUTE_31, MUSIC_ROUTE_26, FALSE, PALETTE_DAY, FISHGROUP_POND
 	assert_table_length NUM_WISHOOK_MAPS
 
-MapGroup_Bridges:
-	table_width MAP_LENGTH, MapGroup_Bridges
-	map SeabiteBridgePassable, TILESET_BRIDGE, ROUTE, LANDMARK_ROUTE_31, MUSIC_SS_AQUA, FALSE, PALETTE_AUTO, FISHGROUP_SHORE
-	map SeabiteBridgeImpassable, TILESET_BRIDGE, ROUTE, LANDMARK_ROUTE_31, MUSIC_SS_AQUA, FALSE, PALETTE_AUTO, FISHGROUP_SHORE
-	assert_table_length NUM_BRIDGES_MAPS
+MapGroup_Yeehall:
+	table_width MAP_LENGTH, MapGroup_Yeehall
+	map Route4ForestGate, TILESET_GATE, GATE, LANDMARK_ROUTE_32, MUSIC_ROUTE_37, FALSE, PALETTE_DAY, FISHGROUP_POND
+	map Route4, TILESET_JOHTO, ROUTE, LANDMARK_ROUTE_32, MUSIC_ROUTE_37, FALSE, PALETTE_AUTO, FISHGROUP_POND
+	map YeehallCity, TILESET_JOHTO, TOWN, LANDMARK_AZALEA_TOWN, MUSIC_BUG_CATCHING_CONTEST, FALSE, PALETTE_AUTO, FISHGROUP_POND
+	map YeehallPokecenter1F, TILESET_POKECENTER, INDOOR, LANDMARK_AZALEA_TOWN, MUSIC_POKEMON_CENTER, FALSE, PALETTE_DAY, FISHGROUP_SHORE
+	map Route5, TILESET_JOHTO, ROUTE, LANDMARK_ROUTE_33, MUSIC_ROUTE_2, FALSE, PALETTE_AUTO, FISHGROUP_POND
+	map Route5Gate, TILESET_GATE, GATE, LANDMARK_ROUTE_33, MUSIC_ROUTE_2, FALSE, PALETTE_DAY, FISHGROUP_POND
+	assert_table_length NUM_YEEHALL_MAPS
